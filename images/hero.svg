@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-labelledby="heroTitle heroDesc">
+<title id="heroTitle">Obsidian hero: Itzpapalotl, The Obsidian Butterfly, hovering over a terminal-lit altar</title>
+<desc id="heroDesc">Original hero art for the Obsidian project, a corpus of multimodal, multi-turn, tool-using agent tasks. Itzpapalotl, The Obsidian Butterfly, a Mexica warrior goddess, hovers over a stone altar lit by teal terminal screens under a dusk sky of deep violet and volcanic orange. Her four obsidian-bladed wing panels each reflect one modality: a screenshot of application windows, a chart with bars and a line, a sound wave, and lines of an API request log. Three attendants stand for the project's three work orders: a memory goddess carving glyphs into a stone tablet, a daemoness smith knapping an obsidian blade at an anvil, and a molten goddess tending a lava crucible. Distant volcanic ridges smoke on the horizon and embers drift upward. One light falls from the upper left. The project name and a single tagline sit in the lower third.</desc>
+<defs>
+<!-- sky and light -->
+<linearGradient id="gSky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#06030d"/>
+<stop offset="0.3" stop-color="#160d2e"/>
+<stop offset="0.55" stop-color="#2d1540"/>
+<stop offset="0.74" stop-color="#5a2238"/>
+<stop offset="0.88" stop-color="#9a3c24"/>
+<stop offset="1" stop-color="#d0641c"/>
+</linearGradient>
+<radialGradient id="gHorizon" cx="0.5" cy="1" r="0.7">
+<stop offset="0" stop-color="#ffa040" stop-opacity="0.8"/>
+<stop offset="0.35" stop-color="#c24e1e" stop-opacity="0.45"/>
+<stop offset="1" stop-color="#2d1540" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="gKeyLight" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#fbe9c6" stop-opacity="0.5"/>
+<stop offset="0.35" stop-color="#d9b07a" stop-opacity="0.18"/>
+<stop offset="1" stop-color="#d9b07a" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="gStar" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#fffaf0"/>
+<stop offset="0.5" stop-color="#fff3d6" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#fff3d6" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="gEmber" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#fff4cc"/>
+<stop offset="0.4" stop-color="#ffb347"/>
+<stop offset="1" stop-color="#ff6a1a" stop-opacity="0"/>
+</radialGradient>
+<!-- ridges, smoke, lava -->
+<linearGradient id="gRidgeFar" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#4a2652"/>
+<stop offset="1" stop-color="#2a1538"/>
+</linearGradient>
+<linearGradient id="gRidgeMid" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#2e1636"/>
+<stop offset="1" stop-color="#180b22"/>
+</linearGradient>
+<linearGradient id="gRidgeNear" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#1a0d22"/>
+<stop offset="1" stop-color="#0a0510"/>
+</linearGradient>
+<radialGradient id="gSmoke" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#6b4a5e" stop-opacity="0.55"/>
+<stop offset="0.6" stop-color="#3a2238" stop-opacity="0.25"/>
+<stop offset="1" stop-color="#3a2238" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="gLavaFlow" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff0a0"/>
+<stop offset="0.3" stop-color="#ffb030"/>
+<stop offset="0.7" stop-color="#e8541a"/>
+<stop offset="1" stop-color="#7a1e0c"/>
+</linearGradient>
+<radialGradient id="gLavaPool" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#fff6c0"/>
+<stop offset="0.3" stop-color="#ffb63a"/>
+<stop offset="0.75" stop-color="#d84a14"/>
+<stop offset="1" stop-color="#5a1608"/>
+</radialGradient>
+<!-- materials, all lit from the upper left -->
+<linearGradient id="gObsidian" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#5a4a78"/>
+<stop offset="0.2" stop-color="#2a1e40"/>
+<stop offset="0.6" stop-color="#0d0916"/>
+<stop offset="1" stop-color="#040208"/>
+</linearGradient>
+<linearGradient id="gObsidianSheen" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#b9a6d8" stop-opacity="0.55"/>
+<stop offset="0.35" stop-color="#6b55a0" stop-opacity="0.12"/>
+<stop offset="1" stop-color="#6b55a0" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gStone" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#8c7a90"/>
+<stop offset="0.4" stop-color="#4e3f58"/>
+<stop offset="1" stop-color="#1f1526"/>
+</linearGradient>
+<linearGradient id="gStoneDark" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#4a3c54"/>
+<stop offset="0.5" stop-color="#2a1f33"/>
+<stop offset="1" stop-color="#110a17"/>
+</linearGradient>
+<linearGradient id="gStoneTop" x1="0" y1="0" x2="1" y2="0.3">
+<stop offset="0" stop-color="#a08aa6"/>
+<stop offset="0.5" stop-color="#6a5673"/>
+<stop offset="1" stop-color="#3b2c44"/>
+</linearGradient>
+<linearGradient id="gSkin" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#e8b58a"/>
+<stop offset="0.45" stop-color="#b8784e"/>
+<stop offset="1" stop-color="#5a2e26"/>
+</linearGradient>
+<linearGradient id="gSkinDeep" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c98f66"/>
+<stop offset="0.5" stop-color="#8a5238"/>
+<stop offset="1" stop-color="#3a1a18"/>
+</linearGradient>
+<linearGradient id="gSkinMolten" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd27a"/>
+<stop offset="0.45" stop-color="#f08a2e"/>
+<stop offset="1" stop-color="#8a2a10"/>
+</linearGradient>
+<linearGradient id="gSkinSmith" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#a86a7a"/>
+<stop offset="0.5" stop-color="#5e2e48"/>
+<stop offset="1" stop-color="#22101c"/>
+</linearGradient>
+<linearGradient id="gCloth" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#5a3a7e"/>
+<stop offset="0.5" stop-color="#2d1a48"/>
+<stop offset="1" stop-color="#0f0820"/>
+</linearGradient>
+<linearGradient id="gClothRed" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#b8402e"/>
+<stop offset="0.5" stop-color="#6e1e1a"/>
+<stop offset="1" stop-color="#2a0a0a"/>
+</linearGradient>
+<linearGradient id="gGold" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#fff0b0"/>
+<stop offset="0.3" stop-color="#e2b84a"/>
+<stop offset="0.7" stop-color="#a06c1c"/>
+<stop offset="1" stop-color="#5a3608"/>
+</linearGradient>
+<linearGradient id="gWing" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#4a3a6e"/>
+<stop offset="0.3" stop-color="#1e1434"/>
+<stop offset="0.7" stop-color="#0a0714"/>
+<stop offset="1" stop-color="#030205"/>
+</linearGradient>
+<linearGradient id="gWingEdge" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#e2b84a"/>
+<stop offset="0.5" stop-color="#8a5a1c"/>
+<stop offset="1" stop-color="#e2b84a"/>
+</linearGradient>
+<linearGradient id="gScreen" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0c3a3e"/>
+<stop offset="0.5" stop-color="#083036"/>
+<stop offset="1" stop-color="#041c22"/>
+</linearGradient>
+<radialGradient id="gScreenGlow" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#3ee8d8" stop-opacity="0.6"/>
+<stop offset="0.5" stop-color="#1fb8ac" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#1fb8ac" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="gTeal" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#9ff5ea"/>
+<stop offset="1" stop-color="#2ec4b6"/>
+</linearGradient>
+<linearGradient id="gGround" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#1c0f24"/>
+<stop offset="0.5" stop-color="#0d0712"/>
+<stop offset="1" stop-color="#030104"/>
+</linearGradient>
+<radialGradient id="gVignette" cx="0.5" cy="0.45" r="0.75">
+<stop offset="0" stop-color="#000" stop-opacity="0"/>
+<stop offset="0.65" stop-color="#000" stop-opacity="0"/>
+<stop offset="1" stop-color="#000" stop-opacity="0.75"/>
+</radialGradient>
+<linearGradient id="gTitle" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff4d0"/>
+<stop offset="0.45" stop-color="#e9c35e"/>
+<stop offset="1" stop-color="#b07a24"/>
+</linearGradient>
+<!-- filters -->
+<filter id="fRock" x="-4%" y="-4%" width="108%" height="108%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018 0.03" numOctaves="3" seed="7" result="n"/>
+<feDisplacementMap in="SourceGraphic" in2="n" scale="10" xChannelSelector="R" yChannelSelector="G"/>
+</filter>
+<filter id="fRockFine" x="-3%" y="-3%" width="106%" height="106%">
+<feTurbulence type="fractalNoise" baseFrequency="0.05 0.07" numOctaves="2" seed="19" result="n"/>
+<feDisplacementMap in="SourceGraphic" in2="n" scale="4" xChannelSelector="R" yChannelSelector="B"/>
+</filter>
+<filter id="fGrain" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" result="n"/>
+<feColorMatrix in="n" type="matrix" values="0 0 0 0 0.9 0 0 0 0 0.8 0 0 0 0 0.7 0 0 0 0.09 0"/>
+</filter>
+<filter id="fLava" x="-10%" y="-10%" width="120%" height="120%">
+<feTurbulence type="turbulence" baseFrequency="0.04 0.08" numOctaves="2" seed="5" result="n"/>
+<feDisplacementMap in="SourceGraphic" in2="n" scale="8" xChannelSelector="R" yChannelSelector="G" result="d"/>
+<feGaussianBlur in="d" stdDeviation="0.6"/>
+</filter>
+<filter id="fGlowSoft" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="6"/>
+</filter>
+<filter id="fGlowWide" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="18"/>
+</filter>
+<filter id="fBlurSmoke" x="-30%" y="-30%" width="160%" height="160%">
+<feGaussianBlur stdDeviation="14"/>
+</filter>
+<filter id="fBlurEmber" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="1.4"/>
+</filter>
+<filter id="fNeon" x="-30%" y="-30%" width="160%" height="160%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="fTextGlow" x="-20%" y="-60%" width="140%" height="220%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="8" result="b"/>
+<feColorMatrix in="b" type="matrix" values="1 0 0 0 0.1 0 1 0 0 0.05 0 0 1 0 0 0 0 0 0.7 0" result="c"/>
+<feMerge><feMergeNode in="c"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="fShadow" x="-20%" y="-20%" width="140%" height="160%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="5" result="b"/>
+<feOffset in="b" dx="10" dy="12" result="o"/>
+<feColorMatrix in="o" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0 0 0 0.55 0" result="s"/>
+<feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<g id="sky"><!-- dusk gradient, warm horizon, key light from the upper left -->
+<rect x="0" y="0" width="1600" height="900" fill="url(#gSky)"/>
+<rect x="0" y="260" width="1600" height="640" fill="url(#gHorizon)"/>
+<ellipse cx="240" cy="90" rx="560" ry="380" fill="url(#gKeyLight)"/>
+<ellipse cx="200" cy="60" rx="260" ry="170" fill="url(#gKeyLight)" opacity="0.6"/>
+<!-- thin high cloud veils, lit on their upper-left edges -->
+<g filter="url(#fBlurSmoke)" opacity="0.55">
+<path d="M-40 150 C 180 110, 420 170, 640 140 S 1040 120, 1240 160 S 1560 150, 1660 130 L 1660 190 C 1400 200, 1180 220, 900 200 S 420 230, 120 210 L -40 220 Z" fill="#2a1744"/>
+<path d="M-40 330 C 260 300, 520 350, 820 320 S 1300 300, 1660 340 L 1660 390 C 1280 400, 980 420, 700 395 S 200 410, -40 380 Z" fill="#3d1d47"/>
+<path d="M 60 130 C 200 100, 360 120, 520 100 L 540 128 C 380 150, 220 140, 70 158 Z" fill="#c9a06a" opacity="0.35"/>
+<path d="M 900 236 C 1040 220, 1180 246, 1320 230 L 1330 252 C 1180 270, 1040 250, 905 262 Z" fill="#7a3a4a" opacity="0.4"/>
+</g>
+<!-- distant eruption glows that the ridges will partly cover -->
+<g filter="url(#fGlowWide)">
+<ellipse cx="1180" cy="600" rx="150" ry="70" fill="url(#gEmber)" opacity="0.5"/>
+<ellipse cx="420" cy="620" rx="120" ry="60" fill="url(#gEmber)" opacity="0.4"/>
+<ellipse cx="800" cy="640" rx="260" ry="80" fill="#ff7a2a" opacity="0.18"/>
+</g>
+<!-- stars, three brightness tiers -->
+<g fill="#fff6e0">
+<g opacity="0.95">
+<circle cx="112" cy="58" r="1.6"/><circle cx="338" cy="24" r="1.4"/><circle cx="547" cy="41" r="1.8"/>
+<circle cx="689" cy="96" r="1.5"/><circle cx="812" cy="30" r="1.9"/><circle cx="934" cy="142" r="1.4"/>
+<circle cx="1050" cy="52" r="1.7"/><circle cx="1183" cy="118" r="1.5"/><circle cx="1297" cy="38" r="2"/>
+<circle cx="1402" cy="164" r="1.6"/><circle cx="1486" cy="70" r="1.4"/><circle cx="1555" cy="205" r="1.8"/>
+<circle cx="1120" cy="236" r="1.5"/><circle cx="760" cy="212" r="1.3"/><circle cx="430" cy="176" r="1.4"/>
+<circle cx="1340" cy="282" r="1.5"/><circle cx="980" cy="300" r="1.3"/><circle cx="620" cy="286" r="1.4"/>
+<circle cx="1510" cy="330" r="1.2"/><circle cx="250" cy="318" r="1.3"/>
+</g>
+<g opacity="0.6">
+<circle cx="62" cy="142" r="1.1"/><circle cx="190" cy="96" r="1.2"/><circle cx="276" cy="206" r="1"/>
+<circle cx="402" cy="62" r="1.1"/><circle cx="468" cy="124" r="1.3"/><circle cx="521" cy="228" r="1"/>
+<circle cx="598" cy="160" r="1.2"/><circle cx="650" cy="38" r="1"/><circle cx="727" cy="150" r="1.1"/>
+<circle cx="792" cy="258" r="1.2"/><circle cx="864" cy="84" r="1"/><circle cx="902" cy="214" r="1.3"/>
+<circle cx="956" cy="20" r="1.1"/><circle cx="1012" cy="180" r="1"/><circle cx="1076" cy="310" r="1.2"/>
+<circle cx="1140" cy="66" r="1.1"/><circle cx="1210" cy="250" r="1"/><circle cx="1246" cy="160" r="1.2"/>
+<circle cx="1322" cy="112" r="1.1"/><circle cx="1368" cy="22" r="1.3"/><circle cx="1440" cy="246" r="1"/>
+<circle cx="1470" cy="128" r="1.2"/><circle cx="1530" cy="46" r="1.1"/><circle cx="1580" cy="136" r="1"/>
+<circle cx="1588" cy="288" r="1.2"/><circle cx="1160" cy="352" r="1"/><circle cx="880" cy="370" r="1.1"/>
+<circle cx="700" cy="340" r="1"/><circle cx="540" cy="350" r="1.1"/><circle cx="360" cy="268" r="1.2"/>
+<circle cx="150" cy="250" r="1"/><circle cx="30" cy="330" r="1.1"/>
+</g>
+<g opacity="0.35">
+<circle cx="88" cy="26" r="0.8"/><circle cx="146" cy="186" r="0.7"/><circle cx="222" cy="38" r="0.9"/>
+<circle cx="300" cy="124" r="0.8"/><circle cx="372" cy="18" r="0.7"/><circle cx="440" cy="236" r="0.8"/>
+<circle cx="500" cy="80" r="0.9"/><circle cx="570" cy="110" r="0.7"/><circle cx="636" cy="224" r="0.8"/>
+<circle cx="676" cy="310" r="0.7"/><circle cx="745" cy="56" r="0.9"/><circle cx="830" cy="180" r="0.8"/>
+<circle cx="876" cy="320" r="0.7"/><circle cx="920" cy="250" r="0.8"/><circle cx="998" cy="112" r="0.9"/>
+<circle cx="1040" cy="232" r="0.7"/><circle cx="1100" cy="20" r="0.8"/><circle cx="1150" cy="190" r="0.7"/>
+<circle cx="1198" cy="322" r="0.9"/><circle cx="1266" cy="76" r="0.8"/><circle cx="1308" cy="210" r="0.7"/>
+<circle cx="1356" cy="346" r="0.8"/><circle cx="1420" cy="96" r="0.9"/><circle cx="1456" cy="318" r="0.7"/>
+<circle cx="1500" cy="180" r="0.8"/><circle cx="1544" cy="280" r="0.7"/><circle cx="1575" cy="40" r="0.9"/>
+<circle cx="1230" cy="400" r="0.7"/><circle cx="1050" cy="392" r="0.8"/><circle cx="818" cy="398" r="0.7"/>
+<circle cx="660" cy="380" r="0.8"/><circle cx="480" cy="396" r="0.7"/><circle cx="40" cy="222" r="0.8"/>
+<circle cx="200" cy="372" r="0.7"/><circle cx="1392" cy="398" r="0.8"/>
+</g>
+</g>
+<!-- the brightest stars glint with four points over a soft halo -->
+<g filter="url(#fGlowSoft)" opacity="0.7">
+<circle cx="812" cy="30" r="7" fill="url(#gStar)"/><circle cx="1297" cy="38" r="7" fill="url(#gStar)"/>
+<circle cx="547" cy="41" r="6" fill="url(#gStar)"/><circle cx="1555" cy="205" r="6" fill="url(#gStar)"/>
+<circle cx="1050" cy="52" r="6" fill="url(#gStar)"/>
+</g>
+<g fill="#fff8e8" opacity="0.9">
+<path d="M812 18 l2 9 9 3 -9 3 -2 9 -2 -9 -9 -3 9 -3 z"/>
+<path d="M1297 26 l2 9 9 3 -9 3 -2 9 -2 -9 -9 -3 9 -3 z"/>
+<path d="M547 31 l1.6 7.5 7.5 2.5 -7.5 2.5 -1.6 7.5 -1.6 -7.5 -7.5 -2.5 7.5 -2.5 z"/>
+<path d="M1555 195 l1.6 7.5 7.5 2.5 -7.5 2.5 -1.6 7.5 -1.6 -7.5 -7.5 -2.5 7.5 -2.5 z"/>
+<path d="M1050 42 l1.6 7.5 7.5 2.5 -7.5 2.5 -1.6 7.5 -1.6 -7.5 -7.5 -2.5 7.5 -2.5 z"/>
+</g>
+<!-- drifting embers rising on the warm updraft -->
+<g filter="url(#fBlurEmber)">
+<circle cx="120" cy="620" r="3.2" fill="url(#gEmber)" opacity="0.9"/><circle cx="210" cy="540" r="2.4" fill="url(#gEmber)" opacity="0.7"/>
+<circle cx="305" cy="700" r="4" fill="url(#gEmber)" opacity="0.85"/><circle cx="360" cy="470" r="2" fill="url(#gEmber)" opacity="0.6"/>
+<circle cx="455" cy="610" r="3" fill="url(#gEmber)" opacity="0.8"/><circle cx="520" cy="520" r="2.6" fill="url(#gEmber)" opacity="0.7"/>
+<circle cx="590" cy="680" r="3.6" fill="url(#gEmber)" opacity="0.9"/><circle cx="640" cy="440" r="1.8" fill="url(#gEmber)" opacity="0.55"/>
+<circle cx="700" cy="580" r="2.8" fill="url(#gEmber)" opacity="0.75"/><circle cx="760" cy="500" r="2.2" fill="url(#gEmber)" opacity="0.65"/>
+<circle cx="830" cy="640" r="3.4" fill="url(#gEmber)" opacity="0.85"/><circle cx="890" cy="460" r="2" fill="url(#gEmber)" opacity="0.6"/>
+<circle cx="960" cy="560" r="3" fill="url(#gEmber)" opacity="0.8"/><circle cx="1010" cy="690" r="4.2" fill="url(#gEmber)" opacity="0.9"/>
+<circle cx="1080" cy="510" r="2.4" fill="url(#gEmber)" opacity="0.7"/><circle cx="1150" cy="610" r="3.2" fill="url(#gEmber)" opacity="0.8"/>
+<circle cx="1220" cy="470" r="2" fill="url(#gEmber)" opacity="0.6"/><circle cx="1290" cy="660" r="3.8" fill="url(#gEmber)" opacity="0.9"/>
+<circle cx="1350" cy="540" r="2.6" fill="url(#gEmber)" opacity="0.7"/><circle cx="1420" cy="600" r="3" fill="url(#gEmber)" opacity="0.8"/>
+<circle cx="1490" cy="480" r="2.2" fill="url(#gEmber)" opacity="0.65"/><circle cx="1540" cy="700" r="4" fill="url(#gEmber)" opacity="0.85"/>
+<circle cx="80" cy="760" r="3" fill="url(#gEmber)" opacity="0.8"/><circle cx="240" cy="800" r="3.6" fill="url(#gEmber)" opacity="0.85"/>
+<circle cx="420" cy="780" r="2.8" fill="url(#gEmber)" opacity="0.75"/><circle cx="560" cy="820" r="4.4" fill="url(#gEmber)" opacity="0.9"/>
+<circle cx="680" cy="760" r="2.4" fill="url(#gEmber)" opacity="0.7"/><circle cx="800" cy="800" r="3.2" fill="url(#gEmber)" opacity="0.8"/>
+<circle cx="940" cy="770" r="2.6" fill="url(#gEmber)" opacity="0.7"/><circle cx="1100" cy="810" r="3.8" fill="url(#gEmber)" opacity="0.85"/>
+<circle cx="1250" cy="780" r="2.2" fill="url(#gEmber)" opacity="0.65"/><circle cx="1380" cy="820" r="3.4" fill="url(#gEmber)" opacity="0.8"/>
+<circle cx="1500" cy="790" r="2.8" fill="url(#gEmber)" opacity="0.75"/><circle cx="150" cy="420" r="1.6" fill="url(#gEmber)" opacity="0.5"/>
+<circle cx="480" cy="400" r="1.8" fill="url(#gEmber)" opacity="0.5"/><circle cx="1000" cy="410" r="1.5" fill="url(#gEmber)" opacity="0.5"/>
+<circle cx="1300" cy="420" r="1.7" fill="url(#gEmber)" opacity="0.5"/><circle cx="900" cy="720" r="3" fill="url(#gEmber)" opacity="0.8"/>
+<circle cx="390" cy="660" r="2.4" fill="url(#gEmber)" opacity="0.7"/><circle cx="1180" cy="730" r="2.8" fill="url(#gEmber)" opacity="0.75"/>
+</g>
+<!-- ember trails, each curling upward and slightly to the right on the draft -->
+<g stroke="#ffb347" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.5">
+<path d="M120 640 q 8 -16 2 -34"/><path d="M305 722 q 10 -20 4 -44"/><path d="M455 630 q 7 -14 1 -30"/>
+<path d="M590 700 q 9 -18 3 -40"/><path d="M830 660 q 8 -16 2 -36"/><path d="M1010 712 q 11 -22 4 -46"/>
+<path d="M1150 630 q 7 -14 2 -32"/><path d="M1290 682 q 9 -18 3 -40"/><path d="M1540 724 q 10 -20 4 -44"/>
+<path d="M240 822 q 9 -18 3 -40"/><path d="M560 846 q 11 -22 5 -48"/><path d="M1100 834 q 10 -20 4 -44"/>
+<path d="M1380 842 q 9 -18 3 -40"/><path d="M700 598 q 6 -12 1 -28"/><path d="M960 578 q 7 -14 2 -30"/>
+<path d="M1420 620 q 8 -16 2 -34"/>
+</g>
+<!-- faint drifting sparks, no blur, for crispness against the soft embers -->
+<g fill="#ffd27a" opacity="0.6">
+<circle cx="170" cy="580" r="0.9"/><circle cx="330" cy="610" r="0.8"/><circle cx="500" cy="560" r="1"/>
+<circle cx="615" cy="520" r="0.8"/><circle cx="770" cy="610" r="0.9"/><circle cx="905" cy="530" r="0.8"/>
+<circle cx="1045" cy="590" r="1"/><circle cx="1195" cy="545" r="0.8"/><circle cx="1335" cy="615" r="0.9"/>
+<circle cx="1475" cy="560" r="0.8"/><circle cx="260" cy="700" r="1"/><circle cx="640" cy="740" r="0.9"/>
+<circle cx="1060" cy="760" r="0.8"/><circle cx="1440" cy="740" r="1"/><circle cx="860" cy="480" r="0.8"/>
+</g></g>
+<g id="ridges"><!-- aerial haze between the ridge bands -->
+<g filter="url(#fBlurSmoke)">
+<rect x="0" y="560" width="1600" height="90" fill="#d0641c" opacity="0.16"/>
+<rect x="0" y="672" width="1600" height="40" fill="#c24e1e" opacity="0.1"/>
+</g>
+<!-- far ridge with two vents, rim lit along its upper-left faces -->
+<g>
+<path d="M-20 720 L-20 640 L60 612 L140 626 L230 596 L320 618 L400 594 L414 582 L422 586 L432 584 L446 594 L470 600 L560 616 L650 600 L740 622 L830 604 L920 626 L1010 606 L1090 618 L1150 590 L1168 578 L1176 582 L1184 580 L1196 584 L1208 592 L1250 606 L1340 594 L1430 618 L1520 600 L1620 620 L1620 720 Z" fill="url(#gRidgeFar)"/>
+<g stroke="#e9c98f" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.38">
+<path d="M140 626 L230 596"/><path d="M320 618 L414 582"/><path d="M560 616 L650 600"/><path d="M740 622 L830 604"/>
+<path d="M920 626 L1010 606"/><path d="M1090 618 L1168 578"/><path d="M1250 606 L1340 594"/><path d="M1430 618 L1520 600"/>
+</g>
+<!-- crater glow and lava seams -->
+<g filter="url(#fGlowSoft)">
+<ellipse cx="1180" cy="582" rx="16" ry="5" fill="#ffb347" opacity="0.75"/>
+<ellipse cx="426" cy="585" rx="10" ry="4" fill="#ffb347" opacity="0.6"/>
+<path d="M1176 582 L1186 600 L1200 628 L1210 660 L1200 662 L1186 630 L1178 600 Z" fill="#ff8a2a" opacity="0.6"/>
+<path d="M418 586 L430 612 L438 630 L430 632 L422 614 L414 592 Z" fill="#ff8a2a" opacity="0.5"/>
+</g>
+<g filter="url(#fLava)">
+<path d="M1176 582 L1180 584 L1186 600 L1192 612 L1200 628 L1206 646 L1210 660 L1204 662 L1196 646 L1188 628 L1182 612 L1178 598 Z" fill="url(#gLavaFlow)"/>
+<path d="M418 586 L424 598 L430 612 L436 628 L432 630 L426 616 L420 602 L416 590 Z" fill="url(#gLavaFlow)"/>
+<path d="M1196 584 L1204 596 L1216 604 L1222 618 L1218 619 L1210 606 L1200 598 Z" fill="url(#gLavaFlow)" opacity="0.8"/>
+</g>
+</g>
+<!-- smoke plumes, drifting up and right on the wind that curls the embers -->
+<g filter="url(#fBlurSmoke)">
+<ellipse cx="1190" cy="548" rx="36" ry="28" fill="url(#gSmoke)" opacity="0.95"/>
+<ellipse cx="1228" cy="508" rx="56" ry="38" fill="url(#gSmoke)" opacity="0.9"/>
+<ellipse cx="1288" cy="468" rx="78" ry="46" fill="url(#gSmoke)" opacity="0.8"/>
+<ellipse cx="1368" cy="436" rx="100" ry="52" fill="url(#gSmoke)" opacity="0.65"/>
+<ellipse cx="1460" cy="414" rx="120" ry="56" fill="url(#gSmoke)" opacity="0.5"/>
+<ellipse cx="1196" cy="566" rx="20" ry="14" fill="#1a0d22" opacity="0.4"/>
+<ellipse cx="432" cy="560" rx="26" ry="20" fill="url(#gSmoke)" opacity="0.9"/>
+<ellipse cx="462" cy="528" rx="42" ry="28" fill="url(#gSmoke)" opacity="0.8"/>
+<ellipse cx="506" cy="500" rx="58" ry="34" fill="url(#gSmoke)" opacity="0.65"/>
+<ellipse cx="562" cy="478" rx="74" ry="38" fill="url(#gSmoke)" opacity="0.5"/>
+<ellipse cx="436" cy="572" rx="14" ry="10" fill="#1a0d22" opacity="0.4"/>
+</g>
+<!-- middle ridge, rock texture, rim light -->
+<g filter="url(#fRock)">
+<path d="M-20 760 L-20 668 L80 640 L170 658 L260 630 L350 652 L440 636 L530 662 L620 644 L700 664 L780 650 L860 668 L950 648 L1040 666 L1130 642 L1220 660 L1300 638 L1390 656 L1480 634 L1560 652 L1620 646 L1620 760 Z" fill="url(#gRidgeMid)"/>
+<g stroke="#d9b07a" stroke-width="1.4" fill="none" stroke-linecap="round" opacity="0.3">
+<path d="M170 658 L260 630"/><path d="M350 652 L440 636"/><path d="M530 662 L620 644"/><path d="M700 664 L780 650"/>
+<path d="M860 668 L950 648"/><path d="M1040 666 L1130 642"/><path d="M1220 660 L1300 638"/><path d="M1390 656 L1480 634"/>
+</g>
+</g>
+<!-- near ridge, darker, rock texture, faint rim light -->
+<g filter="url(#fRock)">
+<path d="M-20 800 L-20 700 L90 676 L190 694 L290 672 L380 690 L470 678 L560 698 L660 680 L740 696 L840 684 L940 700 L1040 682 L1140 698 L1240 678 L1330 694 L1420 676 L1520 692 L1620 680 L1620 800 Z" fill="url(#gRidgeNear)"/>
+<g stroke="#c9a06a" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.22">
+<path d="M190 694 L290 672"/><path d="M380 690 L470 678"/><path d="M560 698 L660 680"/><path d="M740 696 L840 684"/>
+<path d="M940 700 L1040 682"/><path d="M1140 698 L1240 678"/><path d="M1330 694 L1420 676"/>
+</g>
+</g></g>
+<g id="altar"><!-- teal spill from the screens, drawn under the stone -->
+<ellipse cx="820" cy="586" rx="220" ry="40" fill="url(#gScreenGlow)" opacity="0.55"/>
+<!-- stepped altar, three tiers, lit from the upper left, shadow to the lower right -->
+<g filter="url(#fShadow)">
+<g filter="url(#fRockFine)">
+<path d="M554 704 L1046 704 L1072 684 L580 684 Z" fill="url(#gStoneTop)"/>
+<rect x="554" y="704" width="492" height="64" fill="url(#gStone)"/>
+<path d="M1046 704 L1072 684 L1072 748 L1046 768 Z" fill="url(#gStoneDark)"/>
+<path d="M612 640 L988 640 L1012 622 L636 622 Z" fill="url(#gStoneTop)"/>
+<rect x="612" y="640" width="376" height="64" fill="url(#gStone)"/>
+<path d="M988 640 L1012 622 L1012 686 L988 704 Z" fill="url(#gStoneDark)"/>
+<path d="M670 580 L930 580 L952 564 L692 564 Z" fill="url(#gStoneTop)"/>
+<rect x="670" y="580" width="260" height="60" fill="url(#gStone)"/>
+<path d="M930 580 L952 564 L952 624 L930 640 Z" fill="url(#gStoneDark)"/>
+</g>
+<!-- block seams -->
+<g stroke="#110a17" stroke-width="1" fill="none" opacity="0.55">
+<path d="M554 736 H1046 M612 672 H988 M670 610 H930"/>
+<path d="M640 704 V736 M730 704 V736 M820 704 V736 M910 704 V736 M1000 704 V736 M596 736 V768 M686 736 V768 M776 736 V768 M866 736 V768 M956 736 V768"/>
+<path d="M680 640 V672 M760 640 V672 M840 640 V672 M920 640 V672 M720 672 V704 M800 672 V704 M880 672 V704 M960 672 V704"/>
+<path d="M740 580 V610 M810 580 V610 M880 580 V610 M705 610 V640 M775 610 V640 M845 610 V640 M915 610 V640"/>
+</g>
+<!-- lit edges on the upper-left, shade under each ledge -->
+<g stroke="#cdb8d0" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.55">
+<path d="M554 768 V704 H1046"/><path d="M612 704 V640 H988"/><path d="M670 640 V580 H930"/>
+<path d="M580 684 H1072 M636 622 H1012 M692 564 H952" opacity="0.5"/>
+</g>
+<rect x="612" y="704" width="376" height="10" fill="#0d0712" opacity="0.5"/>
+<rect x="670" y="640" width="260" height="10" fill="#0d0712" opacity="0.5"/>
+<!-- step-fret relief band carved on the middle tier -->
+<g fill="url(#gGold)" opacity="0.5">
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(628,696)"/><path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(656,696)"/>
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(684,696)"/><path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(712,696)"/>
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(740,696)"/><path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(768,696)"/>
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(796,696)"/><path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(824,696)"/>
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(852,696)"/><path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(880,696)"/>
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(908,696)"/><path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(936,696)"/>
+<path d="M0 0 v-14 h18 v4 h-12 v4 h8 v6 z" transform="translate(964,696)"/>
+</g>
+<path d="M620 680 H980 M620 697 H980" stroke="#0d0712" stroke-width="1" fill="none" opacity="0.5"/>
+</g>
+<!-- glow pools behind the three screens -->
+<ellipse cx="729" cy="540" rx="74" ry="52" fill="url(#gScreenGlow)"/>
+<ellipse cx="823" cy="532" rx="86" ry="60" fill="url(#gScreenGlow)"/>
+<ellipse cx="911" cy="540" rx="70" ry="50" fill="url(#gScreenGlow)"/>
+<!-- screen A, a request log -->
+<g>
+<path d="M698 568 L760 568 L766 575 L692 575 Z" fill="#0d0916"/>
+<rect x="688" y="504" width="82" height="64" rx="3" fill="url(#gObsidian)"/>
+<rect x="692" y="508" width="74" height="54" rx="2" fill="url(#gScreen)"/>
+<path d="M690 566 V507 H768" stroke="#8c7aa8" stroke-width="1" fill="none" opacity="0.6"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<rect x="697" y="514" width="40" height="2"/><rect x="697" y="520" width="58" height="2"/><rect x="697" y="526" width="26" height="2"/>
+<rect x="697" y="532" width="50" height="2"/><rect x="697" y="538" width="34" height="2"/><rect x="697" y="544" width="60" height="2"/>
+<rect x="697" y="550" width="18" height="2"/><rect x="718" y="549" width="4" height="4" fill="#9ff5ea"/>
+</g>
+<path d="M692 508 L766 508 L692 536 Z" fill="#9ff5ea" opacity="0.06"/>
+</g>
+<!-- screen B, the live state view, taller and brighter -->
+<g>
+<path d="M792 568 L856 568 L862 575 L786 575 Z" fill="#0d0916"/>
+<rect x="780" y="496" width="86" height="72" rx="3" fill="url(#gObsidian)"/>
+<rect x="784" y="500" width="78" height="62" rx="2" fill="url(#gScreen)"/>
+<path d="M782 566 V499 H864" stroke="#8c7aa8" stroke-width="1" fill="none" opacity="0.6"/>
+<rect x="784" y="500" width="78" height="4" fill="#2ec4b6" opacity="0.45"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<rect x="789" y="509" width="30" height="2"/><rect x="823" y="509" width="22" height="2"/><rect x="789" y="515" width="62" height="2"/>
+<rect x="793" y="521" width="44" height="2"/><rect x="793" y="527" width="56" height="2"/><rect x="797" y="533" width="36" height="2"/>
+<rect x="793" y="539" width="50" height="2"/><rect x="789" y="545" width="24" height="2"/><rect x="789" y="551" width="66" height="2"/>
+<rect x="789" y="557" width="12" height="2"/><rect x="803" y="556" width="4" height="4" fill="#9ff5ea"/>
+</g>
+<path d="M784 504 L862 504 L784 540 Z" fill="#9ff5ea" opacity="0.06"/>
+</g>
+<!-- screen C, a tool trace -->
+<g>
+<path d="M882 568 L940 568 L946 575 L876 575 Z" fill="#0d0916"/>
+<rect x="872" y="508" width="78" height="60" rx="3" fill="url(#gObsidian)"/>
+<rect x="876" y="512" width="70" height="50" rx="2" fill="url(#gScreen)"/>
+<path d="M874 566 V511 H948" stroke="#8c7aa8" stroke-width="1" fill="none" opacity="0.6"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<rect x="881" y="518" width="24" height="2"/><rect x="881" y="524" width="52" height="2"/><rect x="885" y="530" width="40" height="2"/>
+<rect x="885" y="536" width="28" height="2"/><rect x="881" y="542" width="56" height="2"/><rect x="881" y="548" width="36" height="2"/>
+<rect x="881" y="554" width="16" height="2"/><rect x="899" y="553" width="4" height="4" fill="#9ff5ea"/>
+</g>
+<path d="M876 512 L946 512 L876 540 Z" fill="#9ff5ea" opacity="0.06"/>
+</g>
+<!-- teal rim on the slab edges nearest the screens -->
+<path d="M692 564 H952" stroke="#3ee8d8" stroke-width="1.5" opacity="0.35"/>
+<rect x="670" y="580" width="260" height="3" fill="#3ee8d8" opacity="0.22"/>
+<!-- broken stone tablet of data leaning against the base, split by one crack -->
+<g filter="url(#fShadow)">
+<path d="M590 696 L628 690 L623 714 L633 732 L625 750 L636 772 L602 776 Z" fill="url(#gStone)" stroke="#110a17" stroke-width="0.6"/>
+<path d="M634 689 L660 686 L672 764 L642 770 L631 750 L639 732 L629 714 Z" fill="url(#gStone)" stroke="#110a17" stroke-width="0.6"/>
+<path d="M590 696 L628 690" stroke="#cdb8d0" stroke-width="1.2" opacity="0.6"/>
+<path d="M634 689 L629 714 L639 732 L631 750 L642 770" stroke="#cdb8d0" stroke-width="1" fill="none" opacity="0.5"/>
+<path d="M628 690 L623 714 L633 732 L625 750 L636 772" stroke="#05030a" stroke-width="1.2" fill="none" opacity="0.8"/>
+<g fill="#e2b84a" opacity="0.55">
+<rect x="597" y="704" width="5" height="5"/><circle cx="610" cy="706" r="2.5"/><rect x="616" y="703" width="4" height="7"/>
+<rect x="596" y="720" width="7" height="4"/><rect x="607" y="719" width="5" height="5"/><circle cx="619" cy="722" r="2.5"/>
+<circle cx="600" cy="738" r="2.5"/><rect x="606" y="735" width="4" height="7"/><rect x="614" y="736" width="7" height="4"/>
+<rect x="599" y="752" width="5" height="5"/><circle cx="612" cy="754" r="2.5"/><rect x="618" y="751" width="4" height="7"/>
+<rect x="641" y="700" width="5" height="5"/><circle cx="654" cy="702" r="2.5"/>
+<circle cx="645" cy="720" r="2.5"/><rect x="652" y="717" width="4" height="7"/>
+<rect x="645" y="736" width="7" height="4"/><rect x="656" y="735" width="5" height="5"/>
+<rect x="648" y="752" width="5" height="5"/><circle cx="661" cy="754" r="2.5"/>
+</g>
+<path d="M596 712 H622 M596 728 H622 M598 744 H622 M600 760 H626 M640 710 H664 M642 726 H666 M644 742 H668 M646 758 H670" stroke="#110a17" stroke-width="0.6" opacity="0.5"/>
+</g>
+<!-- shards and fallen stones at the base -->
+<g filter="url(#fRockFine)">
+<path d="M662 766 L684 758 L696 772 L668 776 Z" fill="url(#gStoneDark)"/>
+<path d="M1052 762 L1078 756 L1092 770 L1060 774 Z" fill="url(#gStoneDark)"/>
+<ellipse cx="548" cy="770" rx="14" ry="6" fill="url(#gStoneDark)"/>
+<ellipse cx="1030" cy="772" rx="10" ry="4" fill="url(#gStoneDark)"/>
+</g></g>
+<g id="attendants"><!-- memory goddess, near x 340, carving glyphs into an upright stele -->
+<g filter="url(#fShadow)">
+<g filter="url(#fRockFine)">
+<path d="M404 790 L400 606 Q426 570 452 600 L458 790 Z" fill="url(#gStone)"/>
+<path d="M446 604 L452 600 L458 790 L450 790 Z" fill="url(#gStoneDark)"/>
+</g>
+<path d="M402 700 L401 608 Q424 578 446 598" stroke="#cdb8d0" stroke-width="1.2" fill="none" opacity="0.6"/>
+<g fill="#ffe08a" filter="url(#fGlowSoft)" opacity="0.6">
+<rect x="412" y="614" width="26" height="4"/><rect x="412" y="646" width="26" height="4"/><rect x="412" y="678" width="26" height="4"/><rect x="412" y="710" width="26" height="4"/>
+</g>
+<g fill="#e2b84a" opacity="0.85">
+<rect x="412" y="612" width="5" height="5"/><circle cx="426" cy="614" r="2.6"/><path d="M434 617 l4 -6 4 6 z"/>
+<circle cx="415" cy="632" r="2.6"/><rect x="422" y="629" width="7" height="4"/><rect x="433" y="629" width="4" height="7"/>
+<path d="M412 652 l4 -6 4 6 z"/><rect x="422" y="646" width="5" height="5"/><circle cx="437" cy="648" r="2.6"/>
+<rect x="412" y="664" width="4" height="7"/><circle cx="424" cy="667" r="2.6"/><rect x="430" y="665" width="8" height="4"/>
+<rect x="412" y="682" width="5" height="5"/><path d="M422 688 l4 -6 4 6 z"/><rect x="434" y="682" width="4" height="7"/>
+<circle cx="415" cy="704" r="2.6"/><rect x="422" y="701" width="7" height="4"/><rect x="432" y="701" width="5" height="5"/>
+<rect x="412" y="718" width="4" height="7"/><rect x="420" y="719" width="8" height="4"/><circle cx="436" cy="721" r="2.6"/>
+</g>
+<path d="M412 742 H440 M412 758 H440 M412 774 H440" stroke="#110a17" stroke-width="1.2" opacity="0.6"/>
+<path d="M312 632 Q340 616 368 632 L386 706 L380 790 L300 790 L294 706 Z" fill="url(#gCloth)"/>
+<path d="M340 640 L346 790 L330 790 Z" fill="#0f0820" opacity="0.5"/>
+<path d="M312 632 L300 700 L298 790" stroke="#8a6cc0" stroke-width="1.4" fill="none" opacity="0.45"/>
+<path d="M310 690 Q340 700 372 688 L374 702 Q340 714 308 704 Z" fill="url(#gGold)" opacity="0.85"/>
+<path d="M302 786 L380 786 L382 790 L300 790 Z" fill="url(#gGold)" opacity="0.7"/>
+<rect x="333" y="610" width="14" height="14" fill="url(#gSkinDeep)"/>
+<ellipse cx="340" cy="592" rx="16" ry="21" fill="url(#gSkin)"/>
+<path d="M324 586 Q326 566 340 566 Q356 566 358 586 L356 596 Q348 572 340 574 Q332 572 324 596 Z" fill="#0d0916"/>
+<path d="M322 590 Q318 650 330 700 L336 700 Q330 650 334 600 Z" fill="#0d0916"/>
+<path d="M356 594 Q364 640 358 690 L352 690 Q356 640 352 600 Z" fill="#0d0916"/>
+<path d="M325 580 Q340 572 355 580 L355 585 Q340 578 325 585 Z" fill="url(#gGold)"/>
+<circle cx="340" cy="578" r="3" fill="#fff0b0" opacity="0.9"/>
+<path d="M332 590 q4 -2 8 0 M344 590 q4 -2 8 0" stroke="#2a0a0a" stroke-width="1.4" fill="none" opacity="0.9"/>
+<path d="M336 603 q4 2 8 0" stroke="#5a2e26" stroke-width="1.2" fill="none" opacity="0.8"/>
+<circle cx="324" cy="594" r="3" fill="url(#gGold)"/>
+<path d="M318 644 L300 626 L306 604" stroke="url(#gSkin)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M306 604 L300 586" stroke="#5a3a22" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="300" cy="582" rx="9" ry="6" fill="url(#gStoneDark)"/>
+<path d="M364 646 L388 660 L402 656" stroke="url(#gSkin)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="403" cy="655" r="6" fill="url(#gSkin)"/>
+<path d="M398 654 L418 650" stroke="#9c8ca8" stroke-width="3" stroke-linecap="round"/>
+<path d="M416 650 L422 648" stroke="#e8dcf0" stroke-width="2" stroke-linecap="round"/>
+<path d="M396 788 l6 -4 5 4 z M440 789 l5 -5 6 5 z" fill="url(#gStoneDark)"/>
+</g>
+<!-- daemoness smith, near x 1250, knapping an obsidian blade on a stone anvil -->
+<g filter="url(#fShadow)">
+<g filter="url(#fRockFine)">
+<path d="M1290 716 L1352 716 L1366 704 L1304 704 Z" fill="url(#gStoneTop)"/>
+<rect x="1290" y="716" width="62" height="74" fill="url(#gStone)"/>
+<path d="M1352 716 L1366 704 L1366 780 L1352 790 Z" fill="url(#gStoneDark)"/>
+</g>
+<path d="M1290 790 V716 H1352" stroke="#cdb8d0" stroke-width="1.2" fill="none" opacity="0.5"/>
+<path d="M1300 710 L1330 694 L1360 702 L1334 712 Z" fill="url(#gObsidian)"/>
+<path d="M1302 709 L1330 696 L1346 700 L1322 708 Z" fill="url(#gObsidianSheen)"/>
+<path d="M1300 710 L1330 694 L1360 702" stroke="#b9a6d8" stroke-width="0.8" fill="none" opacity="0.7"/>
+<path d="M1226 700 L1216 790 L1240 790 L1246 720 L1254 720 L1262 790 L1286 790 L1276 700 Z" fill="url(#gCloth)"/>
+<path d="M1224 636 Q1250 622 1276 636 L1282 704 L1218 704 Z" fill="url(#gSkinSmith)"/>
+<path d="M1238 640 L1264 640 L1272 656 L1280 750 Q1250 762 1220 750 L1228 656 Z" fill="url(#gClothRed)"/>
+<path d="M1238 640 L1230 656 L1222 750" stroke="#d8705a" stroke-width="1.2" fill="none" opacity="0.5"/>
+<path d="M1228 656 Q1250 664 1272 656" stroke="url(#gGold)" stroke-width="2" fill="none"/>
+<rect x="1243" y="612" width="14" height="16" fill="url(#gSkinSmith)"/>
+<ellipse cx="1250" cy="594" rx="16" ry="21" fill="url(#gSkinSmith)"/>
+<path d="M1236 584 Q1228 572 1224 558 Q1236 562 1240 580 Z" fill="url(#gObsidian)"/>
+<path d="M1264 584 Q1272 572 1276 558 Q1264 562 1260 580 Z" fill="url(#gObsidian)"/>
+<path d="M1234 588 Q1234 566 1250 566 Q1266 566 1266 588 L1262 592 Q1258 576 1250 576 Q1242 576 1238 592 Z" fill="#0d0916"/>
+<path d="M1262 584 Q1278 610 1274 660 L1268 658 Q1270 612 1258 592 Z" fill="#0d0916"/>
+<path d="M1242 593 q4 -2 8 0 M1254 593 q4 -2 8 0" stroke="#22101c" stroke-width="1.4" fill="none"/>
+<path d="M1246 606 q4 2 8 0" stroke="#3a1428" stroke-width="1.2" fill="none" opacity="0.9"/>
+<circle cx="1234" cy="596" r="2.6" fill="url(#gGold)"/>
+<path d="M1230 648 L1206 632 L1212 606" stroke="url(#gSkinSmith)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<ellipse cx="1212" cy="600" rx="10" ry="8" fill="url(#gStoneDark)"/>
+<path d="M1206 598 Q1212 592 1218 596" stroke="#cdb8d0" stroke-width="1" fill="none" opacity="0.6"/>
+<path d="M1272 650 L1300 680 L1314 702" stroke="url(#gSkinSmith)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="1316" cy="704" r="6" fill="url(#gSkinSmith)"/>
+<g filter="url(#fBlurEmber)">
+<circle cx="1326" cy="688" r="1.8" fill="url(#gEmber)"/><circle cx="1340" cy="682" r="1.4" fill="url(#gEmber)"/><circle cx="1318" cy="678" r="1.2" fill="url(#gEmber)"/>
+<circle cx="1350" cy="690" r="1.6" fill="url(#gEmber)"/><circle cx="1334" cy="672" r="1" fill="url(#gEmber)"/>
+</g>
+<path d="M1324 690 l6 -10 M1340 684 l8 -8 M1350 692 l6 -3" stroke="#ffd27a" stroke-width="1" opacity="0.6"/>
+<path d="M1296 788 l4 -5 5 5 z M1370 789 l5 -4 4 4 z M1382 788 l3 -3 4 3 z" fill="url(#gObsidian)"/>
+</g>
+<!-- molten goddess, near x 1450, tending a lava crucible on a tripod -->
+<g filter="url(#fGlowWide)">
+<ellipse cx="1520" cy="760" rx="120" ry="40" fill="#ff8a2a" opacity="0.35"/>
+<ellipse cx="1460" cy="680" rx="60" ry="100" fill="#ff8a2a" opacity="0.18"/>
+</g>
+<g filter="url(#fShadow)">
+<path d="M1508 790 L1526 712 M1556 790 L1536 712 M1532 790 L1532 712" stroke="#0d0916" stroke-width="4" stroke-linecap="round"/>
+<path d="M1500 706 Q1532 722 1564 706 L1560 736 Q1532 752 1504 736 Z" fill="url(#gObsidian)"/>
+<path d="M1500 706 Q1532 690 1564 706 Q1532 722 1500 706 Z" fill="url(#gLavaPool)" filter="url(#fLava)"/>
+<path d="M1500 706 Q1516 700 1530 702" stroke="#b9a6d8" stroke-width="1" fill="none" opacity="0.5"/>
+<path d="M1432 700 L1424 790 L1446 790 L1450 724 L1456 724 L1462 790 L1484 790 L1474 700 Z" fill="url(#gObsidian)"/>
+<path d="M1428 696 Q1452 686 1478 696 L1486 740 Q1452 752 1420 740 Z" fill="url(#gObsidian)"/>
+<path d="M1428 696 Q1452 686 1478 696" stroke="url(#gGold)" stroke-width="2" fill="none"/>
+<path d="M1426 636 Q1452 622 1478 636 L1482 700 L1422 700 Z" fill="url(#gSkinMolten)"/>
+<rect x="1445" y="612" width="14" height="16" fill="url(#gSkinMolten)"/>
+<ellipse cx="1452" cy="594" rx="16" ry="21" fill="url(#gSkinMolten)"/>
+<g stroke="#fff0a0" stroke-width="1" fill="none" opacity="0.75">
+<path d="M1440 646 q8 14 2 30 M1466 650 q-6 12 2 26 M1452 614 v10 M1446 580 q-4 10 2 20 M1460 584 q4 8 0 18"/>
+</g>
+<path d="M1436 586 Q1436 566 1452 566 Q1468 566 1468 586 Q1476 620 1486 660 Q1480 700 1486 740 L1478 740 Q1472 700 1474 660 Q1466 630 1460 596 Q1452 582 1444 596 Q1440 620 1432 660 L1426 660 Q1430 620 1436 596 Z" fill="url(#gLavaFlow)" filter="url(#fLava)"/>
+<path d="M1438 590 Q1452 580 1466 590" stroke="#fff6c0" stroke-width="1.4" fill="none" opacity="0.8"/>
+<path d="M1444 593 q4 -2 8 0 M1456 593 q4 -2 8 0" stroke="#5a1608" stroke-width="1.4" fill="none"/>
+<path d="M1448 606 q4 2 8 0" stroke="#8a2a10" stroke-width="1.2" fill="none" opacity="0.9"/>
+<circle cx="1436" cy="596" r="2.6" fill="url(#gGold)"/>
+<path d="M1476 650 L1496 662 L1500 672" stroke="url(#gSkinMolten)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="1501" cy="674" r="6" fill="url(#gSkinMolten)"/>
+<path d="M1490 662 L1540 704" stroke="#0d0916" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M1534 698 L1546 710" stroke="#ffb030" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M1430 650 L1412 640 L1420 622" stroke="url(#gSkinMolten)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="1421" cy="620" r="6" fill="url(#gSkinMolten)"/>
+<g filter="url(#fBlurEmber)">
+<circle cx="1544" cy="692" r="1.8" fill="url(#gEmber)"/><circle cx="1556" cy="684" r="1.4" fill="url(#gEmber)"/><circle cx="1522" cy="688" r="1.2" fill="url(#gEmber)"/><circle cx="1570" cy="698" r="1.6" fill="url(#gEmber)"/>
+</g>
+<path d="M1562 712 q2 8 0 16" stroke="#ffb030" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+</g>
+<ellipse cx="1532" cy="704" rx="30" ry="8" fill="#ffd27a" opacity="0.4" filter="url(#fGlowSoft)"/></g>
+<g id="goddess"><!-- soft wide glow behind Itzpapalotl -->
+<g filter="url(#fGlowWide)">
+<ellipse cx="800" cy="300" rx="430" ry="230" fill="#5a3a7e" opacity="0.45"/>
+<ellipse cx="790" cy="290" rx="170" ry="210" fill="#c98a2a" opacity="0.35"/>
+</g>
+<!-- four obsidian wings, gold rims, sheen strongest on the lit left side -->
+<g>
+<path d="M770 250 C 720 150, 580 80, 420 96 C 384 120, 380 200, 416 262 C 520 304, 660 304, 770 292 Z" fill="url(#gWing)"/>
+<path d="M770 250 C 720 150, 580 80, 420 96 C 400 110, 392 150, 400 190 C 520 160, 660 190, 770 250 Z" fill="url(#gObsidianSheen)"/>
+<path d="M770 270 Q 600 190 440 110 M770 275 Q 580 230 400 170 M770 282 Q 600 262 420 240 M770 262 Q 660 170 520 100" stroke="#8a74b8" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M770 250 C 720 150, 580 80, 420 96 C 384 120, 380 200, 416 262" stroke="url(#gWingEdge)" stroke-width="2.4" fill="none"/>
+<path d="M416 262 C 520 304, 660 304, 770 292" stroke="#e2b84a" stroke-width="1" fill="none" opacity="0.6"/>
+<path d="M830 250 C 880 150, 1020 80, 1180 96 C 1216 120, 1220 200, 1184 262 C 1080 304, 940 304, 830 292 Z" fill="url(#gWing)"/>
+<path d="M830 250 C 880 150, 1020 80, 1180 96 C 1200 110, 1208 150, 1200 190 C 1080 160, 940 190, 830 250 Z" fill="url(#gObsidianSheen)" opacity="0.45"/>
+<path d="M830 270 Q 1000 190 1160 110 M830 275 Q 1020 230 1200 170 M830 282 Q 1000 262 1180 240 M830 262 Q 940 170 1080 100" stroke="#8a74b8" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M830 250 C 880 150, 1020 80, 1180 96 C 1216 120, 1220 200, 1184 262" stroke="url(#gWingEdge)" stroke-width="2.4" fill="none"/>
+<path d="M1184 262 C 1080 304, 940 304, 830 292" stroke="#e2b84a" stroke-width="1" fill="none" opacity="0.6"/>
+<path d="M770 300 C 680 318, 520 356, 440 416 C 416 448, 436 482, 480 480 C 600 466, 700 424, 776 364 Z" fill="url(#gWing)"/>
+<path d="M770 300 C 680 318, 520 356, 440 416 C 430 430, 436 446, 452 452 C 560 390, 680 350, 776 330 Z" fill="url(#gObsidianSheen)"/>
+<path d="M776 340 Q 600 390 470 450 M776 352 Q 620 420 490 472" stroke="#8a74b8" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M440 416 C 416 448, 436 482, 480 480 C 600 466, 700 424, 776 364" stroke="url(#gWingEdge)" stroke-width="2.4" fill="none"/>
+<path d="M770 300 C 680 318, 520 356, 440 416" stroke="#e2b84a" stroke-width="1" fill="none" opacity="0.6"/>
+<path d="M830 300 C 920 318, 1080 356, 1160 416 C 1184 448, 1164 482, 1120 480 C 1000 466, 900 424, 824 364 Z" fill="url(#gWing)"/>
+<path d="M830 300 C 920 318, 1080 356, 1160 416 C 1170 430, 1164 446, 1148 452 C 1040 390, 920 350, 824 330 Z" fill="url(#gObsidianSheen)" opacity="0.45"/>
+<path d="M824 340 Q 1000 390 1130 450 M824 352 Q 980 420 1110 472" stroke="#8a74b8" stroke-width="1" fill="none" opacity="0.4"/>
+<path d="M1160 416 C 1184 448, 1164 482, 1120 480 C 1000 466, 900 424, 824 364" stroke="url(#gWingEdge)" stroke-width="2.4" fill="none"/>
+<path d="M830 300 C 920 318, 1080 356, 1160 416" stroke="#e2b84a" stroke-width="1" fill="none" opacity="0.6"/>
+</g>
+<!-- obsidian blade notches along the outer edges -->
+<g fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6" stroke-linejoin="round">
+<path d="M720 196 L736 166 L742 192 Z M660 150 L672 118 L684 146 Z M586 118 L596 84 L610 112 Z M500 100 L506 66 L526 94 Z M430 104 L416 72 L452 94 Z M392 150 L358 160 L392 180 Z M386 200 L352 214 L390 232 Z"/>
+<path d="M880 196 L864 166 L858 192 Z M940 150 L928 118 L916 146 Z M1014 118 L1004 84 L990 112 Z M1100 100 L1094 66 L1074 94 Z M1170 104 L1184 72 L1148 94 Z M1208 150 L1242 160 L1208 180 Z M1214 200 L1248 214 L1210 232 Z"/>
+<path d="M538 466 L552 498 L564 462 Z M602 450 L616 482 L628 444 Z M662 428 L676 458 L688 420 Z M716 400 L732 428 L742 392 Z M452 426 L418 448 L456 460 Z M462 470 L470 506 L486 478 Z"/>
+<path d="M1062 466 L1048 498 L1036 462 Z M998 450 L984 482 L972 444 Z M938 428 L924 458 L912 420 Z M884 400 L868 428 L858 392 Z M1148 426 L1182 448 L1144 460 Z M1138 470 L1130 506 L1114 478 Z"/>
+</g>
+<!-- upper left wing panel: a screenshot of two application windows -->
+<g transform="rotate(-10 590 222)">
+<rect x="505" y="177" width="170" height="90" rx="3" fill="url(#gScreen)" stroke="url(#gWingEdge)" stroke-width="1.2"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<rect x="514" y="186" width="92" height="56" fill="none" stroke="url(#gTeal)" stroke-width="1.2"/>
+<rect x="514" y="186" width="92" height="7"/>
+<circle cx="519" cy="189.5" r="1.4" fill="#041c22"/><circle cx="524" cy="189.5" r="1.4" fill="#041c22"/>
+<rect x="520" y="199" width="40" height="2"/><rect x="520" y="205" width="62" height="2"/><rect x="520" y="211" width="30" height="2"/>
+<rect x="520" y="220" width="78" height="14" fill="none" stroke="url(#gTeal)" stroke-width="1"/>
+<rect x="524" y="224" width="24" height="6"/><rect x="552" y="224" width="40" height="2"/><rect x="552" y="229" width="28" height="2"/>
+<rect x="582" y="202" width="84" height="56" fill="#041c22" stroke="url(#gTeal)" stroke-width="1.2"/>
+<rect x="582" y="202" width="84" height="7"/>
+<circle cx="587" cy="205.5" r="1.4" fill="#041c22"/><circle cx="592" cy="205.5" r="1.4" fill="#041c22"/>
+<rect x="588" y="215" width="34" height="2"/><rect x="588" y="221" width="56" height="2"/><rect x="588" y="227" width="44" height="2"/>
+<rect x="588" y="236" width="30" height="12" fill="none" stroke="url(#gTeal)" stroke-width="1"/><rect x="624" y="236" width="30" height="12"/>
+<rect x="588" y="252" width="20" height="2"/>
+</g>
+</g>
+<!-- upper right wing panel: a chart with bars and a line -->
+<g transform="rotate(10 1010 222)">
+<rect x="925" y="177" width="170" height="90" rx="3" fill="url(#gScreen)" stroke="url(#gWingEdge)" stroke-width="1.2"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<path d="M940 190 V252 H1084" stroke="url(#gTeal)" stroke-width="1.2" fill="none"/>
+<path d="M940 236 H1084 M940 220 H1084 M940 204 H1084" stroke="#2ec4b6" stroke-width="0.6" opacity="0.5"/>
+<rect x="948" y="230" width="12" height="22"/><rect x="966" y="218" width="12" height="34"/><rect x="984" y="226" width="12" height="26"/>
+<rect x="1002" y="206" width="12" height="46"/><rect x="1020" y="214" width="12" height="38"/><rect x="1038" y="198" width="12" height="54"/>
+<rect x="1056" y="210" width="12" height="42"/><rect x="1074" y="192" width="8" height="60" fill="#9ff5ea"/>
+<path d="M954 226 L972 212 L990 220 L1008 200 L1026 208 L1044 192 L1062 204 L1078 186" stroke="#ffb347" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1008" cy="200" r="2" fill="#ffb347"/><circle cx="1078" cy="186" r="2" fill="#ffb347"/>
+<rect x="940" y="258" width="26" height="2"/><rect x="972" y="258" width="26" height="2"/><rect x="1004" y="258" width="26" height="2"/><rect x="1036" y="258" width="26" height="2"/>
+</g>
+</g>
+<!-- lower left wing panel: a sound wave -->
+<g transform="rotate(-20 600 398)">
+<rect x="515" y="368" width="170" height="60" rx="3" fill="url(#gScreen)" stroke="url(#gWingEdge)" stroke-width="1.2"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<path d="M524 398 H676" stroke="#2ec4b6" stroke-width="0.6" opacity="0.6"/>
+<rect x="526" y="394" width="2" height="8"/><rect x="531" y="390" width="2" height="16"/><rect x="536" y="384" width="2" height="28"/><rect x="541" y="378" width="2" height="40"/>
+<rect x="546" y="386" width="2" height="24"/><rect x="551" y="392" width="2" height="12"/><rect x="556" y="382" width="2" height="32"/><rect x="561" y="374" width="2" height="48"/>
+<rect x="566" y="380" width="2" height="36"/><rect x="571" y="390" width="2" height="16"/><rect x="576" y="395" width="2" height="6"/><rect x="581" y="388" width="2" height="20"/>
+<rect x="586" y="378" width="2" height="40"/><rect x="591" y="372" width="2" height="52"/><rect x="596" y="380" width="2" height="36"/><rect x="601" y="386" width="2" height="24"/>
+<rect x="606" y="392" width="2" height="12"/><rect x="611" y="384" width="2" height="28"/><rect x="616" y="376" width="2" height="44"/><rect x="621" y="382" width="2" height="32"/>
+<rect x="626" y="390" width="2" height="16"/><rect x="631" y="394" width="2" height="8"/><rect x="636" y="388" width="2" height="20"/><rect x="641" y="380" width="2" height="36"/>
+<rect x="646" y="386" width="2" height="24"/><rect x="651" y="392" width="2" height="12"/><rect x="656" y="396" width="2" height="4"/><rect x="661" y="393" width="2" height="10"/>
+<rect x="666" y="390" width="2" height="16"/><rect x="671" y="395" width="2" height="6"/>
+<path d="M524 374 V422" stroke="#9ff5ea" stroke-width="1"/><rect x="524" y="374" width="4" height="4" fill="#9ff5ea"/>
+</g>
+</g>
+<!-- lower right wing panel: lines of an API request log -->
+<g transform="rotate(20 1000 398)">
+<rect x="915" y="368" width="170" height="60" rx="3" fill="url(#gScreen)" stroke="url(#gWingEdge)" stroke-width="1.2"/>
+<g filter="url(#fNeon)" fill="url(#gTeal)">
+<rect x="922" y="375" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="375" width="36" height="2"/><rect x="980" y="375" width="12" height="2" fill="#ffb347"/><rect x="996" y="375" width="60" height="2"/>
+<rect x="922" y="381" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="381" width="52" height="2"/><rect x="996" y="381" width="12" height="2" fill="#ffb347"/><rect x="1012" y="381" width="40" height="2"/>
+<rect x="922" y="387" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="387" width="28" height="2"/><rect x="972" y="387" width="12" height="2" fill="#ffb347"/><rect x="988" y="387" width="80" height="2"/>
+<rect x="922" y="393" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="393" width="44" height="2"/><rect x="988" y="393" width="12" height="2" fill="#ff6a1a"/><rect x="1004" y="393" width="30" height="2"/>
+<rect x="922" y="399" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="399" width="60" height="2"/><rect x="1004" y="399" width="12" height="2" fill="#ffb347"/><rect x="1020" y="399" width="50" height="2"/>
+<rect x="922" y="405" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="405" width="34" height="2"/><rect x="978" y="405" width="12" height="2" fill="#ffb347"/><rect x="994" y="405" width="66" height="2"/>
+<rect x="922" y="411" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="411" width="48" height="2"/><rect x="992" y="411" width="12" height="2" fill="#ffb347"/><rect x="1008" y="411" width="24" height="2"/>
+<rect x="922" y="417" width="14" height="2" fill="#9ff5ea"/><rect x="940" y="417" width="20" height="2"/><rect x="962" y="416" width="4" height="4" fill="#9ff5ea"/>
+</g>
+</g>
+<!-- feathered cape behind the body -->
+<path d="M758 262 Q 800 250 842 262 L 870 400 Q 850 430 836 446 L 826 426 L 812 450 L 800 430 L 788 450 L 774 426 L 764 446 Q 750 430 730 400 Z" fill="url(#gCloth)"/>
+<path d="M762 270 L742 400 M838 270 L858 400 M800 280 V440" stroke="#8a6cc0" stroke-width="1" fill="none" opacity="0.35"/>
+<!-- skirt, hovering, hem fluttering near y 470 -->
+<path d="M772 330 L828 330 L846 452 Q 834 470 822 458 Q 812 476 800 462 Q 788 476 778 458 Q 766 470 754 452 Z" fill="url(#gCloth)"/>
+<path d="M774 338 L790 440 M826 338 L812 440" stroke="#8a6cc0" stroke-width="1" fill="none" opacity="0.35"/>
+<path d="M754 448 Q 800 466 846 448 L 846 456 Q 800 474 754 456 Z" fill="url(#gGold)" opacity="0.85"/>
+<path d="M0 0 v-8 h10 v3 h-6 v2 h4 v3 z" transform="translate(766,446)" fill="url(#gGold)"/><path d="M0 0 v-8 h10 v3 h-6 v2 h4 v3 z" transform="translate(782,448)" fill="url(#gGold)"/><path d="M0 0 v-8 h10 v3 h-6 v2 h4 v3 z" transform="translate(798,449)" fill="url(#gGold)"/><path d="M0 0 v-8 h10 v3 h-6 v2 h4 v3 z" transform="translate(814,448)" fill="url(#gGold)"/><path d="M0 0 v-8 h10 v3 h-6 v2 h4 v3 z" transform="translate(830,446)" fill="url(#gGold)"/>
+<path d="M786 462 q4 20 10 20 q4 0 2 -22 Z M814 462 q-4 20 -10 20 q-4 0 -2 -22 Z" fill="url(#gSkinDeep)"/>
+<!-- torso and quechquemitl -->
+<path d="M774 262 Q 800 252 826 262 L 832 336 L 768 336 Z" fill="url(#gSkin)"/>
+<path d="M760 262 L 840 262 L 800 322 Z" fill="url(#gClothRed)" stroke="url(#gGold)" stroke-width="2"/>
+<path d="M770 324 L830 324 L832 338 L768 338 Z" fill="url(#gGold)" opacity="0.8"/>
+<!-- arms: the right holds an obsidian blade aloft, the left opens outward -->
+<path d="M826 268 L866 246 L880 232" stroke="url(#gSkin)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="882" cy="230" r="7" fill="url(#gSkin)"/>
+<path d="M878 238 L892 196 L908 118 L914 198 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.7"/>
+<path d="M892 196 L908 118 L906 200 Z" fill="url(#gObsidianSheen)"/>
+<path d="M872 240 L892 236" stroke="url(#gGold)" stroke-width="4" stroke-linecap="round"/>
+<path d="M774 268 L738 300 L712 332" stroke="url(#gSkin)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="709" cy="336" r="7" fill="url(#gSkin)"/>
+<path d="M702 340 l-6 8 M706 342 l-3 10 M712 342 l1 10" stroke="url(#gSkin)" stroke-width="3" stroke-linecap="round"/>
+<path d="M846 254 L856 268 M748 284 L760 296" stroke="url(#gGold)" stroke-width="5" stroke-linecap="round"/>
+<!-- neck, head, hair -->
+<rect x="792" y="226" width="16" height="30" fill="url(#gSkinDeep)"/>
+<ellipse cx="800" cy="204" rx="21" ry="26" fill="url(#gSkin)"/>
+<path d="M779 200 Q 779 172 800 172 Q 821 172 821 200 L 818 206 Q 814 182 800 182 Q 786 182 782 206 Z" fill="#0d0916"/>
+<path d="M780 204 Q 770 240 776 268 L 784 266 Q 780 240 786 212 Z M820 204 Q 830 240 824 268 L 816 266 Q 820 240 814 212 Z" fill="#0d0916"/>
+<!-- calm face, gaze lowered toward the altar, gold paint beneath the eyes -->
+<path d="M789 204 q5 3 10 0 M801 204 q5 3 10 0" stroke="#2a0a0a" stroke-width="1.5" fill="none"/>
+<path d="M796 213 q4 4 8 0" stroke="#5a2e26" stroke-width="1.2" fill="none" opacity="0.8"/>
+<path d="M786 210 l6 4 M814 210 l-6 4" stroke="url(#gGold)" stroke-width="1.4" opacity="0.8"/>
+<circle cx="779" cy="206" r="4" fill="url(#gGold)"/><circle cx="821" cy="206" r="4" fill="url(#gGold)"/>
+<circle cx="779" cy="206" r="1.5" fill="#5a3608"/><circle cx="821" cy="206" r="1.5" fill="#5a3608"/>
+<!-- butterfly crown: plumes, gold band, obsidian butterfly emblem -->
+<g>
+<path d="M748 182 L 760 140 L 772 170 L 784 128 L 794 164 L 800 112 L 806 164 L 816 128 L 828 170 L 840 140 L 852 182 Z" fill="url(#gCloth)"/>
+<path d="M760 140 L 772 170 M784 128 L 794 164 M800 112 L 800 164 M816 128 L 806 164 M840 140 L 828 170" stroke="#8a6cc0" stroke-width="1" opacity="0.5"/>
+<path d="M758 142 l4 -8 M782 130 l3 -10 M798 114 l2 -14 M815 130 l3 -10 M838 142 l4 -8" stroke="url(#gGold)" stroke-width="3" stroke-linecap="round"/>
+<path d="M776 182 Q 800 174 824 182 L 824 190 Q 800 182 776 190 Z" fill="url(#gGold)"/>
+<path d="M800 168 l-16 -10 q-8 6 -2 14 l18 4 Z M800 168 l16 -10 q8 6 2 14 l-18 4 Z" fill="url(#gObsidian)" stroke="url(#gGold)" stroke-width="1"/>
+<circle cx="800" cy="170" r="3" fill="#fff0b0"/>
+</g></g>
+<g id="foreground"><!-- ground band with a rock-textured top edge, darker toward the bottom -->
+<g filter="url(#fRock)">
+<path d="M-20 790 L60 786 L180 792 L300 788 L420 790 L540 786 L660 790 L800 788 L940 790 L1080 786 L1200 790 L1320 788 L1440 792 L1560 786 L1620 790 L1620 920 L-20 920 Z" fill="url(#gGround)"/>
+</g>
+<rect x="0" y="800" width="1600" height="100" fill="url(#gGround)" opacity="0.75"/>
+<!-- light spill on the ground: teal under the altar, warm under the crucible -->
+<ellipse cx="810" cy="796" rx="210" ry="14" fill="url(#gScreenGlow)" opacity="0.45"/>
+<ellipse cx="1530" cy="800" rx="90" ry="12" fill="#ff8a2a" opacity="0.2" filter="url(#fGlowSoft)"/>
+<!-- cracks and pebbles -->
+<path d="M100 812 l40 6 l30 -4 l50 10 M1460 830 l-40 4 l-30 -6 l-60 8 M520 868 l30 -3 l24 5 M1040 870 l34 2 l20 -6" stroke="#05030a" stroke-width="1.2" fill="none" opacity="0.7"/>
+<g fill="url(#gStoneDark)">
+<ellipse cx="340" cy="812" rx="12" ry="5"/><ellipse cx="480" cy="804" rx="8" ry="3.5"/><ellipse cx="1130" cy="806" rx="10" ry="4"/><ellipse cx="1240" cy="812" rx="14" ry="5"/><ellipse cx="700" cy="894" rx="9" ry="4"/><ellipse cx="900" cy="896" rx="11" ry="4"/>
+</g>
+<!-- lower-left obsidian boulder and shards, rim lit from the upper left -->
+<g>
+<path d="M-10 900 L-10 760 Q40 700 120 730 Q200 720 260 790 L300 900 Z" fill="url(#gObsidian)"/>
+<path d="M-10 770 Q40 712 120 736 Q160 732 200 760 L170 790 Q100 760 20 800 Z" fill="url(#gObsidianSheen)"/>
+<path d="M-10 760 Q40 700 120 730 Q200 720 260 790" stroke="#d9b07a" stroke-width="1.6" fill="none" opacity="0.6"/>
+<path d="M140 860 L190 760 L230 870 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6"/>
+<path d="M140 860 L190 760 L196 800 Z" fill="url(#gObsidianSheen)"/>
+<path d="M60 890 L100 820 L150 892 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6"/>
+<path d="M60 890 L100 820 L104 850 Z" fill="url(#gObsidianSheen)"/>
+<path d="M230 900 L270 806 L310 900 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6"/>
+<path d="M230 900 L270 806 L276 846 Z" fill="url(#gObsidianSheen)"/>
+<path d="M140 860 L190 760 M60 890 L100 820 M230 900 L270 806" stroke="#e9c98f" stroke-width="1.2" fill="none" opacity="0.7"/>
+<path d="M0 892 l10 -14 12 14 z M40 896 l8 -10 10 10 z M300 896 l9 -12 10 12 z" fill="url(#gObsidian)"/>
+</g>
+<!-- lower-right obsidian boulder and shards -->
+<g>
+<path d="M1500 900 L1520 820 Q1570 780 1610 806 L1610 900 Z" fill="url(#gObsidian)"/>
+<path d="M1520 820 Q1570 780 1610 806 L1600 826 Q1570 804 1540 840 Z" fill="url(#gObsidianSheen)"/>
+<path d="M1520 820 Q1570 780 1610 806" stroke="#d9b07a" stroke-width="1.6" fill="none" opacity="0.6"/>
+<path d="M1300 900 L1330 826 L1372 900 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6"/>
+<path d="M1300 900 L1330 826 L1336 860 Z" fill="url(#gObsidianSheen)"/>
+<path d="M1400 900 L1450 816 L1492 900 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6"/>
+<path d="M1400 900 L1450 816 L1456 856 Z" fill="url(#gObsidianSheen)"/>
+<path d="M1560 896 L1580 846 L1600 896 Z" fill="url(#gObsidian)" stroke="#b9a6d8" stroke-width="0.6"/>
+<path d="M1300 900 L1330 826 M1400 900 L1450 816 M1560 896 L1580 846" stroke="#e9c98f" stroke-width="1.2" fill="none" opacity="0.7"/>
+<path d="M1380 896 l8 -10 10 10 z M1520 898 l9 -12 10 12 z" fill="url(#gObsidian)"/>
+</g>
+<!-- embers settling on the ground -->
+<g filter="url(#fBlurEmber)">
+<circle cx="90" cy="846" r="2.4" fill="url(#gEmber)" opacity="0.9"/><circle cx="210" cy="884" r="2" fill="url(#gEmber)" opacity="0.8"/><circle cx="330" cy="836" r="1.6" fill="url(#gEmber)" opacity="0.7"/>
+<circle cx="420" cy="868" r="2.2" fill="url(#gEmber)" opacity="0.8"/><circle cx="1180" cy="860" r="1.8" fill="url(#gEmber)" opacity="0.7"/><circle cx="1290" cy="880" r="2.4" fill="url(#gEmber)" opacity="0.85"/>
+<circle cx="1380" cy="848" r="1.6" fill="url(#gEmber)" opacity="0.7"/><circle cx="1470" cy="878" r="2" fill="url(#gEmber)" opacity="0.8"/><circle cx="1560" cy="856" r="1.8" fill="url(#gEmber)" opacity="0.75"/>
+<circle cx="620" cy="806" r="1.4" fill="url(#gEmber)" opacity="0.6"/><circle cx="980" cy="810" r="1.4" fill="url(#gEmber)" opacity="0.6"/><circle cx="760" cy="896" r="1.6" fill="url(#gEmber)" opacity="0.6"/>
+</g>
+<!-- vignette and grain over the whole canvas -->
+<rect x="0" y="0" width="1600" height="900" fill="url(#gVignette)"/>
+<rect x="0" y="0" width="1600" height="900" filter="url(#fGrain)" opacity="0.55"/></g>
+<g id="title"><!-- soft dark halo behind the title for legibility -->
+<ellipse cx="800" cy="846" rx="400" ry="64" fill="#030104" opacity="0.5" filter="url(#fGlowWide)"/>
+<g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+<text x="800" y="842" font-size="92" font-weight="bold" letter-spacing="18" fill="url(#gTitle)" filter="url(#fTextGlow)">OBSIDIAN</text>
+<path d="M600 856 H1000" stroke="url(#gWingEdge)" stroke-width="1" opacity="0.7"/>
+<path d="M592 856 l6 -4 6 4 -6 4 z M1002 856 l6 -4 6 4 -6 4 z" fill="url(#gGold)"/>
+<text x="800" y="880" font-size="23" letter-spacing="1" fill="#f0e6d2">Agent tasks where the evidence is in the image and the state keeps changing</text>
+</g></g>
+</svg>
