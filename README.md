@@ -6,7 +6,7 @@
 
 <p align="center"><a href="#summary"><img src="https://img.shields.io/badge/bundles-0_of_30-845EF7" alt="bundles: 0 of 30"></a> <a href="#evidence-status"><img src="https://img.shields.io/badge/sealed-0-845EF7" alt="sealed: 0"></a> <a href="#difficulty-tiers"><img src="https://img.shields.io/badge/difficulty-measured-845EF7" alt="difficulty: measured"></a></p>
 
-<p align="center"><sub><a href="#abstract">Abstract</a> | <a href="#summary">Summary</a> | <a href="#difficulty-tiers">Difficulty tiers</a> | <a href="#evidence-status">Evidence status</a> | <a href="#coverage">Coverage</a> | <a href="#dataset-structure">Dataset structure</a> | <a href="#verification-and-quality-assurance">Verification and quality assurance</a> | <a href="#reproduction">Reproduction</a> | <a href="#cite">Cite</a> | <a href="#contact">Contact</a></sub></p>
+<p align="center"><sub><a href="#abstract">Abstract</a> | <a href="#summary">Summary</a> | <a href="#difficulty-tiers">Difficulty tiers</a> | <a href="#evidence-status">Evidence status</a> | <a href="#coverage">Coverage</a> | <a href="#dataset-structure">Dataset structure</a> | <a href="#verification-and-quality-assurance">Verification and quality assurance</a> | <a href="#reproduction">Reproduction</a> | <a href="#cite">Cite</a> | <a href="#license">License</a> | <a href="#contact">Contact</a></sub></p>
 
 ## Abstract
 
@@ -68,14 +68,14 @@ Each bundle directory is a complete Harbor task: `task.toml` is the runner manif
 }
 ```
 
+## License
+
+Released under the MIT License, `Copyright (c) 2026 Ethara.AI`. See [LICENSE](LICENSE).
+
 ## Contact
 
 - Organization: <https://github.com/Ethara-Ai>
 - Security: see [SECURITY.md](SECURITY.md) or write to <security@ethara.ai>
 - Contributing: see [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-## Copyright
 
 Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
