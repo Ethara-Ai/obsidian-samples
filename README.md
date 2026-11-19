@@ -4,9 +4,9 @@
 
 <p align="center"><b>The samples lane: 5 multi-turn task bundles, one shipped trajectory each.</b></p>
 
-<p align="center"><a href="#bundles"><img src="https://img.shields.io/badge/bundles-5-845EF7" alt="bundles: 5"></a> <a href="#bundles"><img src="https://img.shields.io/badge/trajectories-1_per_bundle-845EF7" alt="trajectories: 1 per bundle"></a> <a href="#evidence-status"><img src="https://img.shields.io/badge/sealed-0-845EF7" alt="sealed: 0"></a></p>
+<p align="center"><a href="#bundles"><img src="https://img.shields.io/badge/bundles-5-845EF7" alt="bundles: 5"></a> <a href="#bundles"><img src="https://img.shields.io/badge/trajectories-1_per_bundle-845EF7" alt="trajectories: 1 per bundle"></a></p>
 
-<p align="center"><sub><a href="#abstract">Abstract</a> | <a href="#summary">Summary</a> | <a href="#bundles">Bundles</a> | <a href="#evidence-status">Evidence status</a> | <a href="#dataset-structure">Dataset structure</a> | <a href="#verification-and-quality-assurance">Verification and quality assurance</a> | <a href="#reproduction">Reproduction</a> | <a href="#cite">Cite</a> | <a href="#license">License</a> | <a href="#contact">Contact</a></sub></p>
+<p align="center"><sub><a href="#abstract">Abstract</a> | <a href="#summary">Summary</a> | <a href="#bundles">Bundles</a> | <a href="#dataset-structure">Dataset structure</a> | <a href="#verification-and-quality-assurance">Verification and quality assurance</a> | <a href="#reproduction">Reproduction</a> | <a href="#cite">Cite</a> | <a href="#license">License</a> | <a href="#contact">Contact</a></sub></p>
 
 ## Abstract
 
@@ -24,7 +24,6 @@ trajectory.
 | Model | `claude-opus-5.5` |
 | Harness | obsidian-harness 2a85015, agent image `wildclawbench-ubuntu:v1.5` |
 | Grading | rubric only; no `tests/` |
-| Sealed | 0 of 5 |
 
 ## Bundles
 
@@ -38,15 +37,9 @@ trajectory.
 
 The persona-prefixed task id stays inside each bundle, in `mock_modules.json` and the `prompt.txt` header.
 
-## Evidence status
-
-None of the five is sealed yet. They were authored with FORGE as client-format drafts, and FORGE seals a draft only
-after a format run on the host, which waits on
-[EtharaLabs/trinity#606](https://github.com/EtharaLabs/trinity/issues/606). Until then no audit verdict is recorded for
-them, and their directory names are delivery uuids rather than FORGE's content-derived uuid5. Each bundle carries its
-grading key under `data/solution/`, so this repository stays private.
-
 ## Dataset structure
+
+Each bundle carries its grading key under `data/solution/`, so this repository stays private.
 
 ```
 <uuid>/
