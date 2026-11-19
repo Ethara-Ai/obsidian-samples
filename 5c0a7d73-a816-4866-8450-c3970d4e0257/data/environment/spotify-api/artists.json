@@ -1,0 +1,177 @@
+[
+  {
+    "id": "3DtISOwrFeYkCkC8spRjXX",
+    "name": "Harborlight Quartet",
+    "genres": "jazz;hard bop",
+    "popularity": "32",
+    "followers": "472977"
+  },
+  {
+    "id": "IqwXAemTDaBhCrpDvsMPMb",
+    "name": "Mira Valenzuela",
+    "genres": "singer-songwriter;folk",
+    "popularity": "62",
+    "followers": "427524"
+  },
+  {
+    "id": "dMDCmHFh6ACoBfdFbSKhZw",
+    "name": "The Copper Meridian",
+    "genres": "indie rock;alternative",
+    "popularity": "73",
+    "followers": "267747"
+  },
+  {
+    "id": "JXp2PNlLJgvF0UXkRgkrmT",
+    "name": "Northwest Chamber Players",
+    "genres": "chamber music;classical",
+    "popularity": "34",
+    "followers": "115134"
+  },
+  {
+    "id": "EYu50VC3QgwRSANRCUfFIb",
+    "name": "Desmond Achterberg",
+    "genres": "jazz piano;cool jazz",
+    "popularity": "72",
+    "followers": "461305"
+  },
+  {
+    "id": "o5WIqyIkLMMIdncxxyTiv4",
+    "name": "Lowtide Parade",
+    "genres": "indie pop;dream pop",
+    "popularity": "60",
+    "followers": "167085"
+  },
+  {
+    "id": "WrQMdibdqEfsynqtFIDTyr",
+    "name": "Sunniva Berg",
+    "genres": "nordic folk;acoustic",
+    "popularity": "69",
+    "followers": "49319"
+  },
+  {
+    "id": "vJtkgy8YhTKYAyRkD275iO",
+    "name": "The Marigold Syndicate",
+    "genres": "funk;soul",
+    "popularity": "47",
+    "followers": "420812"
+  },
+  {
+    "id": "Skbnd27vp96EEYTGTFZxuT",
+    "name": "Tobias Ferreira",
+    "genres": "classical guitar;flamenco",
+    "popularity": "81",
+    "followers": "122458"
+  },
+  {
+    "id": "zsfDClmNtmIzkfBOjGUd69",
+    "name": "Velvet Static",
+    "genres": "synthpop;electropop",
+    "popularity": "43",
+    "followers": "106659"
+  },
+  {
+    "id": "Cm1Hbkvih8RPyeIE68PyG6",
+    "name": "Ruth Calloway",
+    "genres": "blues;soul blues",
+    "popularity": "37",
+    "followers": "169601"
+  },
+  {
+    "id": "op67xs2qmD7jlfQ5JvbzBk",
+    "name": "Kestrel & Vine",
+    "genres": "bluegrass;newgrass",
+    "popularity": "55",
+    "followers": "179734"
+  },
+  {
+    "id": "KnhPO5MnKF03V7e6hKLoxy",
+    "name": "Anjali Deshmukh",
+    "genres": "hindustani fusion;world",
+    "popularity": "52",
+    "followers": "441617"
+  },
+  {
+    "id": "n0mbJH1MhdmepJXfzeZkyq",
+    "name": "Pine Street Brass",
+    "genres": "brass band;new orleans jazz",
+    "popularity": "60",
+    "followers": "400979"
+  },
+  {
+    "id": "FVJu3WpqMDtqaU0E2RgNLO",
+    "name": "Noor Haddad",
+    "genres": "alternative r&b;soul",
+    "popularity": "60",
+    "followers": "199467"
+  },
+  {
+    "id": "eXlEOcFEVsgJcTfhJ0obzV",
+    "name": "Gravel Choir",
+    "genres": "post-rock;ambient",
+    "popularity": "82",
+    "followers": "309854"
+  },
+  {
+    "id": "VyExrUT3GzIR2N8vS0bMll",
+    "name": "Juniper Hollow",
+    "genres": "folk;americana",
+    "popularity": "44",
+    "followers": "259202"
+  },
+  {
+    "id": "weV4cuu41L4qbOXYhGs33s",
+    "name": "Matteo Rinaldi",
+    "genres": "classical;art song",
+    "popularity": "42",
+    "followers": "459049"
+  },
+  {
+    "id": "jsKqHFl6MnlysmFFa2mtmx",
+    "name": "The Understudies",
+    "genres": "musical theatre;cast recording",
+    "popularity": "33",
+    "followers": "173777"
+  },
+  {
+    "id": "KzjFjB08IL2iAu8iQ4mJaE",
+    "name": "Lena Okonkwo",
+    "genres": "neo-soul;r&b",
+    "popularity": "41",
+    "followers": "307930"
+  },
+  {
+    "id": "aix68FOXxxPAsk7xNnUXol",
+    "name": "Frostline",
+    "genres": "electronic;ambient techno",
+    "popularity": "46",
+    "followers": "141000"
+  },
+  {
+    "id": "4wniF0n1OO90OQmF4dc0YW",
+    "name": "Cascade Wind Ensemble",
+    "genres": "concert band;wind ensemble",
+    "popularity": "67",
+    "followers": "120937"
+  },
+  {
+    "id": "glK4tQ06mp5XnZFgsa78y8",
+    "name": "Dex Moreno",
+    "genres": "latin jazz;bossa nova",
+    "popularity": "46",
+    "followers": "33715"
+  },
+  {
+    "id": "lYNqEwJfUYHyfUHSN15kOG",
+    "name": "Birdsong Parade",
+    "genres": "children's music;educational",
+    "popularity": "39",
+    "followers": "168226"
+  },
+  {
+    "id": "NqQwOam2GUDUUbPi4eF6XE",
+    "name": "Ivy Calder",
+    "genres": "pop;indie pop",
+    "popularity": "54",
+    "followers": "128984"
+  }
+]

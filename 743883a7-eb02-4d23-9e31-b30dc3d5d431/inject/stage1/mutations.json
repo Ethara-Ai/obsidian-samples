@@ -1,0 +1,46 @@
+{
+  "stage": 1,
+  "stage_name": "stage1_photo_credit",
+  "description": "Monday 18:30: Gabi Santos emails Brittany that from now on her photo license asks for a credit in the caption of every social media post that uses one of her photos (\"Photo: Gabi Santos @gabisantos.photo\"); MLS, print and emailed pieces need none. The mail lands unread. Nothing announces it.",
+  "applies_between_turns": [
+    "T3",
+    "T4"
+  ],
+  "applied_at_local_time": "2026-10-26T18:30:00-04:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_spine_gabi_credit",
+        "service": "gmail-api",
+        "description": "Gabi's photo-credit request for social posts of her photos.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-bm-1026g",
+            "thread_id": "thr-bm-1026g",
+            "from_addr": "gabi@gabisantos.com",
+            "to_addr": "brittany.morales@greenridertech.co",
+            "cc_addr": "",
+            "subject": "Photo credit on social posts",
+            "snippet": "Hi Brittany! Quick heads-up for the Sea Grape posts: from now on my photo license asks for",
+            "body": "Hi Brittany! Quick heads-up for the Sea Grape posts: from now on my photo license asks for a credit in the caption of every social media post that uses one of my photos, written as \"Photo: Gabi Santos @gabisantos.photo\". MLS, print and anything you only email don't need it.\n\nThanks!\nGabi",
+            "date": "2026-10-26T18:30:00-04:00",
+            "internal_date": 1793053800000,
+            "size_estimate": 1188,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T4"
+      }
+    ]
+  }
+}

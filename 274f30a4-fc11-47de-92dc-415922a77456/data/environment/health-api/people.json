@@ -1,0 +1,13 @@
+[
+  {
+    "id": "per-marcus-hale",
+    "account_id": "acct-marcus-hale",
+    "name": "Marcus Hale",
+    "birth_date": "1992-03-14",
+    "sex": "male",
+    "height_cm": "181",
+    "city": "Denver, CO",
+    "timezone": "America/Denver",
+    "goal": "Half marathon, target finish under 1:52"
+  }
+]

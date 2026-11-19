@@ -1,0 +1,5 @@
+[service]
+name = "google-docs-api"
+port = 8110
+env_var_name = "GOOGLE_DOCS_API_URL"
+healthcheck_path = "/health"

@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjE6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "6871838035576968",
+    "to_id": "17841400000000101",
+    "message": "Hi Maya! Hannah from Lakeshore Design in Chicago. We're finishing a hotel lobby and would love six of your large planters with drainage trays.",
+    "created_time": "2026-09-10T14:05:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjI6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "17841400000000101",
+    "to_id": "6871838035576968",
+    "message": "Hi Hannah! That sounds like a great project. The large planters are 18 inches across. Wholesale is $340 each, trays included.",
+    "created_time": "2026-09-10T15:40:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjM6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "6871838035576968",
+    "to_id": "17841400000000101",
+    "message": "Perfect. Could they ship by the first week of October? The install starts October 19.",
+    "created_time": "2026-09-10T16:02:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjQ6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "17841400000000101",
+    "to_id": "6871838035576968",
+    "message": "Yes. If you prepay by September 15 we can glaze them in Fog Line and ship by October 2.",
+    "created_time": "2026-09-10T16:43:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjU6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "6871838035576968",
+    "to_id": "17841400000000101",
+    "message": "Great, please send the invoice to accounts@lakeshoredesign.example",
+    "created_time": "2026-09-10T17:01:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjY6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "17841400000000101",
+    "to_id": "6871838035576968",
+    "message": "Invoice SC-0412 is on its way, $2,040 for the six.",
+    "created_time": "2026-09-14T16:01:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjc6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "6871838035576968",
+    "to_id": "17841400000000101",
+    "message": "Paid! Can you send a photo when they come out of the kiln?",
+    "created_time": "2026-09-15T16:02:06+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjg6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "17841400000000101",
+    "to_id": "6871838035576968",
+    "message": "Kiln opens next week. Will do.",
+    "created_time": "2026-09-15T16:32:42+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjk6Njg3MTgzODAzNTU3Njk2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "17841400000000101",
+    "to_id": "6871838035576968",
+    "message": "Here they are, all six survived the firing.",
+    "created_time": "2026-09-25T16:32:45+0000",
+    "attachment_url": "https://cdn.mock-instagram.example/dm/planters_fogline_six.jpg",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjEwOjY4NzE4MzgwMzU1NzY5Njg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "6871838035576968",
+    "to_id": "17841400000000101",
+    "message": "They're gorgeous. Tracking number when you have it?",
+    "created_time": "2026-09-25T16:45:05+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOjExOjY4NzE4MzgwMzU1NzY5Njg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODcxODM4MDM1NTc2OTY4",
+    "from_id": "17841400000000101",
+    "to_id": "6871838035576968",
+    "message": "Shipped today with UPS freight, tracking 1Z8V2Y480341667912. Expected in Chicago on October 5.",
+    "created_time": "2026-09-30T16:45:42+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOjE6Njg2OTA0NDM0NTc5NjU4OQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODY5MDQ0MzQ1Nzk2NTg5",
+    "from_id": "6869044345796589",
+    "to_id": "17841400000000101",
+    "message": "Hi! I ordered two Tidepool mugs on August 24 and haven't gotten a shipping email yet. Order #SC-2291",
+    "created_time": "2026-09-02T13:22:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOjI6Njg2OTA0NDM0NTc5NjU4OQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODY5MDQ0MzQ1Nzk2NTg5",
+    "from_id": "17841400000000101",
+    "to_id": "6869044345796589",
+    "message": "Hi Ava, sorry for the wait! Your mugs were in last week's firing. They ship tomorrow and you'll get tracking by email.",
+    "created_time": "2026-09-02T14:26:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOjM6Njg2OTA0NDM0NTc5NjU4OQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODY5MDQ0MzQ1Nzk2NTg5",
+    "from_id": "6869044345796589",
+    "to_id": "17841400000000101",
+    "message": "Thank you!!",
+    "created_time": "2026-09-02T14:35:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOjQ6Njg2OTA0NDM0NTc5NjU4OQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODY5MDQ0MzQ1Nzk2NTg5",
+    "from_id": "6869044345796589",
+    "to_id": "17841400000000101",
+    "message": "Got the tracking, thanks Maya",
+    "created_time": "2026-09-03T15:36:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOjE6NjkxMDM4NjUzOTAxMjcwOQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMzg2NTM5MDEyNzA5",
+    "from_id": "6910386539012709",
+    "to_id": "17841400000000101",
+    "message": "When is the Fog Line restock? I missed the last one by like 2 minutes",
+    "created_time": "2026-09-03T16:40:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOjI6NjkxMDM4NjUzOTAxMjcwOQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMzg2NTM5MDEyNzA5",
+    "from_id": "17841400000000101",
+    "to_id": "6910386539012709",
+    "message": "Next restock is Wednesday September 9 at 10am ET. Mugs, pasta bowls and a few dinner plates.",
+    "created_time": "2026-09-03T17:28:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOjM6NjkxMDM4NjUzOTAxMjcwOQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMzg2NTM5MDEyNzA5",
+    "from_id": "6910386539012709",
+    "to_id": "17841400000000101",
+    "message": "Setting an alarm. How many mugs?",
+    "created_time": "2026-09-03T17:34:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOjQ6NjkxMDM4NjUzOTAxMjcwOQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMzg2NTM5MDEyNzA5",
+    "from_id": "17841400000000101",
+    "to_id": "6910386539012709",
+    "message": "About 40 mugs. Limit two per order so more people get one.",
+    "created_time": "2026-09-03T17:56:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOjU6NjkxMDM4NjUzOTAxMjcwOQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMzg2NTM5MDEyNzA5",
+    "from_id": "6910386539012709",
+    "to_id": "17841400000000101",
+    "message": "Got one!! Order SC-2318",
+    "created_time": "2026-09-09T18:56:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOjY6NjkxMDM4NjUzOTAxMjcwOQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMzg2NTM5MDEyNzA5",
+    "from_id": "17841400000000101",
+    "to_id": "6910386539012709",
+    "message": "Yay! Enjoy it.",
+    "created_time": "2026-09-09T19:11:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0OjE6NjgzMzMyNzE4NTQ2OTY2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODMzMzI3MTg1NDY5NjY4",
+    "from_id": "6833327185469668",
+    "to_id": "17841400000000101",
+    "message": "Hello, my Harbor pasta bowl arrived cracked. The box looked fine though.",
+    "created_time": "2026-09-04T11:10:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0OjI6NjgzMzMyNzE4NTQ2OTY2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODMzMzI3MTg1NDY5NjY4",
+    "from_id": "6833327185469668",
+    "to_id": "17841400000000101",
+    "message": "",
+    "created_time": "2026-09-04T11:12:51+0000",
+    "attachment_url": "https://cdn.mock-instagram.example/dm/harbor_bowl_crack.jpg",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0OjM6NjgzMzMyNzE4NTQ2OTY2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODMzMzI3MTg1NDY5NjY4",
+    "from_id": "17841400000000101",
+    "to_id": "6833327185469668",
+    "message": "Oh no, I'm so sorry Noor. That crack runs through the foot, so it happened in transit. Can you send your order number?",
+    "created_time": "2026-09-04T11:49:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0OjQ6NjgzMzMyNzE4NTQ2OTY2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODMzMzI3MTg1NDY5NjY4",
+    "from_id": "6833327185469668",
+    "to_id": "17841400000000101",
+    "message": "SC-2240",
+    "created_time": "2026-09-04T11:55:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0OjU6NjgzMzMyNzE4NTQ2OTY2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODMzMzI3MTg1NDY5NjY4",
+    "from_id": "17841400000000101",
+    "to_id": "6833327185469668",
+    "message": "Thanks. A replacement in the same glaze ships Tuesday, no need to send the broken one back.",
+    "created_time": "2026-09-04T12:21:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0OjY6NjgzMzMyNzE4NTQ2OTY2OA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODMzMzI3MTg1NDY5NjY4",
+    "from_id": "6833327185469668",
+    "to_id": "17841400000000101",
+    "message": "That's so kind, thank you",
+    "created_time": "2026-09-04T12:25:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo1OjE6NjkxMzE0NDA0ODI5MDU2Ng",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEzMTQ0MDQ4MjkwNTY2",
+    "from_id": "6913144048290566",
+    "to_id": "17841400000000101",
+    "message": "Do you do custom work? I'd like 12 mugs with our cafe logo stamped on the bottom",
+    "created_time": "2026-09-05T19:02:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo1OjI6NjkxMzE0NDA0ODI5MDU2Ng",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEzMTQ0MDQ4MjkwNTY2",
+    "from_id": "17841400000000101",
+    "to_id": "6913144048290566",
+    "message": "Hi Mateo! We do small custom runs. For 12 mugs with a stamped logo it's $56 each plus a $90 stamp setup fee, about 6 weeks.",
+    "created_time": "2026-09-05T21:22:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo1OjM6NjkxMzE0NDA0ODI5MDU2Ng",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEzMTQ0MDQ4MjkwNTY2",
+    "from_id": "6913144048290566",
+    "to_id": "17841400000000101",
+    "message": "Six weeks works. Can I see a sample of a stamp?",
+    "created_time": "2026-09-05T21:55:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo1OjQ6NjkxMzE0NDA0ODI5MDU2Ng",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEzMTQ0MDQ4MjkwNTY2",
+    "from_id": "17841400000000101",
+    "to_id": "6913144048290566",
+    "message": "Sure, here's one we made for Fern & Fig Bakery.",
+    "created_time": "2026-09-05T22:08:10+0000",
+    "attachment_url": "https://cdn.mock-instagram.example/dm/custom_stamp_sample.jpg",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo1OjU6NjkxMzE0NDA0ODI5MDU2Ng",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEzMTQ0MDQ4MjkwNTY2",
+    "from_id": "6913144048290566",
+    "to_id": "17841400000000101",
+    "message": "Love it. I'll talk to my partner and get back to you next week",
+    "created_time": "2026-09-05T22:33:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo2OjE6Njg4NTk5NDg5NjYyOTgxMw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg1OTk0ODk2NjI5ODEz",
+    "from_id": "6885994896629813",
+    "to_id": "17841400000000101",
+    "message": "Are you doing the Congress Street market again this fall?",
+    "created_time": "2026-09-06T15:15:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo2OjI6Njg4NTk5NDg5NjYyOTgxMw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg1OTk0ODk2NjI5ODEz",
+    "from_id": "17841400000000101",
+    "to_id": "6885994896629813",
+    "message": "We are! Sunday October 11, 9 to 2. We'll bring seconds and the first holiday ornaments.",
+    "created_time": "2026-09-06T16:07:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo2OjM6Njg4NTk5NDg5NjYyOTgxMw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg1OTk0ODk2NjI5ODEz",
+    "from_id": "6885994896629813",
+    "to_id": "17841400000000101",
+    "message": "Amazing. Do you take cards there?",
+    "created_time": "2026-09-06T16:10:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo2OjQ6Njg4NTk5NDg5NjYyOTgxMw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg1OTk0ODk2NjI5ODEz",
+    "from_id": "17841400000000101",
+    "to_id": "6885994896629813",
+    "message": "Card and cash both.",
+    "created_time": "2026-09-06T16:21:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo3OjE6NjgxMjMyNTIwMDYxNTcwNw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEyMzI1MjAwNjE1NzA3",
+    "from_id": "6812325200615707",
+    "to_id": "17841400000000101",
+    "message": "Hi, I'm interested in the studio assistant job. Is it still open?",
+    "created_time": "2026-09-07T09:48:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo3OjI6NjgxMjMyNTIwMDYxNTcwNw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEyMzI1MjAwNjE1NzA3",
+    "from_id": "17841400000000101",
+    "to_id": "6812325200615707",
+    "message": "Hi Owen, it is! It's 15 hours a week, mostly Tuesday and Thursday. Please send a short note and your availability to hello@saltmarshceramics.com.",
+    "created_time": "2026-09-07T13:18:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo3OjM6NjgxMjMyNTIwMDYxNTcwNw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEyMzI1MjAwNjE1NzA3",
+    "from_id": "6812325200615707",
+    "to_id": "17841400000000101",
+    "message": "Will do. Is any clay experience required?",
+    "created_time": "2026-09-07T13:25:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo3OjQ6NjgxMjMyNTIwMDYxNTcwNw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEyMzI1MjAwNjE1NzA3",
+    "from_id": "17841400000000101",
+    "to_id": "6812325200615707",
+    "message": "Helpful but not required. Packing orders carefully matters more.",
+    "created_time": "2026-09-07T13:44:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo3OjU6NjgxMjMyNTIwMDYxNTcwNw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEyMzI1MjAwNjE1NzA3",
+    "from_id": "6812325200615707",
+    "to_id": "17841400000000101",
+    "message": "Sent my note just now. Thanks!",
+    "created_time": "2026-09-07T18:44:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo4OjE6NjkxMDE2MjA0MTU4MDQ3Nw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMTYyMDQxNTgwNDc3",
+    "from_id": "6910162041580477",
+    "to_id": "17841400000000101",
+    "message": "Is the studio wheelchair accessible? I'd love to come to the October sale",
+    "created_time": "2026-09-08T12:30:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo4OjI6NjkxMDE2MjA0MTU4MDQ3Nw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMTYyMDQxNTgwNDc3",
+    "from_id": "17841400000000101",
+    "to_id": "6910162041580477",
+    "message": "Hi Priya! Yes, the studio is on the ground floor with a ramp at the side door, and the aisles are wide.",
+    "created_time": "2026-09-08T13:15:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo4OjM6NjkxMDE2MjA0MTU4MDQ3Nw",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTEwMTYyMDQxNTgwNDc3",
+    "from_id": "6910162041580477",
+    "to_id": "17841400000000101",
+    "message": "Wonderful, see you on the 3rd",
+    "created_time": "2026-09-08T13:21:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo5OjE6NjgzOTc2OTIwMDc4NTMwNg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM5NzY5MjAwNzg1MzA2",
+    "from_id": "6839769200785306",
+    "to_id": "17841400000000101",
+    "message": "Do the Tidepool mugs work in the microwave?",
+    "created_time": "2026-09-08T21:05:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo5OjI6NjgzOTc2OTIwMDc4NTMwNg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM5NzY5MjAwNzg1MzA2",
+    "from_id": "17841400000000101",
+    "to_id": "6839769200785306",
+    "message": "They do, and the dishwasher too. Just avoid going straight from the fridge to a hot oven.",
+    "created_time": "2026-09-09T07:05:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo5OjM6NjgzOTc2OTIwMDc4NTMwNg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM5NzY5MjAwNzg1MzA2",
+    "from_id": "6839769200785306",
+    "to_id": "17841400000000101",
+    "message": "Great, buying two for my sister",
+    "created_time": "2026-09-09T07:19:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMDoxOjY5MDczMDc0NDY2ODMyMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTA3MzA3NDQ2NjgzMjI3",
+    "from_id": "6907307446683227",
+    "to_id": "17841400000000101",
+    "message": "The restock site crashed at 10:01 and now everything is sold out??",
+    "created_time": "2026-09-09T14:02:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMDoyOjY5MDczMDc0NDY2ODMyMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTA3MzA3NDQ2NjgzMjI3",
+    "from_id": "17841400000000101",
+    "to_id": "6907307446683227",
+    "message": "So sorry Zoe, the shop got a lot of traffic at once. We're making a second batch of Fog Line mugs for October 15.",
+    "created_time": "2026-09-09T14:27:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMDozOjY5MDczMDc0NDY2ODMyMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTA3MzA3NDQ2NjgzMjI3",
+    "from_id": "6907307446683227",
+    "to_id": "17841400000000101",
+    "message": "Can you hold one for me? Please",
+    "created_time": "2026-09-09T14:31:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMDo0OjY5MDczMDc0NDY2ODMyMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTA3MzA3NDQ2NjgzMjI3",
+    "from_id": "17841400000000101",
+    "to_id": "6907307446683227",
+    "message": "We can't hold items, but I'll post the exact time a week ahead so you can plan.",
+    "created_time": "2026-09-09T14:51:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMDo1OjY5MDczMDc0NDY2ODMyMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTA3MzA3NDQ2NjgzMjI3",
+    "from_id": "6907307446683227",
+    "to_id": "17841400000000101",
+    "message": "Ok fair. Thanks for answering",
+    "created_time": "2026-09-09T14:57:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMToxOjY4MjE3MDc2MTQ5ODcxODU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIxNzA3NjE0OTg3MTg1",
+    "from_id": "6821707614987185",
+    "to_id": "17841400000000101",
+    "message": "",
+    "created_time": "2026-09-10T17:44:17+0000",
+    "attachment_url": "",
+    "story_url": "https://www.instagram.com/stories/saltmarsh.ceramics/18051900000000012/"
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMToyOjY4MjE3MDc2MTQ5ODcxODU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIxNzA3NjE0OTg3MTg1",
+    "from_id": "6821707614987185",
+    "to_id": "17841400000000101",
+    "message": "The Harbor bowl is honestly my favorite thing I own",
+    "created_time": "2026-09-10T17:45:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMTozOjY4MjE3MDc2MTQ5ODcxODU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIxNzA3NjE0OTg3MTg1",
+    "from_id": "17841400000000101",
+    "to_id": "6821707614987185",
+    "message": "This made our day, thank you Kai!",
+    "created_time": "2026-09-10T18:55:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjoxOjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "6991807896041393",
+    "to_id": "17841400000000101",
+    "message": "Hi, I'm putting together a wedding registry. Could guests buy a full place setting from you?",
+    "created_time": "2026-09-11T10:20:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjoyOjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "17841400000000101",
+    "to_id": "6991807896041393",
+    "message": "Congratulations! Yes, we have a registry option. A place setting is a dinner plate, pasta bowl and mug for $148.",
+    "created_time": "2026-09-11T11:40:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjozOjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "6991807896041393",
+    "to_id": "17841400000000101",
+    "message": "How long would 8 settings take?",
+    "created_time": "2026-09-11T11:52:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjo0OjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "17841400000000101",
+    "to_id": "6991807896041393",
+    "message": "About eight weeks once the registry closes. What's your date?",
+    "created_time": "2026-09-11T12:23:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjo1OjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "6991807896041393",
+    "to_id": "17841400000000101",
+    "message": "November 21",
+    "created_time": "2026-09-11T12:32:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjo2OjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "17841400000000101",
+    "to_id": "6991807896041393",
+    "message": "If the registry closes by September 25 we can make it. I'll email you the registry link today.",
+    "created_time": "2026-09-11T12:54:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMjo3OjY5OTE4MDc4OTYwNDEzOTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkxODA3ODk2MDQxMzkz",
+    "from_id": "6991807896041393",
+    "to_id": "17841400000000101",
+    "message": "Thank you! My email is ines.ortiz@example.com",
+    "created_time": "2026-09-11T13:00:06+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMzoxOjY5OTQ2Mjg3NTE4ODk3Nzk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTk0NjI4NzUxODg5Nzc5",
+    "from_id": "6994628751889779",
+    "to_id": "17841400000000101",
+    "message": "Do you ship to Canada?",
+    "created_time": "2026-09-11T18:30:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMzoyOjY5OTQ2Mjg3NTE4ODk3Nzk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTk0NjI4NzUxODg5Nzc5",
+    "from_id": "17841400000000101",
+    "to_id": "6994628751889779",
+    "message": "We do! Shipping to Canada starts at $28 and customs fees are paid on delivery.",
+    "created_time": "2026-09-11T20:30:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxMzozOjY5OTQ2Mjg3NTE4ODk3Nzk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTk0NjI4NzUxODg5Nzc5",
+    "from_id": "6994628751889779",
+    "to_id": "17841400000000101",
+    "message": "Ok thanks",
+    "created_time": "2026-09-11T20:33:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNDoxOjY4MjQ4MDYyNjg3MzE0MDU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0ODA2MjY4NzMxNDA1",
+    "from_id": "6824806268731405",
+    "to_id": "17841400000000101",
+    "message": "My order says delivered but there's nothing here. Order SC-2275",
+    "created_time": "2026-09-12T13:00:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNDoyOjY4MjQ4MDYyNjg3MzE0MDU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0ODA2MjY4NzMxNDA1",
+    "from_id": "17841400000000101",
+    "to_id": "6824806268731405",
+    "message": "Hi Leah, sorry about this. USPS shows it was left at the front desk of your building on September 10. Could you check with them?",
+    "created_time": "2026-09-12T13:35:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNDozOjY4MjQ4MDYyNjg3MzE0MDU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0ODA2MjY4NzMxNDA1",
+    "from_id": "6824806268731405",
+    "to_id": "17841400000000101",
+    "message": "Found it at the front desk, my bad!",
+    "created_time": "2026-09-12T17:55:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNDo0OjY4MjQ4MDYyNjg3MzE0MDU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0ODA2MjY4NzMxNDA1",
+    "from_id": "17841400000000101",
+    "to_id": "6824806268731405",
+    "message": "No problem at all, enjoy!",
+    "created_time": "2026-09-12T18:01:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNToxOjY4NzcwOTA4NTI0MzgxNTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODc3MDkwODUyNDM4MTU4",
+    "from_id": "6877090852438158",
+    "to_id": "17841400000000101",
+    "message": "Hi! I write for Coastal Maine Living. Could we feature the studio in our winter makers issue?",
+    "created_time": "2026-09-13T16:16:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNToyOjY4NzcwOTA4NTI0MzgxNTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODc3MDkwODUyNDM4MTU4",
+    "from_id": "17841400000000101",
+    "to_id": "6877090852438158",
+    "message": "Hi Sami, we'd be honored! What do you need from us?",
+    "created_time": "2026-09-13T18:36:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNTozOjY4NzcwOTA4NTI0MzgxNTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODc3MDkwODUyNDM4MTU4",
+    "from_id": "6877090852438158",
+    "to_id": "17841400000000101",
+    "message": "A 30 minute interview and three high-res photos by October 20.",
+    "created_time": "2026-09-13T18:46:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNTo0OjY4NzcwOTA4NTI0MzgxNTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODc3MDkwODUyNDM4MTU4",
+    "from_id": "17841400000000101",
+    "to_id": "6877090852438158",
+    "message": "That works. Can we do the interview on a Wednesday? The kiln runs Monday and Tuesday.",
+    "created_time": "2026-09-13T19:11:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNTo1OjY4NzcwOTA4NTI0MzgxNTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODc3MDkwODUyNDM4MTU4",
+    "from_id": "6877090852438158",
+    "to_id": "17841400000000101",
+    "message": "Wednesday October 7 at 1pm?",
+    "created_time": "2026-09-13T19:16:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNTo2OjY4NzcwOTA4NTI0MzgxNTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODc3MDkwODUyNDM4MTU4",
+    "from_id": "17841400000000101",
+    "to_id": "6877090852438158",
+    "message": "Perfect, see you then.",
+    "created_time": "2026-09-13T19:24:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNjoxOjY5MjQ4MTU4NDUyNjMwMDk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTI0ODE1ODQ1MjYzMDA5",
+    "from_id": "6924815845263009",
+    "to_id": "17841400000000101",
+    "message": "Is the shop open today? I wanted to pick up my order in person",
+    "created_time": "2026-09-14T09:15:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNjoyOjY5MjQ4MTU4NDUyNjMwMDk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTI0ODE1ODQ1MjYzMDA5",
+    "from_id": "17841400000000101",
+    "to_id": "6924815845263009",
+    "message": "Sorry Grace, the studio is closed today for a kiln repair. Orders ship tomorrow, or you can pick up any time Wednesday after 11.",
+    "created_time": "2026-09-14T09:45:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNjozOjY5MjQ4MTU4NDUyNjMwMDk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTI0ODE1ODQ1MjYzMDA5",
+    "from_id": "6924815845263009",
+    "to_id": "17841400000000101",
+    "message": "Wednesday works, thank you",
+    "created_time": "2026-09-14T09:49:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNzoxOjY4OTQ0NTk2MDE3NDk4OTI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk0NDU5NjAxNzQ5ODky",
+    "from_id": "6894459601749892",
+    "to_id": "17841400000000101",
+    "message": "Do you have any seconds left from the summer sale?",
+    "created_time": "2026-09-14T20:40:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNzoyOjY4OTQ0NTk2MDE3NDk4OTI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk0NDU5NjAxNzQ5ODky",
+    "from_id": "17841400000000101",
+    "to_id": "6894459601749892",
+    "message": "A few! Mostly mugs with small glaze runs. They'll be at the October 3 studio sale at 30 percent off.",
+    "created_time": "2026-09-15T08:40:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxNzozOjY4OTQ0NTk2MDE3NDk4OTI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk0NDU5NjAxNzQ5ODky",
+    "from_id": "6894459601749892",
+    "to_id": "17841400000000101",
+    "message": "I'll be there early",
+    "created_time": "2026-09-15T08:51:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxODoxOjY4MjQwNDMxNTkwNjAwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0MDQzMTU5MDYwMDE3",
+    "from_id": "6824043159060017",
+    "to_id": "17841400000000101",
+    "message": "Is there still a spot in the Thursday wheel class?",
+    "created_time": "2026-09-15T12:05:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxODoyOjY4MjQwNDMxNTkwNjAwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0MDQzMTU5MDYwMDE3",
+    "from_id": "17841400000000101",
+    "to_id": "6824043159060017",
+    "message": "Hi Mira! One spot left in the beginner class. It runs six Thursdays from October 1, 6 to 8pm, $240 including clay and firing.",
+    "created_time": "2026-09-15T13:55:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxODozOjY4MjQwNDMxNTkwNjAwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0MDQzMTU5MDYwMDE3",
+    "from_id": "6824043159060017",
+    "to_id": "17841400000000101",
+    "message": "I'll take it!",
+    "created_time": "2026-09-15T14:01:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxODo0OjY4MjQwNDMxNTkwNjAwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0MDQzMTU5MDYwMDE3",
+    "from_id": "17841400000000101",
+    "to_id": "6824043159060017",
+    "message": "Wonderful. I'll send a booking link by email. What's your address?",
+    "created_time": "2026-09-15T14:11:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxODo1OjY4MjQwNDMxNTkwNjAwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0MDQzMTU5MDYwMDE3",
+    "from_id": "6824043159060017",
+    "to_id": "17841400000000101",
+    "message": "mira.quinn@example.com",
+    "created_time": "2026-09-15T14:14:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxODo2OjY4MjQwNDMxNTkwNjAwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI0MDQzMTU5MDYwMDE3",
+    "from_id": "17841400000000101",
+    "to_id": "6824043159060017",
+    "message": "Link sent. See you October 1!",
+    "created_time": "2026-09-15T14:28:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOToxOjY4Mzg1MjU2OTc0NDgwMDM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM4NTI1Njk3NDQ4MDAz",
+    "from_id": "6838525697448003",
+    "to_id": "17841400000000101",
+    "message": "Hey, do you sell gift cards?",
+    "created_time": "2026-09-16T15:50:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToxOToyOjY4Mzg1MjU2OTc0NDgwMDM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM4NTI1Njk3NDQ4MDAz",
+    "from_id": "17841400000000101",
+    "to_id": "6838525697448003",
+    "message": "We do, digital gift cards from $25 in the online shop.",
+    "created_time": "2026-09-16T17:05:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDoxOjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "6823752118199718",
+    "to_id": "17841400000000101",
+    "message": "I'd love to stock your mugs in my shop in Burlington. Do you have a line sheet?",
+    "created_time": "2026-09-17T11:11:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDoyOjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "17841400000000101",
+    "to_id": "6823752118199718",
+    "message": "Hi Lena! Thank you. The fall line sheet is here: saltmarshceramics.com/wholesale. Minimum first order is $600.",
+    "created_time": "2026-09-17T12:46:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDozOjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "6823752118199718",
+    "to_id": "17841400000000101",
+    "message": "Do you offer exclusivity in a town?",
+    "created_time": "2026-09-17T13:06:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDo0OjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "17841400000000101",
+    "to_id": "6823752118199718",
+    "message": "Not formally, but we keep it to one shop per small town.",
+    "created_time": "2026-09-17T13:35:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDo1OjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "6823752118199718",
+    "to_id": "17841400000000101",
+    "message": "Perfect. I'll place an order this week",
+    "created_time": "2026-09-17T13:43:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDo2OjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "6823752118199718",
+    "to_id": "17841400000000101",
+    "message": "Order placed through the wholesale form! 12 Tidepool mugs and 6 Harbor bowls",
+    "created_time": "2026-09-19T14:03:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMDo3OjY4MjM3NTIxMTgxOTk3MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODIzNzUyMTE4MTk5NzE4",
+    "from_id": "17841400000000101",
+    "to_id": "6823752118199718",
+    "message": "Got it, thank you! They ship in about three weeks.",
+    "created_time": "2026-09-19T15:04:06+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMToxOjY4MTA3ODM4OTgzNTczNjE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEwNzgzODk4MzU3MzYx",
+    "from_id": "6810783898357361",
+    "to_id": "17841400000000101",
+    "message": "Is the Lantern coming back this year?",
+    "created_time": "2026-09-17T22:30:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMToyOjY4MTA3ODM4OTgzNTczNjE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEwNzgzODk4MzU3MzYx",
+    "from_id": "17841400000000101",
+    "to_id": "6810783898357361",
+    "message": "Yes! The redesigned Lantern opens for holiday preorder on October 15.",
+    "created_time": "2026-09-18T09:10:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMTozOjY4MTA3ODM4OTgzNTczNjE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEwNzgzODk4MzU3MzYx",
+    "from_id": "6810783898357361",
+    "to_id": "17841400000000101",
+    "message": "What's the price?",
+    "created_time": "2026-09-18T09:15:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMTo0OjY4MTA3ODM4OTgzNTczNjE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODEwNzgzODk4MzU3MzYx",
+    "from_id": "17841400000000101",
+    "to_id": "6810783898357361",
+    "message": "$95, shipping in early December.",
+    "created_time": "2026-09-18T09:28:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMjoxOjY4MjU4OTgyODgzNDA3MzQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI1ODk4Mjg4MzQwNzM0",
+    "from_id": "6825898288340734",
+    "to_id": "17841400000000101",
+    "message": "Ordered the nesting bowls but got the wrong glaze. I chose Fog Line and got Celadon. Order SC-2302",
+    "created_time": "2026-09-18T14:44:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMjoyOjY4MjU4OTgyODgzNDA3MzQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI1ODk4Mjg4MzQwNzM0",
+    "from_id": "6825898288340734",
+    "to_id": "17841400000000101",
+    "message": "",
+    "created_time": "2026-09-18T14:45:51+0000",
+    "attachment_url": "https://cdn.mock-instagram.example/dm/nesting_bowls_wrong_glaze.jpg",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMjozOjY4MjU4OTgyODgzNDA3MzQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI1ODk4Mjg4MzQwNzM0",
+    "from_id": "17841400000000101",
+    "to_id": "6825898288340734",
+    "message": "Hi Ruth, that's our mistake, sorry! We'll send the Fog Line set this week. Please keep the celadon ones as a gift or pass them on.",
+    "created_time": "2026-09-18T15:27:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMjo0OjY4MjU4OTgyODgzNDA3MzQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI1ODk4Mjg4MzQwNzM0",
+    "from_id": "6825898288340734",
+    "to_id": "17841400000000101",
+    "message": "Oh wow, thank you!",
+    "created_time": "2026-09-18T15:31:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMzoxOjY5NDA2MzUyMTc4MzAxMTQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTQwNjM1MjE3ODMwMTE0",
+    "from_id": "6940635217830114",
+    "to_id": "17841400000000101",
+    "message": "Hi, would you be up for a collab? I run a coffee subscription and want to bundle a mug with our winter box",
+    "created_time": "2026-09-19T10:00:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMzoyOjY5NDA2MzUyMTc4MzAxMTQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTQwNjM1MjE3ODMwMTE0",
+    "from_id": "17841400000000101",
+    "to_id": "6940635217830114",
+    "message": "Hi Ezra! Tell me more. How many boxes and when?",
+    "created_time": "2026-09-19T13:00:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMzozOjY5NDA2MzUyMTc4MzAxMTQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTQwNjM1MjE3ODMwMTE0",
+    "from_id": "6940635217830114",
+    "to_id": "17841400000000101",
+    "message": "About 300 boxes shipping December 1",
+    "created_time": "2026-09-19T13:14:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMzo0OjY5NDA2MzUyMTc4MzAxMTQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTQwNjM1MjE3ODMwMTE0",
+    "from_id": "17841400000000101",
+    "to_id": "6940635217830114",
+    "message": "300 by December 1 is more than our kiln can do this season, sorry. Could you do 100 for a spring box?",
+    "created_time": "2026-09-19T14:05:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyMzo1OjY5NDA2MzUyMTc4MzAxMTQ",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTQwNjM1MjE3ODMwMTE0",
+    "from_id": "6940635217830114",
+    "to_id": "17841400000000101",
+    "message": "Let me check with my team",
+    "created_time": "2026-09-19T14:13:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNDoxOjY4MDUxNzg2NzEzMDQ2NTU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODA1MTc4NjcxMzA0NjU1",
+    "from_id": "6805178671304655",
+    "to_id": "17841400000000101",
+    "message": "Do you have the Tidepool mug in a bigger size?",
+    "created_time": "2026-09-20T18:22:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNDoyOjY4MDUxNzg2NzEzMDQ2NTU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODA1MTc4NjcxMzA0NjU1",
+    "from_id": "17841400000000101",
+    "to_id": "6805178671304655",
+    "message": "Not yet, but we're testing a 20 oz version. It should be ready in the spring.",
+    "created_time": "2026-09-21T00:22:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNToxOjY5NzgyNTA5MDAwMjU1NzM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc4MjUwOTAwMDI1NTcz",
+    "from_id": "6978250900025573",
+    "to_id": "17841400000000101",
+    "message": "",
+    "created_time": "2026-09-21T13:37:17+0000",
+    "attachment_url": "",
+    "story_url": "https://www.instagram.com/stories/saltmarsh.ceramics/18051900000000019/"
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNToyOjY5NzgyNTA5MDAwMjU1NzM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc4MjUwOTAwMDI1NTcz",
+    "from_id": "6978250900025573",
+    "to_id": "17841400000000101",
+    "message": "That glaze test grid is wild. Which one is the copper red?",
+    "created_time": "2026-09-21T13:38:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNTozOjY5NzgyNTA5MDAwMjU1NzM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc4MjUwOTAwMDI1NTcz",
+    "from_id": "17841400000000101",
+    "to_id": "6978250900025573",
+    "message": "Third row, second from the left! Still not reliable enough to sell, sadly.",
+    "created_time": "2026-09-21T14:26:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNjoxOjY5OTA1OTU2MTQ1MjcwMDc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkwNTk1NjE0NTI3MDA3",
+    "from_id": "6990595614527007",
+    "to_id": "17841400000000101",
+    "message": "Can I change the shipping address on order SC-2331? I'm moving next week",
+    "created_time": "2026-09-22T09:05:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNjoyOjY5OTA1OTU2MTQ1MjcwMDc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkwNTk1NjE0NTI3MDA3",
+    "from_id": "17841400000000101",
+    "to_id": "6990595614527007",
+    "message": "Hi Nell, yes, it hasn't shipped yet. What's the new address?",
+    "created_time": "2026-09-22T09:30:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNjozOjY5OTA1OTU2MTQ1MjcwMDc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkwNTk1NjE0NTI3MDA3",
+    "from_id": "6990595614527007",
+    "to_id": "17841400000000101",
+    "message": "48 Pine Street, Apt 3, Portland ME 04102",
+    "created_time": "2026-09-22T09:34:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNjo0OjY5OTA1OTU2MTQ1MjcwMDc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTkwNTk1NjE0NTI3MDA3",
+    "from_id": "17841400000000101",
+    "to_id": "6990595614527007",
+    "message": "Updated. It ships Thursday to the new address.",
+    "created_time": "2026-09-22T09:44:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNzoxOjY5MzkyMTk5MjAxNzI2Njk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTM5MjE5OTIwMTcyNjY5",
+    "from_id": "6939219920172669",
+    "to_id": "17841400000000101",
+    "message": "Are your glazes food safe and lead free?",
+    "created_time": "2026-09-22T20:15:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyNzoyOjY5MzkyMTk5MjAxNzI2Njk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTM5MjE5OTIwMTcyNjY5",
+    "from_id": "17841400000000101",
+    "to_id": "6939219920172669",
+    "message": "Yes. All our functional glazes are lead free and tested food safe by an independent lab.",
+    "created_time": "2026-09-23T06:55:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyODoxOjY4ODY0MTYxMDg1NzgwMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NDE2MTA4NTc4MDI3",
+    "from_id": "6886416108578027",
+    "to_id": "17841400000000101",
+    "message": "Hi, I'd like to return a dinner plate. It's a little smaller than I expected",
+    "created_time": "2026-09-23T12:40:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyODoyOjY4ODY0MTYxMDg1NzgwMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NDE2MTA4NTc4MDI3",
+    "from_id": "17841400000000101",
+    "to_id": "6886416108578027",
+    "message": "Hi June, no problem. Returns are accepted within 30 days for a refund minus return shipping. Can you send your order number?",
+    "created_time": "2026-09-23T13:35:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyODozOjY4ODY0MTYxMDg1NzgwMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NDE2MTA4NTc4MDI3",
+    "from_id": "6886416108578027",
+    "to_id": "17841400000000101",
+    "message": "SC-2296",
+    "created_time": "2026-09-23T13:41:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyODo0OjY4ODY0MTYxMDg1NzgwMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NDE2MTA4NTc4MDI3",
+    "from_id": "17841400000000101",
+    "to_id": "6886416108578027",
+    "message": "Thanks. I'll email you a prepaid label; $9 comes off the refund for the label.",
+    "created_time": "2026-09-23T14:00:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyODo1OjY4ODY0MTYxMDg1NzgwMjc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NDE2MTA4NTc4MDI3",
+    "from_id": "6886416108578027",
+    "to_id": "17841400000000101",
+    "message": "Sounds good",
+    "created_time": "2026-09-23T14:04:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOToxOjY5Nzk3MTI5MTk3MDY5MTA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc5NzEyOTE5NzA2OTEw",
+    "from_id": "6979712919706910",
+    "to_id": "17841400000000101",
+    "message": "Do you do corporate gifts? We need 25 mugs for clients in December",
+    "created_time": "2026-09-24T16:03:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOToyOjY5Nzk3MTI5MTk3MDY5MTA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc5NzEyOTE5NzA2OTEw",
+    "from_id": "17841400000000101",
+    "to_id": "6979712919706910",
+    "message": "We can! 25 Tidepool mugs at $40 each with gift boxes, delivered by December 10 if you order by October 20.",
+    "created_time": "2026-09-24T18:03:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOTozOjY5Nzk3MTI5MTk3MDY5MTA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc5NzEyOTE5NzA2OTEw",
+    "from_id": "6979712919706910",
+    "to_id": "17841400000000101",
+    "message": "Can you invoice our company?",
+    "created_time": "2026-09-24T18:10:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZToyOTo0OjY5Nzk3MTI5MTk3MDY5MTA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTc5NzEyOTE5NzA2OTEw",
+    "from_id": "17841400000000101",
+    "to_id": "6979712919706910",
+    "message": "Yes, net 15. Send the billing details to hello@saltmarshceramics.com.",
+    "created_time": "2026-09-24T18:26:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMDoxOjY5NjM1Njk2MDg2Nzg2MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTYzNTY5NjA4Njc4NjE4",
+    "from_id": "6963569608678618",
+    "to_id": "17841400000000101",
+    "message": "Just wanted to say the mug I bought at the market in August is perfect. Thank you!",
+    "created_time": "2026-09-25T10:30:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMDoyOjY5NjM1Njk2MDg2Nzg2MTg",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTYzNTY5NjA4Njc4NjE4",
+    "from_id": "17841400000000101",
+    "to_id": "6963569608678618",
+    "message": "Thank you Sana, that means a lot!",
+    "created_time": "2026-09-25T12:00:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMToxOjY4OTk0ODY4OTIyMzg0MTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk5NDg2ODkyMjM4NDE3",
+    "from_id": "6899486892238417",
+    "to_id": "17841400000000101",
+    "message": "How do I sign up for restock alerts?",
+    "created_time": "2026-09-26T14:14:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMToyOjY4OTk0ODY4OTIyMzg0MTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk5NDg2ODkyMjM4NDE3",
+    "from_id": "17841400000000101",
+    "to_id": "6899486892238417",
+    "message": "There's a newsletter signup at the bottom of saltmarshceramics.com. Restock times go out a week ahead.",
+    "created_time": "2026-09-26T14:59:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMjoxOjY5NTE0NjYxMTgxNjU2MjY",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTUxNDY2MTE4MTY1NjI2",
+    "from_id": "6951466118165626",
+    "to_id": "17841400000000101",
+    "message": "Congratulations! Your page was selected for our Brand Ambassador program. Pay a $49 registration fee to receive $500 of free products.",
+    "created_time": "2026-09-26T23:51:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMjoyOjY5NTE0NjYxMTgxNjU2MjY",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTUxNDY2MTE4MTY1NjI2",
+    "from_id": "6951466118165626",
+    "to_id": "17841400000000101",
+    "message": "Offer expires in 24 hours. Pay here: bit.ly/collab-ambassador-49",
+    "created_time": "2026-09-26T23:52:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozMzoxOjY5NjkwNzY1Mjg5NDg4MDU",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTY5MDc2NTI4OTQ4ODA1",
+    "from_id": "6969076528948805",
+    "to_id": "17841400000000101",
+    "message": "Your account has been reported for copyright infringement and will be disabled within 24 hours. Verify your account to appeal: meta-appeal-center.example/verify",
+    "created_time": "2026-09-27T03:12:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNDoxOjY4OTcwNjk4MDc4MDI5NjI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk3MDY5ODA3ODAyOTYy",
+    "from_id": "6897069807802962",
+    "to_id": "17841400000000101",
+    "message": "Hi! We're a gift shop in Stowe, Vermont. Interested in your ornaments for the holidays. What are wholesale prices?",
+    "created_time": "2026-09-27T15:20:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNDoyOjY4OTcwNjk4MDc4MDI5NjI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk3MDY5ODA3ODAyOTYy",
+    "from_id": "17841400000000101",
+    "to_id": "6897069807802962",
+    "message": "Hi! Ornaments are $12 wholesale (retail $24), sold in packs of 12. They ship from November 2.",
+    "created_time": "2026-09-27T17:30:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNDozOjY4OTcwNjk4MDc4MDI5NjI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk3MDY5ODA3ODAyOTYy",
+    "from_id": "6897069807802962",
+    "to_id": "17841400000000101",
+    "message": "We'd take 4 packs. Is there a deadline?",
+    "created_time": "2026-09-27T17:46:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNDo0OjY4OTcwNjk4MDc4MDI5NjI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODk3MDY5ODA3ODAyOTYy",
+    "from_id": "17841400000000101",
+    "to_id": "6897069807802962",
+    "message": "Order by October 23 to be in the first shipment.",
+    "created_time": "2026-09-27T18:09:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNToxOjY4NTU1NzEyMDIwNzQ5NTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODU1NTcxMjAyMDc0OTUz",
+    "from_id": "6855571202074953",
+    "to_id": "17841400000000101",
+    "message": "Hi, I think I accidentally ordered twice. Two orders, SC-2350 and SC-2351, same mug",
+    "created_time": "2026-09-28T11:00:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNToyOjY4NTU1NzEyMDIwNzQ5NTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODU1NTcxMjAyMDc0OTUz",
+    "from_id": "17841400000000101",
+    "to_id": "6855571202074953",
+    "message": "Hi Ava! I see both. I'll cancel SC-2351 and refund it today.",
+    "created_time": "2026-09-28T11:35:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNTozOjY4NTU1NzEyMDIwNzQ5NTM",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODU1NTcxMjAyMDc0OTUz",
+    "from_id": "6855571202074953",
+    "to_id": "17841400000000101",
+    "message": "Thank you so much",
+    "created_time": "2026-09-28T11:38:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNjoxOjY4MjY2MjQ3OTIzNzI2MTA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI2NjI0NzkyMzcyNjEw",
+    "from_id": "6826624792372610",
+    "to_id": "17841400000000101",
+    "message": "Is the Fog Line mug the same size as the Tidepool?",
+    "created_time": "2026-09-28T19:45:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNjoyOjY4MjY2MjQ3OTIzNzI2MTA",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODI2NjI0NzkyMzcyNjEw",
+    "from_id": "17841400000000101",
+    "to_id": "6826624792372610",
+    "message": "Same shape, 14 oz. Only the glaze is different.",
+    "created_time": "2026-09-29T04:25:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNzoxOjY4ODM3OTc5MTM0Nzk0MDE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODgzNzk3OTEzNDc5NDAx",
+    "from_id": "6883797913479401",
+    "to_id": "17841400000000101",
+    "message": "Could I book a private group class for my book club? We're 6 people",
+    "created_time": "2026-09-29T13:30:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNzoyOjY4ODM3OTc5MTM0Nzk0MDE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODgzNzk3OTEzNDc5NDAx",
+    "from_id": "17841400000000101",
+    "to_id": "6883797913479401",
+    "message": "We'd love that! Private classes are Saturdays 2 to 4pm, $65 per person, minimum 4 people.",
+    "created_time": "2026-09-29T14:40:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNzozOjY4ODM3OTc5MTM0Nzk0MDE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODgzNzk3OTEzNDc5NDAx",
+    "from_id": "6883797913479401",
+    "to_id": "17841400000000101",
+    "message": "Do you have October 17?",
+    "created_time": "2026-09-29T14:46:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNzo0OjY4ODM3OTc5MTM0Nzk0MDE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODgzNzk3OTEzNDc5NDAx",
+    "from_id": "17841400000000101",
+    "to_id": "6883797913479401",
+    "message": "October 17 is open. Shall I pencil you in?",
+    "created_time": "2026-09-29T15:02:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNzo1OjY4ODM3OTc5MTM0Nzk0MDE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODgzNzk3OTEzNDc5NDAx",
+    "from_id": "6883797913479401",
+    "to_id": "17841400000000101",
+    "message": "Yes please!",
+    "created_time": "2026-09-29T15:06:45+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozNzo2OjY4ODM3OTc5MTM0Nzk0MDE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODgzNzk3OTEzNDc5NDAx",
+    "from_id": "17841400000000101",
+    "to_id": "6883797913479401",
+    "message": "Booked for 6 on October 17, 2 to 4pm. A $100 deposit holds the date; I'll email the link.",
+    "created_time": "2026-09-29T15:16:47+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozODoxOjY5ODQ3NTkxMjU1MDIwMjE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTg0NzU5MTI1NTAyMDIx",
+    "from_id": "6984759125502021",
+    "to_id": "17841400000000101",
+    "message": "Do you have a dinner plate that's oven safe?",
+    "created_time": "2026-09-30T10:10:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozODoyOjY5ODQ3NTkxMjU1MDIwMjE",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTg0NzU5MTI1NTAyMDIx",
+    "from_id": "17841400000000101",
+    "to_id": "6984759125502021",
+    "message": "All our dinnerware is oven safe up to 400F. Just let it warm up with the oven.",
+    "created_time": "2026-09-30T13:30:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOToxOjY5MjA1NDA2NDE0NDU3OTY",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTIwNTQwNjQxNDQ1Nzk2",
+    "from_id": "6920540641445796",
+    "to_id": "17841400000000101",
+    "message": "Do you accept Venmo at the studio sale on Saturday?",
+    "created_time": "2026-09-30T17:25:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOToyOjY5MjA1NDA2NDE0NDU3OTY",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTIwNTQwNjQxNDQ1Nzk2",
+    "from_id": "17841400000000101",
+    "to_id": "6920540641445796",
+    "message": "We take cards, cash and Venmo at the studio sale.",
+    "created_time": "2026-09-30T18:50:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTozOTozOjY5MjA1NDA2NDE0NDU3OTY",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTIwNTQwNjQxNDQ1Nzk2",
+    "from_id": "6920540641445796",
+    "to_id": "17841400000000101",
+    "message": "Great see you Saturday",
+    "created_time": "2026-09-30T18:54:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MDoxOjY4MzQxMjczMjI4OTcwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM0MTI3MzIyODk3MDE3",
+    "from_id": "6834127322897017",
+    "to_id": "17841400000000101",
+    "message": "What time does the studio sale start on Saturday?",
+    "created_time": "2026-10-01T08:30:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MDoyOjY4MzQxMjczMjI4OTcwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM0MTI3MzIyODk3MDE3",
+    "from_id": "17841400000000101",
+    "to_id": "6834127322897017",
+    "message": "Doors open at 9am and we close at 3pm. First 20 people get a free ornament!",
+    "created_time": "2026-10-01T09:10:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MDozOjY4MzQxMjczMjI4OTcwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM0MTI3MzIyODk3MDE3",
+    "from_id": "6834127322897017",
+    "to_id": "17841400000000101",
+    "message": "Will there be Fog Line?",
+    "created_time": "2026-10-01T09:12:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MDo0OjY4MzQxMjczMjI4OTcwMTc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODM0MTI3MzIyODk3MDE3",
+    "from_id": "17841400000000101",
+    "to_id": "6834127322897017",
+    "message": "A small table of Fog Line seconds, yes.",
+    "created_time": "2026-10-01T09:24:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MToxOjY4ODY1NDI5MTU2NDgxNDI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NTQyOTE1NjQ4MTQy",
+    "from_id": "6886542915648142",
+    "to_id": "17841400000000101",
+    "message": "Hi, I'm planning a surprise for my partner. Could you make a mug with our dog's name on it?",
+    "created_time": "2026-10-01T18:00:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MToyOjY4ODY1NDI5MTU2NDgxNDI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NTQyOTE1NjQ4MTQy",
+    "from_id": "17841400000000101",
+    "to_id": "6886542915648142",
+    "message": "That's sweet! We can hand-letter a name for $15 on top of the mug price. What's the name?",
+    "created_time": "2026-10-01T20:00:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MTozOjY4ODY1NDI5MTU2NDgxNDI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NTQyOTE1NjQ4MTQy",
+    "from_id": "6886542915648142",
+    "to_id": "17841400000000101",
+    "message": "Biscuit",
+    "created_time": "2026-10-01T20:02:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MTo0OjY4ODY1NDI5MTU2NDgxNDI",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODg2NTQyOTE1NjQ4MTQy",
+    "from_id": "17841400000000101",
+    "to_id": "6886542915648142",
+    "message": "Biscuit it is! It'll be ready in about four weeks. I'll send a payment link.",
+    "created_time": "2026-10-01T20:13:10+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MjoxOjY4MTQwNjUxNTU2MjA5Nzc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODE0MDY1MTU1NjIwOTc3",
+    "from_id": "6814065155620977",
+    "to_id": "17841400000000101",
+    "message": "Is parking available near the studio for the sale?",
+    "created_time": "2026-10-02T12:00:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MjoyOjY4MTQwNjUxNTU2MjA5Nzc",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODE0MDY1MTU1NjIwOTc3",
+    "from_id": "17841400000000101",
+    "to_id": "6814065155620977",
+    "message": "Street parking on Fore Street, and the Custom House garage is two blocks away.",
+    "created_time": "2026-10-02T12:33:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MzoxOjY4NTgyNjczNDQ3MzI0NDk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODU4MjY3MzQ0NzMyNDQ5",
+    "from_id": "6858267344732449",
+    "to_id": "17841400000000101",
+    "message": "Hi, my wife loves your work. Do you have anything under $50 that ships before October 10? It's her birthday",
+    "created_time": "2026-10-02T20:50:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MzoyOjY4NTgyNjczNDQ3MzI0NDk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODU4MjY3MzQ0NzMyNDQ5",
+    "from_id": "17841400000000101",
+    "to_id": "6858267344732449",
+    "message": "Happy early birthday to her! The Tidepool mug ($42) and the small planter ($38) both ship within two days.",
+    "created_time": "2026-10-02T21:50:51+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0MzozOjY4NTgyNjczNDQ3MzI0NDk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2ODU4MjY3MzQ0NzMyNDQ5",
+    "from_id": "6858267344732449",
+    "to_id": "17841400000000101",
+    "message": "I'll get the mug. Can you include a gift note?",
+    "created_time": "2026-10-02T21:55:52+0000",
+    "attachment_url": "",
+    "story_url": ""
+  },
+  {
+    "id": "aWdfZDoxOklHTWVzc2FnZTo0NDoxOjY5OTYwODY3NTAwNDM2Mzk",
+    "conversation_id": "aWdfZDoxOklHTWVzc2FnZVRocmVhZDoxNzg0MTQwMDAwMDAwMDEwMTo2OTk2MDg2NzUwMDQzNjM5",
+    "from_id": "6996086750043639",
+    "to_id": "17841400000000101",
+    "message": "Thanks for a lovely sale today! I forgot to ask: do you repair chipped mugs?",
+    "created_time": "2026-10-03T15:40:17+0000",
+    "attachment_url": "",
+    "story_url": ""
+  }
+]

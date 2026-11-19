@@ -1,0 +1,5 @@
+[service]
+name = "google-forms-api"
+port = 8117
+env_var_name = "GOOGLE_FORMS_API_URL"
+healthcheck_path = "/health"

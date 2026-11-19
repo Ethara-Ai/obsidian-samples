@@ -1,0 +1,29 @@
+[
+  {
+    "id": "4fa25828141bcba277eed8",
+    "name": "Sunday Morning Gospel",
+    "description": "Gospel for the drive to Greater Mount Zion.",
+    "owner_id": "reggie_clayton901",
+    "public": "false",
+    "collaborative": "false",
+    "snapshot_id": "a340a017f08da719de9277ffa56479"
+  },
+  {
+    "id": "d9e0873bdc5c2eed8b4cb4",
+    "name": "Garage Blues",
+    "description": "Memphis blues for the shop and the F-100.",
+    "owner_id": "reggie_clayton901",
+    "public": "false",
+    "collaborative": "false",
+    "snapshot_id": "f57e8f22638f57178e025a34f1ee17"
+  },
+  {
+    "id": "f36b894d7cc8ca86e3c0fc",
+    "name": "Cook Day Soul",
+    "description": "Classic soul for a fourteen-hour brisket.",
+    "owner_id": "reggie_clayton901",
+    "public": "false",
+    "collaborative": "false",
+    "snapshot_id": "f1b1f8afc4307e30d5bc0e3eb65d4d"
+  }
+]

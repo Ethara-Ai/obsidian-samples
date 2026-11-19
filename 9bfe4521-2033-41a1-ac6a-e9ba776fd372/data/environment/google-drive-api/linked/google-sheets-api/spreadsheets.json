@@ -1,0 +1,16 @@
+[
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton",
+  "owner_account_id": "acct-reggie-clayton",
+  "title": "Spring 2027 shop plan",
+  "locale": "en_US",
+  "time_zone": "America/Chicago"
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton",
+  "owner_account_id": "acct-reggie-clayton",
+  "title": "Clayton Fabrication job board 2026",
+  "locale": "en_US",
+  "time_zone": "America/Chicago"
+ }
+]

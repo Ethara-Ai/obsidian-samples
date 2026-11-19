@@ -1,0 +1,6640 @@
+[
+  {
+    "id": "18ee8bc5697177cd3c12f182",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ezra",
+      "last_name": "Caskey",
+      "email": "ezra.caskey@mail.example",
+      "phone": "(207) 555-0130",
+      "country": "US",
+      "region": "MN",
+      "address1": "1283 Harrowgate Lane",
+      "address2": "",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "be66a9a66106c630937cbd9c",
+        "variant_id": 17473,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Throw It Again Tee",
+          "price": 2700,
+          "variant_label": "White / M",
+          "sku": "SMC-12-17473",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17672,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-1098-17672",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17394,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "White / S",
+          "sku": "SMC-12-17394",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3261612374",
+      "shop_order_label": "3261612374",
+      "shop_fulfilled_at": "2026-08-04 19:00:00+00:00"
+    },
+    "total_price": 9100,
+    "total_shipping": 1425,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "9880038341904759757542",
+        "url": "https://tools.usps.example/track?n=9880038341904759757542",
+        "delivered_at": "2026-08-06 19:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-01 18:00:00+00:00",
+    "sent_to_production_at": "2026-08-02 19:00:00+00:00",
+    "fulfilled_at": "2026-08-04 19:00:00+00:00"
+  },
+  {
+    "id": "6dbf335f1d04a38aa52fe58b",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Casey",
+      "last_name": "Kittredge",
+      "email": "casey.kittredge@mail.example",
+      "phone": "(207) 555-0161",
+      "country": "US",
+      "region": "VT",
+      "address1": "1475 Sallowmere Court",
+      "address2": "Apt 26",
+      "city": "Burlington",
+      "zip": "05401",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17632,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 799,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 2400,
+          "variant_label": "11\" x 14\"",
+          "sku": "SMC-282-17632",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17550,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2495,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Oatmeal / 2XL",
+          "sku": "SMC-77-17550",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3479831663",
+      "shop_order_label": "3479831663",
+      "shop_fulfilled_at": "2026-05-25 03:00:00+00:00"
+    },
+    "total_price": 13400,
+    "total_shipping": 1498,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "5482858050619531253984",
+        "url": "https://tools.usps.example/track?n=5482858050619531253984",
+        "delivered_at": "2026-05-27 03:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-21 11:00:00+00:00",
+    "sent_to_production_at": "2026-05-22 03:00:00+00:00",
+    "fulfilled_at": "2026-05-25 03:00:00+00:00"
+  },
+  {
+    "id": "94850c8101436454ed2c43e9",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Oakley",
+      "last_name": "Hatchell",
+      "email": "oakley.hatchell@mail.example",
+      "phone": "(207) 555-0109",
+      "country": "US",
+      "region": "PA",
+      "address1": "721 Wickerby Street",
+      "address2": "",
+      "city": "Lancaster",
+      "zip": "17602",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d22767bd8dcfd171cd6f913f",
+        "variant_id": 17601,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Make Bowls Not Walls Mug",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3398018500",
+      "shop_order_label": "3398018500",
+      "shop_fulfilled_at": "2026-06-22 22:00:00+00:00"
+    },
+    "total_price": 3400,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "1784499623102857497551",
+        "url": "https://tools.usps.example/track?n=1784499623102857497551",
+        "delivered_at": "2026-06-26 22:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-17 09:00:00+00:00",
+    "sent_to_production_at": "2026-06-17 22:00:00+00:00",
+    "fulfilled_at": "2026-06-22 22:00:00+00:00"
+  },
+  {
+    "id": "be5669e83edf6939656a42cb",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Elliot",
+      "last_name": "Hatchell",
+      "email": "elliot.hatchell@mail.example",
+      "phone": "(207) 555-0184",
+      "country": "US",
+      "region": "ME",
+      "address1": "935 Pembrook Hollow",
+      "address2": "",
+      "city": "Brunswick",
+      "zip": "04011",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1003",
+      "shop_order_label": "#SS1003",
+      "shop_fulfilled_at": "2026-08-05 16:00:00+00:00"
+    },
+    "total_price": 3600,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z4708658551175565",
+        "url": "https://www.ups.example/track?n=1Z4708658551175565",
+        "delivered_at": "2026-08-10 16:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-31 18:00:00+00:00",
+    "sent_to_production_at": "2026-08-01 16:00:00+00:00",
+    "fulfilled_at": "2026-08-05 16:00:00+00:00"
+  },
+  {
+    "id": "73f5d5bccbe8ed71302a4d49",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Morgan",
+      "last_name": "Hatchell",
+      "email": "morgan.hatchell@mail.example",
+      "phone": "(207) 555-0195",
+      "country": "US",
+      "region": "NY",
+      "address1": "236 Pembrook Hollow",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17409,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1279,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 3100,
+          "variant_label": "White / 2XL",
+          "sku": "SMC-12-17409",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17564,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5200,
+          "variant_label": "Heather Navy / L",
+          "sku": "SMC-77-17564",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3153416832",
+      "shop_order_label": "3153416832",
+      "shop_fulfilled_at": "2026-07-18 08:00:00+00:00"
+    },
+    "total_price": 11400,
+    "total_shipping": 1374,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z9010755187556795",
+        "url": "https://www.ups.example/track?n=1Z9010755187556795",
+        "delivered_at": "2026-07-22 08:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-14 20:00:00+00:00",
+    "sent_to_production_at": "2026-07-15 08:00:00+00:00",
+    "fulfilled_at": "2026-07-18 08:00:00+00:00"
+  },
+  {
+    "id": "3e4723a7d97a9d770edf2c00",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Oakley",
+      "last_name": "Wyeth-Lowe",
+      "email": "oakley.wyeth-lowe@mail.example",
+      "phone": "(207) 555-0196",
+      "country": "US",
+      "region": "OR",
+      "address1": "1114 Larkmoor Lane",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "be66a9a66106c630937cbd9c",
+        "variant_id": 17489,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Throw It Again Tee",
+          "price": 2700,
+          "variant_label": "Natural / S",
+          "sku": "SMC-12-17489",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3308748335",
+      "shop_order_label": "3308748335",
+      "shop_fulfilled_at": "2026-08-28 09:00:00+00:00"
+    },
+    "total_price": 2700,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z3951801159527106",
+        "url": "https://www.ups.example/track?n=1Z3951801159527106",
+        "delivered_at": "2026-09-01 09:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-22 17:00:00+00:00",
+    "sent_to_production_at": "2026-08-23 09:00:00+00:00",
+    "fulfilled_at": "2026-08-28 09:00:00+00:00"
+  },
+  {
+    "id": "41fbf3b91ed3298bcfb54ee1",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Delphine",
+      "last_name": "Oakhurst",
+      "email": "delphine.oakhurst@mail.example",
+      "phone": "(207) 555-0198",
+      "country": "US",
+      "region": "WA",
+      "address1": "597 Ottercove Way",
+      "address2": "",
+      "city": "Bellingham",
+      "zip": "98225",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17505,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Sage / XL",
+          "sku": "SMC-12-17505",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3322951887",
+      "shop_order_label": "3322951887",
+      "shop_fulfilled_at": "2026-07-29 14:00:00+00:00"
+    },
+    "total_price": 2900,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "8320232449938407877623",
+        "url": "https://tools.usps.example/track?n=8320232449938407877623",
+        "delivered_at": "2026-08-01 14:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-27 05:00:00+00:00",
+    "sent_to_production_at": "2026-07-27 14:00:00+00:00",
+    "fulfilled_at": "2026-07-29 14:00:00+00:00"
+  },
+  {
+    "id": "56b115c597bd6caa7a725011",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sloane",
+      "last_name": "Northcutt",
+      "email": "sloane.northcutt@mail.example",
+      "phone": "(207) 555-0187",
+      "country": "US",
+      "region": "OR",
+      "address1": "2065 Harrowgate Lane",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1007",
+      "shop_order_label": "#SS1007",
+      "shop_fulfilled_at": "2026-05-28 23:00:00+00:00"
+    },
+    "total_price": 1800,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z2579147074911145",
+        "url": "https://www.ups.example/track?n=1Z2579147074911145",
+        "delivered_at": "2026-06-02 23:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-26 09:00:00+00:00",
+    "sent_to_production_at": "2026-05-26 23:00:00+00:00",
+    "fulfilled_at": "2026-05-28 23:00:00+00:00"
+  },
+  {
+    "id": "e6fbc87c1d8dbfa78b520d12",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Jordan",
+      "last_name": "Ingersoll",
+      "email": "jordan.ingersoll@mail.example",
+      "phone": "(207) 555-0127",
+      "country": "US",
+      "region": "PA",
+      "address1": "305 Sallowmere Court",
+      "address2": "",
+      "city": "Lancaster",
+      "zip": "17602",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "3b4c9af0666ecdf8aaa67276",
+        "variant_id": 17663,
+        "quantity": 3,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Monogram Sticker",
+          "price": 550,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1008",
+      "shop_order_label": "#SS1008",
+      "shop_fulfilled_at": "2026-08-01 17:00:00+00:00"
+    },
+    "total_price": 5250,
+    "total_shipping": 1397,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "7190186689898437573897",
+        "url": "https://tools.usps.example/track?n=7190186689898437573897",
+        "delivered_at": "2026-08-06 17:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-29 22:00:00+00:00",
+    "sent_to_production_at": "2026-07-30 17:00:00+00:00",
+    "fulfilled_at": "2026-08-01 17:00:00+00:00"
+  },
+  {
+    "id": "d1e32d83ce463e71361c4243",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Remy",
+      "last_name": "Northcutt",
+      "email": "remy.northcutt@mail.example",
+      "phone": "(207) 555-0107",
+      "country": "US",
+      "region": "OR",
+      "address1": "999 Fenwright Avenue",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17554,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / S",
+          "sku": "SMC-77-17554",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17656,
+        "quantity": 3,
+        "print_provider_id": 105,
+        "cost": 158,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 450,
+          "variant_label": "3\" x 3\"",
+          "sku": "SMC-400-17656",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3469128909",
+      "shop_order_label": "3469128909",
+      "shop_fulfilled_at": "2026-05-08 18:00:00+00:00"
+    },
+    "total_price": 10650,
+    "total_shipping": 1697,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z3832717919296631",
+        "url": "https://www.ups.example/track?n=1Z3832717919296631",
+        "delivered_at": "2026-05-10 18:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-06 13:00:00+00:00",
+    "sent_to_production_at": "2026-05-06 18:00:00+00:00",
+    "fulfilled_at": "2026-05-08 18:00:00+00:00"
+  },
+  {
+    "id": "3e1b4d4fa75bab95d2d20db8",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Jordan",
+      "last_name": "Ingersoll",
+      "email": "jordan.ingersoll@mail.example",
+      "phone": "(207) 555-0152",
+      "country": "US",
+      "region": "NY",
+      "address1": "1164 Harrowgate Lane",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "3802e31192ef1ddfbfe18bb9",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "be66a9a66106c630937cbd9c",
+        "variant_id": 17521,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 1239,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Throw It Again Tee",
+          "price": 3000,
+          "variant_label": "Black / 2XL",
+          "sku": "SMC-12-17521",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17436,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "Sage / L",
+          "sku": "SMC-12-17436",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3301294724",
+      "shop_order_label": "3301294724",
+      "shop_fulfilled_at": "2026-06-16 09:00:00+00:00"
+    },
+    "total_price": 9300,
+    "total_shipping": 1149,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z9612977076677486",
+        "url": "https://www.ups.example/track?n=1Z9612977076677486",
+        "delivered_at": "2026-06-20 09:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-10 21:00:00+00:00",
+    "sent_to_production_at": "2026-06-11 09:00:00+00:00",
+    "fulfilled_at": "2026-06-16 09:00:00+00:00"
+  },
+  {
+    "id": "71ec0f4a25148447b6637ca3",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Delphine",
+      "last_name": "Yarrow",
+      "email": "delphine.yarrow@mail.example",
+      "phone": "(207) 555-0158",
+      "country": "US",
+      "region": "NY",
+      "address1": "1343 Fenwright Avenue",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17673,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Slate / One size",
+          "sku": "SMC-1098-17673",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3178447886",
+      "shop_order_label": "3178447886",
+      "shop_fulfilled_at": "2026-06-01 03:00:00+00:00"
+    },
+    "total_price": 7200,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "5514807016681842255744",
+        "url": "https://tools.usps.example/track?n=5514807016681842255744",
+        "delivered_at": "2026-06-04 03:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-27 04:00:00+00:00",
+    "sent_to_production_at": "2026-05-28 03:00:00+00:00",
+    "fulfilled_at": "2026-06-01 03:00:00+00:00"
+  },
+  {
+    "id": "10774732a6250204a81810b9",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Dakota",
+      "last_name": "Rensselaer",
+      "email": "dakota.rensselaer@mail.example",
+      "phone": "(207) 555-0127",
+      "country": "US",
+      "region": "OR",
+      "address1": "1286 Quillan Street",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "1c7b259993db9dc83fcf0197",
+        "variant_id": 17620,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Trimming Tools Tote",
+          "price": 2600,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-553-17620",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17494,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 1239,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3300,
+          "variant_label": "Natural / 2XL",
+          "sku": "SMC-12-17494",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1012",
+      "shop_order_label": "#SS1012",
+      "shop_fulfilled_at": "2026-06-30 07:00:00+00:00"
+    },
+    "total_price": 5900,
+    "total_shipping": 950,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "7468576026012859549651",
+        "url": "https://tools.usps.example/track?n=7468576026012859549651",
+        "delivered_at": "2026-07-04 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-27 09:00:00+00:00",
+    "sent_to_production_at": "2026-06-28 07:00:00+00:00",
+    "fulfilled_at": "2026-06-30 07:00:00+00:00"
+  },
+  {
+    "id": "96d3015b29c5041538eab398",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Briar",
+      "last_name": "Quimby",
+      "email": "briar.quimby@mail.example",
+      "phone": "(207) 555-0199",
+      "country": "US",
+      "region": "IL",
+      "address1": "1949 Wickerby Street",
+      "address2": "",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0e6d0f1ca3454710886c50e2",
+        "variant_id": 17649,
+        "quantity": 2,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Seaglass Palette Poster",
+          "price": 3800,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4c800b6470b2232cb2b18ada",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Logo Mug 15oz",
+          "price": 2100,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "1c7b259993db9dc83fcf0197",
+        "variant_id": 17620,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Trimming Tools Tote",
+          "price": 2600,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-553-17620",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1013",
+      "shop_order_label": "#SS1013",
+      "shop_fulfilled_at": "2026-07-23 22:00:00+00:00"
+    },
+    "total_price": 12300,
+    "total_shipping": 1673,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "5175551452920994213693",
+        "url": "https://tools.usps.example/track?n=5175551452920994213693",
+        "delivered_at": "2026-07-26 22:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-21 08:00:00+00:00",
+    "sent_to_production_at": "2026-07-21 22:00:00+00:00",
+    "fulfilled_at": "2026-07-23 22:00:00+00:00"
+  },
+  {
+    "id": "a2183aa3a6f2451ab19dac38",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Fallon",
+      "last_name": "Ashdown",
+      "email": "fallon.ashdown@mail.example",
+      "phone": "(207) 555-0105",
+      "country": "US",
+      "region": "ME",
+      "address1": "551 Sallowmere Court",
+      "address2": "",
+      "city": "Portland",
+      "zip": "04101",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17430,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "Sage / S",
+          "sku": "SMC-12-17430",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17533,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5200,
+          "variant_label": "Oatmeal / M",
+          "sku": "SMC-77-17533",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3348318942",
+      "shop_order_label": "3348318942",
+      "shop_fulfilled_at": "2026-07-11 08:00:00+00:00"
+    },
+    "total_price": 13200,
+    "total_shipping": 1374,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z1062459095704416",
+        "url": "https://www.ups.example/track?n=1Z1062459095704416",
+        "delivered_at": "2026-07-15 08:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-08 15:00:00+00:00",
+    "sent_to_production_at": "2026-07-09 08:00:00+00:00",
+    "fulfilled_at": "2026-07-11 08:00:00+00:00"
+  },
+  {
+    "id": "2cbe5f4c4826fc95634d467c",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Vesna",
+      "last_name": "Caskey",
+      "email": "vesna.caskey@mail.example",
+      "phone": "(207) 555-0185",
+      "country": "US",
+      "region": "CO",
+      "address1": "1855 Wickerby Street",
+      "address2": "",
+      "city": "Fort Collins",
+      "zip": "80521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0e6d0f1ca3454710886c50e2",
+        "variant_id": 17632,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 799,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Seaglass Palette Poster",
+          "price": 2600,
+          "variant_label": "11\" x 14\"",
+          "sku": "SMC-282-17632",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "80fe828df7dd7b2bf8307433",
+        "variant_id": 17640,
+        "quantity": 2,
+        "print_provider_id": 88,
+        "cost": 979,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Sale 2026 Poster",
+          "price": 2300,
+          "variant_label": "12\" x 18\"",
+          "sku": "SMC-282-17640",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1015",
+      "shop_order_label": "#SS1015",
+      "shop_fulfilled_at": "2026-07-22 09:00:00+00:00"
+    },
+    "total_price": 7200,
+    "total_shipping": 1198,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z6973755913897951",
+        "url": "https://www.ups.example/track?n=1Z6973755913897951",
+        "delivered_at": "2026-07-25 09:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-17 06:00:00+00:00",
+    "sent_to_production_at": "2026-07-18 09:00:00+00:00",
+    "fulfilled_at": "2026-07-22 09:00:00+00:00"
+  },
+  {
+    "id": "442049083bba4244e6b4f460",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sloane",
+      "last_name": "Merrow",
+      "email": "sloane.merrow@mail.example",
+      "phone": "(207) 555-0155",
+      "country": "US",
+      "region": "NY",
+      "address1": "764 Harrowgate Lane",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17564,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5200,
+          "variant_label": "Heather Navy / L",
+          "sku": "SMC-77-17564",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3153391445",
+      "shop_order_label": "3153391445",
+      "shop_fulfilled_at": "2026-07-21 03:00:00+00:00"
+    },
+    "total_price": 5200,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z6348191841447483",
+        "url": "https://www.ups.example/track?n=1Z6348191841447483",
+        "delivered_at": "2026-07-25 03:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-17 14:00:00+00:00",
+    "sent_to_production_at": "2026-07-18 03:00:00+00:00",
+    "fulfilled_at": "2026-07-21 03:00:00+00:00"
+  },
+  {
+    "id": "4c273d37a7968e2c1f2986e1",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Delphine",
+      "last_name": "Wyeth-Lowe",
+      "email": "delphine.wyeth-lowe@mail.example",
+      "phone": "(207) 555-0150",
+      "country": "US",
+      "region": "NY",
+      "address1": "1710 Sallowmere Court",
+      "address2": "Apt 9",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17632,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 799,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 2400,
+          "variant_label": "11\" x 14\"",
+          "sku": "SMC-282-17632",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3206983601",
+      "shop_order_label": "3206983601",
+      "shop_fulfilled_at": "2026-04-17 06:00:00+00:00"
+    },
+    "total_price": 4350,
+    "total_shipping": 1198,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z8814785353070474",
+        "url": "https://www.ups.example/track?n=1Z8814785353070474",
+        "delivered_at": "2026-04-19 06:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-15 04:00:00+00:00",
+    "sent_to_production_at": "2026-04-15 06:00:00+00:00",
+    "fulfilled_at": "2026-04-17 06:00:00+00:00"
+  },
+  {
+    "id": "9db3f667c7eb47db971c4a69",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ainsley",
+      "last_name": "Yarrow",
+      "email": "ainsley.yarrow@mail.example",
+      "phone": "(207) 555-0161",
+      "country": "US",
+      "region": "ME",
+      "address1": "1735 Wickerby Street",
+      "address2": "",
+      "city": "Portland",
+      "zip": "04101",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17592,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Black / XL",
+          "sku": "SMC-77-17592",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17429,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1279,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 3100,
+          "variant_label": "Natural / 2XL",
+          "sku": "SMC-12-17429",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3369563019",
+      "shop_order_label": "3369563019",
+      "shop_fulfilled_at": "2026-09-15 11:00:00+00:00"
+    },
+    "total_price": 8500,
+    "total_shipping": 1374,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "7274242210721872691929",
+        "url": "https://tools.usps.example/track?n=7274242210721872691929",
+        "delivered_at": "2026-09-17 11:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-09 06:00:00+00:00",
+    "sent_to_production_at": "2026-09-10 11:00:00+00:00",
+    "fulfilled_at": "2026-09-15 11:00:00+00:00"
+  },
+  {
+    "id": "3fb7a13385d88cbb28735081",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ines",
+      "last_name": "Jessup",
+      "email": "ines.jessup@mail.example",
+      "phone": "(207) 555-0158",
+      "country": "US",
+      "region": "MN",
+      "address1": "1215 Pembrook Hollow",
+      "address2": "",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17409,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1279,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 3100,
+          "variant_label": "White / 2XL",
+          "sku": "SMC-12-17409",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3333009014",
+      "shop_order_label": "3333009014",
+      "shop_fulfilled_at": "2026-04-09 19:00:00+00:00"
+    },
+    "total_price": 3100,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z8685531568163760",
+        "url": "https://www.ups.example/track?n=1Z8685531568163760",
+        "delivered_at": "2026-04-11 19:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-04 21:00:00+00:00",
+    "sent_to_production_at": "2026-04-05 19:00:00+00:00",
+    "fulfilled_at": "2026-04-09 19:00:00+00:00"
+  },
+  {
+    "id": "538cf92a71835f34a7c6d5bb",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Thea",
+      "last_name": "Dunmore",
+      "email": "thea.dunmore@mail.example",
+      "phone": "(207) 555-0179",
+      "country": "US",
+      "region": "CA",
+      "address1": "1460 Quillan Street",
+      "address2": "Apt 7",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "a63bd284df11b6e9e138ba7d",
+        "variant_id": 17649,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Low Tide Map Poster",
+          "price": 3400,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3109783035",
+      "shop_order_label": "3109783035",
+      "shop_fulfilled_at": "2026-07-06 05:00:00+00:00"
+    },
+    "total_price": 3400,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "9064398603836971192987",
+        "url": "https://tools.usps.example/track?n=9064398603836971192987",
+        "delivered_at": "2026-07-10 05:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-01 19:00:00+00:00",
+    "sent_to_production_at": "2026-07-02 05:00:00+00:00",
+    "fulfilled_at": "2026-07-06 05:00:00+00:00"
+  },
+  {
+    "id": "b4020ea80e2e76af1ae13bbc",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Thea",
+      "last_name": "Wyeth-Lowe",
+      "email": "thea.wyeth-lowe@mail.example",
+      "phone": "(207) 555-0134",
+      "country": "US",
+      "region": "MN",
+      "address1": "2311 Wickerby Street",
+      "address2": "",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "3802e31192ef1ddfbfe18bb9",
+        "variant_id": 17656,
+        "quantity": 3,
+        "print_provider_id": 105,
+        "cost": 158,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Sticker",
+          "price": 450,
+          "variant_label": "3\" x 3\"",
+          "sku": "SMC-400-17656",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3287890917",
+      "shop_order_label": "3287890917",
+      "shop_fulfilled_at": "2026-06-28 05:00:00+00:00"
+    },
+    "total_price": 1350,
+    "total_shipping": 199,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z2502504086347140",
+        "url": "https://www.ups.example/track?n=1Z2502504086347140",
+        "delivered_at": "2026-07-01 05:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-24 21:00:00+00:00",
+    "sent_to_production_at": "2026-06-25 05:00:00+00:00",
+    "fulfilled_at": "2026-06-28 05:00:00+00:00"
+  },
+  {
+    "id": "8b8194767fabe3dc50d4035d",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Linden",
+      "last_name": "Underhill",
+      "email": "linden.underhill@mail.example",
+      "phone": "(207) 555-0145",
+      "country": "US",
+      "region": "PA",
+      "address1": "1438 Tidewrack Road",
+      "address2": "",
+      "city": "Lancaster",
+      "zip": "17602",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "be66a9a66106c630937cbd9c",
+        "variant_id": 17473,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Throw It Again Tee",
+          "price": 2700,
+          "variant_label": "White / M",
+          "sku": "SMC-12-17473",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3247985698",
+      "shop_order_label": "3247985698",
+      "shop_fulfilled_at": "2026-04-17 06:00:00+00:00"
+    },
+    "total_price": 6100,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z6697719127949412",
+        "url": "https://www.ups.example/track?n=1Z6697719127949412",
+        "delivered_at": "2026-04-22 06:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-11 05:00:00+00:00",
+    "sent_to_production_at": "2026-04-12 06:00:00+00:00",
+    "fulfilled_at": "2026-04-17 06:00:00+00:00"
+  },
+  {
+    "id": "5b664f22a31c57072c93c1be",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Kit",
+      "last_name": "Elsworth",
+      "email": "kit.elsworth@mail.example",
+      "phone": "(207) 555-0168",
+      "country": "US",
+      "region": "OR",
+      "address1": "569 Quillan Street",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1023",
+      "shop_order_label": "#SS1023",
+      "shop_fulfilled_at": "2026-04-21 14:00:00+00:00"
+    },
+    "total_price": 3600,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z4093765518987632",
+        "url": "https://www.ups.example/track?n=1Z4093765518987632",
+        "delivered_at": "2026-04-23 14:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-18 03:00:00+00:00",
+    "sent_to_production_at": "2026-04-18 14:00:00+00:00",
+    "fulfilled_at": "2026-04-21 14:00:00+00:00"
+  },
+  {
+    "id": "5b7733b2fea4cb6be57f0d23",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Juniper",
+      "last_name": "Jessup",
+      "email": "juniper.jessup@mail.example",
+      "phone": "(207) 555-0122",
+      "country": "US",
+      "region": "NH",
+      "address1": "2132 Quillan Street",
+      "address2": "",
+      "city": "Portsmouth",
+      "zip": "03801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17520,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "Black / XL",
+          "sku": "SMC-12-17520",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1024",
+      "shop_order_label": "#SS1024",
+      "shop_fulfilled_at": "2026-07-15 10:00:00+00:00"
+    },
+    "total_price": 3000,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "4024190777573143949084",
+        "url": "https://tools.usps.example/track?n=4024190777573143949084",
+        "delivered_at": "2026-07-17 10:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-13 06:00:00+00:00",
+    "sent_to_production_at": "2026-07-13 10:00:00+00:00",
+    "fulfilled_at": "2026-07-15 10:00:00+00:00"
+  },
+  {
+    "id": "5f90e6667e028d6feef42188",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Elliot",
+      "last_name": "Underhill",
+      "email": "elliot.underhill@mail.example",
+      "phone": "(207) 555-0155",
+      "country": "US",
+      "region": "PA",
+      "address1": "891 Ottercove Way",
+      "address2": "",
+      "city": "Lancaster",
+      "zip": "17602",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1025",
+      "shop_order_label": "#SS1025",
+      "shop_fulfilled_at": "2026-05-26 09:00:00+00:00"
+    },
+    "total_price": 3600,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z0291003987401574",
+        "url": "https://www.ups.example/track?n=1Z0291003987401574",
+        "delivered_at": "2026-05-29 09:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-22 22:00:00+00:00",
+    "sent_to_production_at": "2026-05-23 09:00:00+00:00",
+    "fulfilled_at": "2026-05-26 09:00:00+00:00"
+  },
+  {
+    "id": "ea4b2ecb9d11fbef8633d6e5",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Kit",
+      "last_name": "Quimby",
+      "email": "kit.quimby@mail.example",
+      "phone": "(207) 555-0151",
+      "country": "US",
+      "region": "NY",
+      "address1": "982 Brackenridge Road",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17550,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2495,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5800,
+          "variant_label": "Oatmeal / 2XL",
+          "sku": "SMC-77-17550",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1026",
+      "shop_order_label": "#SS1026",
+      "shop_fulfilled_at": "2026-05-19 22:00:00+00:00"
+    },
+    "total_price": 11600,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z2339946106428046",
+        "url": "https://www.ups.example/track?n=1Z2339946106428046",
+        "delivered_at": "2026-05-22 22:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-16 03:00:00+00:00",
+    "sent_to_production_at": "2026-05-16 22:00:00+00:00",
+    "fulfilled_at": "2026-05-19 22:00:00+00:00"
+  },
+  {
+    "id": "dbf97f95c818292f01ccf037",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Reese",
+      "last_name": "Oakhurst",
+      "email": "reese.oakhurst@mail.example",
+      "phone": "(207) 555-0104",
+      "country": "US",
+      "region": "CA",
+      "address1": "2192 Brackenridge Road",
+      "address2": "Apt 34",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17505,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Sage / XL",
+          "sku": "SMC-12-17505",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3241589901",
+      "shop_order_label": "3241589901",
+      "shop_fulfilled_at": "2026-09-22 14:00:00+00:00"
+    },
+    "total_price": 5800,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "5292696706312369490046",
+        "url": "https://tools.usps.example/track?n=5292696706312369490046",
+        "delivered_at": "2026-09-25 14:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-19 09:00:00+00:00",
+    "sent_to_production_at": "2026-09-19 14:00:00+00:00",
+    "fulfilled_at": "2026-09-22 14:00:00+00:00"
+  },
+  {
+    "id": "13104244fc332535daae9c96",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sasha",
+      "last_name": "Bellweather",
+      "email": "sasha.bellweather@mail.example",
+      "phone": "(207) 555-0106",
+      "country": "US",
+      "region": "NC",
+      "address1": "489 Tidewrack Road",
+      "address2": "",
+      "city": "Asheville",
+      "zip": "28801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17519,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "Black / L",
+          "sku": "SMC-12-17519",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "3b4c9af0666ecdf8aaa67276",
+        "variant_id": 17665,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 219,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Monogram Sticker",
+          "price": 600,
+          "variant_label": "5.5\" x 5.5\"",
+          "sku": "SMC-400-17665",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1028",
+      "shop_order_label": "#SS1028",
+      "shop_fulfilled_at": "2026-07-10 11:00:00+00:00"
+    },
+    "total_price": 4200,
+    "total_shipping": 674,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z1632778081803898",
+        "url": "https://www.ups.example/track?n=1Z1632778081803898",
+        "delivered_at": "2026-07-13 11:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-06 22:00:00+00:00",
+    "sent_to_production_at": "2026-07-07 11:00:00+00:00",
+    "fulfilled_at": "2026-07-10 11:00:00+00:00"
+  },
+  {
+    "id": "c99753f00f6c7d1877d5b86c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Oakley",
+      "last_name": "Rensselaer",
+      "email": "oakley.rensselaer@mail.example",
+      "phone": "(207) 555-0161",
+      "country": "US",
+      "region": "OR",
+      "address1": "1715 Sallowmere Court",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d22767bd8dcfd171cd6f913f",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Make Bowls Not Walls Mug",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17644,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1249,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 3000,
+          "variant_label": "18\" x 24\"",
+          "sku": "SMC-282-17644",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3291870354",
+      "shop_order_label": "3291870354",
+      "shop_fulfilled_at": "2026-05-23 02:00:00+00:00"
+    },
+    "total_price": 4700,
+    "total_shipping": 1198,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z2109219085359151",
+        "url": "https://www.ups.example/track?n=1Z2109219085359151",
+        "delivered_at": "2026-05-28 02:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-17 12:00:00+00:00",
+    "sent_to_production_at": "2026-05-18 02:00:00+00:00",
+    "fulfilled_at": "2026-05-23 02:00:00+00:00"
+  },
+  {
+    "id": "bf1ed5b6c201503fff812c8e",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Remy",
+      "last_name": "Ingersoll",
+      "email": "remy.ingersoll@mail.example",
+      "phone": "(207) 555-0108",
+      "country": "US",
+      "region": "ME",
+      "address1": "47 Sallowmere Court",
+      "address2": "Apt 4",
+      "city": "Portland",
+      "zip": "04101",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "80fe828df7dd7b2bf8307433",
+        "variant_id": 17644,
+        "quantity": 2,
+        "print_provider_id": 88,
+        "cost": 1249,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Sale 2026 Poster",
+          "price": 2600,
+          "variant_label": "18\" x 24\"",
+          "sku": "SMC-282-17644",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0e6d0f1ca3454710886c50e2",
+        "variant_id": 17640,
+        "quantity": 2,
+        "print_provider_id": 88,
+        "cost": 979,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Seaglass Palette Poster",
+          "price": 2900,
+          "variant_label": "12\" x 18\"",
+          "sku": "SMC-282-17640",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1030",
+      "shop_order_label": "#SS1030",
+      "shop_fulfilled_at": "2026-04-20 06:00:00+00:00"
+    },
+    "total_price": 11000,
+    "total_shipping": 1198,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "0417740264683227872261",
+        "url": "https://tools.usps.example/track?n=0417740264683227872261",
+        "delivered_at": "2026-04-22 06:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-16 21:00:00+00:00",
+    "sent_to_production_at": "2026-04-17 06:00:00+00:00",
+    "fulfilled_at": "2026-04-20 06:00:00+00:00"
+  },
+  {
+    "id": "faf12b784bfd18e81f1de802",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sloane",
+      "last_name": "Pellerin",
+      "email": "sloane.pellerin@mail.example",
+      "phone": "(207) 555-0108",
+      "country": "US",
+      "region": "MN",
+      "address1": "426 Tidewrack Road",
+      "address2": "",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17673,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Slate / One size",
+          "sku": "SMC-1098-17673",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3194719676",
+      "shop_order_label": "3194719676",
+      "shop_fulfilled_at": "2026-09-26 20:00:00+00:00"
+    },
+    "total_price": 7200,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "1881183808393463826106",
+        "url": "https://tools.usps.example/track?n=1881183808393463826106",
+        "delivered_at": "2026-09-29 20:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-23 01:00:00+00:00",
+    "sent_to_production_at": "2026-09-23 20:00:00+00:00",
+    "fulfilled_at": "2026-09-26 20:00:00+00:00"
+  },
+  {
+    "id": "befa7e579fe5c08518e39d79",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Elliot",
+      "last_name": "Dunmore",
+      "email": "elliot.dunmore@mail.example",
+      "phone": "(207) 555-0143",
+      "country": "US",
+      "region": "OR",
+      "address1": "613 Fenwright Avenue",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17439,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "Sage / XL",
+          "sku": "SMC-12-17439",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3202126484",
+      "shop_order_label": "3202126484",
+      "shop_fulfilled_at": "2026-07-25 07:00:00+00:00"
+    },
+    "total_price": 4750,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "0459387986963241143170",
+        "url": "https://tools.usps.example/track?n=0459387986963241143170",
+        "delivered_at": "2026-07-30 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-20 10:00:00+00:00",
+    "sent_to_production_at": "2026-07-21 07:00:00+00:00",
+    "fulfilled_at": "2026-07-25 07:00:00+00:00"
+  },
+  {
+    "id": "1613c4aa07b6fb0d4eab128d",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sloane",
+      "last_name": "Hatchell",
+      "email": "sloane.hatchell@mail.example",
+      "phone": "(207) 555-0157",
+      "country": "US",
+      "region": "NY",
+      "address1": "1023 Pembrook Hollow",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17439,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "Sage / XL",
+          "sku": "SMC-12-17439",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17421,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "Natural / XL",
+          "sku": "SMC-12-17421",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3126088433",
+      "shop_order_label": "3126088433",
+      "shop_fulfilled_at": "2026-04-17 09:00:00+00:00"
+    },
+    "total_price": 11200,
+    "total_shipping": 950,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "2655057447818343149461",
+        "url": "https://tools.usps.example/track?n=2655057447818343149461",
+        "delivered_at": "2026-04-20 09:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-12 06:00:00+00:00",
+    "sent_to_production_at": "2026-04-12 09:00:00+00:00",
+    "fulfilled_at": "2026-04-17 09:00:00+00:00"
+  },
+  {
+    "id": "4aed5f61c95da208e1bf2b1d",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sasha",
+      "last_name": "Varnum",
+      "email": "sasha.varnum@mail.example",
+      "phone": "(207) 555-0199",
+      "country": "US",
+      "region": "NH",
+      "address1": "979 Quillan Street",
+      "address2": "",
+      "city": "Portsmouth",
+      "zip": "03801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17489,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Natural / S",
+          "sku": "SMC-12-17489",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3280293065",
+      "shop_order_label": "3280293065",
+      "shop_fulfilled_at": "2026-06-19 12:00:00+00:00"
+    },
+    "total_price": 5100,
+    "total_shipping": 1273,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z3770777661083804",
+        "url": "https://www.ups.example/track?n=1Z3770777661083804",
+        "delivered_at": "2026-06-21 12:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-15 07:00:00+00:00",
+    "sent_to_production_at": "2026-06-15 12:00:00+00:00",
+    "fulfilled_at": "2026-06-19 12:00:00+00:00"
+  },
+  {
+    "id": "a86ddfb89e6311cd9a03b642",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Vesna",
+      "last_name": "Northcutt",
+      "email": "vesna.northcutt@mail.example",
+      "phone": "(207) 555-0110",
+      "country": "US",
+      "region": "OR",
+      "address1": "1613 Pembrook Hollow",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17665,
+        "quantity": 3,
+        "print_provider_id": 105,
+        "cost": 219,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 550,
+          "variant_label": "5.5\" x 5.5\"",
+          "sku": "SMC-400-17665",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3356109220",
+      "shop_order_label": "3356109220",
+      "shop_fulfilled_at": "2026-07-30 22:00:00+00:00"
+    },
+    "total_price": 1650,
+    "total_shipping": 199,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z0973832022288116",
+        "url": "https://www.ups.example/track?n=1Z0973832022288116",
+        "delivered_at": "2026-08-04 22:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-24 19:00:00+00:00",
+    "sent_to_production_at": "2026-07-25 22:00:00+00:00",
+    "fulfilled_at": "2026-07-30 22:00:00+00:00"
+  },
+  {
+    "id": "33e8e94eff95d66273f986ec",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Riley",
+      "last_name": "Caskey",
+      "email": "riley.caskey@mail.example",
+      "phone": "(207) 555-0169",
+      "country": "US",
+      "region": "CA",
+      "address1": "1735 Larkmoor Lane",
+      "address2": "",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "80fe828df7dd7b2bf8307433",
+        "variant_id": 17640,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 979,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Sale 2026 Poster",
+          "price": 2300,
+          "variant_label": "12\" x 18\"",
+          "sku": "SMC-282-17640",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4c800b6470b2232cb2b18ada",
+        "variant_id": 17614,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Logo Mug 15oz",
+          "price": 2100,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0e6d0f1ca3454710886c50e2",
+        "variant_id": 17644,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1249,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Seaglass Palette Poster",
+          "price": 3200,
+          "variant_label": "18\" x 24\"",
+          "sku": "SMC-282-17644",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1036",
+      "shop_order_label": "#SS1036",
+      "shop_fulfilled_at": "2026-09-02 11:00:00+00:00"
+    },
+    "total_price": 9700,
+    "total_shipping": 1797,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "8566240561627729985307",
+        "url": "https://tools.usps.example/track?n=8566240561627729985307",
+        "delivered_at": "2026-09-06 11:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-29 08:00:00+00:00",
+    "sent_to_production_at": "2026-08-29 11:00:00+00:00",
+    "fulfilled_at": "2026-09-02 11:00:00+00:00"
+  },
+  {
+    "id": "64179888a534b6fd516f2b7c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Soren",
+      "last_name": "Yarrow",
+      "email": "soren.yarrow@mail.example",
+      "phone": "(207) 555-0123",
+      "country": "US",
+      "region": "WA",
+      "address1": "1485 Wickerby Street",
+      "address2": "",
+      "city": "Bellingham",
+      "zip": "98225",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17430,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "Sage / S",
+          "sku": "SMC-12-17430",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17640,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 979,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 2700,
+          "variant_label": "12\" x 18\"",
+          "sku": "SMC-282-17640",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3315427983",
+      "shop_order_label": "3315427983",
+      "shop_fulfilled_at": "2026-08-13 08:00:00+00:00"
+    },
+    "total_price": 8300,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "8400787634760415079726",
+        "url": "https://tools.usps.example/track?n=8400787634760415079726",
+        "delivered_at": "2026-08-16 08:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-10 12:00:00+00:00",
+    "sent_to_production_at": "2026-08-11 08:00:00+00:00",
+    "fulfilled_at": "2026-08-13 08:00:00+00:00"
+  },
+  {
+    "id": "17f9658f32617dbc8feda2b1",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Fallon",
+      "last_name": "Rensselaer",
+      "email": "fallon.rensselaer@mail.example",
+      "phone": "(207) 555-0140",
+      "country": "US",
+      "region": "IL",
+      "address1": "457 Ottercove Way",
+      "address2": "",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17513,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Black / M",
+          "sku": "SMC-12-17513",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3102548662",
+      "shop_order_label": "3102548662",
+      "shop_fulfilled_at": "2026-09-11 07:00:00+00:00"
+    },
+    "total_price": 5800,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z7572309938973531",
+        "url": "https://www.ups.example/track?n=1Z7572309938973531",
+        "delivered_at": "2026-09-15 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-07 02:00:00+00:00",
+    "sent_to_production_at": "2026-09-07 07:00:00+00:00",
+    "fulfilled_at": "2026-09-11 07:00:00+00:00"
+  },
+  {
+    "id": "7951e9cc05a41da48d27d96c",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Thea",
+      "last_name": "Quimby",
+      "email": "thea.quimby@mail.example",
+      "phone": "(207) 555-0167",
+      "country": "US",
+      "region": "NY",
+      "address1": "165 Tidewrack Road",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "a04c6a51dca58ab9fc48211d",
+        "variant_id": 17417,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Horizon Tee",
+          "price": 3000,
+          "variant_label": "Natural / M",
+          "sku": "SMC-12-17417",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "a04c6a51dca58ab9fc48211d",
+        "variant_id": 17417,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Horizon Tee",
+          "price": 3000,
+          "variant_label": "Natural / M",
+          "sku": "SMC-12-17417",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1039",
+      "shop_order_label": "#SS1039",
+      "shop_fulfilled_at": "2026-04-22 10:00:00+00:00"
+    },
+    "total_price": 9000,
+    "total_shipping": 950,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "3003275999643267203633",
+        "url": "https://tools.usps.example/track?n=3003275999643267203633",
+        "delivered_at": "2026-04-27 10:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-17 10:00:00+00:00",
+    "sent_to_production_at": "2026-04-18 10:00:00+00:00",
+    "fulfilled_at": "2026-04-22 10:00:00+00:00"
+  },
+  {
+    "id": "a4dd65bd61023133e022fd69",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ainsley",
+      "last_name": "Pellerin",
+      "email": "ainsley.pellerin@mail.example",
+      "phone": "(207) 555-0164",
+      "country": "US",
+      "region": "ME",
+      "address1": "620 Ottercove Way",
+      "address2": "",
+      "city": "Brunswick",
+      "zip": "04011",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17547,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Oatmeal / XL",
+          "sku": "SMC-77-17547",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17561,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Heather Navy / M",
+          "sku": "SMC-77-17561",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "a04c6a51dca58ab9fc48211d",
+        "variant_id": 17434,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Horizon Tee",
+          "price": 3000,
+          "variant_label": "Sage / M",
+          "sku": "SMC-12-17434",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1040",
+      "shop_order_label": "#SS1040",
+      "shop_fulfilled_at": "2026-08-29 07:00:00+00:00"
+    },
+    "total_price": 25000,
+    "total_shipping": 2273,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "3158088531297381911602",
+        "url": "https://tools.usps.example/track?n=3158088531297381911602",
+        "delivered_at": "2026-08-31 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-26 16:00:00+00:00",
+    "sent_to_production_at": "2026-08-27 07:00:00+00:00",
+    "fulfilled_at": "2026-08-29 07:00:00+00:00"
+  },
+  {
+    "id": "99725ec9c7d7ca2b2c2f5a5a",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Harper",
+      "last_name": "Oakhurst",
+      "email": "harper.oakhurst@mail.example",
+      "phone": "(207) 555-0126",
+      "country": "US",
+      "region": "MA",
+      "address1": "2107 Tidewrack Road",
+      "address2": "",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3208952647",
+      "shop_order_label": "3208952647",
+      "shop_fulfilled_at": "2026-09-10 06:00:00+00:00"
+    },
+    "total_price": 500,
+    "total_shipping": 199,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "3791398812133851979290",
+        "url": "https://tools.usps.example/track?n=3791398812133851979290",
+        "delivered_at": "2026-09-12 06:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-05 21:00:00+00:00",
+    "sent_to_production_at": "2026-09-06 06:00:00+00:00",
+    "fulfilled_at": "2026-09-10 06:00:00+00:00"
+  },
+  {
+    "id": "96beb0b78b9e2ccb383cb826",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Umber",
+      "last_name": "Bellweather",
+      "email": "umber.bellweather@mail.example",
+      "phone": "(207) 555-0169",
+      "country": "US",
+      "region": "IL",
+      "address1": "79 Brackenridge Road",
+      "address2": "Apt 33",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17533,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5200,
+          "variant_label": "Oatmeal / M",
+          "sku": "SMC-77-17533",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3271138854",
+      "shop_order_label": "3271138854",
+      "shop_fulfilled_at": "2026-09-14 07:00:00+00:00"
+    },
+    "total_price": 5200,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z7173674058202685",
+        "url": "https://www.ups.example/track?n=1Z7173674058202685",
+        "delivered_at": "2026-09-17 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-08 13:00:00+00:00",
+    "sent_to_production_at": "2026-09-09 07:00:00+00:00",
+    "fulfilled_at": "2026-09-14 07:00:00+00:00"
+  },
+  {
+    "id": "35444c2e82a0fe78e0efa8e0",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Soren",
+      "last_name": "Hatchell",
+      "email": "soren.hatchell@mail.example",
+      "phone": "(207) 555-0101",
+      "country": "US",
+      "region": "CA",
+      "address1": "780 Sallowmere Court",
+      "address2": "",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17529,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5200,
+          "variant_label": "Oatmeal / S",
+          "sku": "SMC-77-17529",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3301061405",
+      "shop_order_label": "3301061405",
+      "shop_fulfilled_at": "2026-06-13 07:00:00+00:00"
+    },
+    "total_price": 5200,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z7114385263378162",
+        "url": "https://www.ups.example/track?n=1Z7114385263378162",
+        "delivered_at": "2026-06-16 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-10 15:00:00+00:00",
+    "sent_to_production_at": "2026-06-11 07:00:00+00:00",
+    "fulfilled_at": "2026-06-13 07:00:00+00:00"
+  },
+  {
+    "id": "ce4d3adb75644d260fa2454c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Briar",
+      "last_name": "Kittredge",
+      "email": "briar.kittredge@mail.example",
+      "phone": "(207) 555-0151",
+      "country": "US",
+      "region": "ME",
+      "address1": "2078 Fenwright Avenue",
+      "address2": "",
+      "city": "Brunswick",
+      "zip": "04011",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17672,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-1098-17672",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17581,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Black / M",
+          "sku": "SMC-77-17581",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3489073756",
+      "shop_order_label": "3489073756",
+      "shop_fulfilled_at": "2026-05-24 07:00:00+00:00"
+    },
+    "total_price": 14400,
+    "total_shipping": 1374,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z5168913023314643",
+        "url": "https://www.ups.example/track?n=1Z5168913023314643",
+        "delivered_at": "2026-05-29 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-21 16:00:00+00:00",
+    "sent_to_production_at": "2026-05-22 07:00:00+00:00",
+    "fulfilled_at": "2026-05-24 07:00:00+00:00"
+  },
+  {
+    "id": "f3ad7e74174b8683082b37e5",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Jordan",
+      "last_name": "Pellerin",
+      "email": "jordan.pellerin@mail.example",
+      "phone": "(207) 555-0108",
+      "country": "US",
+      "region": "MA",
+      "address1": "1555 Wickerby Street",
+      "address2": "",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17547,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Oatmeal / XL",
+          "sku": "SMC-77-17547",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1045",
+      "shop_order_label": "#SS1045",
+      "shop_fulfilled_at": "2026-06-25 06:00:00+00:00"
+    },
+    "total_price": 5500,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z1127321497152186",
+        "url": "https://www.ups.example/track?n=1Z1127321497152186",
+        "delivered_at": "2026-06-28 06:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-21 19:00:00+00:00",
+    "sent_to_production_at": "2026-06-22 06:00:00+00:00",
+    "fulfilled_at": "2026-06-25 06:00:00+00:00"
+  },
+  {
+    "id": "5182dac96c11ee8f5a92c000",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ezra",
+      "last_name": "Wyeth-Lowe",
+      "email": "ezra.wyeth-lowe@mail.example",
+      "phone": "(207) 555-0168",
+      "country": "US",
+      "region": "PA",
+      "address1": "1519 Fenwright Avenue",
+      "address2": "Apt 10",
+      "city": "Lancaster",
+      "zip": "17602",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17566,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / XL",
+          "sku": "SMC-77-17566",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "3802e31192ef1ddfbfe18bb9",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3276315370",
+      "shop_order_label": "3276315370",
+      "shop_fulfilled_at": "2026-05-28 17:00:00+00:00"
+    },
+    "total_price": 5900,
+    "total_shipping": 1098,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "1398578030535026489822",
+        "url": "https://tools.usps.example/track?n=1398578030535026489822",
+        "delivered_at": "2026-06-02 17:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-25 22:00:00+00:00",
+    "sent_to_production_at": "2026-05-26 17:00:00+00:00",
+    "fulfilled_at": "2026-05-28 17:00:00+00:00"
+  },
+  {
+    "id": "afd09c92383d166eb4e13158",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Hollis",
+      "last_name": "Elsworth",
+      "email": "hollis.elsworth@mail.example",
+      "phone": "(207) 555-0140",
+      "country": "US",
+      "region": "RI",
+      "address1": "1846 Larkmoor Lane",
+      "address2": "",
+      "city": "Providence",
+      "zip": "02903",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "1c7b259993db9dc83fcf0197",
+        "variant_id": 17624,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Trimming Tools Tote",
+          "price": 2600,
+          "variant_label": "Black / One size",
+          "sku": "SMC-553-17624",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17472,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "White / S",
+          "sku": "SMC-12-17472",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1047",
+      "shop_order_label": "#SS1047",
+      "shop_fulfilled_at": "2026-07-02 22:00:00+00:00"
+    },
+    "total_price": 9200,
+    "total_shipping": 1549,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "4058717420577693225122",
+        "url": "https://tools.usps.example/track?n=4058717420577693225122",
+        "delivered_at": "2026-07-07 22:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-26 21:00:00+00:00",
+    "sent_to_production_at": "2026-06-27 22:00:00+00:00",
+    "fulfilled_at": "2026-07-02 22:00:00+00:00"
+  },
+  {
+    "id": "0c38fb62041022e73c35f693",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Kit",
+      "last_name": "Hatchell",
+      "email": "kit.hatchell@mail.example",
+      "phone": "(207) 555-0158",
+      "country": "US",
+      "region": "CA",
+      "address1": "688 Fenwright Avenue",
+      "address2": "",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "3b4c9af0666ecdf8aaa67276",
+        "variant_id": 17665,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 219,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Monogram Sticker",
+          "price": 600,
+          "variant_label": "5.5\" x 5.5\"",
+          "sku": "SMC-400-17665",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "1c7b259993db9dc83fcf0197",
+        "variant_id": 17620,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Trimming Tools Tote",
+          "price": 2600,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-553-17620",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "a04c6a51dca58ab9fc48211d",
+        "variant_id": 17436,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Horizon Tee",
+          "price": 3000,
+          "variant_label": "Sage / L",
+          "sku": "SMC-12-17436",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1048",
+      "shop_order_label": "#SS1048",
+      "shop_fulfilled_at": "2026-05-04 11:00:00+00:00"
+    },
+    "total_price": 6200,
+    "total_shipping": 1149,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "9071364713952719152042",
+        "url": "https://tools.usps.example/track?n=9071364713952719152042",
+        "delivered_at": "2026-05-08 11:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-28 15:00:00+00:00",
+    "sent_to_production_at": "2026-04-29 11:00:00+00:00",
+    "fulfilled_at": "2026-05-04 11:00:00+00:00"
+  },
+  {
+    "id": "95cf9f47f18a8e0b33f3e4e0",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Quinn",
+      "last_name": "Tobey",
+      "email": "quinn.tobey@mail.example",
+      "phone": "(207) 555-0121",
+      "country": "US",
+      "region": "MA",
+      "address1": "1983 Quillan Street",
+      "address2": "Apt 35",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17663,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3151795972",
+      "shop_order_label": "3151795972",
+      "shop_fulfilled_at": "2026-08-13 03:00:00+00:00"
+    },
+    "total_price": 1000,
+    "total_shipping": 199,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "0584137166117982731489",
+        "url": "https://tools.usps.example/track?n=0584137166117982731489",
+        "delivered_at": "2026-08-18 03:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-10 07:00:00+00:00",
+    "sent_to_production_at": "2026-08-11 03:00:00+00:00",
+    "fulfilled_at": "2026-08-13 03:00:00+00:00"
+  },
+  {
+    "id": "6cb4f5da72d4fae41b3b9afd",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Mireille",
+      "last_name": "Caskey",
+      "email": "mireille.caskey@mail.example",
+      "phone": "(207) 555-0185",
+      "country": "US",
+      "region": "MN",
+      "address1": "1792 Tidewrack Road",
+      "address2": "Apt 17",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17566,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / XL",
+          "sku": "SMC-77-17566",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3253276147",
+      "shop_order_label": "3253276147",
+      "shop_fulfilled_at": "2026-06-08 19:00:00+00:00"
+    },
+    "total_price": 5400,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z0941036010075285",
+        "url": "https://www.ups.example/track?n=1Z0941036010075285",
+        "delivered_at": "2026-06-13 19:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-04 00:00:00+00:00",
+    "sent_to_production_at": "2026-06-04 19:00:00+00:00",
+    "fulfilled_at": "2026-06-08 19:00:00+00:00"
+  },
+  {
+    "id": "11aceff271e241fb14e36430",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Quinn",
+      "last_name": "Quimby",
+      "email": "quinn.quimby@mail.example",
+      "phone": "(207) 555-0186",
+      "country": "US",
+      "region": "CA",
+      "address1": "829 Brackenridge Road",
+      "address2": "",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "b7c28ba242dfb6d3168882f5",
+        "variant_id": 17624,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Tote",
+          "price": 2400,
+          "variant_label": "Black / One size",
+          "sku": "SMC-553-17624",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3270405104",
+      "shop_order_label": "3270405104",
+      "shop_fulfilled_at": "2026-04-21 06:00:00+00:00"
+    },
+    "total_price": 2400,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "3289373245548361011487",
+        "url": "https://tools.usps.example/track?n=3289373245548361011487",
+        "delivered_at": "2026-04-23 06:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-17 03:00:00+00:00",
+    "sent_to_production_at": "2026-04-17 06:00:00+00:00",
+    "fulfilled_at": "2026-04-21 06:00:00+00:00"
+  },
+  {
+    "id": "88fbf7e31930f1ddcdb6f7fc",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Yael",
+      "last_name": "Dunmore",
+      "email": "yael.dunmore@mail.example",
+      "phone": "(207) 555-0190",
+      "country": "US",
+      "region": "CA",
+      "address1": "808 Ottercove Way",
+      "address2": "",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "a04c6a51dca58ab9fc48211d",
+        "variant_id": 17407,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Horizon Tee",
+          "price": 3000,
+          "variant_label": "White / XL",
+          "sku": "SMC-12-17407",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1052",
+      "shop_order_label": "#SS1052",
+      "shop_fulfilled_at": "2026-09-16 12:00:00+00:00"
+    },
+    "total_price": 6000,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "8887959579140311349307",
+        "url": "https://tools.usps.example/track?n=8887959579140311349307",
+        "delivered_at": "2026-09-20 12:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-13 07:00:00+00:00",
+    "sent_to_production_at": "2026-09-14 12:00:00+00:00",
+    "fulfilled_at": "2026-09-16 12:00:00+00:00"
+  },
+  {
+    "id": "27c8b4c83ccee0905d76efd3",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Kit",
+      "last_name": "Underhill",
+      "email": "kit.underhill@mail.example",
+      "phone": "(207) 555-0141",
+      "country": "US",
+      "region": "CO",
+      "address1": "1273 Sallowmere Court",
+      "address2": "",
+      "city": "Fort Collins",
+      "zip": "80521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17513,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Black / M",
+          "sku": "SMC-12-17513",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "b7c28ba242dfb6d3168882f5",
+        "variant_id": 17624,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Tote",
+          "price": 2400,
+          "variant_label": "Black / One size",
+          "sku": "SMC-553-17624",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3390721323",
+      "shop_order_label": "3390721323",
+      "shop_fulfilled_at": "2026-09-03 17:00:00+00:00"
+    },
+    "total_price": 5300,
+    "total_shipping": 950,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z5410451552596531",
+        "url": "https://www.ups.example/track?n=1Z5410451552596531",
+        "delivered_at": "2026-09-05 17:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-31 14:00:00+00:00",
+    "sent_to_production_at": "2026-08-31 17:00:00+00:00",
+    "fulfilled_at": "2026-09-03 17:00:00+00:00"
+  },
+  {
+    "id": "d588871f1bd5d88aed2172bb",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Hollis",
+      "last_name": "Fairleigh",
+      "email": "hollis.fairleigh@mail.example",
+      "phone": "(207) 555-0173",
+      "country": "US",
+      "region": "MA",
+      "address1": "1776 Quillan Street",
+      "address2": "",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "80fe828df7dd7b2bf8307433",
+        "variant_id": 17640,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 979,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Sale 2026 Poster",
+          "price": 2300,
+          "variant_label": "12\" x 18\"",
+          "sku": "SMC-282-17640",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17581,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Black / M",
+          "sku": "SMC-77-17581",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17479,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "White / L",
+          "sku": "SMC-12-17479",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1054",
+      "shop_order_label": "#SS1054",
+      "shop_fulfilled_at": "2026-07-03 02:00:00+00:00"
+    },
+    "total_price": 10800,
+    "total_shipping": 1973,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z3169571094241136",
+        "url": "https://www.ups.example/track?n=1Z3169571094241136",
+        "delivered_at": "2026-07-07 02:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-29 12:00:00+00:00",
+    "sent_to_production_at": "2026-06-30 02:00:00+00:00",
+    "fulfilled_at": "2026-07-03 02:00:00+00:00"
+  },
+  {
+    "id": "0b5ccc02c87c1eeac3efccb4",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Juniper",
+      "last_name": "Underhill",
+      "email": "juniper.underhill@mail.example",
+      "phone": "(207) 555-0103",
+      "country": "US",
+      "region": "OR",
+      "address1": "635 Pembrook Hollow",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "80fe828df7dd7b2bf8307433",
+        "variant_id": 17632,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 799,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Studio Sale 2026 Poster",
+          "price": 2000,
+          "variant_label": "11\" x 14\"",
+          "sku": "SMC-282-17632",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17473,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "White / M",
+          "sku": "SMC-12-17473",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1055",
+      "shop_order_label": "#SS1055",
+      "shop_fulfilled_at": "2026-07-31 18:00:00+00:00"
+    },
+    "total_price": 8000,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "5037422712434104219791",
+        "url": "https://tools.usps.example/track?n=5037422712434104219791",
+        "delivered_at": "2026-08-04 18:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-07-28 02:00:00+00:00",
+    "sent_to_production_at": "2026-07-28 18:00:00+00:00",
+    "fulfilled_at": "2026-07-31 18:00:00+00:00"
+  },
+  {
+    "id": "f703e8cf308feae729fcf75c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Marlowe",
+      "last_name": "Fairleigh",
+      "email": "marlowe.fairleigh@mail.example",
+      "phone": "(207) 555-0125",
+      "country": "US",
+      "region": "CA",
+      "address1": "1085 Pembrook Hollow",
+      "address2": "",
+      "city": "Arcata",
+      "zip": "95521",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17533,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Oatmeal / M",
+          "sku": "SMC-77-17533",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3146377065",
+      "shop_order_label": "3146377065",
+      "shop_fulfilled_at": "2026-05-25 00:00:00+00:00"
+    },
+    "total_price": 12500,
+    "total_shipping": 1498,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "1155435747674848847468",
+        "url": "https://tools.usps.example/track?n=1155435747674848847468",
+        "delivered_at": "2026-05-29 00:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-20 17:00:00+00:00",
+    "sent_to_production_at": "2026-05-21 00:00:00+00:00",
+    "fulfilled_at": "2026-05-25 00:00:00+00:00"
+  },
+  {
+    "id": "118aa8e396491674c3d0901c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Casey",
+      "last_name": "Tobey",
+      "email": "casey.tobey@mail.example",
+      "phone": "(207) 555-0155",
+      "country": "US",
+      "region": "WA",
+      "address1": "510 Pembrook Hollow",
+      "address2": "",
+      "city": "Bellingham",
+      "zip": "98225",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "3802e31192ef1ddfbfe18bb9",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Tide Pool Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3463756448",
+      "shop_order_label": "3463756448",
+      "shop_fulfilled_at": "2026-08-23 03:00:00+00:00"
+    },
+    "total_price": 2200,
+    "total_shipping": 798,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z9168801420405729",
+        "url": "https://www.ups.example/track?n=1Z9168801420405729",
+        "delivered_at": "2026-08-28 03:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-17 06:00:00+00:00",
+    "sent_to_production_at": "2026-08-18 03:00:00+00:00",
+    "fulfilled_at": "2026-08-23 03:00:00+00:00"
+  },
+  {
+    "id": "7e2f088b29ac6f131078ecfb",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Lark",
+      "last_name": "Tobey",
+      "email": "lark.tobey@mail.example",
+      "phone": "(207) 555-0137",
+      "country": "US",
+      "region": "MN",
+      "address1": "328 Brackenridge Road",
+      "address2": "",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17513,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "Black / M",
+          "sku": "SMC-12-17513",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1058",
+      "shop_order_label": "#SS1058",
+      "shop_fulfilled_at": "2026-08-21 11:00:00+00:00"
+    },
+    "total_price": 3000,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z8914321143978144",
+        "url": "https://www.ups.example/track?n=1Z8914321143978144",
+        "delivered_at": "2026-08-26 11:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-17 06:00:00+00:00",
+    "sent_to_production_at": "2026-08-17 11:00:00+00:00",
+    "fulfilled_at": "2026-08-21 11:00:00+00:00"
+  },
+  {
+    "id": "08a6790282d81ed581612802",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Harper",
+      "last_name": "Tobey",
+      "email": "harper.tobey@mail.example",
+      "phone": "(207) 555-0176",
+      "country": "US",
+      "region": "RI",
+      "address1": "1634 Fenwright Avenue",
+      "address2": "",
+      "city": "Providence",
+      "zip": "02903",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "49fa6370fdf8a1c82c645396",
+        "variant_id": 17572,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2495,
+        "shipping_cost": 899,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Heather Navy / 2XL",
+          "sku": "SMC-77-17572",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3140813065",
+      "shop_order_label": "3140813065",
+      "shop_fulfilled_at": "2026-04-09 17:00:00+00:00"
+    },
+    "total_price": 12950,
+    "total_shipping": 1498,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z5391615842767056",
+        "url": "https://www.ups.example/track?n=1Z5391615842767056",
+        "delivered_at": "2026-04-14 17:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-04-05 21:00:00+00:00",
+    "sent_to_production_at": "2026-04-06 17:00:00+00:00",
+    "fulfilled_at": "2026-04-09 17:00:00+00:00"
+  },
+  {
+    "id": "fbd5e74cc43e93c6a83f5e14",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Oakley",
+      "last_name": "Quimby",
+      "email": "oakley.quimby@mail.example",
+      "phone": "(207) 555-0149",
+      "country": "US",
+      "region": "RI",
+      "address1": "2030 Larkmoor Lane",
+      "address2": "",
+      "city": "Providence",
+      "zip": "02903",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17493,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Natural / XL",
+          "sku": "SMC-12-17493",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3252675579",
+      "shop_order_label": "3252675579",
+      "shop_fulfilled_at": "2026-05-17 11:00:00+00:00"
+    },
+    "total_price": 2900,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z6431970549213529",
+        "url": "https://www.ups.example/track?n=1Z6431970549213529",
+        "delivered_at": "2026-05-21 11:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-12 08:00:00+00:00",
+    "sent_to_production_at": "2026-05-12 11:00:00+00:00",
+    "fulfilled_at": "2026-05-17 11:00:00+00:00"
+  },
+  {
+    "id": "78810bd694420765baf74e05",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Lark",
+      "last_name": "Zwicker",
+      "email": "lark.zwicker@mail.example",
+      "phone": "(207) 555-0142",
+      "country": "US",
+      "region": "IL",
+      "address1": "1818 Quillan Street",
+      "address2": "",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3425017912",
+      "shop_order_label": "3425017912",
+      "shop_fulfilled_at": "2026-05-31 14:00:00+00:00"
+    },
+    "total_price": 3400,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z3976668011448949",
+        "url": "https://www.ups.example/track?n=1Z3976668011448949",
+        "delivered_at": "2026-06-04 14:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-05-26 09:00:00+00:00",
+    "sent_to_production_at": "2026-05-26 14:00:00+00:00",
+    "fulfilled_at": "2026-05-31 14:00:00+00:00"
+  },
+  {
+    "id": "9ffcb7ea54be3a293c73e76e",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Tatum",
+      "last_name": "Rensselaer",
+      "email": "tatum.rensselaer@mail.example",
+      "phone": "(207) 555-0182",
+      "country": "US",
+      "region": "MA",
+      "address1": "165 Brackenridge Road",
+      "address2": "",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "b7c28ba242dfb6d3168882f5",
+        "variant_id": 17620,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Tote",
+          "price": 2400,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-553-17620",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17394,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "White / S",
+          "sku": "SMC-12-17394",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3435638996",
+      "shop_order_label": "3435638996",
+      "shop_fulfilled_at": "2026-10-06 22:00:00+00:00"
+    },
+    "total_price": 5200,
+    "total_shipping": 950,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "7638132428179112861071",
+        "url": "https://tools.usps.example/track?n=7638132428179112861071",
+        "delivered_at": null
+      }
+    ],
+    "created_at": "2026-09-30 19:00:00+00:00",
+    "sent_to_production_at": "2026-10-01 22:00:00+00:00",
+    "fulfilled_at": "2026-10-06 22:00:00+00:00"
+  },
+  {
+    "id": "ebd9bf83458dcd6de465b2f9",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sloane",
+      "last_name": "Hatchell",
+      "email": "sloane.hatchell@mail.example",
+      "phone": "(207) 555-0101",
+      "country": "US",
+      "region": "NY",
+      "address1": "2155 Brackenridge Road",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d22767bd8dcfd171cd6f913f",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Make Bowls Not Walls Mug",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3140591058",
+      "shop_order_label": "3140591058",
+      "shop_fulfilled_at": "2026-07-01 03:00:00+00:00"
+    },
+    "total_price": 1700,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z1516112461769182",
+        "url": "https://www.ups.example/track?n=1Z1516112461769182",
+        "delivered_at": "2026-07-03 03:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-06-25 13:00:00+00:00",
+    "sent_to_production_at": "2026-06-26 03:00:00+00:00",
+    "fulfilled_at": "2026-07-01 03:00:00+00:00"
+  },
+  {
+    "id": "366033344a03c1fdf9cb1831",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Umber",
+      "last_name": "Zwicker",
+      "email": "umber.zwicker@mail.example",
+      "phone": "(207) 555-0129",
+      "country": "US",
+      "region": "NY",
+      "address1": "742 Larkmoor Lane",
+      "address2": "Apt 38",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17554,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "in-production",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Heather Navy / S",
+          "sku": "SMC-77-17554",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "3b4c9af0666ecdf8aaa67276",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "in-production",
+        "metadata": {
+          "title": "Saltmarsh Monogram Sticker",
+          "price": 550,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1064",
+      "shop_order_label": "#SS1064",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 6050,
+    "total_shipping": 1098,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-26 17:00:00+00:00",
+    "sent_to_production_at": "2026-09-27 04:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "baa1e45d229caed52c617b33",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Perrin",
+      "last_name": "Gorham",
+      "email": "perrin.gorham@mail.example",
+      "phone": "(207) 555-0107",
+      "country": "US",
+      "region": "NY",
+      "address1": "1196 Ottercove Way",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3251412716",
+      "shop_order_label": "3251412716",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5350,
+    "total_shipping": 1198,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-30 03:00:00+00:00",
+    "sent_to_production_at": "2026-09-30 06:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "5a563666623377dcc2839045",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Umber",
+      "last_name": "Hatchell",
+      "email": "umber.hatchell@mail.example",
+      "phone": "(207) 555-0180",
+      "country": "US",
+      "region": "NH",
+      "address1": "2278 Tidewrack Road",
+      "address2": "Apt 38",
+      "city": "Portsmouth",
+      "zip": "03801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "be66a9a66106c630937cbd9c",
+        "variant_id": 17491,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Throw It Again Tee",
+          "price": 2700,
+          "variant_label": "Natural / L",
+          "sku": "SMC-12-17491",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3148774883",
+      "shop_order_label": "3148774883",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5400,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-26 05:00:00+00:00",
+    "sent_to_production_at": "2026-09-26 15:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "b1320a95d3259d7ca1ce6245",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Dakota",
+      "last_name": "Merrow",
+      "email": "dakota.merrow@mail.example",
+      "phone": "(207) 555-0174",
+      "country": "US",
+      "region": "NY",
+      "address1": "1974 Sallowmere Court",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d22767bd8dcfd171cd6f913f",
+        "variant_id": 17601,
+        "quantity": 2,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Make Bowls Not Walls Mug",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "d22767bd8dcfd171cd6f913f",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Make Bowls Not Walls Mug",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3380898301",
+      "shop_order_label": "3380898301",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5100,
+    "total_shipping": 1198,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-28 00:00:00+00:00",
+    "sent_to_production_at": "2026-09-28 21:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "117d5f7dc0dfc05e73f1f6f8",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Greer",
+      "last_name": "Fairleigh",
+      "email": "greer.fairleigh@mail.example",
+      "phone": "(207) 555-0194",
+      "country": "US",
+      "region": "ME",
+      "address1": "1464 Ottercove Way",
+      "address2": "",
+      "city": "Portland",
+      "zip": "04101",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17402,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "White / L",
+          "sku": "SMC-12-17402",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17497,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Sage / L",
+          "sku": "SMC-12-17497",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "ccf57883bda9b2756c280eb3",
+        "variant_id": 17491,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Kiln Gods Badge Tee",
+          "price": 2900,
+          "variant_label": "Natural / L",
+          "sku": "SMC-12-17491",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3352970798",
+      "shop_order_label": "3352970798",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 14300,
+    "total_shipping": 1425,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-02 07:00:00+00:00",
+    "sent_to_production_at": "2026-10-02 14:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "c6b25aa5a66d0760ebb6c5b5",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Riley",
+      "last_name": "Jessup",
+      "email": "riley.jessup@mail.example",
+      "phone": "(207) 555-0110",
+      "country": "US",
+      "region": "IL",
+      "address1": "949 Larkmoor Lane",
+      "address2": "",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "a63bd284df11b6e9e138ba7d",
+        "variant_id": 17649,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Low Tide Map Poster",
+          "price": 3400,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17421,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "Natural / XL",
+          "sku": "SMC-12-17421",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3256212545",
+      "shop_order_label": "3256212545",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 6200,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-30 13:00:00+00:00",
+    "sent_to_production_at": "2026-10-01 09:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "968a58653cb0258ba15e06a2",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Elliot",
+      "last_name": "Hatchell",
+      "email": "elliot.hatchell@mail.example",
+      "phone": "(207) 555-0155",
+      "country": "US",
+      "region": "MN",
+      "address1": "2039 Brackenridge Road",
+      "address2": "",
+      "city": "Duluth",
+      "zip": "55802",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "in-production",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 500,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "b7c28ba242dfb6d3168882f5",
+        "variant_id": 17620,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Fog Line Tote",
+          "price": 2400,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-553-17620",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "b7c28ba242dfb6d3168882f5",
+        "variant_id": 17624,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Fog Line Tote",
+          "price": 2400,
+          "variant_label": "Black / One size",
+          "sku": "SMC-553-17624",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3453866951",
+      "shop_order_label": "3453866951",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5300,
+    "total_shipping": 1149,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-27 20:00:00+00:00",
+    "sent_to_production_at": "2026-09-28 06:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "1f4788f6346e267d76362e33",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Corin",
+      "last_name": "Varnum",
+      "email": "corin.varnum@mail.example",
+      "phone": "(207) 555-0109",
+      "country": "US",
+      "region": "NC",
+      "address1": "514 Harrowgate Lane",
+      "address2": "",
+      "city": "Asheville",
+      "zip": "28801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 2,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "1c7b259993db9dc83fcf0197",
+        "variant_id": 17624,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Trimming Tools Tote",
+          "price": 2600,
+          "variant_label": "Black / One size",
+          "sku": "SMC-553-17624",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1071",
+      "shop_order_label": "#SS1071",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 6200,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-01 14:00:00+00:00",
+    "sent_to_production_at": "2026-10-02 01:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "db08ab50e56d6ec8f26cd97c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Remy",
+      "last_name": "Merrow",
+      "email": "remy.merrow@mail.example",
+      "phone": "(207) 555-0152",
+      "country": "US",
+      "region": "MA",
+      "address1": "427 Sallowmere Court",
+      "address2": "",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "d22767bd8dcfd171cd6f913f",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Make Bowls Not Walls Mug",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "a63bd284df11b6e9e138ba7d",
+        "variant_id": 17649,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Low Tide Map Poster",
+          "price": 3400,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3112574175",
+      "shop_order_label": "3112574175",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 7050,
+    "total_shipping": 1797,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-01 22:00:00+00:00",
+    "sent_to_production_at": "2026-10-02 18:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "40a0509332810df41d5b84db",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sasha",
+      "last_name": "Wyeth-Lowe",
+      "email": "sasha.wyeth-lowe@mail.example",
+      "phone": "(207) 555-0121",
+      "country": "US",
+      "region": "IL",
+      "address1": "1420 Wickerby Street",
+      "address2": "",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "a63bd284df11b6e9e138ba7d",
+        "variant_id": 17644,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1249,
+        "shipping_cost": 599,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Low Tide Map Poster",
+          "price": 2800,
+          "variant_label": "18\" x 24\"",
+          "sku": "SMC-282-17644",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3358240242",
+      "shop_order_label": "3358240242",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 2800,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "sending-to-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-27 03:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "e895a8756dffe00e82fc4356",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Thea",
+      "last_name": "Northcutt",
+      "email": "thea.northcutt@mail.example",
+      "phone": "(207) 555-0155",
+      "country": "US",
+      "region": "NH",
+      "address1": "701 Wickerby Street",
+      "address2": "",
+      "city": "Portsmouth",
+      "zip": "03801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17554,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / S",
+          "sku": "SMC-77-17554",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3229592694",
+      "shop_order_label": "3229592694",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5400,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "sending-to-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-03 12:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "a3b7069783184f3c9ace7ddb",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Fallon",
+      "last_name": "Ashdown",
+      "email": "fallon.ashdown@mail.example",
+      "phone": "(207) 555-0120",
+      "country": "US",
+      "region": "WA",
+      "address1": "492 Wickerby Street",
+      "address2": "",
+      "city": "Bellingham",
+      "zip": "98225",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "a63bd284df11b6e9e138ba7d",
+        "variant_id": 17649,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Low Tide Map Poster",
+          "price": 3400,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "b7c28ba242dfb6d3168882f5",
+        "variant_id": 17620,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1145,
+        "shipping_cost": 475,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Fog Line Tote",
+          "price": 2400,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-553-17620",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "8bad837e23c260b2c0277f2b",
+        "variant_id": 17656,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 158,
+        "shipping_cost": 199,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Casco Bay Gull Sticker",
+          "price": 450,
+          "variant_label": "3\" x 3\"",
+          "sku": "SMC-400-17656",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3250689613",
+      "shop_order_label": "3250689613",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 6250,
+    "total_shipping": 1273,
+    "total_tax": 0,
+    "status": "sending-to-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-03 09:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "a8c31ac1d23d8f3e6dffe2ce",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Casey",
+      "last_name": "Hatchell",
+      "email": "casey.hatchell@mail.example",
+      "phone": "(207) 555-0157",
+      "country": "US",
+      "region": "VT",
+      "address1": "647 Pembrook Hollow",
+      "address2": "",
+      "city": "Burlington",
+      "zip": "05401",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "3b4c9af0666ecdf8aaa67276",
+        "variant_id": 17663,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 180,
+        "shipping_cost": 199,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Saltmarsh Monogram Sticker",
+          "price": 550,
+          "variant_label": "4\" x 4\"",
+          "sku": "SMC-400-17663",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1076",
+      "shop_order_label": "#SS1076",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 550,
+    "total_shipping": 199,
+    "total_tax": 0,
+    "status": "sending-to-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-25 10:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "0934cf6372f509b30fd26d90",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Elliot",
+      "last_name": "Pellerin",
+      "email": "elliot.pellerin@mail.example",
+      "phone": "(207) 555-0136",
+      "country": "US",
+      "region": "VT",
+      "address1": "2017 Harrowgate Lane",
+      "address2": "",
+      "city": "Burlington",
+      "zip": "05401",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17649,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 3600,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17400,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "sending-to-production",
+        "metadata": {
+          "title": "Fog Line Wave Tee",
+          "price": 2800,
+          "variant_label": "White / M",
+          "sku": "SMC-12-17400",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3373058114",
+      "shop_order_label": "3373058114",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 6400,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "sending-to-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-01 07:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "9a8c05d6726e23ac163b4a6d",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Fallon",
+      "last_name": "Dunmore",
+      "email": "fallon.dunmore@mail.example",
+      "phone": "(207) 555-0141",
+      "country": "US",
+      "region": "PA",
+      "address1": "681 Quillan Street",
+      "address2": "",
+      "city": "Lancaster",
+      "zip": "17602",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17581,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "on-hold",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Black / M",
+          "sku": "SMC-77-17581",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1078",
+      "shop_order_label": "#SS1078",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5500,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "on-hold",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-30 22:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "ffba92d992e480551ed8a9a8",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Linden",
+      "last_name": "Ashdown",
+      "email": "linden.ashdown@mail.example",
+      "phone": "(207) 555-0162",
+      "country": "US",
+      "region": "NY",
+      "address1": "1582 Tidewrack Road",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17672,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "on-hold",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Natural / One size",
+          "sku": "SMC-1098-17672",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3329549791",
+      "shop_order_label": "3329549791",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 3600,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "on-hold",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-26 04:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "8a95e089db8e79cb3e2ba638",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Oakley",
+      "last_name": "Bellweather",
+      "email": "oakley.bellweather@mail.example",
+      "phone": "(207) 555-0142",
+      "country": "US",
+      "region": "NC",
+      "address1": "1357 Tidewrack Road",
+      "address2": "",
+      "city": "Asheville",
+      "zip": "28801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "on-hold",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17581,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "on-hold",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Black / M",
+          "sku": "SMC-77-17581",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3135738407",
+      "shop_order_label": "3135738407",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 7350,
+    "total_shipping": 1498,
+    "total_tax": 0,
+    "status": "on-hold",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-27 11:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "a17743d48f6a10c2e659b041",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Sloane",
+      "last_name": "Rensselaer",
+      "email": "sloane.rensselaer@mail.example",
+      "phone": "(207) 555-0129",
+      "country": "US",
+      "region": "ME",
+      "address1": "608 Tidewrack Road",
+      "address2": "",
+      "city": "Brunswick",
+      "zip": "04011",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17430,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "on-hold",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "Sage / S",
+          "sku": "SMC-12-17430",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "on-hold",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3411403477",
+      "shop_order_label": "3411403477",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 4500,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "on-hold",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-25 07:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "6e8ae20e23dd0e530f5e23bd",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Jordan",
+      "last_name": "Sayward",
+      "email": "jordan.sayward@mail.example",
+      "phone": "(207) 555-0166",
+      "country": "US",
+      "region": "ME",
+      "address1": "934 Harrowgate Lane",
+      "address2": "",
+      "city": "Portland",
+      "zip": "04101",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "canceled",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17394,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "canceled",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "White / S",
+          "sku": "SMC-12-17394",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3497568807",
+      "shop_order_label": "3497568807",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 4750,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "canceled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-07-23 17:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "c704ab23b400b425340c7fbb",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ainsley",
+      "last_name": "Yarrow",
+      "email": "ainsley.yarrow@mail.example",
+      "phone": "(207) 555-0126",
+      "country": "US",
+      "region": "RI",
+      "address1": "1098 Sallowmere Court",
+      "address2": "",
+      "city": "Providence",
+      "zip": "02903",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17566,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "canceled",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / XL",
+          "sku": "SMC-77-17566",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3407330872",
+      "shop_order_label": "3407330872",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5400,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "canceled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-05-12 00:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "90ea85e12787e91cc0a31322",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Ezra",
+      "last_name": "Dunmore",
+      "email": "ezra.dunmore@mail.example",
+      "phone": "(207) 555-0111",
+      "country": "US",
+      "region": "ME",
+      "address1": "607 Fenwright Avenue",
+      "address2": "",
+      "city": "Portland",
+      "zip": "04101",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17409,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1279,
+        "shipping_cost": 475,
+        "status": "canceled",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 3100,
+          "variant_label": "White / 2XL",
+          "sku": "SMC-12-17409",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3235062688",
+      "shop_order_label": "3235062688",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 3100,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "canceled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-08-07 10:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "2a55e922a948a3a37651954e",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Kit",
+      "last_name": "Wyeth-Lowe",
+      "email": "kit.wyeth-lowe@mail.example",
+      "phone": "(207) 555-0101",
+      "country": "US",
+      "region": "MA",
+      "address1": "334 Fenwright Avenue",
+      "address2": "",
+      "city": "Salem",
+      "zip": "01970",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17673,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "canceled",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Slate / One size",
+          "sku": "SMC-1098-17673",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "canceled",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3283398290",
+      "shop_order_label": "3283398290",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5300,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "canceled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-20 17:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "93360a9e24458bf92c0694de",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Marlowe",
+      "last_name": "Sayward",
+      "email": "marlowe.sayward@mail.example",
+      "phone": "(207) 555-0171",
+      "country": "US",
+      "region": "NY",
+      "address1": "2111 Tidewrack Road",
+      "address2": "Apt 35",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17640,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 979,
+        "shipping_cost": 599,
+        "status": "canceled",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 2700,
+          "variant_label": "12\" x 18\"",
+          "sku": "SMC-282-17640",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3260519452",
+      "shop_order_label": "3260519452",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 2700,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "canceled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-07-24 08:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "e7d5dbc226d520ea60acf06f",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Elliot",
+      "last_name": "Ashdown",
+      "email": "elliot.ashdown@mail.example",
+      "phone": "(207) 555-0169",
+      "country": "US",
+      "region": "NY",
+      "address1": "2135 Ottercove Way",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4de0cda3237a9cf74058e372",
+        "variant_id": 17601,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 512,
+        "shipping_cost": 599,
+        "status": "has-issues",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1700,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17601",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3410120092",
+      "shop_order_label": "3410120092",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 1700,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "has-issues",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-30 06:00:00+00:00",
+    "sent_to_production_at": "2026-09-30 13:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "86896bb51994a3529d30cef1",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Jordan",
+      "last_name": "Rensselaer",
+      "email": "jordan.rensselaer@mail.example",
+      "phone": "(207) 555-0113",
+      "country": "US",
+      "region": "NC",
+      "address1": "2172 Tidewrack Road",
+      "address2": "",
+      "city": "Asheville",
+      "zip": "28801",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "5e687d6a1bda345f5cda25d5",
+        "variant_id": 17608,
+        "quantity": 1,
+        "print_provider_id": 105,
+        "cost": 538,
+        "shipping_cost": 599,
+        "status": "has-issues",
+        "metadata": {
+          "title": "Coffee and Clay Mug 11oz",
+          "price": 1800,
+          "variant_label": "11oz",
+          "sku": "SMC-68-17608",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1088",
+      "shop_order_label": "#SS1088",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 1800,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "has-issues",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-28 22:00:00+00:00",
+    "sent_to_production_at": "2026-09-30 03:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "322e33d13bf6a5efddbd2228",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Tatum",
+      "last_name": "Kittredge",
+      "email": "tatum.kittredge@mail.example",
+      "phone": "(207) 555-0139",
+      "country": "US",
+      "region": "OR",
+      "address1": "1519 Ottercove Way",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0e6d0f1ca3454710886c50e2",
+        "variant_id": 17649,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1699,
+        "shipping_cost": 599,
+        "status": "has-issues",
+        "metadata": {
+          "title": "Seaglass Palette Poster",
+          "price": 3800,
+          "variant_label": "24\" x 36\"",
+          "sku": "SMC-282-17649",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1089",
+      "shop_order_label": "#SS1089",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 3800,
+    "total_shipping": 599,
+    "total_tax": 0,
+    "status": "has-issues",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-25 03:00:00+00:00",
+    "sent_to_production_at": "2026-09-25 19:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "d4310d7fe00d367e7daf7dfa",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Quinn",
+      "last_name": "Varnum",
+      "email": "quinn.varnum@mail.example",
+      "phone": "(207) 555-0187",
+      "country": "US",
+      "region": "WA",
+      "address1": "1742 Ottercove Way",
+      "address2": "",
+      "city": "Bellingham",
+      "zip": "98225",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17573,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "pending",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Black / S",
+          "sku": "SMC-77-17573",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3393342059",
+      "shop_order_label": "3393342059",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5400,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "pending",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-25 19:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "8a8047b4775c472e4f436d51",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Fallon",
+      "last_name": "Varnum",
+      "email": "fallon.varnum@mail.example",
+      "phone": "(207) 555-0177",
+      "country": "US",
+      "region": "WA",
+      "address1": "872 Fenwright Avenue",
+      "address2": "",
+      "city": "Bellingham",
+      "zip": "98225",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "pending",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0602c19f6796d6f951514c7e",
+        "variant_id": 17673,
+        "quantity": 2,
+        "print_provider_id": 27,
+        "cost": 1675,
+        "shipping_cost": 475,
+        "status": "pending",
+        "metadata": {
+          "title": "Studio Apron",
+          "price": 3600,
+          "variant_label": "Slate / One size",
+          "sku": "SMC-1098-17673",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3419916863",
+      "shop_order_label": "3419916863",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 9150,
+    "total_shipping": 1074,
+    "total_tax": 0,
+    "status": "pending",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-26 05:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "82289f7bc7f8a185a4c402bd",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Kit",
+      "last_name": "Gorham",
+      "email": "kit.gorham@mail.example",
+      "phone": "(207) 555-0174",
+      "country": "US",
+      "region": "OR",
+      "address1": "703 Harrowgate Lane",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "4c9fe4774f084acbc7ad1f49",
+        "variant_id": 17586,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "pending",
+        "metadata": {
+          "title": "Saltmarsh Wordmark Hoodie",
+          "price": 5500,
+          "variant_label": "Black / L",
+          "sku": "SMC-77-17586",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "f28e5d1e37189c7ffb9af2d1",
+        "variant_id": 17472,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "pending",
+        "metadata": {
+          "title": "Wheel and Hands Tee",
+          "price": 3000,
+          "variant_label": "White / S",
+          "sku": "SMC-12-17472",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "#SS1092",
+      "shop_order_label": "#SS1092",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 17000,
+    "total_shipping": 1374,
+    "total_tax": 0,
+    "status": "pending",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-09-25 12:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "d409e322966330543c3b6e8c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Soren",
+      "last_name": "Underhill",
+      "email": "soren.underhill@mail.example",
+      "phone": "(207) 555-0141",
+      "country": "US",
+      "region": "IL",
+      "address1": "1603 Tidewrack Road",
+      "address2": "",
+      "city": "Evanston",
+      "zip": "60201",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "be66a9a66106c630937cbd9c",
+        "variant_id": 17519,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 989,
+        "shipping_cost": 475,
+        "status": "pending",
+        "metadata": {
+          "title": "Throw It Again Tee",
+          "price": 2700,
+          "variant_label": "Black / L",
+          "sku": "SMC-12-17519",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17566,
+        "quantity": 2,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "pending",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / XL",
+          "sku": "SMC-77-17566",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3237858225",
+      "shop_order_label": "3237858225",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 16200,
+    "total_shipping": 1374,
+    "total_tax": 0,
+    "status": "pending",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-10-02 19:00:00+00:00",
+    "sent_to_production_at": null,
+    "fulfilled_at": null
+  },
+  {
+    "id": "020fa6195dc0584fb5701e83",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Umber",
+      "last_name": "Lanphear",
+      "email": "umber.lanphear@mail.example",
+      "phone": "(207) 555-0128",
+      "country": "US",
+      "region": "OR",
+      "address1": "282 Sallowmere Court",
+      "address2": "",
+      "city": "Astoria",
+      "zip": "97103",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "0a54eea95976079db1e23652",
+        "variant_id": 17561,
+        "quantity": 1,
+        "print_provider_id": 41,
+        "cost": 2245,
+        "shipping_cost": 899,
+        "status": "in-production",
+        "metadata": {
+          "title": "Stoneware Club Hoodie",
+          "price": 5400,
+          "variant_label": "Heather Navy / M",
+          "sku": "SMC-77-17561",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3495333561",
+      "shop_order_label": "3495333561",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 5400,
+    "total_shipping": 899,
+    "total_tax": 0,
+    "status": "partially-fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "5654271390436508751770",
+        "url": "https://tools.usps.example/track?n=5654271390436508751770",
+        "delivered_at": "2026-09-05 05:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-29 17:00:00+00:00",
+    "sent_to_production_at": "2026-08-30 05:00:00+00:00",
+    "fulfilled_at": null
+  },
+  {
+    "id": "156423b2d3dad4243be71ccc",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Casey",
+      "last_name": "Fairleigh",
+      "email": "casey.fairleigh@mail.example",
+      "phone": "(207) 555-0155",
+      "country": "US",
+      "region": "NY",
+      "address1": "683 Brackenridge Road",
+      "address2": "",
+      "city": "Hudson",
+      "zip": "12534",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "57998a2b416adbf0a807bf62",
+        "variant_id": 17644,
+        "quantity": 1,
+        "print_provider_id": 88,
+        "cost": 1249,
+        "shipping_cost": 599,
+        "status": "in-production",
+        "metadata": {
+          "title": "Glaze Test Grid Poster",
+          "price": 3000,
+          "variant_label": "18\" x 24\"",
+          "sku": "SMC-282-17644",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "d8567a0544fc106c708bbade",
+        "variant_id": 17414,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Tide Pool Rings Tee",
+          "price": 2800,
+          "variant_label": "Natural / S",
+          "sku": "SMC-12-17414",
+          "country": "United States"
+        }
+      },
+      {
+        "product_id": "83c8620a291e2f6a9d07d723",
+        "variant_id": 17614,
+        "quantity": 1,
+        "print_provider_id": 63,
+        "cost": 629,
+        "shipping_cost": 599,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Kiln Day Countdown Mug 15oz",
+          "price": 1950,
+          "variant_label": "15oz",
+          "sku": "SMC-425-17614",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3293026082",
+      "shop_order_label": "3293026082",
+      "shop_fulfilled_at": null
+    },
+    "total_price": 7750,
+    "total_shipping": 1673,
+    "total_tax": 0,
+    "status": "partially-fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "UPS",
+        "number": "1Z2503187882187062",
+        "url": "https://www.ups.example/track?n=1Z2503187882187062",
+        "delivered_at": "2026-08-31 07:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-08-24 16:00:00+00:00",
+    "sent_to_production_at": "2026-08-25 07:00:00+00:00",
+    "fulfilled_at": null
+  }
+]

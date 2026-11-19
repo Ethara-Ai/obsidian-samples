@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f3a316f28ae25539b6f2af",
+    "name": "The Daily Stoic",
+    "publisher": "Daily Stoic",
+    "description": "A daily reading and reflection on Stoic philosophy.",
+    "language": "en"
+  },
+  {
+    "id": "68642b87ba7eae739804f0",
+    "name": "Dan Carlin's Hardcore History",
+    "publisher": "Dan Carlin",
+    "description": "Long-form history, including the Pacific theater.",
+    "language": "en"
+  },
+  {
+    "id": "6c0172109adc20a4561191",
+    "name": "The Drive with Peter Attia",
+    "publisher": "Peter Attia",
+    "description": "Long-form conversations on health and longevity.",
+    "language": "en"
+  }
+]

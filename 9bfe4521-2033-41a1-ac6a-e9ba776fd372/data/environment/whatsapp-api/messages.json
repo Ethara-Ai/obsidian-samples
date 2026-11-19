@@ -1,0 +1,122 @@
+[
+ {
+  "message_id": "wamid.rc-seed-00",
+  "conversation_id": "conv-rc-calvin",
+  "direction": "inbound",
+  "from_wa_id": "19015550412",
+  "to_wa_id": "19015550100",
+  "type": "text",
+  "text": "Happy Thanksgiving to you and yours, coach.",
+  "template_name": "",
+  "status": "read",
+  "sent_at": "2026-11-26T17:05:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-01",
+  "conversation_id": "conv-rc-calvin",
+  "direction": "outbound",
+  "from_wa_id": "19015550100",
+  "to_wa_id": "19015550412",
+  "type": "text",
+  "text": "Same to you, Calvin.",
+  "template_name": "",
+  "status": "delivered",
+  "sent_at": "2026-11-26T17:40:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-02",
+  "conversation_id": "conv-rc-darnell",
+  "direction": "inbound",
+  "from_wa_id": "19015550176",
+  "to_wa_id": "19015550100",
+  "type": "text",
+  "text": "Booth's set for the 12th at the Park and Semmes lot. I'll bring the smoker over Friday night.",
+  "template_name": "",
+  "status": "read",
+  "sent_at": "2026-12-02T01:20:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-03",
+  "conversation_id": "conv-rc-darnell",
+  "direction": "outbound",
+  "from_wa_id": "19015550100",
+  "to_wa_id": "19015550176",
+  "type": "text",
+  "text": "I'll come straight from Marcus's workout with the canopy.",
+  "template_name": "",
+  "status": "delivered",
+  "sent_at": "2026-12-02T01:34:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-04",
+  "conversation_id": "conv-rc-banks",
+  "direction": "inbound",
+  "from_wa_id": "19015550291",
+  "to_wa_id": "19015550100",
+  "type": "text",
+  "text": "Winter workouts start Saturday the 12th, 9 to 10:30 at the Shelby Farms cages.",
+  "template_name": "",
+  "status": "read",
+  "sent_at": "2026-12-03T22:10:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-05",
+  "conversation_id": "conv-rc-banks",
+  "direction": "outbound",
+  "from_wa_id": "19015550100",
+  "to_wa_id": "19015550291",
+  "type": "text",
+  "text": "Marcus will be there.",
+  "template_name": "",
+  "status": "delivered",
+  "sent_at": "2026-12-03T22:25:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-06",
+  "conversation_id": "conv-rc-cedric",
+  "direction": "inbound",
+  "from_wa_id": "19015550418",
+  "to_wa_id": "19015550100",
+  "type": "text",
+  "text": "Jaylen says thanks for the ride home.",
+  "template_name": "",
+  "status": "read",
+  "sent_at": "2026-12-04T01:05:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-07",
+  "conversation_id": "conv-rc-cedric",
+  "direction": "outbound",
+  "from_wa_id": "19015550100",
+  "to_wa_id": "19015550418",
+  "type": "text",
+  "text": "Anytime.",
+  "template_name": "",
+  "status": "delivered",
+  "sent_at": "2026-12-04T01:12:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-08",
+  "conversation_id": "conv-rc-darnell",
+  "direction": "inbound",
+  "from_wa_id": "19015550176",
+  "to_wa_id": "19015550100",
+  "type": "text",
+  "text": "Tasha made too much gumbo. Come get some Sunday.",
+  "template_name": "",
+  "status": "read",
+  "sent_at": "2026-12-05T21:30:00Z"
+ },
+ {
+  "message_id": "wamid.rc-seed-09",
+  "conversation_id": "conv-rc-darnell",
+  "direction": "outbound",
+  "from_wa_id": "19015550100",
+  "to_wa_id": "19015550176",
+  "type": "text",
+  "text": "After church. Save me a quart.",
+  "template_name": "",
+  "status": "delivered",
+  "sent_at": "2026-12-05T21:48:00Z"
+ }
+]

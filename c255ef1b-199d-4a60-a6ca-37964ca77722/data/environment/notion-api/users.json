@@ -1,0 +1,90 @@
+[
+  {
+    "id": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "account_id": "acct-alex-carter",
+    "name": "Alex Carter",
+    "email": "alex.carter@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "account_id": "acct-alex-carter",
+    "name": "Priya Nair",
+    "email": "priya.nair@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "account_id": "acct-alex-carter",
+    "name": "Diego Santos",
+    "email": "diego.santos@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "account_id": "acct-alex-carter",
+    "name": "Mei Tanaka",
+    "email": "mei.tanaka@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "account_id": "acct-alex-carter",
+    "name": "Ravi Menon",
+    "email": "ravi.menon@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93",
+    "account_id": "acct-alex-carter",
+    "name": "Noah Bennett",
+    "email": "noah.bennett@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+    "account_id": "acct-alex-carter",
+    "name": "Aisha Karimi",
+    "email": "aisha.karimi@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "0d9a5444-6280-4a31-b44a-36bf6f570608",
+    "account_id": "acct-alex-carter",
+    "name": "Sam Okoro",
+    "email": "sam.okoro@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "1594848d-9407-4631-9966-5deae9bae543",
+    "account_id": "acct-alex-carter",
+    "name": "Lena Fischer",
+    "email": "lena.fischer@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "account_id": "acct-alex-carter",
+    "name": "Grace Lee",
+    "email": "grace.lee@contoso.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "f5eaba74-fc7d-4483-a728-b8dda9697571",
+    "account_id": "acct-alex-carter",
+    "name": "Platform Connector",
+    "email": "",
+    "avatar_url": "",
+    "type": "bot"
+  }
+]

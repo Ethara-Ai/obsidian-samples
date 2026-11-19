@@ -1,0 +1,76 @@
+{
+  "stage": 9,
+  "stage_name": "lunch_and_social_mails_land",
+  "description": "Friday 08:40: Sarah writes in a new thread that Sophie's birthday lunch moves to a hotel and later, and the club friend writes in another that the Christmas social moves to a later start in another room.",
+  "applies_between_turns": [
+    "T14",
+    "T15"
+  ],
+  "applied_at_local_time": "2026-12-04T08:40:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_mail_lunch",
+        "service": "gmail-api",
+        "description": "Sarah Edwards's note lands in a new thread to the persona only.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-9df7979757",
+            "thread_id": "thr-d0e69939",
+            "from_addr": "sarah.brennan.teach@gmail.com",
+            "to_addr": "margaret.edwards@Finthesiss.ai",
+            "cc_addr": "",
+            "subject": "Sophie's birthday: change",
+            "snippet": "Change of plan: lunch is now 13:30 at the Cork Harbour Hotel instead of ours.  S",
+            "body": "Change of plan: lunch is now 13:30 at the Cork Harbour Hotel instead of ours.\n\nS",
+            "date": "2026-12-04T08:30:00+00:00",
+            "internal_date": 1796373000000,
+            "size_estimate": 980,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T15"
+      },
+      {
+        "id": "sil_mail_social",
+        "service": "gmail-api",
+        "description": "Orla Keane's note lands in a new thread to the persona only.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-a2a8f88d64",
+            "thread_id": "thr-7eee1c8b",
+            "from_addr": "orla.keane.club@gmail.com",
+            "to_addr": "margaret.edwards@Finthesiss.ai",
+            "cc_addr": "",
+            "subject": "Social moved",
+            "snippet": "Social moved: now Thursday 10 December at 19:30 in the clubhouse, not the Gate Lodge.  Orl",
+            "body": "Social moved: now Thursday 10 December at 19:30 in the clubhouse, not the Gate Lodge.\n\nOrla",
+            "date": "2026-12-04T08:35:00+00:00",
+            "internal_date": 1796373300000,
+            "size_estimate": 991,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T15"
+      }
+    ]
+  }
+}

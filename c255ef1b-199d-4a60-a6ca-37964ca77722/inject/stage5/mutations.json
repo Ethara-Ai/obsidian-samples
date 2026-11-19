@@ -1,0 +1,48 @@
+{
+  "stage": 5,
+  "stage_name": "orla_notes_land",
+  "description": "Wednesday 13:10: the notes of Tuesday's call with the running-club friend gain two lines: the wave start moves and the baggage area moves. Nothing announces it.",
+  "applies_between_turns": [
+    "T9",
+    "T10"
+  ],
+  "applied_at_local_time": "2026-12-02T13:10:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_notes_orla_wave",
+        "service": "google-calendar-api",
+        "description": "Orla's note: the wave start moves.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-1ea4b34cbecfab58",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-1ea4b34cbecfab58",
+          "set": {
+            "description": "Post-call: Wave 2 now starts 09:55."
+          }
+        },
+        "fires_at_turn": "T10"
+      },
+      {
+        "id": "sil_notes_orla_bag",
+        "service": "google-calendar-api",
+        "description": "Orla's note: the baggage area moves.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-1ea4b34cbecfab58",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-1ea4b34cbecfab58",
+          "set": {
+            "description": "Post-call: Wave 2 now starts 09:55. Baggage area moved to Ashtown Gate car park."
+          }
+        },
+        "fires_at_turn": "T10"
+      }
+    ]
+  }
+}

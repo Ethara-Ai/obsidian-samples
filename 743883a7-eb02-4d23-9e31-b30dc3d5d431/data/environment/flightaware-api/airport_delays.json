@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dly-001",
+    "airport_code": "KORD",
+    "category": "weather",
+    "reason": "Thunderstorms and low ceilings are reducing the departure rate.",
+    "delay_secs": "5700",
+    "color": "red",
+    "applies_to": "departures",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-002",
+    "airport_code": "KORD",
+    "category": "traffic volume",
+    "reason": "Arrival flow metering is in effect because of low visibility.",
+    "delay_secs": "2400",
+    "color": "yellow",
+    "applies_to": "arrivals",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-003",
+    "airport_code": "KATL",
+    "category": "weather",
+    "reason": "Thunderstorms near the field are delaying ramp departures.",
+    "delay_secs": "3000",
+    "color": "yellow",
+    "applies_to": "departures",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-004",
+    "airport_code": "KJFK",
+    "category": "traffic volume",
+    "reason": "Gusty crosswinds have cut the runway acceptance rate.",
+    "delay_secs": "2100",
+    "color": "yellow",
+    "applies_to": "both",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-005",
+    "airport_code": "KSFO",
+    "category": "weather",
+    "reason": "Marine layer fog is clearing; low visibility procedures remain in effect.",
+    "delay_secs": "2100",
+    "color": "yellow",
+    "applies_to": "both",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-006",
+    "airport_code": "KSFO",
+    "category": "runway",
+    "reason": "Runway 28R is closed for pavement repair.",
+    "delay_secs": "600",
+    "color": "green",
+    "applies_to": "arrivals",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-007",
+    "airport_code": "KDEN",
+    "category": "weather",
+    "reason": "Gusty winds are slowing runway operations.",
+    "delay_secs": "1500",
+    "color": "yellow",
+    "applies_to": "departures",
+    "updated_at": "2026-10-03T17:58:00Z"
+  },
+  {
+    "id": "dly-008",
+    "airport_code": "KBOS",
+    "category": "traffic volume",
+    "reason": "Strong northeast winds are reducing arrival capacity.",
+    "delay_secs": "1620",
+    "color": "yellow",
+    "applies_to": "arrivals",
+    "updated_at": "2026-10-03T17:58:00Z"
+  }
+]

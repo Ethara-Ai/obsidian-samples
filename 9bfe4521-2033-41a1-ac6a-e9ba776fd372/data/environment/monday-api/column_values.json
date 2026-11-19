@@ -1,0 +1,56 @@
+[
+  {
+    "item_id": "item-1001",
+    "column_id": "status",
+    "text": "In Progress",
+    "value": ""
+  },
+  {
+    "item_id": "item-1001",
+    "column_id": "owner",
+    "text": "Reggie Clayton",
+    "value": "usr-1"
+  },
+  {
+    "item_id": "item-1001",
+    "column_id": "due",
+    "text": "2026-11-30",
+    "value": ""
+  },
+  {
+    "item_id": "item-1002",
+    "column_id": "status",
+    "text": "To Do",
+    "value": ""
+  },
+  {
+    "item_id": "item-1002",
+    "column_id": "owner",
+    "text": "Jerome Simmons",
+    "value": "usr-2"
+  },
+  {
+    "item_id": "item-1002",
+    "column_id": "due",
+    "text": "2026-12-04",
+    "value": ""
+  },
+  {
+    "item_id": "item-1003",
+    "column_id": "status",
+    "text": "Done",
+    "value": ""
+  },
+  {
+    "item_id": "item-1003",
+    "column_id": "owner",
+    "text": "Reggie Clayton",
+    "value": "usr-1"
+  },
+  {
+    "item_id": "item-1003",
+    "column_id": "due",
+    "text": "2026-09-04",
+    "value": ""
+  }
+]

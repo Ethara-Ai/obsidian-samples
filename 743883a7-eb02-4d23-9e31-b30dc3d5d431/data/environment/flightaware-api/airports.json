@@ -1,0 +1,152 @@
+[
+  {
+    "code_icao": "KATL",
+    "code_iata": "ATL",
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "city": "Atlanta, GA",
+    "timezone": "America/New_York",
+    "latitude": "33.6407",
+    "longitude": "-84.4277",
+    "elevation_ft": "1026"
+  },
+  {
+    "code_icao": "KORD",
+    "code_iata": "ORD",
+    "name": "Chicago O'Hare International Airport",
+    "city": "Chicago, IL",
+    "timezone": "America/Chicago",
+    "latitude": "41.9786",
+    "longitude": "-87.9048",
+    "elevation_ft": "672"
+  },
+  {
+    "code_icao": "KDFW",
+    "code_iata": "DFW",
+    "name": "Dallas/Fort Worth International Airport",
+    "city": "Dallas-Fort Worth, TX",
+    "timezone": "America/Chicago",
+    "latitude": "32.8998",
+    "longitude": "-97.0403",
+    "elevation_ft": "607"
+  },
+  {
+    "code_icao": "KDEN",
+    "code_iata": "DEN",
+    "name": "Denver International Airport",
+    "city": "Denver, CO",
+    "timezone": "America/Denver",
+    "latitude": "39.8561",
+    "longitude": "-104.6737",
+    "elevation_ft": "5434"
+  },
+  {
+    "code_icao": "KJFK",
+    "code_iata": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York, NY",
+    "timezone": "America/New_York",
+    "latitude": "40.6413",
+    "longitude": "-73.7781",
+    "elevation_ft": "13"
+  },
+  {
+    "code_icao": "KLAX",
+    "code_iata": "LAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles, CA",
+    "timezone": "America/Los_Angeles",
+    "latitude": "33.9416",
+    "longitude": "-118.4085",
+    "elevation_ft": "128"
+  },
+  {
+    "code_icao": "KSFO",
+    "code_iata": "SFO",
+    "name": "San Francisco International Airport",
+    "city": "San Francisco, CA",
+    "timezone": "America/Los_Angeles",
+    "latitude": "37.6213",
+    "longitude": "-122.3790",
+    "elevation_ft": "13"
+  },
+  {
+    "code_icao": "KSEA",
+    "code_iata": "SEA",
+    "name": "Seattle-Tacoma International Airport",
+    "city": "Seattle, WA",
+    "timezone": "America/Los_Angeles",
+    "latitude": "47.4502",
+    "longitude": "-122.3088",
+    "elevation_ft": "433"
+  },
+  {
+    "code_icao": "KBOS",
+    "code_iata": "BOS",
+    "name": "Boston Logan International Airport",
+    "city": "Boston, MA",
+    "timezone": "America/New_York",
+    "latitude": "42.3656",
+    "longitude": "-71.0096",
+    "elevation_ft": "20"
+  },
+  {
+    "code_icao": "KMIA",
+    "code_iata": "MIA",
+    "name": "Miami International Airport",
+    "city": "Miami, FL",
+    "timezone": "America/New_York",
+    "latitude": "25.7959",
+    "longitude": "-80.2870",
+    "elevation_ft": "8"
+  },
+  {
+    "code_icao": "KPHX",
+    "code_iata": "PHX",
+    "name": "Phoenix Sky Harbor International Airport",
+    "city": "Phoenix, AZ",
+    "timezone": "America/Phoenix",
+    "latitude": "33.4342",
+    "longitude": "-112.0116",
+    "elevation_ft": "1135"
+  },
+  {
+    "code_icao": "KLAS",
+    "code_iata": "LAS",
+    "name": "Harry Reid International Airport",
+    "city": "Las Vegas, NV",
+    "timezone": "America/Los_Angeles",
+    "latitude": "36.0840",
+    "longitude": "-115.1537",
+    "elevation_ft": "2181"
+  },
+  {
+    "code_icao": "KMSP",
+    "code_iata": "MSP",
+    "name": "Minneapolis-Saint Paul International Airport",
+    "city": "Minneapolis, MN",
+    "timezone": "America/Chicago",
+    "latitude": "44.8848",
+    "longitude": "-93.2223",
+    "elevation_ft": "841"
+  },
+  {
+    "code_icao": "KCLT",
+    "code_iata": "CLT",
+    "name": "Charlotte Douglas International Airport",
+    "city": "Charlotte, NC",
+    "timezone": "America/New_York",
+    "latitude": "35.2140",
+    "longitude": "-80.9431",
+    "elevation_ft": "748"
+  },
+  {
+    "code_icao": "KEWR",
+    "code_iata": "EWR",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark, NJ",
+    "timezone": "America/New_York",
+    "latitude": "40.6895",
+    "longitude": "-74.1745",
+    "elevation_ft": "18"
+  }
+]

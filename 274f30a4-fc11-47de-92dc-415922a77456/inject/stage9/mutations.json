@@ -1,0 +1,56 @@
+{
+  "stage": 9,
+  "stage_name": "graduates_send",
+  "description": "Friday 07:25: Lena Whitaker emails Ryan, in a new thread, her make-up log as she scanned it on the training room copier on Thursday, after Wednesday's make-up night: Elena Petrova (S6) and Louis Brennan (S7) done 12/9, Monique Daley (S8) no show, and a new line, Brandon Hughes (S9, left 7:55) done. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it.",
+  "applies_between_turns": [
+    "T15",
+    "T16"
+  ],
+  "applied_at_local_time": "2026-12-11T07:25:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h1_attachment",
+        "action": "copy",
+        "src": "files/Scan_0412.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52327/2/Scan_0412.jpg",
+        "description": "The attachment of Lena Whitaker (her make-up log, scanned on the training room copier)'s mail, in the Mail app's attachment store. Lena's make-up log after Wednesday: Brandon Hughes, Elena Petrova and Louis Brennan made up; Monique Daley no show.",
+        "fires_at_turn": "T16"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_h1_mail",
+        "service": "gmail-api",
+        "description": "Lena Whitaker (her make-up log, scanned on the training room copier) emails Ryan a photo. Lena's make-up log after Wednesday: Brandon Hughes, Elena Petrova and Louis Brennan made up; Monique Daley no show.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-19675e60e3",
+            "thread_id": "thr-2bcf2268",
+            "from_addr": "lena.whitaker@gmail.com",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "Scan_0412.jpg",
+            "snippet": "Scan_0412.jpg Lena",
+            "body": "Scan_0412.jpg\n\nLena",
+            "date": "2026-12-11T07:25:00-05:00",
+            "internal_date": 1796991900000,
+            "size_estimate": 184019,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T16"
+      }
+    ]
+  }
+}

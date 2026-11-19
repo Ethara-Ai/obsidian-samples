@@ -1,0 +1,149 @@
+[
+  {
+    "id": "be89d0ff00d38174afd524fb0fbbc1b9",
+    "name": "Pop",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 1
+  },
+  {
+    "id": "5ba1bd9878db4c1e9a066965e4811b6a",
+    "name": "Climb",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 2
+  },
+  {
+    "id": "a43916b9aa13107968eaed9e903a586d",
+    "name": "HIIT",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 3
+  },
+  {
+    "id": "97876a865c181ab0a230a4b0f3d71cea",
+    "name": "Power Zone",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 4
+  },
+  {
+    "id": "6e5b33891ed995067762b5c964f7585a",
+    "name": "Low Impact",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 5
+  },
+  {
+    "id": "0f74a8c358e4b89f6baf298fa2fda818",
+    "name": "90s",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 6
+  },
+  {
+    "id": "a92fa52b3b41f8b59a9bf59280381de4",
+    "name": "Warm Up / Cool Down",
+    "fitness_discipline": "cycling",
+    "is_active": true,
+    "list_order": 7
+  },
+  {
+    "id": "39279a1979952ee7073c953cb490044e",
+    "name": "Full Body",
+    "fitness_discipline": "strength",
+    "is_active": true,
+    "list_order": 8
+  },
+  {
+    "id": "eb41c4ff504d65af8271925f8e540a7f",
+    "name": "Upper Body",
+    "fitness_discipline": "strength",
+    "is_active": true,
+    "list_order": 9
+  },
+  {
+    "id": "23356714c3a2453625c06752c25316a9",
+    "name": "Lower Body",
+    "fitness_discipline": "strength",
+    "is_active": true,
+    "list_order": 10
+  },
+  {
+    "id": "853a4696db65b72fc5644f124083694d",
+    "name": "Core",
+    "fitness_discipline": "strength",
+    "is_active": true,
+    "list_order": 11
+  },
+  {
+    "id": "17f94f3bc95c88982635f8788a11ddec",
+    "name": "Flow",
+    "fitness_discipline": "yoga",
+    "is_active": true,
+    "list_order": 12
+  },
+  {
+    "id": "d24f1f56c2b772b0cb23d365e35931cf",
+    "name": "Restorative",
+    "fitness_discipline": "yoga",
+    "is_active": true,
+    "list_order": 13
+  },
+  {
+    "id": "13e061d0796d8d6f7248327067170b31",
+    "name": "Yin",
+    "fitness_discipline": "yoga",
+    "is_active": true,
+    "list_order": 14
+  },
+  {
+    "id": "dca7640d230441d5f2b7402048e4e6b7",
+    "name": "Full Body Stretch",
+    "fitness_discipline": "stretching",
+    "is_active": true,
+    "list_order": 15
+  },
+  {
+    "id": "4e2f360ac32a33d528baa50e1f371e21",
+    "name": "Post-Ride Stretch",
+    "fitness_discipline": "stretching",
+    "is_active": true,
+    "list_order": 16
+  },
+  {
+    "id": "1c4c0673a0f6cf045786b560a16efc06",
+    "name": "Sleep",
+    "fitness_discipline": "meditation",
+    "is_active": true,
+    "list_order": 17
+  },
+  {
+    "id": "9af9ea03990ccf81587e95517700c5c9",
+    "name": "Mindfulness",
+    "fitness_discipline": "meditation",
+    "is_active": true,
+    "list_order": 18
+  },
+  {
+    "id": "10ef852ce214ac260dc06a71a09b9fad",
+    "name": "Endurance",
+    "fitness_discipline": "running",
+    "is_active": true,
+    "list_order": 19
+  },
+  {
+    "id": "5963dbe61768cdfdfae6aa9c52cebe1d",
+    "name": "Intervals",
+    "fitness_discipline": "running",
+    "is_active": true,
+    "list_order": 20
+  },
+  {
+    "id": "dbcf6107f7a42ef88ca450a6101d63fd",
+    "name": "Power Walk",
+    "fitness_discipline": "walking",
+    "is_active": true,
+    "list_order": 21
+  }
+]

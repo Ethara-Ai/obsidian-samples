@@ -1,0 +1,80 @@
+{
+  "stage": 3,
+  "stage_name": "speaker_send",
+  "description": "Thursday 06:55: the 1910 Broadway Facilities Desk emails Ryan, in a new thread, a photo of the room board as revised: Thursday's PRIDE graduation crossed out of Training Room 2B (no heat) and written into the Conference Center 1C row, 6-9p. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Thursday 06:50: Coach David Parker asks to borrow a folding table, for the team party on Sunday in a WhatsApp message to Ryan (unannounced).",
+  "applies_between_turns": [
+    "T9",
+    "T10"
+  ],
+  "applied_at_local_time": "2026-12-10T06:55:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h3_attachment",
+        "action": "copy",
+        "src": "files/board_1210.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52321/2/board_1210.jpg",
+        "description": "The attachment of the 1910 Broadway Facilities Desk's mail, in the Mail app's attachment store. Facilities moves Thursday's graduation to Conference Center Room 1C.",
+        "fires_at_turn": "T10"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_h3_mail",
+        "service": "gmail-api",
+        "description": "the 1910 Broadway Facilities Desk emails Ryan a photo. Facilities moves Thursday's graduation to Conference Center Room 1C.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-81d70ed71b",
+            "thread_id": "thr-2a1f2c1c",
+            "from_addr": "facilities.desk@bldg1910.example",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "board_1210.jpg",
+            "snippet": "board_1210.jpg Facilities Desk, x4410",
+            "body": "board_1210.jpg\n\nFacilities Desk, x4410",
+            "date": "2026-12-10T06:55:00-05:00",
+            "internal_date": 1796903700000,
+            "size_estimate": 184038,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T10"
+      },
+      {
+        "id": "sil_wa_coach",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Ryan's chat with David Parker.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.9cb6c3b85cde00e12f19",
+            "conversation_id": "conv-rm-coach",
+            "direction": "inbound",
+            "from_wa_id": "14105550274",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "Marcus said you might have a folding table we could borrow for the team party Sunday?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T11:50:00Z"
+          }
+        },
+        "fires_at_turn": "T10"
+      }
+    ]
+  }
+}

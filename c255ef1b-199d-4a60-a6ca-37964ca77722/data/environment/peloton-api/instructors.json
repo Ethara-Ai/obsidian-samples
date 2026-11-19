@@ -1,0 +1,109 @@
+[
+  {
+    "id": "83c9e5db8f89697fba6dd33e22266a0b",
+    "name": "Mara Quinlan",
+    "first_name": "Mara",
+    "last_name": "Quinlan",
+    "username": "mara.quinlan",
+    "bio": "Former track cyclist who coaches climbs and intervals.",
+    "fitness_disciplines": [
+      "cycling",
+      "strength"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/mara-quinlan.jpg"
+  },
+  {
+    "id": "8c39d2ee690383a8ae5b7a7da9f7e03c",
+    "name": "Theo Lindgren",
+    "first_name": "Theo",
+    "last_name": "Lindgren",
+    "username": "theo.lindgren",
+    "bio": "Endurance coach known for steady power zone rides.",
+    "fitness_disciplines": [
+      "cycling",
+      "running"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/theo-lindgren.jpg"
+  },
+  {
+    "id": "1939b0172c97bfa571ad04cf4be4be01",
+    "name": "Callie Renner",
+    "first_name": "Callie",
+    "last_name": "Renner",
+    "username": "callie.renner",
+    "bio": "Teaches slow flows and restorative yoga.",
+    "fitness_disciplines": [
+      "yoga",
+      "meditation",
+      "stretching"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/callie-renner.jpg"
+  },
+  {
+    "id": "d94d7fdcf41c2ed896256bbeb51f55bf",
+    "name": "Rafael Ibarra",
+    "first_name": "Rafael",
+    "last_name": "Ibarra",
+    "username": "rafael.ibarra",
+    "bio": "Strength coach focused on form and progressive load.",
+    "fitness_disciplines": [
+      "strength",
+      "cycling"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/rafael-ibarra.jpg"
+  },
+  {
+    "id": "44e607c587b8d17b3b0b01d086bfc778",
+    "name": "June Halvorsen",
+    "first_name": "June",
+    "last_name": "Halvorsen",
+    "username": "june.halvorsen",
+    "bio": "Marathoner who teaches tread and walking classes.",
+    "fitness_disciplines": [
+      "running",
+      "walking",
+      "stretching"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/june-halvorsen.jpg"
+  },
+  {
+    "id": "c34457d6ba0fc4782a9028a20d9604ae",
+    "name": "Sasha Brennan",
+    "first_name": "Sasha",
+    "last_name": "Brennan",
+    "username": "sasha.brennan",
+    "bio": "Rides to pop and 90s playlists; teaches sleep meditation.",
+    "fitness_disciplines": [
+      "cycling",
+      "meditation"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/sasha-brennan.jpg"
+  },
+  {
+    "id": "bea235b2a0ab26acfcc18536cfc647f1",
+    "name": "Nico Albright",
+    "first_name": "Nico",
+    "last_name": "Albright",
+    "username": "nico.albright",
+    "bio": "Coaches HIIT rides and core strength.",
+    "fitness_disciplines": [
+      "cycling",
+      "strength"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/nico-albright.jpg"
+  },
+  {
+    "id": "a7f5050da4a714d3a22116b9c3fd9d7f",
+    "name": "Imani Oduya",
+    "first_name": "Imani",
+    "last_name": "Oduya",
+    "username": "imani.oduya",
+    "bio": "Yoga teacher for flows, yin and breathwork.",
+    "fitness_disciplines": [
+      "yoga",
+      "stretching",
+      "meditation"
+    ],
+    "image_url": "https://images.mock-peloton.example/instructors/imani-oduya.jpg"
+  }
+]

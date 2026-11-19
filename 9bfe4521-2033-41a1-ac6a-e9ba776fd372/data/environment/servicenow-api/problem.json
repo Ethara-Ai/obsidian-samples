@@ -1,0 +1,14 @@
+[
+  {
+    "sys_id": "prb-0003001",
+    "number": "PRB0003001",
+    "short_description": "Recurring shop printer network drops",
+    "description": "Root cause review for the shop printer losing its network connection.",
+    "state": "2",
+    "priority": "3",
+    "assigned_to": "usr-helpdesk",
+    "opened_by": "usr-reggie",
+    "opened_at": "2026-10-09T11:00:00Z",
+    "related_incident": "inc-0001001"
+  }
+]

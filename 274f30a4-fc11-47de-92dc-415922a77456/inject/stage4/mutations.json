@@ -1,0 +1,80 @@
+{
+  "stage": 4,
+  "stage_name": "cake_send",
+  "description": "Thursday 07:15: Sweet Mercy Bakery emails Ryan, in a new thread, a photo of order slip 1187 as revised: the 4:30 PM pickup struck, 3:30, closing early Thursday. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Thursday 07:10: Lena Whitaker asks to borrow his presentation clicker, for a training she runs next Tuesday in a WhatsApp message to Ryan (unannounced).",
+  "applies_between_turns": [
+    "T10",
+    "T11"
+  ],
+  "applied_at_local_time": "2026-12-10T07:15:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h7_attachment",
+        "action": "copy",
+        "src": "files/order1187.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52324/2/order1187.jpg",
+        "description": "The attachment of Sweet Mercy Bakery's mail, in the Mail app's attachment store. Sweet Mercy Bakery moves the cake pickup to 3:30 PM.",
+        "fires_at_turn": "T11"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_h7_mail",
+        "service": "gmail-api",
+        "description": "Sweet Mercy Bakery emails Ryan a photo. Sweet Mercy Bakery moves the cake pickup to 3:30 PM.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-8d70d71539",
+            "thread_id": "thr-aebb7331",
+            "from_addr": "orders@sweetmercybakery.example",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "order1187.jpg",
+            "snippet": "order1187.jpg Sweet Mercy",
+            "body": "order1187.jpg\n\nSweet Mercy",
+            "date": "2026-12-10T07:15:00-05:00",
+            "internal_date": 1796904900000,
+            "size_estimate": 184026,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T11"
+      },
+      {
+        "id": "sil_wa_lena",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Ryan's chat with Lena Whitaker.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.aab900dbdbe8a238c9bd",
+            "conversation_id": "conv-rm-lena",
+            "direction": "inbound",
+            "from_wa_id": "14105550318",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "My clicker died. Can I borrow yours for a training I'm running next Tuesday?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T12:10:00Z"
+          }
+        },
+        "fires_at_turn": "T11"
+      }
+    ]
+  }
+}

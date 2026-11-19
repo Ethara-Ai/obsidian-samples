@@ -1,0 +1,80 @@
+{
+  "stage": 8,
+  "stage_name": "mv_resale_certificate",
+  "description": "Friday 13:20: Priya logs a call with Maison Verde's trade desk under Project log on the Pemberton Georgetown page: they now need Wright Interiors' DC resale certificate with every trade order, or they add DC sales tax. No other source mentions a resale certificate. Nothing announces it.",
+  "applies_between_turns": [
+    "T17",
+    "T18"
+  ],
+  "applied_at_local_time": "2026-10-30T13:20:00-04:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_spine_log_resale_certificate",
+        "service": "notion-api",
+        "description": "Priya logs Maison Verde's new requirement on the Pemberton Georgetown page.",
+        "method": "PATCH",
+        "path": "/v1/blocks/c327a8ab-8d1d-5689-8792-d4a627b1e174/children",
+        "admin": {
+          "op": "upsert",
+          "table": "blocks",
+          "row": {
+            "id": "a526078b-bfed-5437-add8-0cccb32a2a96",
+            "account_id": "acct-jessica-wright",
+            "parent": {
+              "type": "page_id",
+              "page_id": "c327a8ab-8d1d-5689-8792-d4a627b1e174"
+            },
+            "position": 3,
+            "type": "bulleted_list_item",
+            "payload": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Oct 30, Priya: Maison Verde's trade desk: they now need our DC resale certificate with every trade order, or they add DC sales tax."
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Oct 30, Priya: Maison Verde's trade desk: they now need our DC resale certificate with every trade order, or they add DC sales tax."
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false,
+            "created_time": "2026-10-30T17:20:00.000Z",
+            "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+            "last_edited_time": "2026-10-30T17:20:00.000Z",
+            "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+          }
+        },
+        "fires_at_turn": "T18"
+      },
+      {
+        "id": "sil_spine_log_resale_certificate_page",
+        "service": "notion-api",
+        "description": "The Pemberton Georgetown page's edit time moves with the new entry, as in Notion.",
+        "method": "PATCH",
+        "path": "/v1/blocks/c327a8ab-8d1d-5689-8792-d4a627b1e174/children",
+        "admin": {
+          "op": "patch",
+          "table": "pages",
+          "pk": "c327a8ab-8d1d-5689-8792-d4a627b1e174",
+          "set": {
+            "last_edited_time": "2026-10-30T17:20:00.000Z",
+            "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+          }
+        },
+        "fires_at_turn": "T18"
+      }
+    ]
+  }
+}

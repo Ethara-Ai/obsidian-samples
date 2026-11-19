@@ -1,0 +1,10845 @@
+[
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:1",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Person"
+      },
+      {
+        "v": "Start"
+      },
+      {
+        "v": "End"
+      },
+      {
+        "v": "Working days"
+      },
+      {
+        "v": "Type"
+      },
+      {
+        "v": "Coverage owner"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:2",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "d": "2026-01-12"
+      },
+      {
+        "d": "2026-01-16"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Sofia Marchetti"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:3",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "d": "2026-02-16"
+      },
+      {
+        "d": "2026-02-20"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:4",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "d": "2026-03-23"
+      },
+      {
+        "d": "2026-03-27"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Jerome Castillo"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:5",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "d": "2026-04-06"
+      },
+      {
+        "d": "2026-04-10"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:6",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Jerome Castillo"
+      },
+      {
+        "d": "2026-05-26"
+      },
+      {
+        "d": "2026-05-29"
+      },
+      {
+        "v": 4
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": "After Memorial Day"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:7",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Sofia Marchetti"
+      },
+      {
+        "d": "2026-06-15"
+      },
+      {
+        "d": "2026-06-26"
+      },
+      {
+        "v": 10
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Hannah Brooks"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:8",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "d": "2026-07-06"
+      },
+      {
+        "d": "2026-07-10"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:9",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Leah Novak"
+      },
+      {
+        "d": "2026-07-20"
+      },
+      {
+        "d": "2026-07-24"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Ben Hartigan"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:10",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Ben Hartigan"
+      },
+      {
+        "d": "2026-08-10"
+      },
+      {
+        "d": "2026-08-14"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:11",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "d": "2026-08-24"
+      },
+      {
+        "d": "2026-08-28"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Jerome Castillo"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:12",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "d": "2026-09-09"
+      },
+      {
+        "d": "2026-09-13"
+      },
+      {
+        "v": 3
+      },
+      {
+        "v": "Personal"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Family wedding"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:13",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "d": "2026-10-12"
+      },
+      {
+        "d": "2026-10-16"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Sofia Marchetti"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:14",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "d": "2026-10-26"
+      },
+      {
+        "d": "2026-10-27"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": "Conference"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Hospitality Design Expo, Las Vegas"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:15",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "d": "2026-11-23"
+      },
+      {
+        "d": "2026-11-25"
+      },
+      {
+        "v": 3
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Thanksgiving week"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:16",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "Jerome Castillo"
+      },
+      {
+        "d": "2026-11-30"
+      },
+      {
+        "d": "2026-12-04"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:17",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "v": "Sofia Marchetti"
+      },
+      {
+        "d": "2026-12-21"
+      },
+      {
+        "d": "2026-12-23"
+      },
+      {
+        "v": 3
+      },
+      {
+        "v": "Vacation"
+      },
+      {
+        "v": "Hannah Brooks"
+      }
+    ]
+  },
+  {
+    "id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX:0:18",
+    "spreadsheet_id": "1xyWlfawVxzbAu3iqNiOMwFYWc8z4q1mkX",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "v": "Studio closed"
+      },
+      {
+        "d": "2026-12-24"
+      },
+      {
+        "d": "2027-01-01"
+      },
+      {
+        "v": 7
+      },
+      {
+        "v": "Studio holiday"
+      },
+      {},
+      {
+        "v": "Does not count against PTO"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:1",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Client"
+      },
+      {
+        "v": "Status"
+      },
+      {
+        "v": "Account owner"
+      },
+      {
+        "v": "Contract value"
+      },
+      {
+        "v": "Last activity"
+      },
+      {
+        "v": "Primary contact"
+      },
+      {
+        "v": "Email"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:2",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": 412000
+      },
+      {
+        "d": "2026-09-29"
+      },
+      {
+        "v": "Alicia Brandt"
+      },
+      {
+        "v": "a.brandt@brightwell-hospitality.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:3",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Harbor Street Cafe"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": 18500
+      },
+      {
+        "d": "2026-08-14"
+      },
+      {
+        "v": "Omar Haddad"
+      },
+      {
+        "v": "omar@harborstreetcafe.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:4",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Greenline Dental"
+      },
+      {
+        "v": "Prospect"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": 64000
+      },
+      {
+        "d": "2026-09-21"
+      },
+      {
+        "v": "Dr. Nadia Petrov"
+      },
+      {
+        "v": "nadia@greenlinedental.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:5",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": 96000
+      },
+      {
+        "d": "2026-09-29"
+      },
+      {
+        "v": "Kevin Osei"
+      },
+      {
+        "v": "kosei@fultonlofts.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:6",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "North Pier Yoga"
+      },
+      {
+        "v": "Dormant"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": 9200
+      },
+      {
+        "d": "2024-11-18"
+      },
+      {
+        "v": "Ana Ruiz"
+      },
+      {
+        "v": "ana@northpieryoga.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:7",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": 138000
+      },
+      {
+        "d": "2026-08-20"
+      },
+      {
+        "v": "Marion Calloway"
+      },
+      {
+        "v": "mcalloway@callowayfinch.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:8",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Wicker Park Bakehouse"
+      },
+      {
+        "v": "Dormant"
+      },
+      {
+        "v": "Sofia Marchetti"
+      },
+      {
+        "v": 12400
+      },
+      {
+        "d": "2024-06-02"
+      },
+      {
+        "v": "Liam Duffy"
+      },
+      {
+        "v": "liam@wpbakehouse.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:9",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Riverside Pediatrics"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Jerome Castillo"
+      },
+      {
+        "v": 57000
+      },
+      {
+        "d": "2026-09-10"
+      },
+      {
+        "v": "Dr. Helen Cho"
+      },
+      {
+        "v": "hcho@riversidepeds.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:10",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Lumen Coworking"
+      },
+      {
+        "v": "Prospect"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": 120000
+      },
+      {
+        "d": "2026-09-25"
+      },
+      {
+        "v": "Tariq Hassan"
+      },
+      {
+        "v": "tariq@lumencowork.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:11",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Orchard Street Market"
+      },
+      {
+        "v": "Dormant"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "v": 21000
+      },
+      {
+        "d": "2024-09-30"
+      },
+      {
+        "v": "Grace Liu"
+      },
+      {
+        "v": "grace@orchardstmarket.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:12",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Pilsen Arts Collective"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": 15800
+      },
+      {
+        "d": "2026-08-14"
+      },
+      {
+        "v": "Rosa Delgado"
+      },
+      {
+        "v": "rosa@pilsenarts.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:13",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Bluebird Hotel Group"
+      },
+      {
+        "v": "Prospect"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": 240000
+      },
+      {
+        "d": "2026-08-28"
+      },
+      {
+        "v": "Evan Marsh"
+      },
+      {
+        "v": "emarsh@bluebirdhotels.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:14",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Logan Square Dental"
+      },
+      {
+        "v": "Dormant"
+      },
+      {
+        "v": "Jerome Castillo"
+      },
+      {
+        "v": 31000
+      },
+      {
+        "d": "2025-02-14"
+      },
+      {
+        "v": "Dr. Amir Saleh"
+      },
+      {
+        "v": "asaleh@logandental.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:15",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Halsted Fitness"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Sofia Marchetti"
+      },
+      {
+        "v": 44500
+      },
+      {
+        "d": "2026-09-04"
+      },
+      {
+        "v": "Chris Novak"
+      },
+      {
+        "v": "chris@halstedfit.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:16",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "Midway Credit Union"
+      },
+      {
+        "v": "Prospect"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": 85000
+      },
+      {
+        "d": "2026-09-15"
+      },
+      {
+        "v": "Patricia Gomez"
+      },
+      {
+        "v": "pgomez@midwaycu.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:17",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "v": "Canal Street Coffee"
+      },
+      {
+        "v": "Dormant"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": 7600
+      },
+      {
+        "d": "2023-12-08"
+      },
+      {
+        "v": "Ben Ortiz"
+      },
+      {
+        "v": "ben@canalcoffee.example"
+      }
+    ]
+  },
+  {
+    "id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT:0:18",
+    "spreadsheet_id": "1hsxOlE0mDm5Z7IDyNIJ3UAQ6kHAiK-rgT",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "v": "Andersonville Florist"
+      },
+      {
+        "v": "Active"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": 12500
+      },
+      {
+        "d": "2026-09-21"
+      },
+      {
+        "v": "Elena Park"
+      },
+      {
+        "v": "elena@andersonvilleflorist.example"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:1",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Lead"
+      },
+      {
+        "v": "Contact"
+      },
+      {
+        "v": "Stage"
+      },
+      {
+        "v": "Estimated value"
+      },
+      {
+        "v": "Probability"
+      },
+      {
+        "v": "Weighted value"
+      },
+      {
+        "v": "Expected close"
+      },
+      {
+        "v": "Owner"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:2",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Greenline Dental"
+      },
+      {
+        "v": "Dr. Nadia Petrov"
+      },
+      {
+        "v": "Negotiation"
+      },
+      {
+        "v": 64000
+      },
+      {
+        "v": 0.75
+      },
+      {
+        "f": "=D2*E2"
+      },
+      {
+        "d": "2026-10-15"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:3",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Lumen Coworking"
+      },
+      {
+        "v": "Tariq Hassan"
+      },
+      {
+        "v": "Proposal"
+      },
+      {
+        "v": 120000
+      },
+      {
+        "v": 0.4
+      },
+      {
+        "f": "=D3*E3"
+      },
+      {
+        "d": "2026-11-30"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:4",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Bluebird Hotel Group"
+      },
+      {
+        "v": "Evan Marsh"
+      },
+      {
+        "v": "Qualified"
+      },
+      {
+        "v": 240000
+      },
+      {
+        "v": 0.2
+      },
+      {
+        "f": "=D4*E4"
+      },
+      {
+        "d": "2027-01-29"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:5",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Midway Credit Union"
+      },
+      {
+        "v": "Patricia Gomez"
+      },
+      {
+        "v": "Proposal"
+      },
+      {
+        "v": 85000
+      },
+      {
+        "v": 0.4
+      },
+      {
+        "f": "=D5*E5"
+      },
+      {
+        "d": "2026-12-15"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:6",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Kinzie Street Pizza"
+      },
+      {
+        "v": "Joe Abate"
+      },
+      {
+        "v": "Qualified"
+      },
+      {
+        "v": 22000
+      },
+      {
+        "v": 0.25
+      },
+      {
+        "f": "=D6*E6"
+      },
+      {
+        "d": "2026-11-16"
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:7",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Lakeview Animal Clinic"
+      },
+      {
+        "v": "Dr. Sam Patel"
+      },
+      {
+        "v": "Negotiation"
+      },
+      {
+        "v": 38000
+      },
+      {
+        "v": 0.7
+      },
+      {
+        "f": "=D7*E7"
+      },
+      {
+        "d": "2026-10-30"
+      },
+      {
+        "v": "Jerome Castillo"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:8",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "West Loop Climbing"
+      },
+      {
+        "v": "Mia Chen"
+      },
+      {
+        "v": "Proposal"
+      },
+      {
+        "v": 54000
+      },
+      {
+        "v": 0.35
+      },
+      {
+        "f": "=D8*E8"
+      },
+      {
+        "d": "2026-12-01"
+      },
+      {
+        "v": "Sofia Marchetti"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:9",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Union Park Dentistry"
+      },
+      {
+        "v": "Dr. Lee Kim"
+      },
+      {
+        "v": "Lost"
+      },
+      {
+        "v": 47000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D9*E9"
+      },
+      {
+        "d": "2026-08-31"
+      },
+      {
+        "v": "Jerome Castillo"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:10",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Hyde Park Books"
+      },
+      {
+        "v": "Ruth Coleman"
+      },
+      {
+        "v": "Qualified"
+      },
+      {
+        "v": 16000
+      },
+      {
+        "v": 0.2
+      },
+      {
+        "f": "=D10*E10"
+      },
+      {
+        "d": "2027-02-15"
+      },
+      {
+        "v": "Hannah Brooks"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:11",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Fulton Market Lofts, phase 2"
+      },
+      {
+        "v": "Kevin Osei"
+      },
+      {
+        "v": "Negotiation"
+      },
+      {
+        "v": 72000
+      },
+      {
+        "v": 0.6
+      },
+      {
+        "f": "=D11*E11"
+      },
+      {
+        "d": "2026-11-20"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:12",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Ravenswood Brewing"
+      },
+      {
+        "v": "Tom Yates"
+      },
+      {
+        "v": "Proposal"
+      },
+      {
+        "v": 33000
+      },
+      {
+        "v": 0.3
+      },
+      {
+        "f": "=D12*E12"
+      },
+      {
+        "d": "2026-12-10"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:13",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Andersonville Florist"
+      },
+      {
+        "v": "Elena Park"
+      },
+      {
+        "v": "Won"
+      },
+      {
+        "v": 12500
+      },
+      {
+        "v": 1
+      },
+      {
+        "f": "=D13*E13"
+      },
+      {
+        "d": "2026-09-12"
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt:0:14",
+    "spreadsheet_id": "1qJnMm7pJVrJ3MpSQwheHeXPJ2OXTAnJHt",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Total"
+      },
+      {},
+      {},
+      {
+        "f": "=SUM(D2:D13)"
+      },
+      {},
+      {
+        "f": "=SUM(F2:F13)"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:1",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Line item"
+      },
+      {
+        "v": "Property"
+      },
+      {
+        "v": "Category"
+      },
+      {
+        "v": "Budgeted"
+      },
+      {
+        "v": "Spent"
+      },
+      {
+        "v": "Remaining"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:2",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Design fees, all properties"
+      },
+      {
+        "v": "All"
+      },
+      {
+        "v": "Fees"
+      },
+      {
+        "v": 186000
+      },
+      {
+        "v": 124000
+      },
+      {
+        "f": "=D2-E2"
+      },
+      {
+        "v": "Billed monthly as one lump sum"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:3",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "River North reception desk"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 68000
+      },
+      {
+        "v": 61250
+      },
+      {
+        "f": "=D3-E3"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:4",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "River North lounge seating"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 54000
+      },
+      {
+        "v": 38900
+      },
+      {
+        "f": "=D4-E4"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:5",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "River North lighting"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 42000
+      },
+      {
+        "v": 40100
+      },
+      {
+        "f": "=D5-E5"
+      },
+      {
+        "v": "Includes change order 03 for the pendant upgrade"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:6",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "River North art commission"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "Art"
+      },
+      {
+        "v": 18000
+      },
+      {
+        "v": 9000
+      },
+      {
+        "f": "=D6-E6"
+      },
+      {
+        "v": "50 percent deposit paid"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:7",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Midway reception desk"
+      },
+      {
+        "v": "Midway"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 52000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D7-E7"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:8",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Midway lounge seating"
+      },
+      {
+        "v": "Midway"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 39000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D8-E8"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:9",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Midway lighting"
+      },
+      {
+        "v": "Midway"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 31000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D9-E9"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:10",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Lakefront reception desk"
+      },
+      {
+        "v": "Lakefront"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 88000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D10-E10"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:11",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Lakefront lounge seating"
+      },
+      {
+        "v": "Lakefront"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 76000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D11-E11"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:12",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Lakefront lighting"
+      },
+      {
+        "v": "Lakefront"
+      },
+      {
+        "v": "FF&E"
+      },
+      {
+        "v": 58000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D12-E12"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:13",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Reimbursable travel, River North site visits"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "Reimbursable"
+      },
+      {
+        "v": 1200
+      },
+      {
+        "v": 860
+      },
+      {
+        "f": "=D13-E13"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:14",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Reimbursable travel, Lakefront site visit"
+      },
+      {
+        "v": "Lakefront"
+      },
+      {
+        "v": "Reimbursable"
+      },
+      {
+        "v": 1500
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D14-E14"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:15",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Printing and samples"
+      },
+      {
+        "v": "All"
+      },
+      {
+        "v": "Reimbursable"
+      },
+      {
+        "v": 3500
+      },
+      {
+        "v": 2140
+      },
+      {
+        "f": "=D15-E15"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:16",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "Contingency"
+      },
+      {
+        "v": "All"
+      },
+      {
+        "v": "Contingency"
+      },
+      {
+        "v": 25000
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=D16-E16"
+      },
+      {
+        "v": "Released only with Alicia Brandt's approval"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:0:17",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "v": "Total"
+      },
+      {},
+      {},
+      {
+        "f": "=SUM(D2:D16)"
+      },
+      {
+        "f": "=SUM(E2:E16)"
+      },
+      {
+        "f": "=SUM(F2:F16)"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:418306552:1",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 418306552,
+    "row": 1,
+    "values": [
+      {
+        "v": "CO"
+      },
+      {
+        "v": "Description"
+      },
+      {
+        "v": "Property"
+      },
+      {
+        "v": "Amount"
+      },
+      {
+        "v": "Status"
+      },
+      {
+        "v": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:418306552:2",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 418306552,
+    "row": 2,
+    "values": [
+      {
+        "v": "CO-01"
+      },
+      {
+        "v": "Relocate the floor outlet at the reception desk"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": 1850
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "d": "2026-08-12"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:418306552:3",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 418306552,
+    "row": 3,
+    "values": [
+      {
+        "v": "CO-02"
+      },
+      {
+        "v": "Upgrade lounge fabric to performance velvet"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": 3400
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "d": "2026-08-26"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:418306552:4",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 418306552,
+    "row": 4,
+    "values": [
+      {
+        "v": "CO-03"
+      },
+      {
+        "v": "Pendant upgrade over reception"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": 6200
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "d": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu:418306552:5",
+    "spreadsheet_id": "1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu",
+    "sheet_id": 418306552,
+    "row": 5,
+    "values": [
+      {
+        "v": "CO-04"
+      },
+      {
+        "v": "Acoustic panels behind the lounge"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": 4750
+      },
+      {
+        "v": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:1",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Name"
+      },
+      {
+        "v": "Role"
+      },
+      {
+        "v": "Property"
+      },
+      {
+        "v": "Email"
+      },
+      {
+        "v": "Phone"
+      },
+      {
+        "v": "Preferred contact time"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:2",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Alicia Brandt"
+      },
+      {
+        "v": "VP Operations"
+      },
+      {
+        "v": "Corporate"
+      },
+      {
+        "v": "a.brandt@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0140"
+      },
+      {
+        "v": "Tuesday or Thursday mornings"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:3",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Raj Patel"
+      },
+      {
+        "v": "Director of Engineering"
+      },
+      {
+        "v": "Corporate"
+      },
+      {
+        "v": "r.patel@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0143"
+      },
+      {
+        "v": "Afternoons"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:4",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Monica Reyes"
+      },
+      {
+        "v": "General Manager"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "m.reyes@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0171"
+      },
+      {
+        "v": "Before 11:00"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:5",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Darnell Price"
+      },
+      {
+        "v": "General Manager"
+      },
+      {
+        "v": "Midway"
+      },
+      {
+        "v": "d.price@brightwell-hospitality.example"
+      },
+      {
+        "v": "(773) 555-0129"
+      },
+      {
+        "v": "Any weekday"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:6",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Yuki Tanaka"
+      },
+      {
+        "v": "General Manager"
+      },
+      {
+        "v": "Lakefront"
+      },
+      {
+        "v": "y.tanaka@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0188"
+      },
+      {
+        "v": "Mondays and Wednesdays"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:7",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Carla Jensen"
+      },
+      {
+        "v": "Brand Manager"
+      },
+      {
+        "v": "Corporate"
+      },
+      {
+        "v": "c.jensen@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0152"
+      },
+      {
+        "v": "Email only"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:8",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Frank Morales"
+      },
+      {
+        "v": "Chief Engineer"
+      },
+      {
+        "v": "River North"
+      },
+      {
+        "v": "f.morales@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0176"
+      },
+      {
+        "v": "7:00 to 3:00"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:9",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Ivy Chen"
+      },
+      {
+        "v": "Purchasing Manager"
+      },
+      {
+        "v": "Corporate"
+      },
+      {
+        "v": "i.chen@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0161"
+      },
+      {
+        "v": "Afternoons"
+      }
+    ]
+  },
+  {
+    "id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb:0:10",
+    "spreadsheet_id": "1NmPyRlcEiGa9Pr7mJDnHbIQwZM6qgIgMb",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Owen Gallagher"
+      },
+      {
+        "v": "Front Office Manager"
+      },
+      {
+        "v": "Lakefront"
+      },
+      {
+        "v": "o.gallagher@brightwell-hospitality.example"
+      },
+      {
+        "v": "(312) 555-0193"
+      },
+      {
+        "v": "Evenings"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:1",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Code"
+      },
+      {
+        "v": "Item"
+      },
+      {
+        "v": "Location"
+      },
+      {
+        "v": "Supplier"
+      },
+      {
+        "v": "SKU"
+      },
+      {
+        "v": "Lead time (weeks)"
+      },
+      {
+        "v": "Unit"
+      },
+      {
+        "v": "Unit cost"
+      },
+      {
+        "v": "Quantity"
+      },
+      {
+        "v": "Extended cost"
+      },
+      {
+        "v": "Status"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:2",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "WD-01"
+      },
+      {
+        "v": "White oak veneer, rift cut"
+      },
+      {
+        "v": "Reception desk"
+      },
+      {
+        "v": "North Branch Millwork"
+      },
+      {
+        "v": "NBM-WO-RC48"
+      },
+      {
+        "v": 9
+      },
+      {
+        "v": "sq ft"
+      },
+      {
+        "v": 18.5
+      },
+      {
+        "v": 420
+      },
+      {
+        "f": "=H2*I2"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:3",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "ST-01"
+      },
+      {
+        "v": "Terrazzo floor tile, Lakeshore Grey"
+      },
+      {
+        "v": "Lobby floor"
+      },
+      {
+        "v": "Fieldstone Tile & Stone"
+      },
+      {
+        "v": "FTS-TZ-LG2424"
+      },
+      {
+        "v": 6
+      },
+      {
+        "v": "sq ft"
+      },
+      {
+        "v": 42
+      },
+      {
+        "v": 1850
+      },
+      {
+        "f": "=H3*I3"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:4",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "ST-02"
+      },
+      {
+        "v": "Honed limestone desk top"
+      },
+      {
+        "v": "Reception desk"
+      },
+      {
+        "v": "Fieldstone Tile & Stone"
+      },
+      {
+        "v": "FTS-LS-H30"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "sq ft"
+      },
+      {
+        "v": 64
+      },
+      {
+        "v": 36
+      },
+      {
+        "f": "=H4*I4"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:5",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "MT-01"
+      },
+      {
+        "v": "Brushed brass trim"
+      },
+      {
+        "v": "Reception desk"
+      },
+      {
+        "v": "Calumet Metalworks"
+      },
+      {
+        "v": "CMW-BB-075"
+      },
+      {
+        "v": 4
+      },
+      {
+        "v": "lin ft"
+      },
+      {
+        "v": 22
+      },
+      {
+        "v": 160
+      },
+      {
+        "f": "=H5*I5"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:6",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "LT-01"
+      },
+      {
+        "v": "Linear pendant, 6 ft, 2700K"
+      },
+      {
+        "v": "Reception"
+      },
+      {
+        "v": "Arcline Lighting"
+      },
+      {
+        "v": "ARC-LP6-27K"
+      },
+      {
+        "v": 7
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 1450
+      },
+      {
+        "v": 3
+      },
+      {
+        "f": "=H6*I6"
+      },
+      {
+        "v": "Ordered"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:7",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "LT-02"
+      },
+      {
+        "v": "Wall sconce, brass"
+      },
+      {
+        "v": "Lounge"
+      },
+      {
+        "v": "Arcline Lighting"
+      },
+      {
+        "v": "ARC-WS2-BR"
+      },
+      {
+        "v": 6
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 385
+      },
+      {
+        "v": 12
+      },
+      {
+        "f": "=H7*I7"
+      },
+      {
+        "v": "Ordered"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:8",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "FB-01"
+      },
+      {
+        "v": "Performance velvet, Tide"
+      },
+      {
+        "v": "Lounge sofas"
+      },
+      {
+        "v": "Kravet Contract"
+      },
+      {
+        "v": "KC-PV-TIDE"
+      },
+      {
+        "v": 3
+      },
+      {
+        "v": "yd"
+      },
+      {
+        "v": 68
+      },
+      {
+        "v": 64
+      },
+      {
+        "f": "=H8*I8"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:9",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "FB-02"
+      },
+      {
+        "v": "Wool boucle, Oat"
+      },
+      {
+        "v": "Lounge chairs"
+      },
+      {
+        "v": "Maharam"
+      },
+      {
+        "v": "MH-WB-OAT"
+      },
+      {
+        "v": 4
+      },
+      {
+        "v": "yd"
+      },
+      {
+        "v": 92
+      },
+      {
+        "v": 40
+      },
+      {
+        "f": "=H9*I9"
+      },
+      {
+        "v": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:10",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "PT-01"
+      },
+      {
+        "v": "Paint, Swiss Coffee eggshell"
+      },
+      {
+        "v": "Walls"
+      },
+      {
+        "v": "Sherwin-Williams"
+      },
+      {
+        "v": "SW-7569"
+      },
+      {
+        "v": 1
+      },
+      {
+        "v": "gal"
+      },
+      {
+        "v": 64
+      },
+      {
+        "v": 30
+      },
+      {
+        "f": "=H10*I10"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:11",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "WC-01"
+      },
+      {
+        "v": "Grasscloth wallcovering"
+      },
+      {
+        "v": "Feature wall"
+      },
+      {
+        "v": "Phillip Jeffries"
+      },
+      {
+        "v": "PJ-GC-5521"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "yd"
+      },
+      {
+        "v": 115
+      },
+      {
+        "v": 46
+      },
+      {
+        "f": "=H11*I11"
+      },
+      {
+        "v": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:12",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "RG-01"
+      },
+      {
+        "v": "Custom wool rug, 12 x 16 ft"
+      },
+      {
+        "v": "Lounge"
+      },
+      {
+        "v": "Lakeshore Rug Co"
+      },
+      {
+        "v": "LRC-CW-1216"
+      },
+      {
+        "v": 8
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 6800
+      },
+      {
+        "v": 1
+      },
+      {
+        "f": "=H12*I12"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:13",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "FN-01"
+      },
+      {
+        "v": "Lounge chair, walnut frame"
+      },
+      {
+        "v": "Lounge"
+      },
+      {
+        "v": "North Branch Millwork"
+      },
+      {
+        "v": "NBM-LC-WAL"
+      },
+      {
+        "v": 10
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 2150
+      },
+      {
+        "v": 8
+      },
+      {
+        "f": "=H13*I13"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:14",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "FN-02"
+      },
+      {
+        "v": "Sofa, 96 in"
+      },
+      {
+        "v": "Lounge"
+      },
+      {
+        "v": "North Branch Millwork"
+      },
+      {
+        "v": "NBM-SF96"
+      },
+      {
+        "v": 10
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 4900
+      },
+      {
+        "v": 3
+      },
+      {
+        "f": "=H14*I14"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:15",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "FN-03"
+      },
+      {
+        "v": "Side table, terrazzo top"
+      },
+      {
+        "v": "Lounge"
+      },
+      {
+        "v": "Fieldstone Tile & Stone"
+      },
+      {
+        "v": "FTS-ST-18"
+      },
+      {
+        "v": 6
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 640
+      },
+      {
+        "v": 6
+      },
+      {
+        "f": "=H15*I15"
+      },
+      {
+        "v": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:16",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "SG-01"
+      },
+      {
+        "v": "Wayfinding signage set"
+      },
+      {
+        "v": "Entrance"
+      },
+      {
+        "v": "Signal Fabrication"
+      },
+      {
+        "v": "SF-WAY-SET"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": "set"
+      },
+      {
+        "v": 7200
+      },
+      {
+        "v": 1
+      },
+      {
+        "f": "=H16*I16"
+      },
+      {
+        "v": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:17",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "v": "PL-01"
+      },
+      {
+        "v": "Ceramic planter, large"
+      },
+      {
+        "v": "Entrance"
+      },
+      {
+        "v": "Saltmarsh Ceramics"
+      },
+      {
+        "v": "SC-PL-L"
+      },
+      {
+        "v": 4
+      },
+      {
+        "v": "each"
+      },
+      {
+        "v": 340
+      },
+      {
+        "v": 6
+      },
+      {
+        "f": "=H17*I17"
+      },
+      {
+        "v": "Selected"
+      }
+    ]
+  },
+  {
+    "id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs:0:18",
+    "spreadsheet_id": "10dQeA-z_GrIyneY8MBvKqONbjIEpE-PIs",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "v": "Total"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "f": "=SUM(J2:J17)"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:1",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Task"
+      },
+      {
+        "v": "Trade"
+      },
+      {
+        "v": "Start"
+      },
+      {
+        "v": "End"
+      },
+      {
+        "v": "Depends on"
+      },
+      {
+        "v": "Owner"
+      },
+      {
+        "v": "Status"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:2",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Protect floors and set up staging"
+      },
+      {
+        "v": "General contractor"
+      },
+      {
+        "d": "2026-10-19"
+      },
+      {
+        "d": "2026-10-19"
+      },
+      {},
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Confirmed"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:3",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "General contractor"
+      },
+      {
+        "d": "2026-10-19"
+      },
+      {
+        "d": "2026-10-20"
+      },
+      {
+        "v": "Protect floors and set up staging"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Confirmed"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:4",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Electrical rough-in for the new desk"
+      },
+      {
+        "v": "Electrician"
+      },
+      {
+        "d": "2026-10-21"
+      },
+      {
+        "d": "2026-10-22"
+      },
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "Frank Morales"
+      },
+      {
+        "v": "Confirmed"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:5",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Terrazzo tile install"
+      },
+      {
+        "v": "Tile setter"
+      },
+      {
+        "d": "2026-10-21"
+      },
+      {
+        "d": "2026-10-24"
+      },
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Confirmed"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:6",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Set the reception desk"
+      },
+      {
+        "v": "Millwork installer"
+      },
+      {
+        "d": "2026-10-26"
+      },
+      {
+        "d": "2026-10-27"
+      },
+      {
+        "v": "Terrazzo tile install"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:7",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Install pendants and sconces"
+      },
+      {
+        "v": "Electrician"
+      },
+      {
+        "d": "2026-10-27"
+      },
+      {
+        "d": "2026-10-28"
+      },
+      {
+        "v": "Set the reception desk"
+      },
+      {
+        "v": "Frank Morales"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:8",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Paint and wallcovering"
+      },
+      {
+        "v": "Painter"
+      },
+      {
+        "d": "2026-10-26"
+      },
+      {
+        "d": "2026-10-28"
+      },
+      {},
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:9",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Deliver and place furniture"
+      },
+      {
+        "v": "Furniture installer"
+      },
+      {
+        "d": "2026-10-29"
+      },
+      {
+        "d": "2026-10-29"
+      },
+      {
+        "v": "Paint and wallcovering"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:10",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Rug, planters and accessories"
+      },
+      {
+        "v": "Lakeshore Design"
+      },
+      {
+        "d": "2026-10-30"
+      },
+      {
+        "d": "2026-10-30"
+      },
+      {
+        "v": "Deliver and place furniture"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:0:11",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Punch list walkthrough with Monica Reyes"
+      },
+      {
+        "v": "Lakeshore Design"
+      },
+      {
+        "d": "2026-10-30"
+      },
+      {
+        "d": "2026-10-30"
+      },
+      {
+        "v": "Rug, planters and accessories"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:1",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 1,
+    "values": [
+      {
+        "v": "Task"
+      },
+      {
+        "v": "Trade"
+      },
+      {
+        "v": "Start"
+      },
+      {
+        "v": "End"
+      },
+      {
+        "v": "Depends on"
+      },
+      {
+        "v": "Owner"
+      },
+      {
+        "v": "Status"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:2",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 2,
+    "values": [
+      {
+        "v": "Protect floors and set up staging"
+      },
+      {
+        "v": "General contractor"
+      },
+      {
+        "d": "2026-12-07"
+      },
+      {
+        "d": "2026-12-07"
+      },
+      {},
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:3",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 3,
+    "values": [
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "General contractor"
+      },
+      {
+        "d": "2026-12-07"
+      },
+      {
+        "d": "2026-12-08"
+      },
+      {
+        "v": "Protect floors and set up staging"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:4",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 4,
+    "values": [
+      {
+        "v": "Electrical rough-in"
+      },
+      {
+        "v": "Electrician"
+      },
+      {
+        "d": "2026-12-09"
+      },
+      {
+        "d": "2026-12-10"
+      },
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:5",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 5,
+    "values": [
+      {
+        "v": "Set the reception desk"
+      },
+      {
+        "v": "Millwork installer"
+      },
+      {
+        "d": "2026-12-14"
+      },
+      {
+        "d": "2026-12-15"
+      },
+      {
+        "v": "Electrical rough-in"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:6",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 6,
+    "values": [
+      {
+        "v": "Lighting and furniture"
+      },
+      {
+        "v": "Furniture installer"
+      },
+      {
+        "d": "2026-12-16"
+      },
+      {
+        "d": "2026-12-17"
+      },
+      {
+        "v": "Set the reception desk"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:1273469512:7",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 1273469512,
+    "row": 7,
+    "values": [
+      {
+        "v": "Punch list walkthrough with Darnell Price"
+      },
+      {
+        "v": "Lakeshore Design"
+      },
+      {
+        "d": "2026-12-18"
+      },
+      {
+        "d": "2026-12-18"
+      },
+      {
+        "v": "Lighting and furniture"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:1",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 1,
+    "values": [
+      {
+        "v": "Task"
+      },
+      {
+        "v": "Trade"
+      },
+      {
+        "v": "Start"
+      },
+      {
+        "v": "End"
+      },
+      {
+        "v": "Depends on"
+      },
+      {
+        "v": "Owner"
+      },
+      {
+        "v": "Status"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:2",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 2,
+    "values": [
+      {
+        "v": "Protect floors and set up staging"
+      },
+      {
+        "v": "General contractor"
+      },
+      {
+        "d": "2027-01-11"
+      },
+      {
+        "d": "2027-01-11"
+      },
+      {},
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:3",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 3,
+    "values": [
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "General contractor"
+      },
+      {
+        "d": "2027-01-11"
+      },
+      {
+        "d": "2027-01-12"
+      },
+      {
+        "v": "Protect floors and set up staging"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:4",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 4,
+    "values": [
+      {
+        "v": "Terrazzo tile install"
+      },
+      {
+        "v": "Tile setter"
+      },
+      {
+        "d": "2027-01-13"
+      },
+      {
+        "d": "2027-01-16"
+      },
+      {
+        "v": "Demolish the old reception desk"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:5",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 5,
+    "values": [
+      {
+        "v": "Set the reception desk"
+      },
+      {
+        "v": "Millwork installer"
+      },
+      {
+        "d": "2027-01-18"
+      },
+      {
+        "d": "2027-01-19"
+      },
+      {
+        "v": "Terrazzo tile install"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:6",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 6,
+    "values": [
+      {
+        "v": "Lighting, art and furniture"
+      },
+      {
+        "v": "Furniture installer"
+      },
+      {
+        "d": "2027-01-20"
+      },
+      {
+        "d": "2027-01-21"
+      },
+      {
+        "v": "Set the reception desk"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq:2069115740:7",
+    "spreadsheet_id": "1f0cMJ4T2MwWfAwHUVAdUj3phPfXtez1Nq",
+    "sheet_id": 2069115740,
+    "row": 7,
+    "values": [
+      {
+        "v": "Punch list walkthrough with Yuki Tanaka"
+      },
+      {
+        "v": "Lakeshore Design"
+      },
+      {
+        "d": "2027-01-22"
+      },
+      {
+        "d": "2027-01-22"
+      },
+      {
+        "v": "Lighting, art and furniture"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Not started"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:1",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Week of"
+      },
+      {
+        "v": "Marcus"
+      },
+      {
+        "v": "Priya"
+      },
+      {
+        "v": "Tomas"
+      },
+      {
+        "v": "Hannah"
+      },
+      {
+        "v": "Jerome"
+      },
+      {
+        "v": "Sofia"
+      },
+      {
+        "v": "Committed"
+      },
+      {
+        "v": "Available"
+      },
+      {
+        "v": "Utilization"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:2",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "d": "2026-10-05"
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 29
+      },
+      {
+        "v": 27
+      },
+      {
+        "v": 25
+      },
+      {
+        "v": 28
+      },
+      {
+        "v": 26
+      },
+      {
+        "f": "=SUM(B2:G2)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I2=0,0,H2/I2)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:3",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "d": "2026-10-12"
+      },
+      {
+        "v": 34
+      },
+      {
+        "v": 33
+      },
+      {
+        "v": 32
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 35
+      },
+      {
+        "v": 34
+      },
+      {
+        "f": "=SUM(B3:G3)"
+      },
+      {
+        "v": 200
+      },
+      {
+        "f": "=IF(I3=0,0,H3/I3)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:4",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "d": "2026-10-19"
+      },
+      {
+        "v": 37
+      },
+      {
+        "v": 37
+      },
+      {
+        "v": 28
+      },
+      {
+        "v": 28
+      },
+      {
+        "v": 33
+      },
+      {
+        "v": 33
+      },
+      {
+        "f": "=SUM(B4:G4)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I4=0,0,H4/I4)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:5",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "d": "2026-10-26"
+      },
+      {
+        "v": 18
+      },
+      {
+        "v": 32
+      },
+      {
+        "v": 33
+      },
+      {
+        "v": 25
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 32
+      },
+      {
+        "f": "=SUM(B5:G5)"
+      },
+      {
+        "v": 224
+      },
+      {
+        "f": "=IF(I5=0,0,H5/I5)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:6",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "d": "2026-11-02"
+      },
+      {
+        "v": 34
+      },
+      {
+        "v": 36
+      },
+      {
+        "v": 29
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 29
+      },
+      {
+        "v": 31
+      },
+      {
+        "f": "=SUM(B6:G6)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I6=0,0,H6/I6)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:7",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "d": "2026-11-09"
+      },
+      {
+        "v": 37
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 34
+      },
+      {
+        "v": 28
+      },
+      {
+        "v": 36
+      },
+      {
+        "v": 30
+      },
+      {
+        "f": "=SUM(B7:G7)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I7=0,0,H7/I7)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:8",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "d": "2026-11-16"
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 35
+      },
+      {
+        "v": 30
+      },
+      {
+        "v": 25
+      },
+      {
+        "v": 34
+      },
+      {
+        "v": 29
+      },
+      {
+        "f": "=SUM(B8:G8)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I8=0,0,H8/I8)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:9",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "d": "2026-11-23"
+      },
+      {
+        "v": 26
+      },
+      {
+        "v": 22
+      },
+      {
+        "v": 27
+      },
+      {
+        "v": 23
+      },
+      {
+        "v": 24
+      },
+      {
+        "v": 20
+      },
+      {
+        "f": "=SUM(B9:G9)"
+      },
+      {
+        "v": 192
+      },
+      {
+        "f": "=IF(I9=0,0,H9/I9)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:10",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "d": "2026-11-30"
+      },
+      {
+        "v": 37
+      },
+      {
+        "v": 34
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 28
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 27
+      },
+      {
+        "f": "=SUM(B10:G10)"
+      },
+      {
+        "v": 200
+      },
+      {
+        "f": "=IF(I10=0,0,H10/I10)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:11",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "d": "2026-12-07"
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 29
+      },
+      {
+        "v": 27
+      },
+      {
+        "v": 25
+      },
+      {
+        "v": 28
+      },
+      {
+        "v": 26
+      },
+      {
+        "f": "=SUM(B11:G11)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I11=0,0,H11/I11)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:12",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "d": "2026-12-14"
+      },
+      {
+        "v": 34
+      },
+      {
+        "v": 33
+      },
+      {
+        "v": 32
+      },
+      {
+        "v": 31
+      },
+      {
+        "v": 35
+      },
+      {
+        "v": 34
+      },
+      {
+        "f": "=SUM(B12:G12)"
+      },
+      {
+        "v": 240
+      },
+      {
+        "f": "=IF(I12=0,0,H12/I12)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:13",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "d": "2026-12-21"
+      },
+      {
+        "v": 23
+      },
+      {
+        "v": 23
+      },
+      {
+        "v": 14
+      },
+      {
+        "v": 14
+      },
+      {
+        "v": 19
+      },
+      {
+        "v": 4
+      },
+      {
+        "f": "=SUM(B13:G13)"
+      },
+      {
+        "v": 104
+      },
+      {
+        "f": "=IF(I13=0,0,H13/I13)"
+      }
+    ]
+  },
+  {
+    "id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP:0:14",
+    "spreadsheet_id": "1kMSzN6zZht--enylcFHLqn-q-MAnr6MlP",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "d": "2026-12-28"
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=SUM(B14:G14)"
+      },
+      {
+        "v": 0
+      },
+      {
+        "f": "=IF(I14=0,0,H14/I14)"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:1",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Software"
+      },
+      {
+        "v": "Vendor"
+      },
+      {
+        "v": "Seats"
+      },
+      {
+        "v": "Annual cost per seat"
+      },
+      {
+        "v": "Annual cost"
+      },
+      {
+        "v": "Renewal date"
+      },
+      {
+        "v": "Owner"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:2",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Adobe Creative Cloud for teams"
+      },
+      {
+        "v": "Adobe"
+      },
+      {
+        "v": 8
+      },
+      {
+        "v": 1079.88
+      },
+      {
+        "f": "=C2*D2"
+      },
+      {
+        "d": "2026-09-30"
+      },
+      {
+        "v": "Ben Hartigan"
+      },
+      {
+        "v": "Two seats added in August for the new hires"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:3",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Figma Professional"
+      },
+      {
+        "v": "Figma"
+      },
+      {
+        "v": 6
+      },
+      {
+        "v": 180
+      },
+      {
+        "f": "=C3*D3"
+      },
+      {
+        "d": "2027-02-14"
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:4",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "SketchUp Pro"
+      },
+      {
+        "v": "Trimble"
+      },
+      {
+        "v": 5
+      },
+      {
+        "v": 349
+      },
+      {
+        "f": "=C4*D4"
+      },
+      {
+        "d": "2026-11-03"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:5",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Enscape"
+      },
+      {
+        "v": "Chaos"
+      },
+      {
+        "v": 3
+      },
+      {
+        "v": 676.8
+      },
+      {
+        "f": "=C5*D5"
+      },
+      {
+        "d": "2027-01-20"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:6",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Bluebeam Basics"
+      },
+      {
+        "v": "Bluebeam"
+      },
+      {
+        "v": 4
+      },
+      {
+        "v": 260
+      },
+      {
+        "f": "=C6*D6"
+      },
+      {
+        "d": "2026-12-01"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:7",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Harvest"
+      },
+      {
+        "v": "Harvest"
+      },
+      {
+        "v": 10
+      },
+      {
+        "v": 132
+      },
+      {
+        "f": "=C7*D7"
+      },
+      {
+        "d": "2026-10-15"
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:8",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Google Workspace Business Standard"
+      },
+      {
+        "v": "Google"
+      },
+      {
+        "v": 11
+      },
+      {
+        "v": 168
+      },
+      {
+        "f": "=C8*D8"
+      },
+      {
+        "d": "2027-03-01"
+      },
+      {
+        "v": "Ben Hartigan"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:9",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Slack Pro"
+      },
+      {
+        "v": "Slack"
+      },
+      {
+        "v": 11
+      },
+      {
+        "v": 105
+      },
+      {
+        "f": "=C9*D9"
+      },
+      {
+        "d": "2026-10-28"
+      },
+      {
+        "v": "Ben Hartigan"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:10",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Zoom Pro"
+      },
+      {
+        "v": "Zoom"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": 159.9
+      },
+      {
+        "f": "=C10*D10"
+      },
+      {
+        "d": "2026-12-09"
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:11",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Dropbox Business"
+      },
+      {
+        "v": "Dropbox"
+      },
+      {
+        "v": 0
+      },
+      {
+        "v": 180
+      },
+      {
+        "f": "=C11*D11"
+      },
+      {
+        "d": "2026-06-30"
+      },
+      {
+        "v": "Ben Hartigan"
+      },
+      {
+        "v": "Cancelled in June; files moved to Drive"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:12",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Canva for Teams"
+      },
+      {
+        "v": "Canva"
+      },
+      {
+        "v": 3
+      },
+      {
+        "v": 100
+      },
+      {
+        "f": "=C12*D12"
+      },
+      {
+        "d": "2027-04-11"
+      },
+      {
+        "v": "Hannah Brooks"
+      }
+    ]
+  },
+  {
+    "id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE:0:13",
+    "spreadsheet_id": "1tWWyny5rlTTjSm5uDFeOgc-2dHZdiCpsE",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Total"
+      },
+      {},
+      {
+        "f": "=SUM(C2:C12)"
+      },
+      {},
+      {
+        "f": "=SUM(E2:E12)"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:1",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Asset tag"
+      },
+      {
+        "v": "Item"
+      },
+      {
+        "v": "Serial number"
+      },
+      {
+        "v": "Assigned to"
+      },
+      {
+        "v": "Purchase date"
+      },
+      {
+        "v": "Cost"
+      },
+      {
+        "v": "Status"
+      },
+      {
+        "v": "Loan due"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:2",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "LD-101"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02XKQ70Q"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "d": "2025-03-10"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:3",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "LD-102"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02KQ7M1Q"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "d": "2025-04-11"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:4",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "LD-103"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02Q7MN2Q"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "d": "2025-05-12"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:5",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "LD-104"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C027MNP3Q"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "d": "2025-06-13"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:6",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "LD-105"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02MNP44Q"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "d": "2025-07-14"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:7",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "LD-106"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02NP4R5Q"
+      },
+      {
+        "v": "Jerome Castillo"
+      },
+      {
+        "d": "2025-08-15"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:8",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "LD-107"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02P4RT6Q"
+      },
+      {
+        "v": "Leah Novak"
+      },
+      {
+        "d": "2025-03-16"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:9",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "LD-108"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C024RT97Q"
+      },
+      {
+        "v": "Ben Hartigan"
+      },
+      {
+        "d": "2025-04-17"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:10",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "LD-109"
+      },
+      {
+        "v": "MacBook Pro 14\""
+      },
+      {
+        "v": "C02RT9V8Q"
+      },
+      {
+        "v": "Sofia Marchetti"
+      },
+      {
+        "d": "2025-05-18"
+      },
+      {
+        "v": 2399
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:11",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "MN-201"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04417DLL"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:12",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "MN-202"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04430DLL"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:13",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "MN-203"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04443DLL"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:14",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "MN-204"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04456DLL"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:15",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "MN-205"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04469DLL"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:16",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "MN-206"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04482DLL"
+      },
+      {
+        "v": "Jerome Castillo"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:17",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "v": "MN-207"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04495DLL"
+      },
+      {
+        "v": "Leah Novak"
+      },
+      {
+        "d": "2025-03-04"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:18",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "v": "CM-301"
+      },
+      {
+        "v": "Canon EOS R6 Mark II camera"
+      },
+      {
+        "v": "023021004417"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      },
+      {
+        "d": "2025-09-18"
+      },
+      {
+        "v": 2499
+      },
+      {
+        "v": "On loan"
+      },
+      {
+        "d": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:19",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 19,
+    "values": [
+      {
+        "v": "CM-302"
+      },
+      {
+        "v": "Sony A7 IV camera"
+      },
+      {
+        "v": "4429183"
+      },
+      {},
+      {
+        "d": "2024-05-02"
+      },
+      {
+        "v": 2498
+      },
+      {
+        "v": "Available"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:20",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 20,
+    "values": [
+      {
+        "v": "PJ-401"
+      },
+      {
+        "v": "Epson EF-21 portable projector"
+      },
+      {
+        "v": "X8LF2100417"
+      },
+      {},
+      {
+        "d": "2025-01-21"
+      },
+      {
+        "v": 899
+      },
+      {
+        "v": "Available"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:21",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 21,
+    "values": [
+      {
+        "v": "MS-501"
+      },
+      {
+        "v": "Leica DISTO D2 laser measure"
+      },
+      {
+        "v": "1040557782"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "d": "2024-11-12"
+      },
+      {
+        "v": 249
+      },
+      {
+        "v": "On loan"
+      },
+      {
+        "d": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:22",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 22,
+    "values": [
+      {
+        "v": "PL-601"
+      },
+      {
+        "v": "HP DesignJet T650 plotter"
+      },
+      {
+        "v": "SG81K3T04B"
+      },
+      {},
+      {
+        "d": "2023-08-30"
+      },
+      {
+        "v": 2045
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:23",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 23,
+    "values": [
+      {
+        "v": "PR-602"
+      },
+      {
+        "v": "Brother HL-L3270CDW printer"
+      },
+      {
+        "v": "U64971L1N883210"
+      },
+      {},
+      {
+        "d": "2024-02-14"
+      },
+      {
+        "v": 329
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:24",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 24,
+    "values": [
+      {
+        "v": "TB-701"
+      },
+      {
+        "v": "iPad 10th generation, front desk"
+      },
+      {
+        "v": "GG7XQ4L2P1"
+      },
+      {},
+      {
+        "d": "2025-06-03"
+      },
+      {
+        "v": 449
+      },
+      {
+        "v": "In use"
+      }
+    ]
+  },
+  {
+    "id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh:0:25",
+    "spreadsheet_id": "1QkD0BnXjp4BQHw76gvesaVgWn1TdHyPEh",
+    "sheet_id": 0,
+    "row": 25,
+    "values": [
+      {
+        "v": "MN-208"
+      },
+      {
+        "v": "Dell UltraSharp U2723QE monitor"
+      },
+      {
+        "v": "CN04508DLL"
+      },
+      {},
+      {
+        "d": "2026-09-16"
+      },
+      {
+        "v": 579
+      },
+      {
+        "v": "Available"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:1",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Date"
+      },
+      {
+        "v": "Item"
+      },
+      {
+        "v": "Quantity"
+      },
+      {
+        "v": "Vendor"
+      },
+      {
+        "v": "Cost"
+      },
+      {
+        "v": "Ordered by"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:2",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "d": "2026-01-08"
+      },
+      {
+        "v": "Copy paper, 10 reams"
+      },
+      {
+        "v": 1
+      },
+      {
+        "v": "Uline"
+      },
+      {
+        "v": 54.9
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:3",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "d": "2026-01-08"
+      },
+      {
+        "v": "Coffee beans, 5 lb"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": "Dark Matter Coffee"
+      },
+      {
+        "v": 118
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:4",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "d": "2026-01-22"
+      },
+      {
+        "v": "Trace paper rolls, 24 in"
+      },
+      {
+        "v": 6
+      },
+      {
+        "v": "Blick Art Materials"
+      },
+      {
+        "v": 71.4
+      },
+      {
+        "v": "Tomas Lindqvist"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:5",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "d": "2026-02-05"
+      },
+      {
+        "v": "Plotter ink, black"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": "HP Store"
+      },
+      {
+        "v": 139.98
+      },
+      {
+        "v": "Ben Hartigan"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:6",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "d": "2026-02-19"
+      },
+      {
+        "v": "Foam core boards, 20 x 30"
+      },
+      {
+        "v": 10
+      },
+      {
+        "v": "Blick Art Materials"
+      },
+      {
+        "v": 64.5
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:7",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "d": "2026-03-04"
+      },
+      {
+        "v": "Coffee beans, 5 lb"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": "Dark Matter Coffee"
+      },
+      {
+        "v": 118
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:8",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "d": "2026-03-18"
+      },
+      {
+        "v": "Sample bags and labels"
+      },
+      {
+        "v": 1
+      },
+      {
+        "v": "Uline"
+      },
+      {
+        "v": 47.25
+      },
+      {
+        "v": "Hannah Brooks"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:9",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "d": "2026-04-01"
+      },
+      {
+        "v": "Copy paper, 10 reams"
+      },
+      {
+        "v": 1
+      },
+      {
+        "v": "Uline"
+      },
+      {
+        "v": 54.9
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:10",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "d": "2026-04-15"
+      },
+      {
+        "v": "Plotter paper, 36 in bond"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": "HP Store"
+      },
+      {
+        "v": 96
+      },
+      {
+        "v": "Ben Hartigan"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:11",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "d": "2026-04-29"
+      },
+      {
+        "v": "Coffee beans, 5 lb"
+      },
+      {
+        "v": 2
+      },
+      {
+        "v": "Dark Matter Coffee"
+      },
+      {
+        "v": 118
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:12",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "d": "2026-05-13"
+      },
+      {
+        "v": "Cutting mats and blades"
+      },
+      {
+        "v": 1
+      },
+      {
+        "v": "Blick Art Materials"
+      },
+      {
+        "v": 82.6
+      },
+      {
+        "v": "Sofia Marchetti"
+      }
+    ]
+  },
+  {
+    "id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-:0:13",
+    "spreadsheet_id": "1H2SFqAwXt7SYna-t96HsRBBpyNRgdumL-",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "d": "2026-05-22"
+      },
+      {
+        "v": "Last order in this log; use the vendor portal from June"
+      },
+      {
+        "v": 0
+      },
+      {},
+      {
+        "v": 0
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:1",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Vendor"
+      },
+      {
+        "v": "Category"
+      },
+      {
+        "v": "Contact"
+      },
+      {
+        "v": "Email"
+      },
+      {
+        "v": "Phone"
+      },
+      {
+        "v": "Payment terms"
+      },
+      {
+        "v": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:2",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "v": "Printing"
+      },
+      {
+        "v": "Greta Sims"
+      },
+      {
+        "v": "greta@pressworks-chicago.example"
+      },
+      {
+        "v": "(312) 555-0119"
+      },
+      {
+        "v": "Net 30, 2 percent within 10 days"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:3",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "North Branch Millwork"
+      },
+      {
+        "v": "Custom furniture"
+      },
+      {
+        "v": "Walt Becker"
+      },
+      {
+        "v": "walt@northbranchmillwork.example"
+      },
+      {
+        "v": "(773) 555-0102"
+      },
+      {
+        "v": "50 percent deposit, balance Net 15"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:4",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Fieldstone Tile & Stone"
+      },
+      {
+        "v": "Finishes"
+      },
+      {
+        "v": "Nina Kowalski"
+      },
+      {
+        "v": "nina@fieldstonetile.example"
+      },
+      {
+        "v": "(847) 555-0137"
+      },
+      {
+        "v": "Net 45 on orders over $10,000"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:5",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Arcline Lighting"
+      },
+      {
+        "v": "Lighting"
+      },
+      {
+        "v": "Derek Ames"
+      },
+      {
+        "v": "derek@arclinelighting.example"
+      },
+      {
+        "v": "(312) 555-0164"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:6",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Calumet Metalworks"
+      },
+      {
+        "v": "Metal fabrication"
+      },
+      {
+        "v": "Luis Ortega"
+      },
+      {
+        "v": "luis@calumetmetal.example"
+      },
+      {
+        "v": "(708) 555-0181"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:7",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Kravet Contract"
+      },
+      {
+        "v": "Textiles"
+      },
+      {
+        "v": "Jill Harmon"
+      },
+      {
+        "v": "jharmon@kravetcontract.example"
+      },
+      {
+        "v": "(312) 555-0195"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:8",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Maharam"
+      },
+      {
+        "v": "Textiles"
+      },
+      {
+        "v": "Peter Vance"
+      },
+      {
+        "v": "pvance@maharam.example"
+      },
+      {
+        "v": "(312) 555-0122"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:9",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Lakeshore Rug Co"
+      },
+      {
+        "v": "Rugs"
+      },
+      {
+        "v": "Samira Haddad"
+      },
+      {
+        "v": "samira@lakeshorerug.example"
+      },
+      {
+        "v": "(773) 555-0148"
+      },
+      {
+        "v": "50 percent deposit"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:10",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Signal Fabrication"
+      },
+      {
+        "v": "Signage"
+      },
+      {
+        "v": "Ray Dunn"
+      },
+      {
+        "v": "ray@signalfab.example"
+      },
+      {
+        "v": "(312) 555-0173"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": false
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:11",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Saltmarsh Ceramics"
+      },
+      {
+        "v": "Ceramics"
+      },
+      {
+        "v": "Maya Okafor"
+      },
+      {
+        "v": "hello@saltmarshceramics.com"
+      },
+      {
+        "v": "(207) 555-0116"
+      },
+      {
+        "v": "Prepaid"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:12",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Dark Matter Coffee"
+      },
+      {
+        "v": "Office supplies"
+      },
+      {
+        "v": "Orders desk"
+      },
+      {
+        "v": "orders@darkmattercoffee.example"
+      },
+      {
+        "v": "(773) 555-0110"
+      },
+      {
+        "v": "Card on file"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:13",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Sherwin-Williams, Milwaukee Ave"
+      },
+      {
+        "v": "Paint"
+      },
+      {
+        "v": "Store manager"
+      },
+      {
+        "v": "store5521@sherwin.example"
+      },
+      {
+        "v": "(773) 555-0155"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:14",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Swift Movers"
+      },
+      {
+        "v": "Moving"
+      },
+      {
+        "v": "Dispatch"
+      },
+      {
+        "v": "dispatch@swiftmovers.example"
+      },
+      {
+        "v": "(312) 555-0131"
+      },
+      {
+        "v": "Due on completion"
+      },
+      {
+        "v": false
+      }
+    ]
+  },
+  {
+    "id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN:0:15",
+    "spreadsheet_id": "1SgPNW6BhssKIDBNLnST9wrKS5opGJOoIN",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Alvarado Tax"
+      },
+      {
+        "v": "Accounting"
+      },
+      {
+        "v": "Ken Alvarado"
+      },
+      {
+        "v": "kalvarado@alvaradotax.example"
+      },
+      {
+        "v": "(312) 555-0167"
+      },
+      {
+        "v": "Net 15"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:1",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Field"
+      },
+      {
+        "v": "Value"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:2",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Job name"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:3",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Client"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:4",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Vendor"
+      },
+      {
+        "v": "Pressworks Chicago"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:5",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Paper stock"
+      },
+      {},
+      {
+        "v": "Uncoated 100 lb cover for menus"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:6",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Finish"
+      },
+      {},
+      {
+        "v": "Matte, satin or soft-touch"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:7",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Flat size"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:8",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Folded size"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:9",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Quantity"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:10",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Colors"
+      },
+      {},
+      {
+        "v": "4/4 unless noted"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:11",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Bleed"
+      },
+      {
+        "v": "0.125 in"
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:12",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Proof required"
+      },
+      {
+        "v": true
+      }
+    ]
+  },
+  {
+    "id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5:0:13",
+    "spreadsheet_id": "1boyU4qeAxoj1svGgDaAMxeg0mWjBoyiq5",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Due date"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:1",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Proof"
+      },
+      {
+        "v": "Job"
+      },
+      {
+        "v": "Vendor"
+      },
+      {
+        "v": "Sent"
+      },
+      {
+        "v": "Returned"
+      },
+      {
+        "v": "Result"
+      },
+      {
+        "v": "Approved by"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:2",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "P-001"
+      },
+      {
+        "v": "Studio business cards"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-04-02"
+      },
+      {
+        "d": "2026-04-03"
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:3",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "P-002"
+      },
+      {
+        "v": "Harbor Street menu, round 1"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-05-08"
+      },
+      {
+        "d": "2026-05-11"
+      },
+      {
+        "v": "Changes requested"
+      },
+      {
+        "v": "Omar Haddad"
+      },
+      {
+        "v": "Steam lines too heavy on the cup"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:4",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "P-003"
+      },
+      {
+        "v": "Harbor Street menu, round 2"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-05-18"
+      },
+      {
+        "d": "2026-05-19"
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "v": "Omar Haddad"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:5",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "P-004"
+      },
+      {
+        "v": "Harbor Street table cards"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-05-18"
+      },
+      {
+        "d": "2026-05-21"
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "v": "Omar Haddad"
+      },
+      {
+        "v": "Item names one size up"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:6",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "P-005"
+      },
+      {
+        "v": "Harbor Street chalkboard guide"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-05-26"
+      },
+      {
+        "d": "2026-05-27"
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:7",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "P-006"
+      },
+      {
+        "v": "Brightwell concept boards"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-07-20"
+      },
+      {
+        "d": "2026-07-22"
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:8",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "P-007"
+      },
+      {
+        "v": "Brightwell finish sample cards"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-08-31"
+      },
+      {
+        "d": "2026-09-02"
+      },
+      {
+        "v": "Approved"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:9",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "P-008"
+      },
+      {
+        "v": "Brightwell wayfinding mockups"
+      },
+      {
+        "v": "Signal Fabrication"
+      },
+      {
+        "d": "2026-09-15"
+      },
+      {},
+      {
+        "v": "Pending"
+      },
+      {},
+      {
+        "v": "Waiting on Carla Jensen"
+      }
+    ]
+  },
+  {
+    "id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi:0:10",
+    "spreadsheet_id": "1s8ah2RbV7i33prqH2dZ25pCBEECvxRvFi",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "P-009"
+      },
+      {
+        "v": "Lakeshore holiday cards"
+      },
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "d": "2026-09-28"
+      },
+      {},
+      {
+        "v": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:1",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Category"
+      },
+      {
+        "v": "Q1"
+      },
+      {
+        "v": "Q2"
+      },
+      {
+        "v": "Q3"
+      },
+      {
+        "v": "Q4"
+      },
+      {
+        "v": "Total"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:2",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Design fees"
+      },
+      {
+        "v": 310000
+      },
+      {
+        "v": 342000
+      },
+      {
+        "v": 365000
+      },
+      {
+        "v": 388000
+      },
+      {
+        "f": "=SUM(B2:E2)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:3",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Reimbursable income"
+      },
+      {
+        "v": 12000
+      },
+      {
+        "v": 14500
+      },
+      {
+        "v": 16000
+      },
+      {
+        "v": 15000
+      },
+      {
+        "f": "=SUM(B3:E3)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:4",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Total revenue"
+      },
+      {
+        "f": "=B2+B3"
+      },
+      {
+        "f": "=C2+C3"
+      },
+      {
+        "f": "=D2+D3"
+      },
+      {
+        "f": "=E2+E3"
+      },
+      {
+        "f": "=SUM(B4:E4)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:5",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Payroll"
+      },
+      {
+        "v": 198000
+      },
+      {
+        "v": 198000
+      },
+      {
+        "v": 212000
+      },
+      {
+        "v": 212000
+      },
+      {
+        "f": "=SUM(B5:E5)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:6",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Benefits and payroll taxes"
+      },
+      {
+        "v": 41000
+      },
+      {
+        "v": 41000
+      },
+      {
+        "v": 44000
+      },
+      {
+        "v": 44000
+      },
+      {
+        "f": "=SUM(B6:E6)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:7",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Rent"
+      },
+      {
+        "v": 29550
+      },
+      {
+        "v": 30436
+      },
+      {
+        "v": 30436
+      },
+      {
+        "v": 30436
+      },
+      {
+        "f": "=SUM(B7:E7)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:8",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Utilities and internet"
+      },
+      {
+        "v": 3600
+      },
+      {
+        "v": 3300
+      },
+      {
+        "v": 3900
+      },
+      {
+        "v": 4200
+      },
+      {
+        "f": "=SUM(B8:E8)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:9",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Software"
+      },
+      {
+        "v": 6900
+      },
+      {
+        "v": 6900
+      },
+      {
+        "v": 6900
+      },
+      {
+        "v": 6900
+      },
+      {
+        "f": "=SUM(B9:E9)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:10",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Equipment"
+      },
+      {
+        "v": 4500
+      },
+      {
+        "v": 2000
+      },
+      {
+        "v": 6500
+      },
+      {
+        "v": 3000
+      },
+      {
+        "f": "=SUM(B10:E10)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:11",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Marketing"
+      },
+      {
+        "v": 4500
+      },
+      {
+        "v": 4500
+      },
+      {
+        "v": 4500
+      },
+      {
+        "v": 4500
+      },
+      {
+        "f": "=SUM(B11:E11)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:12",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Travel"
+      },
+      {
+        "v": 2500
+      },
+      {
+        "v": 3000
+      },
+      {
+        "v": 4000
+      },
+      {
+        "v": 3500
+      },
+      {
+        "f": "=SUM(B12:E12)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:13",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Professional services"
+      },
+      {
+        "v": 5200
+      },
+      {
+        "v": 3800
+      },
+      {
+        "v": 3800
+      },
+      {
+        "v": 8400
+      },
+      {
+        "f": "=SUM(B13:E13)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:14",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Contingency"
+      },
+      {
+        "f": "=ROUND(0.05*SUM(B5:B13),0)"
+      },
+      {
+        "f": "=ROUND(0.05*SUM(C5:C13),0)"
+      },
+      {
+        "f": "=ROUND(0.05*SUM(D5:D13),0)"
+      },
+      {
+        "f": "=ROUND(0.03*SUM(E5:E13),0)"
+      },
+      {
+        "f": "=SUM(B14:E14)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:15",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Total expenses"
+      },
+      {
+        "f": "=SUM(B5:B14)"
+      },
+      {
+        "f": "=SUM(C5:C14)"
+      },
+      {
+        "f": "=SUM(D5:D14)"
+      },
+      {
+        "f": "=SUM(E5:E14)"
+      },
+      {
+        "f": "=SUM(F5:F14)"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:0:16",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "Net income"
+      },
+      {
+        "f": "=B4-B15"
+      },
+      {
+        "f": "=C4-C15"
+      },
+      {
+        "f": "=D4-D15"
+      },
+      {
+        "f": "=E4-E15"
+      },
+      {
+        "f": "=F4-F15"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:1",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 1,
+    "values": [
+      {
+        "v": "Assumption"
+      },
+      {
+        "v": "Value"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:2",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 2,
+    "values": [
+      {
+        "v": "Headcount at year end"
+      },
+      {
+        "v": 11
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:3",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 3,
+    "values": [
+      {
+        "v": "Average billable rate"
+      },
+      {
+        "v": 165,
+        "fmt": "currency"
+      },
+      {
+        "v": "Per hour, blended"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:4",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 4,
+    "values": [
+      {
+        "v": "Utilization target"
+      },
+      {
+        "v": 0.72,
+        "fmt": "percent0"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:5",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 5,
+    "values": [
+      {
+        "v": "Rent increase in April"
+      },
+      {
+        "v": 0.03,
+        "fmt": "percent0"
+      },
+      {
+        "v": "Per the lease"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:6",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 6,
+    "values": [
+      {
+        "v": "Contingency, Q1 to Q3"
+      },
+      {
+        "v": 0.05,
+        "fmt": "percent0"
+      }
+    ]
+  },
+  {
+    "id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz:905338127:7",
+    "spreadsheet_id": "17grBKUGPYhyri0RMIjCywIqSy6k9OIgmz",
+    "sheet_id": 905338127,
+    "row": 7,
+    "values": [
+      {
+        "v": "Contingency, Q4"
+      },
+      {
+        "v": 0.03,
+        "fmt": "percent0"
+      },
+      {
+        "v": "Lower than last year's 5 percent"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:1",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Account"
+      },
+      {
+        "v": "April"
+      },
+      {
+        "v": "May"
+      },
+      {
+        "v": "June"
+      },
+      {
+        "v": "Q2 total"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:2",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Design fees"
+      },
+      {
+        "v": 108500
+      },
+      {
+        "v": 112250
+      },
+      {
+        "v": 121400
+      },
+      {
+        "f": "=SUM(B2:D2)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:3",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Reimbursable income"
+      },
+      {
+        "v": 4100
+      },
+      {
+        "v": 5300
+      },
+      {
+        "v": 5200
+      },
+      {
+        "f": "=SUM(B3:D3)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:4",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Total income"
+      },
+      {
+        "f": "=B2+B3"
+      },
+      {
+        "f": "=C2+C3"
+      },
+      {
+        "f": "=D2+D3"
+      },
+      {
+        "f": "=E2+E3"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:5",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Payroll"
+      },
+      {
+        "v": 66000
+      },
+      {
+        "v": 66000
+      },
+      {
+        "v": 66000
+      },
+      {
+        "f": "=SUM(B5:D5)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:6",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Benefits and payroll taxes"
+      },
+      {
+        "v": 13700
+      },
+      {
+        "v": 13650
+      },
+      {
+        "v": 13650
+      },
+      {
+        "f": "=SUM(B6:D6)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:7",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Rent"
+      },
+      {
+        "v": 10145.5
+      },
+      {
+        "v": 10145.5
+      },
+      {
+        "v": 10145.5
+      },
+      {
+        "f": "=SUM(B7:D7)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:8",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "Utilities and internet"
+      },
+      {
+        "v": 1050
+      },
+      {
+        "v": 1100
+      },
+      {
+        "v": 1150
+      },
+      {
+        "f": "=SUM(B8:D8)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:9",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Software"
+      },
+      {
+        "v": 2300
+      },
+      {
+        "v": 2300
+      },
+      {
+        "v": 2300
+      },
+      {
+        "f": "=SUM(B9:D9)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:10",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Equipment"
+      },
+      {
+        "v": 400
+      },
+      {
+        "v": 1200
+      },
+      {
+        "v": 380
+      },
+      {
+        "f": "=SUM(B10:D10)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:11",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Marketing"
+      },
+      {
+        "v": 900
+      },
+      {
+        "v": 2100
+      },
+      {
+        "v": 1500
+      },
+      {
+        "f": "=SUM(B11:D11)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:12",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Travel"
+      },
+      {
+        "v": 600
+      },
+      {
+        "v": 1150
+      },
+      {
+        "v": 1250
+      },
+      {
+        "f": "=SUM(B12:D12)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:13",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Professional services"
+      },
+      {
+        "v": 1200
+      },
+      {
+        "v": 1200
+      },
+      {
+        "v": 1400
+      },
+      {
+        "f": "=SUM(B13:D13)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:14",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Total expenses"
+      },
+      {
+        "f": "=SUM(B5:B13)"
+      },
+      {
+        "f": "=SUM(C5:C13)"
+      },
+      {
+        "f": "=SUM(D5:D13)"
+      },
+      {
+        "f": "=SUM(E5:E13)"
+      }
+    ]
+  },
+  {
+    "id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi:0:15",
+    "spreadsheet_id": "1jew2z6jUhwWMR3LfQ2IzGLHKlgr8vlLBi",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Net income"
+      },
+      {
+        "f": "=B4-B14"
+      },
+      {
+        "f": "=C4-C14"
+      },
+      {
+        "f": "=D4-D14"
+      },
+      {
+        "f": "=E4-E14"
+      }
+    ]
+  },
+  {
+    "id": "1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms:0:1",
+    "spreadsheet_id": "1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Date"
+      },
+      {
+        "v": "Description"
+      },
+      {
+        "v": "Category"
+      },
+      {
+        "v": "Project code"
+      },
+      {
+        "v": "Amount"
+      },
+      {
+        "v": "Receipt"
+      },
+      {
+        "v": "Approved"
+      }
+    ]
+  },
+  {
+    "id": "1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms:0:2",
+    "spreadsheet_id": "1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "d": "2026-04-14"
+      },
+      {
+        "v": "Example: taxi to a client site"
+      },
+      {
+        "v": "Travel"
+      },
+      {
+        "v": "BRW-2026"
+      },
+      {
+        "v": 42.5
+      },
+      {
+        "v": true
+      },
+      {
+        "v": false
+      }
+    ]
+  },
+  {
+    "id": "1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms:0:3",
+    "spreadsheet_id": "1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "d": "2026-04-14"
+      },
+      {
+        "v": "Example: printed samples for a client meeting"
+      },
+      {
+        "v": "Printing"
+      },
+      {
+        "v": "HSC-2026"
+      },
+      {
+        "v": 18.75
+      },
+      {
+        "v": true
+      },
+      {
+        "v": false
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:1",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Pay period start"
+      },
+      {
+        "v": "Pay period end"
+      },
+      {
+        "v": "Timesheet cutoff"
+      },
+      {
+        "v": "Pay date"
+      },
+      {
+        "v": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:2",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "d": "2026-01-01"
+      },
+      {
+        "d": "2026-01-15"
+      },
+      {
+        "d": "2026-01-16"
+      },
+      {
+        "d": "2026-01-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:3",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "d": "2026-01-16"
+      },
+      {
+        "d": "2026-01-31"
+      },
+      {
+        "d": "2026-02-02"
+      },
+      {
+        "d": "2026-02-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:4",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "d": "2026-02-01"
+      },
+      {
+        "d": "2026-02-15"
+      },
+      {
+        "d": "2026-02-16"
+      },
+      {
+        "d": "2026-02-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:5",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "d": "2026-02-16"
+      },
+      {
+        "d": "2026-02-28"
+      },
+      {
+        "d": "2026-03-02"
+      },
+      {
+        "d": "2026-03-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:6",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "d": "2026-03-01"
+      },
+      {
+        "d": "2026-03-15"
+      },
+      {
+        "d": "2026-03-16"
+      },
+      {
+        "d": "2026-03-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:7",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "d": "2026-03-16"
+      },
+      {
+        "d": "2026-03-31"
+      },
+      {
+        "d": "2026-04-01"
+      },
+      {
+        "d": "2026-04-03"
+      },
+      {
+        "v": "Pay date moved back from the weekend"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:8",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "d": "2026-04-01"
+      },
+      {
+        "d": "2026-04-15"
+      },
+      {
+        "d": "2026-04-16"
+      },
+      {
+        "d": "2026-04-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:9",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "d": "2026-04-16"
+      },
+      {
+        "d": "2026-04-30"
+      },
+      {
+        "d": "2026-05-01"
+      },
+      {
+        "d": "2026-05-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:10",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "d": "2026-05-01"
+      },
+      {
+        "d": "2026-05-15"
+      },
+      {
+        "d": "2026-05-18"
+      },
+      {
+        "d": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:11",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "d": "2026-05-16"
+      },
+      {
+        "d": "2026-05-31"
+      },
+      {
+        "d": "2026-06-01"
+      },
+      {
+        "d": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:12",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "d": "2026-06-01"
+      },
+      {
+        "d": "2026-06-15"
+      },
+      {
+        "d": "2026-06-16"
+      },
+      {
+        "d": "2026-06-19"
+      },
+      {
+        "v": "Pay date moved back from the weekend"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:13",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "d": "2026-06-16"
+      },
+      {
+        "d": "2026-06-30"
+      },
+      {
+        "d": "2026-07-01"
+      },
+      {
+        "d": "2026-07-02"
+      },
+      {
+        "v": "Pay date moved for Independence Day (observed)"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:14",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "d": "2026-07-01"
+      },
+      {
+        "d": "2026-07-15"
+      },
+      {
+        "d": "2026-07-16"
+      },
+      {
+        "d": "2026-07-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:15",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "d": "2026-07-16"
+      },
+      {
+        "d": "2026-07-31"
+      },
+      {
+        "d": "2026-08-03"
+      },
+      {
+        "d": "2026-08-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:16",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "d": "2026-08-01"
+      },
+      {
+        "d": "2026-08-15"
+      },
+      {
+        "d": "2026-08-17"
+      },
+      {
+        "d": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:17",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "d": "2026-08-16"
+      },
+      {
+        "d": "2026-08-31"
+      },
+      {
+        "d": "2026-09-01"
+      },
+      {
+        "d": "2026-09-04"
+      },
+      {
+        "v": "Pay date moved back from the weekend"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:18",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "d": "2026-09-01"
+      },
+      {
+        "d": "2026-09-15"
+      },
+      {
+        "d": "2026-09-16"
+      },
+      {
+        "d": "2026-09-18"
+      },
+      {
+        "v": "Pay date moved back from the weekend"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:19",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 19,
+    "values": [
+      {
+        "d": "2026-09-16"
+      },
+      {
+        "d": "2026-09-30"
+      },
+      {
+        "d": "2026-10-01"
+      },
+      {
+        "d": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:20",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 20,
+    "values": [
+      {
+        "d": "2026-10-01"
+      },
+      {
+        "d": "2026-10-15"
+      },
+      {
+        "d": "2026-10-16"
+      },
+      {
+        "d": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:21",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 21,
+    "values": [
+      {
+        "d": "2026-10-16"
+      },
+      {
+        "d": "2026-10-31"
+      },
+      {
+        "d": "2026-11-02"
+      },
+      {
+        "d": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:22",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 22,
+    "values": [
+      {
+        "d": "2026-11-01"
+      },
+      {
+        "d": "2026-11-15"
+      },
+      {
+        "d": "2026-11-16"
+      },
+      {
+        "d": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:23",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 23,
+    "values": [
+      {
+        "d": "2026-11-16"
+      },
+      {
+        "d": "2026-11-30"
+      },
+      {
+        "d": "2026-12-01"
+      },
+      {
+        "d": "2026-12-04"
+      },
+      {
+        "v": "Pay date moved back from the weekend"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:24",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 24,
+    "values": [
+      {
+        "d": "2026-12-01"
+      },
+      {
+        "d": "2026-12-15"
+      },
+      {
+        "d": "2026-12-16"
+      },
+      {
+        "d": "2026-12-18"
+      },
+      {
+        "v": "Pay date moved back from the weekend"
+      }
+    ]
+  },
+  {
+    "id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY:0:25",
+    "spreadsheet_id": "1wBT5mfynbjCj3lfWmSyKrNUuoxeSnBAXY",
+    "sheet_id": 0,
+    "row": 25,
+    "values": [
+      {
+        "d": "2026-12-16"
+      },
+      {
+        "d": "2026-12-31"
+      },
+      {
+        "d": "2027-01-01"
+      },
+      {
+        "d": "2027-01-05"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:1",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Vendor"
+      },
+      {
+        "v": "Invoice"
+      },
+      {
+        "v": "Amount"
+      },
+      {
+        "v": "Invoice date"
+      },
+      {
+        "v": "Due date"
+      },
+      {
+        "v": "Terms"
+      },
+      {
+        "v": "Status"
+      },
+      {
+        "v": "Paid date"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:2",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "North Branch Millwork"
+      },
+      {
+        "v": "NBM-2231"
+      },
+      {
+        "v": 30625
+      },
+      {
+        "d": "2026-08-04"
+      },
+      {
+        "d": "2026-08-04"
+      },
+      {
+        "v": "Deposit"
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:3",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Arcline Lighting"
+      },
+      {
+        "v": "ARC-88412"
+      },
+      {
+        "v": 9255
+      },
+      {
+        "d": "2026-08-11"
+      },
+      {
+        "d": "2026-09-10"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-09-08"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:4",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "v": "PW-10457"
+      },
+      {
+        "v": 486.5
+      },
+      {
+        "d": "2026-08-21"
+      },
+      {
+        "d": "2026-09-20"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:5",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Fieldstone Tile & Stone"
+      },
+      {
+        "v": "FTS-5530"
+      },
+      {
+        "v": 79800
+      },
+      {
+        "d": "2026-08-24"
+      },
+      {
+        "d": "2026-10-08"
+      },
+      {
+        "v": "Net 45"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:6",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Kravet Contract"
+      },
+      {
+        "v": "KC-773019"
+      },
+      {
+        "v": 4352
+      },
+      {
+        "d": "2026-08-27"
+      },
+      {
+        "d": "2026-09-26"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-09-24"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:7",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "Calumet Metalworks"
+      },
+      {
+        "v": "CMW-1190"
+      },
+      {
+        "v": 3520
+      },
+      {
+        "d": "2026-09-02"
+      },
+      {
+        "d": "2026-10-02"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:8",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "North Branch Millwork"
+      },
+      {
+        "v": "NBM-2297"
+      },
+      {
+        "v": 30625
+      },
+      {
+        "d": "2026-09-14"
+      },
+      {
+        "d": "2026-09-29"
+      },
+      {
+        "v": "Net 15"
+      },
+      {
+        "v": "Overdue"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:9",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "Saltmarsh Ceramics"
+      },
+      {
+        "v": "SC-0412"
+      },
+      {
+        "v": 2040
+      },
+      {
+        "d": "2026-09-15"
+      },
+      {
+        "d": "2026-09-15"
+      },
+      {
+        "v": "Prepaid"
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-09-15"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:10",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "Pressworks Chicago"
+      },
+      {
+        "v": "PW-10611"
+      },
+      {
+        "v": 1295
+      },
+      {
+        "d": "2026-09-18"
+      },
+      {
+        "d": "2026-10-18"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:11",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "Maharam"
+      },
+      {
+        "v": "MH-551870"
+      },
+      {
+        "v": 3680
+      },
+      {
+        "d": "2026-09-22"
+      },
+      {
+        "d": "2026-10-22"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:12",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "Alvarado Tax"
+      },
+      {
+        "v": "AT-2026-09"
+      },
+      {
+        "v": 1400
+      },
+      {
+        "d": "2026-09-30"
+      },
+      {
+        "d": "2026-10-15"
+      },
+      {
+        "v": "Net 15"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:13",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "Lakeshore Rug Co"
+      },
+      {
+        "v": "LRC-0098"
+      },
+      {
+        "v": 3400
+      },
+      {
+        "d": "2026-10-01"
+      },
+      {
+        "d": "2026-10-01"
+      },
+      {
+        "v": "Deposit"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:14",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "Arcline Lighting"
+      },
+      {
+        "v": "ARC-88907"
+      },
+      {
+        "v": 4620
+      },
+      {
+        "d": "2026-10-02"
+      },
+      {
+        "d": "2026-11-01"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq:0:15",
+    "spreadsheet_id": "14vW2_UiM4VNpUHwgIP1mJzc20yGDRO_Qq",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "Signal Fabrication"
+      },
+      {
+        "v": "SF-3302"
+      },
+      {
+        "v": 3600
+      },
+      {
+        "d": "2026-10-05"
+      },
+      {
+        "d": "2026-11-04"
+      },
+      {
+        "v": "Net 30"
+      },
+      {
+        "v": "On hold"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:1",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Invoice"
+      },
+      {
+        "v": "Client"
+      },
+      {
+        "v": "Project"
+      },
+      {
+        "v": "Issued"
+      },
+      {
+        "v": "Due"
+      },
+      {
+        "v": "Amount"
+      },
+      {
+        "v": "Status"
+      },
+      {
+        "v": "Paid on"
+      },
+      {
+        "v": "Amount received"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:2",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "2026-001"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Discovery and site surveys"
+      },
+      {
+        "d": "2026-01-06"
+      },
+      {
+        "d": "2026-02-05"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-02-05"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:3",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "2026-002"
+      },
+      {
+        "v": "Harbor Street Cafe"
+      },
+      {
+        "v": "Menu redesign"
+      },
+      {
+        "d": "2026-01-12"
+      },
+      {
+        "d": "2026-02-11"
+      },
+      {
+        "v": 4200
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-02-04"
+      },
+      {
+        "v": 4200
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:4",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "2026-003"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-01-17"
+      },
+      {
+        "d": "2026-02-16"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-02-13"
+      },
+      {
+        "v": 9600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:5",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "2026-004"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-01-23"
+      },
+      {
+        "d": "2026-02-22"
+      },
+      {
+        "v": 11800
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-02-12"
+      },
+      {
+        "v": 11800
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:6",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "2026-005"
+      },
+      {
+        "v": "Riverside Pediatrics"
+      },
+      {
+        "v": "Waiting room"
+      },
+      {
+        "d": "2026-01-29"
+      },
+      {
+        "d": "2026-02-28"
+      },
+      {
+        "v": 6400
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-02-22"
+      },
+      {
+        "v": 6400
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:7",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "2026-006"
+      },
+      {
+        "v": "Pilsen Arts Collective"
+      },
+      {
+        "v": "Gallery signage"
+      },
+      {
+        "d": "2026-02-03"
+      },
+      {
+        "d": "2026-03-05"
+      },
+      {
+        "v": 3950
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-03-03"
+      },
+      {
+        "v": 3950
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:8",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "v": "2026-007"
+      },
+      {
+        "v": "Halsted Fitness"
+      },
+      {
+        "v": "Locker rooms"
+      },
+      {
+        "d": "2026-02-09"
+      },
+      {
+        "d": "2026-03-11"
+      },
+      {
+        "v": 7200
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-03-02"
+      },
+      {
+        "v": 7200
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:9",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "v": "2026-008"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Discovery and site surveys"
+      },
+      {
+        "d": "2026-02-15"
+      },
+      {
+        "d": "2026-03-17"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-03-12"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:10",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "v": "2026-009"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-02-20"
+      },
+      {
+        "d": "2026-03-22"
+      },
+      {
+        "v": 8800
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-03-21"
+      },
+      {
+        "v": 8800
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:11",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "v": "2026-010"
+      },
+      {
+        "v": "Harbor Street Cafe"
+      },
+      {
+        "v": "Menu redesign"
+      },
+      {
+        "d": "2026-02-26"
+      },
+      {
+        "d": "2026-03-28"
+      },
+      {
+        "v": 2650
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-03-20"
+      },
+      {
+        "v": 2650
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:12",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "v": "2026-011"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-03-03"
+      },
+      {
+        "d": "2026-04-02"
+      },
+      {
+        "v": 12400
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-03-29"
+      },
+      {
+        "v": 12400
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:13",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "v": "2026-012"
+      },
+      {
+        "v": "Riverside Pediatrics"
+      },
+      {
+        "v": "Waiting room"
+      },
+      {
+        "d": "2026-03-09"
+      },
+      {
+        "d": "2026-04-08"
+      },
+      {
+        "v": 5400
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-04-08"
+      },
+      {
+        "v": 5400
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:14",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "v": "2026-013"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Discovery and site surveys"
+      },
+      {
+        "d": "2026-03-15"
+      },
+      {
+        "d": "2026-04-14"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-04-07"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:15",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "v": "2026-014"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-03-20"
+      },
+      {
+        "d": "2026-04-19"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-04-16"
+      },
+      {
+        "v": 9600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:16",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "v": "2026-015"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-03-26"
+      },
+      {
+        "d": "2026-04-25"
+      },
+      {
+        "v": 11800
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-04-15"
+      },
+      {
+        "v": 11800
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:17",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "v": "2026-016"
+      },
+      {
+        "v": "Pilsen Arts Collective"
+      },
+      {
+        "v": "Gallery signage"
+      },
+      {
+        "d": "2026-04-01"
+      },
+      {
+        "d": "2026-05-01"
+      },
+      {
+        "v": 3300
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-04-25"
+      },
+      {
+        "v": 3300
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:18",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "v": "2026-017"
+      },
+      {
+        "v": "Halsted Fitness"
+      },
+      {
+        "v": "Locker rooms"
+      },
+      {
+        "d": "2026-04-06"
+      },
+      {
+        "d": "2026-05-06"
+      },
+      {
+        "v": 7200
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-05-04"
+      },
+      {
+        "v": 7200
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:19",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 19,
+    "values": [
+      {
+        "v": "2026-018"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Discovery and site surveys"
+      },
+      {
+        "d": "2026-04-12"
+      },
+      {
+        "d": "2026-05-12"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-05-03"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:20",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 20,
+    "values": [
+      {
+        "v": "2026-019"
+      },
+      {
+        "v": "Riverside Pediatrics"
+      },
+      {
+        "v": "Waiting room"
+      },
+      {
+        "d": "2026-04-18"
+      },
+      {
+        "d": "2026-05-18"
+      },
+      {
+        "v": 6400
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-05-13"
+      },
+      {
+        "v": 6400
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:21",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 21,
+    "values": [
+      {
+        "v": "2026-020"
+      },
+      {
+        "v": "Harbor Street Cafe"
+      },
+      {
+        "v": "Menu redesign"
+      },
+      {
+        "d": "2026-04-23"
+      },
+      {
+        "d": "2026-05-23"
+      },
+      {
+        "v": 4100
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-05-22"
+      },
+      {
+        "v": 4100
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:22",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 22,
+    "values": [
+      {
+        "v": "2026-021"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-04-29"
+      },
+      {
+        "d": "2026-05-29"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-05-21"
+      },
+      {
+        "v": 9600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:23",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 23,
+    "values": [
+      {
+        "v": "2026-022"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-05-05"
+      },
+      {
+        "d": "2026-06-04"
+      },
+      {
+        "v": 11800
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-05-31"
+      },
+      {
+        "v": 11800
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:24",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 24,
+    "values": [
+      {
+        "v": "2026-023"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Discovery and site surveys"
+      },
+      {
+        "d": "2026-05-10"
+      },
+      {
+        "d": "2026-06-09"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-06-09"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:25",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 25,
+    "values": [
+      {
+        "v": "2026-024"
+      },
+      {
+        "v": "Pilsen Arts Collective"
+      },
+      {
+        "v": "Gallery signage"
+      },
+      {
+        "d": "2026-05-16"
+      },
+      {
+        "d": "2026-06-15"
+      },
+      {
+        "v": 2850
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-06-08"
+      },
+      {
+        "v": 2850
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:26",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 26,
+    "values": [
+      {
+        "v": "2026-025"
+      },
+      {
+        "v": "Halsted Fitness"
+      },
+      {
+        "v": "Locker rooms"
+      },
+      {
+        "d": "2026-05-22"
+      },
+      {
+        "d": "2026-06-21"
+      },
+      {
+        "v": 7200
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-06-18"
+      },
+      {
+        "v": 7200
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:27",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 27,
+    "values": [
+      {
+        "v": "2026-026"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-05-27"
+      },
+      {
+        "d": "2026-06-26"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-06-16"
+      },
+      {
+        "v": 9600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:28",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 28,
+    "values": [
+      {
+        "v": "2026-027"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Lobby refresh, design fees"
+      },
+      {
+        "d": "2026-06-02"
+      },
+      {
+        "d": "2026-07-02"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-06-26"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:29",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 29,
+    "values": [
+      {
+        "v": "2026-028"
+      },
+      {
+        "v": "Riverside Pediatrics"
+      },
+      {
+        "v": "Waiting room"
+      },
+      {
+        "d": "2026-06-08"
+      },
+      {
+        "d": "2026-07-08"
+      },
+      {
+        "v": 6400
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-07-06"
+      },
+      {
+        "v": 6400
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:30",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 30,
+    "values": [
+      {
+        "v": "2026-029"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-06-13"
+      },
+      {
+        "d": "2026-07-13"
+      },
+      {
+        "v": 11800
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-07-04"
+      },
+      {
+        "v": 11800
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:31",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 31,
+    "values": [
+      {
+        "v": "2026-030"
+      },
+      {
+        "v": "Harbor Street Cafe"
+      },
+      {
+        "v": "Menu redesign"
+      },
+      {
+        "d": "2026-06-19"
+      },
+      {
+        "d": "2026-07-19"
+      },
+      {
+        "v": 4600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-07-14"
+      },
+      {
+        "v": 4600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:32",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 32,
+    "values": [
+      {
+        "v": "2026-031"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Lobby refresh, design fees"
+      },
+      {
+        "d": "2026-06-25"
+      },
+      {
+        "d": "2026-07-25"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-07-24"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:33",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 33,
+    "values": [
+      {
+        "v": "2026-032"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-06-30"
+      },
+      {
+        "d": "2026-07-30"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-07-22"
+      },
+      {
+        "v": 9600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:34",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 34,
+    "values": [
+      {
+        "v": "2026-033"
+      },
+      {
+        "v": "Pilsen Arts Collective"
+      },
+      {
+        "v": "Gallery signage"
+      },
+      {
+        "d": "2026-07-06"
+      },
+      {
+        "d": "2026-08-05"
+      },
+      {
+        "v": 3125
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-01"
+      },
+      {
+        "v": 3000
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:35",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 35,
+    "values": [
+      {
+        "v": "2026-034"
+      },
+      {
+        "v": "Halsted Fitness"
+      },
+      {
+        "v": "Locker rooms"
+      },
+      {
+        "d": "2026-07-11"
+      },
+      {
+        "d": "2026-08-10"
+      },
+      {
+        "v": 7200
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-10"
+      },
+      {
+        "v": 7200
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:36",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 36,
+    "values": [
+      {
+        "v": "2026-035"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Lobby refresh, design fees"
+      },
+      {
+        "d": "2026-07-17"
+      },
+      {
+        "d": "2026-08-16"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-09"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:37",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 37,
+    "values": [
+      {
+        "v": "2026-036"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-07-23"
+      },
+      {
+        "d": "2026-08-22"
+      },
+      {
+        "v": 11800
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-19"
+      },
+      {
+        "v": 11800
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:38",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 38,
+    "values": [
+      {
+        "v": "2026-037"
+      },
+      {
+        "v": "Riverside Pediatrics"
+      },
+      {
+        "v": "Waiting room"
+      },
+      {
+        "d": "2026-07-28"
+      },
+      {
+        "d": "2026-08-27"
+      },
+      {
+        "v": 6400
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-17"
+      },
+      {
+        "v": 6400
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:39",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 39,
+    "values": [
+      {
+        "v": "2026-038"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-08-03"
+      },
+      {
+        "d": "2026-09-02"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-08-27"
+      },
+      {
+        "v": 9600
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:40",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 40,
+    "values": [
+      {
+        "v": "2026-039"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Lobby refresh, design fees"
+      },
+      {
+        "d": "2026-08-09"
+      },
+      {
+        "d": "2026-09-08"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-09-06"
+      },
+      {
+        "v": 15500
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:41",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 41,
+    "values": [
+      {
+        "v": "2026-040"
+      },
+      {
+        "v": "Pilsen Arts Collective"
+      },
+      {
+        "v": "Gallery signage"
+      },
+      {
+        "d": "2026-08-14"
+      },
+      {
+        "d": "2026-09-13"
+      },
+      {
+        "v": 5200
+      },
+      {
+        "v": "Paid"
+      },
+      {
+        "d": "2026-09-04"
+      },
+      {
+        "v": 5200
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:42",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 42,
+    "values": [
+      {
+        "v": "2026-041"
+      },
+      {
+        "v": "Calloway & Finch LLP"
+      },
+      {
+        "v": "Office refresh"
+      },
+      {
+        "d": "2026-08-20"
+      },
+      {
+        "d": "2026-09-19"
+      },
+      {
+        "v": 12000
+      },
+      {
+        "v": "Overdue"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:43",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 43,
+    "values": [
+      {
+        "v": "2026-042"
+      },
+      {
+        "v": "Halsted Fitness"
+      },
+      {
+        "v": "Locker rooms"
+      },
+      {
+        "d": "2026-09-04"
+      },
+      {
+        "d": "2026-10-04"
+      },
+      {
+        "v": 7200
+      },
+      {
+        "v": "Sent"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:44",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 44,
+    "values": [
+      {
+        "v": "2026-043"
+      },
+      {
+        "v": "Brightwell Hospitality"
+      },
+      {
+        "v": "Lobby refresh, design fees"
+      },
+      {
+        "d": "2026-09-11"
+      },
+      {
+        "d": "2026-10-11"
+      },
+      {
+        "v": 15500
+      },
+      {
+        "v": "Sent"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:45",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 45,
+    "values": [
+      {
+        "v": "2026-044"
+      },
+      {
+        "v": "Andersonville Florist"
+      },
+      {
+        "v": "Storefront"
+      },
+      {
+        "d": "2026-09-21"
+      },
+      {
+        "d": "2026-10-21"
+      },
+      {
+        "v": 6250
+      },
+      {
+        "v": "Sent"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:0:46",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 0,
+    "row": 46,
+    "values": [
+      {
+        "v": "2026-045"
+      },
+      {
+        "v": "Fulton Market Lofts"
+      },
+      {
+        "v": "Amenity floor"
+      },
+      {
+        "d": "2026-09-29"
+      },
+      {
+        "d": "2026-10-29"
+      },
+      {
+        "v": 9600
+      },
+      {
+        "v": "Sent"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:1",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 1,
+    "values": [
+      {
+        "v": "Metric"
+      },
+      {
+        "v": "Value"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:2",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 2,
+    "values": [
+      {
+        "v": "Invoiced in 2026"
+      },
+      {
+        "f": "=SUM(Invoices!F2:F)",
+        "fmt": "currency"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:3",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 3,
+    "values": [
+      {
+        "v": "Received"
+      },
+      {
+        "f": "=SUM(Invoices!I2:I)",
+        "fmt": "currency"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:4",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 4,
+    "values": [
+      {
+        "v": "Outstanding"
+      },
+      {
+        "f": "=B2-B3",
+        "fmt": "currency"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:5",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 5,
+    "values": [
+      {
+        "v": "Paid invoices"
+      },
+      {
+        "f": "=COUNTIF(Invoices!G2:G,\"Paid\")",
+        "fmt": "number0"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:6",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 6,
+    "values": [
+      {
+        "v": "Open invoices"
+      },
+      {
+        "f": "=COUNTIF(Invoices!G2:G,\"Sent\")",
+        "fmt": "number0"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:7",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 7,
+    "values": [
+      {
+        "v": "Overdue invoices"
+      },
+      {
+        "f": "=COUNTIF(Invoices!G2:G,\"Overdue\")",
+        "fmt": "number0"
+      }
+    ]
+  },
+  {
+    "id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv:1660329842:8",
+    "spreadsheet_id": "17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+    "sheet_id": 1660329842,
+    "row": 8,
+    "values": [
+      {
+        "v": "Overdue amount"
+      },
+      {
+        "f": "=SUMIF(Invoices!G2:G,\"Overdue\",Invoices!F2:F)",
+        "fmt": "currency"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:1",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Role"
+      },
+      {
+        "v": "Quarter"
+      },
+      {
+        "v": "Target start"
+      },
+      {
+        "v": "Salary budget"
+      },
+      {
+        "v": "Status"
+      },
+      {
+        "v": "Hiring manager"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:2",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "v": "Junior designer"
+      },
+      {
+        "v": "Q3"
+      },
+      {
+        "d": "2026-09-08"
+      },
+      {
+        "v": 62000
+      },
+      {
+        "v": "Hired"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:3",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "v": "Studio coordinator"
+      },
+      {
+        "v": "Q4"
+      },
+      {
+        "d": "2026-11-02"
+      },
+      {
+        "v": 55000
+      },
+      {
+        "v": "Interviewing"
+      },
+      {
+        "v": "Leah Novak"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:4",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "v": "Project manager"
+      },
+      {
+        "v": "Q4"
+      },
+      {
+        "d": "2026-12-01"
+      },
+      {
+        "v": 84000
+      },
+      {
+        "v": "On hold"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:5",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "v": "Senior designer, hospitality"
+      },
+      {
+        "v": "Q1 2027"
+      },
+      {
+        "d": "2027-01-11"
+      },
+      {
+        "v": 98000
+      },
+      {
+        "v": "Open"
+      },
+      {
+        "v": "Dana Whitfield"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:6",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "v": "Design intern, summer"
+      },
+      {
+        "v": "Q2"
+      },
+      {
+        "d": "2026-06-01"
+      },
+      {
+        "v": 18000
+      },
+      {
+        "v": "Filled"
+      },
+      {
+        "v": "Priya Raman"
+      }
+    ]
+  },
+  {
+    "id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B:0:7",
+    "spreadsheet_id": "1-xAE_4V-dNOlKsW8qVIz5Sjs0Tlz_dC9B",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "v": "3D visualization contractor"
+      },
+      {
+        "v": "Q3"
+      },
+      {
+        "d": "2026-08-03"
+      },
+      {
+        "v": 30000
+      },
+      {
+        "v": "Filled"
+      },
+      {
+        "v": "Tomas Lindqvist"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:1",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 1,
+    "values": [
+      {
+        "v": "Week of"
+      },
+      {
+        "v": "Channel"
+      },
+      {
+        "v": "Post"
+      },
+      {
+        "v": "Owner"
+      },
+      {
+        "v": "Status"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:2",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 2,
+    "values": [
+      {
+        "d": "2026-09-07"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Brightwell River North material palette"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Posted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:3",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 3,
+    "values": [
+      {
+        "d": "2026-09-07"
+      },
+      {
+        "v": "LinkedIn"
+      },
+      {
+        "v": "Hiring: studio coordinator"
+      },
+      {
+        "v": "Leah Novak"
+      },
+      {
+        "v": "Posted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:4",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 4,
+    "values": [
+      {
+        "d": "2026-09-14"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Behind the scenes: sample library"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Posted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:5",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 5,
+    "values": [
+      {
+        "d": "2026-09-21"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Harbor Street menus one year later"
+      },
+      {
+        "v": "Priya Raman"
+      },
+      {
+        "v": "Posted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:6",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 6,
+    "values": [
+      {
+        "d": "2026-09-28"
+      },
+      {
+        "v": "LinkedIn"
+      },
+      {
+        "v": "Dana on designing for hotel staff, not just guests"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Posted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:7",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 7,
+    "values": [
+      {
+        "d": "2026-10-05"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Planters from Saltmarsh Ceramics arrive"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Scheduled"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:8",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 8,
+    "values": [
+      {
+        "d": "2026-10-12"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Terrazzo sample comparison"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Drafted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:9",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 9,
+    "values": [
+      {
+        "d": "2026-10-19"
+      },
+      {
+        "v": "LinkedIn"
+      },
+      {
+        "v": "River North install starts"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Drafted"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:10",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 10,
+    "values": [
+      {
+        "d": "2026-10-26"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Hospitality Design Expo recap"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:11",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 11,
+    "values": [
+      {
+        "d": "2026-11-02"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "River North reveal, part 1"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:12",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 12,
+    "values": [
+      {
+        "d": "2026-11-02"
+      },
+      {
+        "v": "Newsletter"
+      },
+      {
+        "v": "Autumn newsletter"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "On hold"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:13",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 13,
+    "values": [
+      {
+        "d": "2026-11-09"
+      },
+      {
+        "v": "LinkedIn"
+      },
+      {
+        "v": "Case study: Brightwell River North"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:14",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 14,
+    "values": [
+      {
+        "d": "2026-11-16"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "River North reveal, part 2"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:15",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 15,
+    "values": [
+      {
+        "d": "2026-11-23"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Thanksgiving: thank you to our makers"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:16",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 16,
+    "values": [
+      {
+        "d": "2026-11-30"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Desk reshuffle timelapse"
+      },
+      {
+        "v": "Ben Hartigan"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:17",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 17,
+    "values": [
+      {
+        "d": "2026-12-07"
+      },
+      {
+        "v": "LinkedIn"
+      },
+      {
+        "v": "Midway install starts"
+      },
+      {
+        "v": "Marcus Oyelaran"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:18",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 18,
+    "values": [
+      {
+        "d": "2026-12-14"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Studio holiday cards"
+      },
+      {
+        "v": "Hannah Brooks"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  },
+  {
+    "id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y:0:19",
+    "spreadsheet_id": "1kz42EtKUMjiBHA9RvO_DnpkMqWP4Ydm9Y",
+    "sheet_id": 0,
+    "row": 19,
+    "values": [
+      {
+        "d": "2026-12-21"
+      },
+      {
+        "v": "Instagram"
+      },
+      {
+        "v": "Year in review"
+      },
+      {
+        "v": "Dana Whitfield"
+      },
+      {
+        "v": "Idea"
+      }
+    ]
+  }
+]

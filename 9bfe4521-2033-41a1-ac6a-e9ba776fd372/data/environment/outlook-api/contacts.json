@@ -1,0 +1,32 @@
+[
+  {
+    "id": "AAMkAGcnt0000001",
+    "display_name": "Denise Patterson",
+    "given_name": "Denise",
+    "surname": "Patterson",
+    "email": "dpatterson@gmail.com",
+    "job_title": "Principal",
+    "company": "Ridgeway Regional High School",
+    "mobile_phone": "(901) 555-0308"
+  },
+  {
+    "id": "AAMkAGcnt0000002",
+    "display_name": "Local 780 Union Hall",
+    "given_name": "Local 780",
+    "surname": "Union Hall",
+    "email": "local780@gmail.com",
+    "job_title": "Union Office",
+    "company": "MEA Local 780",
+    "mobile_phone": "(901) 555-0369"
+  },
+  {
+    "id": "AAMkAGcnt0000003",
+    "display_name": "Jerome Simmons",
+    "given_name": "Jerome",
+    "surname": "Simmons",
+    "email": "jerome.simmons@example.com",
+    "job_title": "Auto Shop Teacher",
+    "company": "Ridgeway Regional High School",
+    "mobile_phone": "(901) 555-0215"
+  }
+]

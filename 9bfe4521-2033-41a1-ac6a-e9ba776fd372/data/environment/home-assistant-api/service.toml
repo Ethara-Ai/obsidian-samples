@@ -1,0 +1,5 @@
+[service]
+name = "home-assistant-api"
+port = 8130
+env_var_name = "HOME_ASSISTANT_API_URL"
+healthcheck_path = "/health"

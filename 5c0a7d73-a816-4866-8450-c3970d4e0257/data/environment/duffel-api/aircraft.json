@@ -1,0 +1,22 @@
+[
+  {
+    "id": "320",
+    "iata_code": "320",
+    "name": "Airbus A320-200"
+  },
+  {
+    "id": "738",
+    "iata_code": "738",
+    "name": "Boeing 737-800"
+  },
+  {
+    "id": "333",
+    "iata_code": "333",
+    "name": "Airbus A330-300"
+  },
+  {
+    "id": "789",
+    "iata_code": "789",
+    "name": "Boeing 787-9 Dreamliner"
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "info": {
+    "name": "Threads Messaging API Mock v1.0",
+    "description": "Mock Threads Messaging API v1.0. Base URL: http://localhost:8128. In docker-compose: http://threads-messages-api:8128. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8128"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=thmsg-connector-app&client_secret=thmcs_61c4a92e07bd35f1"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"thmsg-connector-app\", \"client_secret\": \"thmcs_61c4a92e07bd35f1\", \"scope\": \"threads_messages.read threads_messages.send\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list conversations",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/conversations?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "find the conversation with one user",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/conversations?user_id=21960437526048324",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a conversation's messages",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/dGhfZDoxOlRITWVzc2FnZVRocmVhZDoyNjk1NDQxMzc4NTQxMDAyMzoyMTk2MDQzNzUyNjA0ODMyNA/messages?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "send a message",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1.0/me/messages",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"recipient\": {\"id\": \"21960437526048324\"}, \"message\": {\"text\": \"The planters arrive by October 9.\"}}"
+        }
+      }
+    }
+  ]
+}

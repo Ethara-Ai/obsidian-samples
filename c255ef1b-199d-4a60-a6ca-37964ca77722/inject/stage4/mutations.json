@@ -1,0 +1,48 @@
+{
+  "stage": 4,
+  "stage_name": "nordlys_notes_land",
+  "description": "Wednesday 10:20: the notes of Tuesday's call with the Danish partner gain two lines: the next call moves to another day, quoted in Copenhagen time, and the research notes are due earlier. Nothing announces it.",
+  "applies_between_turns": [
+    "T8",
+    "T9"
+  ],
+  "applied_at_local_time": "2026-12-02T10:20:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_notes_nordlys_call",
+        "service": "google-calendar-api",
+        "description": "The Danish partner's note: the next call moves, in Copenhagen time.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-5d4fd3a7cc3f81a7",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-5d4fd3a7cc3f81a7",
+          "set": {
+            "description": "Post-call: meeting moved to Thu 10 Dec, 14:00 Copenhagen."
+          }
+        },
+        "fires_at_turn": "T9"
+      },
+      {
+        "id": "sil_notes_nordlys_input",
+        "service": "google-calendar-api",
+        "description": "The Danish partner's note: the research notes are due earlier.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-5d4fd3a7cc3f81a7",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-5d4fd3a7cc3f81a7",
+          "set": {
+            "description": "Post-call: meeting moved to Thu 10 Dec, 14:00 Copenhagen. Research notes for the treatment draft due Fri 4 Dec."
+          }
+        },
+        "fires_at_turn": "T9"
+      }
+    ]
+  }
+}

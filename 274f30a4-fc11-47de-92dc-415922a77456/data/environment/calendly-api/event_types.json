@@ -1,0 +1,371 @@
+[
+  {
+    "uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "slug": "discovery-call",
+    "duration": 30,
+    "locations": [
+      {
+        "kind": "google_conference"
+      }
+    ],
+    "color": "#0ae8f0",
+    "position": 0,
+    "active": true,
+    "secret": false,
+    "description": "A first conversation about your space, your goals and your budget.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "What are you hoping to design?",
+        "type": "text",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      },
+      {
+        "name": "Budget range",
+        "type": "single_select",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [
+          "Under $25,000",
+          "$25,000 to $75,000",
+          "$75,000 to $150,000",
+          "$150,000 to $400,000",
+          "Over $400,000"
+        ],
+        "include_other": false,
+        "position": 1
+      },
+      {
+        "name": "Ideal completion date",
+        "type": "string",
+        "required": false,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 2
+      }
+    ],
+    "created_at": "2023-03-01T15:00:00.000000Z",
+    "updated_at": "2023-04-10T15:00:00.000000Z"
+  },
+  {
+    "uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "slug": "design-consultation",
+    "duration": 60,
+    "locations": [
+      {
+        "kind": "physical",
+        "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+      }
+    ],
+    "color": "#8247f5",
+    "position": 1,
+    "active": true,
+    "secret": false,
+    "description": "An hour at the studio with samples, plans and a first look at what the project could cost.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Project name",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      },
+      {
+        "name": "Who else will attend?",
+        "type": "string",
+        "required": false,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 1
+      }
+    ],
+    "created_at": "2023-03-01T15:05:00.000000Z",
+    "updated_at": "2023-04-10T15:05:00.000000Z"
+  },
+  {
+    "uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "slug": "site-visit",
+    "duration": 90,
+    "locations": [
+      {
+        "kind": "ask_invitee"
+      }
+    ],
+    "color": "#17e885",
+    "position": 2,
+    "active": true,
+    "secret": false,
+    "description": "Dana walks the space with you, measures, and photographs existing conditions.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Site address",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      },
+      {
+        "name": "Access or parking notes",
+        "type": "text",
+        "required": false,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 1
+      }
+    ],
+    "created_at": "2023-03-01T15:08:00.000000Z",
+    "updated_at": "2023-04-10T15:08:00.000000Z"
+  },
+  {
+    "uuid": "TZCPPLFTA2LIE8OY",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Press interview",
+    "slug": "press-interview",
+    "duration": 30,
+    "locations": [
+      {
+        "kind": "google_conference"
+      }
+    ],
+    "color": "#ffa600",
+    "position": 3,
+    "active": true,
+    "secret": true,
+    "description": "",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Publication",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      },
+      {
+        "name": "Topic",
+        "type": "text",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 1
+      }
+    ],
+    "created_at": "2024-01-08T17:30:00.000000Z",
+    "updated_at": "2024-02-17T17:30:00.000000Z"
+  },
+  {
+    "uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "slug": "portfolio-review",
+    "duration": 45,
+    "locations": [
+      {
+        "kind": "google_conference"
+      }
+    ],
+    "color": "#e55cff",
+    "position": 4,
+    "active": false,
+    "secret": false,
+    "description": "For design applicants: walk us through two projects you are proud of.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Portfolio link",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      }
+    ],
+    "created_at": "2025-11-03T16:00:00.000000Z",
+    "updated_at": "2026-04-02T15:00:00.000000Z"
+  },
+  {
+    "uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "slug": "partnership-intro",
+    "duration": 30,
+    "locations": [
+      {
+        "kind": "google_conference"
+      }
+    ],
+    "color": "#1e90ff",
+    "position": 0,
+    "active": true,
+    "secret": false,
+    "description": "",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Company",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      },
+      {
+        "name": "What would you like to explore?",
+        "type": "text",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 1
+      }
+    ],
+    "created_at": "2024-04-02T15:30:00.000000Z",
+    "updated_at": "2024-05-12T15:30:00.000000Z"
+  },
+  {
+    "uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "slug": "proposal-walkthrough",
+    "duration": 60,
+    "locations": [
+      {
+        "kind": "google_conference"
+      }
+    ],
+    "color": "#ff4f00",
+    "position": 1,
+    "active": true,
+    "secret": false,
+    "description": "We walk through the proposal line by line and answer questions.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Proposal name",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      }
+    ],
+    "created_at": "2024-04-02T15:35:00.000000Z",
+    "updated_at": "2024-05-12T15:35:00.000000Z"
+  },
+  {
+    "uuid": "E1DXZL4GV4OI00UV",
+    "user_uuid": "N63J3QOWHG6RI6P2",
+    "name": "Studio coordinator interview",
+    "slug": "studio-coordinator-interview",
+    "duration": 45,
+    "locations": [
+      {
+        "kind": "physical",
+        "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+      }
+    ],
+    "color": "#ffe034",
+    "position": 0,
+    "active": true,
+    "secret": false,
+    "description": "A 45-minute interview at the studio with Leah Novak, the hiring manager.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Name on your application",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      },
+      {
+        "name": "Earliest start date",
+        "type": "string",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-20T15:00:00.000000Z",
+    "updated_at": "2026-10-30T15:00:00.000000Z"
+  },
+  {
+    "uuid": "95FM7VYKVI7RM03Q",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Fall open house",
+    "slug": "fall-open-house",
+    "duration": 90,
+    "locations": [
+      {
+        "kind": "physical",
+        "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+      }
+    ],
+    "color": "#c9f1ff",
+    "position": 5,
+    "active": true,
+    "secret": false,
+    "description": "An evening at the studio: recent projects, material samples and drinks.",
+    "internal_note": "",
+    "kind": "group",
+    "invitee_limit": 20,
+    "custom_questions": [
+      {
+        "name": "How did you hear about us?",
+        "type": "string",
+        "required": false,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-14T15:00:00.000000Z",
+    "updated_at": "2026-09-14T15:00:00.000000Z"
+  }
+]

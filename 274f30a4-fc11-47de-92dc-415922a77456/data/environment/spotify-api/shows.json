@@ -1,0 +1,107 @@
+[
+  {
+    "id": "92xOY7pTFPDJHTZo16Pglo",
+    "name": "Practice Room",
+    "publisher": "Ruthie Bell Media",
+    "description": "Practice Room, hosted by Ruth Bell. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "Q5Y00a6kunz86hL5V1w53m",
+    "name": "Rehearsal Notes",
+    "publisher": "Fieldhouse Audio",
+    "description": "Rehearsal Notes, hosted by Gary Pham. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "AMwBfm5sgZPv76a3sQmozX",
+    "name": "The Score Reader",
+    "publisher": "Northlight Classical",
+    "description": "The Score Reader, hosted by Imogen Hale. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "3JiDyhMgXBTIvITzCugUIc",
+    "name": "Jazz After Hours",
+    "publisher": "Lantern Radio Collective",
+    "description": "Jazz After Hours, hosted by Marcus Webb. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "sXnHzPDNTVzrDVKulI8Ld4",
+    "name": "Band Room Stories",
+    "publisher": "Marching Notes Network",
+    "description": "Band Room Stories, hosted by Dale Okafor. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "qEevLhRK5nJaPZ434Q5TgW",
+    "name": "Songwriters' Kitchen",
+    "publisher": "Open Mic Media",
+    "description": "Songwriters' Kitchen, hosted by Priscilla Nguyen. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "4hLIaBW5BzNumSBs5TxDm4",
+    "name": "Teaching Artists Weekly",
+    "publisher": "Arts Ed Collective",
+    "description": "Teaching Artists Weekly, hosted by Hana Sorensen. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "DRSm26NGQOE7lG3hDER01r",
+    "name": "Vinyl Archaeology",
+    "publisher": "Crate Diggers Co.",
+    "description": "Vinyl Archaeology, hosted by Felix Aronson. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "2XSkuWY04XyxxmmE7moajr",
+    "name": "Pacific Northwest Sound",
+    "publisher": "Cascadia Community Radio",
+    "description": "Pacific Northwest Sound, hosted by June Whitaker. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "nsyxsjSalctAJmvyMbJQJt",
+    "name": "Ear Training Daily",
+    "publisher": "Interval Labs",
+    "description": "Ear Training Daily, hosted by Owen Barrett. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "3ZntCNs8lZXUXLhO2wJLEI",
+    "name": "Gear and Gigs",
+    "publisher": "Roadcase Media",
+    "description": "Gear and Gigs, hosted by Tamsin Reyes. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "iW7DTwartrqZZILAA5RnPt",
+    "name": "Choir Loft",
+    "publisher": "Singing Together Network",
+    "description": "Choir Loft, hosted by Beatrice Lindgren. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "YIcojn7YJJpLw0REx6u8IZ",
+    "name": "The Orchestra Pit",
+    "publisher": "Pit Band Productions",
+    "description": "The Orchestra Pit, hosted by Nate Castellano. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "6d8jRElP1sVoAnoMS5dRyv",
+    "name": "Rhythm Lab",
+    "publisher": "Pulse Education",
+    "description": "Rhythm Lab, hosted by Kofi Mensah. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  },
+  {
+    "id": "NhunDUqErajv6wWgm6mWrn",
+    "name": "Concert Hall Conversations",
+    "publisher": "Symphony Society Audio",
+    "description": "Concert Hall Conversations, hosted by Elise Marchetti. A weekly conversation for people who make and teach music.",
+    "language": "en"
+  }
+]

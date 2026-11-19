@@ -1,0 +1,549 @@
+[
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:1",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 1,
+  "values": [
+   {
+    "v": "Section"
+   },
+   {
+    "v": "Item"
+   },
+   {
+    "v": "Unit"
+   },
+   {
+    "v": "Spring need"
+   },
+   {
+    "v": "Notes"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:2",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 2,
+  "values": [
+   {
+    "v": "Gas"
+   },
+   {
+    "v": "C1 75/25 Ar/CO2"
+   },
+   {
+    "v": "cylinder"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Last reading 10/30: 2,200 psi"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:3",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 3,
+  "values": [
+   {
+    "v": "Gas"
+   },
+   {
+    "v": "C2 75/25 Ar/CO2"
+   },
+   {
+    "v": "cylinder"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Last reading 10/30: 1,400 psi"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:4",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 4,
+  "values": [
+   {
+    "v": "Gas"
+   },
+   {
+    "v": "C3 Argon"
+   },
+   {
+    "v": "cylinder"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Last reading 10/30: 1,900 psi"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:5",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 5,
+  "values": [
+   {
+    "v": "Gas"
+   },
+   {
+    "v": "C4 75/25 Ar/CO2"
+   },
+   {
+    "v": "cylinder"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Last reading 10/30: 800 psi"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:6",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 6,
+  "values": [
+   {
+    "v": "Gas"
+   },
+   {
+    "v": "Exchange rule"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Swap any cylinder at or under 500 psi on its gauge before break."
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:7",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 7,
+  "values": [
+   {
+    "v": "Consumables"
+   },
+   {
+    "v": "Wire, ER70S-6 .030 (11 lb spool)"
+   },
+   {
+    "v": "spool"
+   },
+   {
+    "v": "14"
+   },
+   {
+    "v": "Shelf had 8 on 11/2."
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:8",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 8,
+  "values": [
+   {
+    "v": "Consumables"
+   },
+   {
+    "v": "Flap discs, 4-1/2 in 60 grit (box of 10)"
+   },
+   {
+    "v": "box"
+   },
+   {
+    "v": "10"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:9",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 9,
+  "values": [
+   {
+    "v": "Consumables"
+   },
+   {
+    "v": "Contact tips, .030 (pack of 25)"
+   },
+   {
+    "v": "pack"
+   },
+   {
+    "v": "8"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:10",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 10,
+  "values": [
+   {
+    "v": "Consumables"
+   },
+   {
+    "v": "Anti-spatter spray (16 oz)"
+   },
+   {
+    "v": "can"
+   },
+   {
+    "v": "4"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:11",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 11,
+  "values": [
+   {
+    "v": "Consumables"
+   },
+   {
+    "v": "Order rule"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Order the spring need less what is on the shelf at the December count."
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:12",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 12,
+  "values": [
+   {
+    "v": "Capstone"
+   },
+   {
+    "v": "Community garden bench"
+   },
+   {
+    "v": "bench"
+   },
+   {
+    "v": "2"
+   },
+   {
+    "v": "Cut list from the crew's sketch. Tube and flat bar come in 20 ft sticks; allow 1/8 in kerf a cut."
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:13",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 13,
+  "values": [
+   {
+    "v": "Capstone"
+   },
+   {
+    "v": "Legs"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "1-1/2 in square tube, 11 ga"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:14",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 14,
+  "values": [
+   {
+    "v": "Capstone"
+   },
+   {
+    "v": "Rails and crossbars"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "1 in square tube, 16 ga"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:15",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 15,
+  "values": [
+   {
+    "v": "Capstone"
+   },
+   {
+    "v": "Slats"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Flat bar, size per the sketch"
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:16",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 16,
+  "values": [
+   {
+    "v": "Vendor"
+   },
+   {
+    "v": "Bluff City Welding Supply"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Counter quote from Ray Odom. The order goes to Ray by email. Tax exempt (MCS)."
+   }
+  ]
+ },
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0:17",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "row": 17,
+  "values": [
+   {
+    "v": "Safety"
+   },
+   {
+    "v": "Cylinder storage"
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": ""
+   },
+   {
+    "v": "Check how the shop stores its gas cylinders against OSHA 29 CFR 1910.253 before the spring inspection."
+   }
+  ]
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0:1",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "row": 1,
+  "values": [
+   {
+    "v": "Customer"
+   },
+   {
+    "v": "Job"
+   },
+   {
+    "v": "Materials ($)"
+   },
+   {
+    "v": "Quoted ($)"
+   },
+   {
+    "v": "Paid"
+   },
+   {
+    "v": "Status"
+   }
+  ]
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0:2",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "row": 2,
+  "values": [
+   {
+    "v": "Ada Jefferson"
+   },
+   {
+    "v": "Porch handrail, Carnes Ave"
+   },
+   {
+    "v": "85"
+   },
+   {
+    "v": "380"
+   },
+   {
+    "v": "yes"
+   },
+   {
+    "v": "done 9/19"
+   }
+  ]
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0:3",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "row": 3,
+  "values": [
+   {
+    "v": "Greater Mount Zion Baptist Church"
+   },
+   {
+    "v": "Ramp handrails, side entrance"
+   },
+   {
+    "v": "240"
+   },
+   {
+    "v": "1,150"
+   },
+   {
+    "v": "yes"
+   },
+   {
+    "v": "done 10/8"
+   }
+  ]
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0:4",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "row": 4,
+  "values": [
+   {
+    "v": "Tony Greer"
+   },
+   {
+    "v": "Trailer tongue repair"
+   },
+   {
+    "v": "35"
+   },
+   {
+    "v": "220"
+   },
+   {
+    "v": "yes"
+   },
+   {
+    "v": "done 10/24"
+   }
+  ]
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0:5",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "row": 5,
+  "values": [
+   {
+    "v": "Cooper-Young Garden Club"
+   },
+   {
+    "v": "Gate latch and hinges"
+   },
+   {
+    "v": "60"
+   },
+   {
+    "v": "275"
+   },
+   {
+    "v": "no"
+   },
+   {
+    "v": "booked for 12/19"
+   }
+  ]
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0:6",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "row": 6,
+  "values": [
+   {
+    "v": "Vernon Holloway"
+   },
+   {
+    "v": "Smoker firebox door"
+   },
+   {
+    "v": "45"
+   },
+   {
+    "v": "0"
+   },
+   {
+    "v": "n/a"
+   },
+   {
+    "v": "family, no charge"
+   }
+  ]
+ }
+]

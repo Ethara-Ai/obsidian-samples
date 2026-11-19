@@ -1,0 +1,20 @@
+[
+  {
+    "id": "t_100060000000001",
+    "owner_account_id": "acct-tessa-marlowe",
+    "is_group": "false",
+    "name": "",
+    "snippet": "Harness is still available. Can pick up Saturday.",
+    "updated_time": "2026-11-12T18:20:00+0000",
+    "last_read_time": "2026-11-12T22:05:00+0000"
+  },
+  {
+    "id": "t_100060000000002",
+    "owner_account_id": "acct-tessa-marlowe",
+    "is_group": "false",
+    "name": "",
+    "snippet": "Grinder is yours if you can get it Thursday.",
+    "updated_time": "2026-11-04T15:10:00+0000",
+    "last_read_time": "2026-11-04T16:00:00+0000"
+  }
+]

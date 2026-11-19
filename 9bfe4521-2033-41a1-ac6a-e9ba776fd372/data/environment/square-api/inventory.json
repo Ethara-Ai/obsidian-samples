@@ -1,0 +1,26 @@
+[
+ {
+  "catalog_object_id": "VAR_BRISKET",
+  "location_id": "LOC_MAIN",
+  "quantity": "40",
+  "state": "IN_STOCK"
+ },
+ {
+  "catalog_object_id": "VAR_RIB",
+  "location_id": "LOC_MAIN",
+  "quantity": "30",
+  "state": "IN_STOCK"
+ },
+ {
+  "catalog_object_id": "VAR_PORK",
+  "location_id": "LOC_MAIN",
+  "quantity": "60",
+  "state": "IN_STOCK"
+ },
+ {
+  "catalog_object_id": "VAR_TEA",
+  "location_id": "LOC_MAIN",
+  "quantity": "120",
+  "state": "IN_STOCK"
+ }
+]

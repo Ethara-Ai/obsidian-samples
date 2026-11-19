@@ -1,0 +1,20 @@
+[
+ {
+  "id": "reggie.clayton@finthesiss.ai",
+  "summary": "Reggie Clayton",
+  "description": "Primary calendar",
+  "time_zone": "America/Chicago",
+  "access_role": "owner",
+  "primary": "true",
+  "color_id": "1"
+ },
+ {
+  "id": "clayton-kids@group.calendar.google.com",
+  "summary": "Clayton kids",
+  "description": "Marcus and Zuri: custody weeks, practices and step dance",
+  "time_zone": "America/Chicago",
+  "access_role": "owner",
+  "primary": "false",
+  "color_id": "5"
+ }
+]

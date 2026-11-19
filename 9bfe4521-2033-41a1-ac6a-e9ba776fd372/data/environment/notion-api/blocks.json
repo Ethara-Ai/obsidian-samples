@@ -1,0 +1,115 @@
+[
+  {
+    "id": "011a24fe-0000-4000-8000-000000000001",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 0,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Action items",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Action items",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-11-05T23:00:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-11-05T23:00:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "011a24fe-0000-4000-8000-000000000002",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 1,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Case notes stay in this workspace only. Bring open items to the December meeting.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Case notes stay in this workspace only. Bring open items to the December meeting.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-11-05T23:02:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-11-05T23:02:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "011a24fe-0000-4000-8000-000000000003",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Update the case log before the December meeting",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Update the case log before the December meeting",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-11-05T23:04:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-11-05T23:04:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  }
+]

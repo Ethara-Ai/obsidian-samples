@@ -1,0 +1,26 @@
+[
+  {
+    "account_id": "acc_chk_001",
+    "name": "Everyday Checking",
+    "official_name": "Rivermark Credit Union Checking",
+    "mask": "4021",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "2140.62",
+    "current": "2240.62",
+    "limit": "",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_sav_002",
+    "name": "Share Savings",
+    "official_name": "Rivermark Credit Union Share Savings",
+    "mask": "9915",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "8500.00",
+    "current": "8500.00",
+    "limit": "",
+    "iso_currency_code": "USD"
+  }
+]

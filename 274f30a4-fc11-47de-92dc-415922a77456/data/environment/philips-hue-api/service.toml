@@ -1,0 +1,5 @@
+[service]
+name = "philips-hue-api"
+port = 8131
+env_var_name = "PHILIPS_HUE_API_URL"
+healthcheck_path = "/health"

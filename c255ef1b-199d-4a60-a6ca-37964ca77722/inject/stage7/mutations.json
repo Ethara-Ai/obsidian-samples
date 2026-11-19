@@ -1,0 +1,76 @@
+{
+  "stage": 7,
+  "stage_name": "van_and_train_mails_land",
+  "description": "Thursday 12:25: Cian writes in a new thread that the hired-lens van now leaves later from his own yard, and Thomas writes in another that his train now gets in later.",
+  "applies_between_turns": [
+    "T12",
+    "T13"
+  ],
+  "applied_at_local_time": "2026-12-03T12:25:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_mail_van",
+        "service": "gmail-api",
+        "description": "Cian Doyle's note lands in a new thread to the persona only.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-99dd112e92",
+            "thread_id": "thr-91000445",
+            "from_addr": "cian.doyle.pa@gmail.com",
+            "to_addr": "margaret.edwards@Finthesiss.ai",
+            "cc_addr": "",
+            "subject": "Kit van update",
+            "snippet": "Change of plan: van now leaves 09:15 from my yard on Prussia Street.  Cian",
+            "body": "Change of plan: van now leaves 09:15 from my yard on Prussia Street.\n\nCian",
+            "date": "2026-12-03T12:15:00+00:00",
+            "internal_date": 1796300100000,
+            "size_estimate": 974,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T13"
+      },
+      {
+        "id": "sil_mail_train",
+        "service": "gmail-api",
+        "description": "Thomas Edwards's note lands in a new thread to the persona only.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-204bac8126",
+            "thread_id": "thr-f940b193",
+            "from_addr": "thomas.edwards.arch@gmail.com",
+            "to_addr": "margaret.edwards@Finthesiss.ai",
+            "cc_addr": "",
+            "subject": "Train change",
+            "snippet": "Train change: Thursday's train now gets into Heuston at 18:45, not 17:20.  T",
+            "body": "Train change: Thursday's train now gets into Heuston at 18:45, not 17:20.\n\nT",
+            "date": "2026-12-03T12:20:00+00:00",
+            "internal_date": 1796300400000,
+            "size_estimate": 976,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T13"
+      }
+    ]
+  }
+}

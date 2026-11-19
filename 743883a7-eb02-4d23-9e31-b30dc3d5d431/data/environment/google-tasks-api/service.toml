@@ -1,0 +1,5 @@
+[service]
+name = "google-tasks-api"
+port = 8119
+env_var_name = "GOOGLE_TASKS_API_URL"
+healthcheck_path = "/health"

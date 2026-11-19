@@ -1,0 +1,51 @@
+[
+  {
+    "id": "08f3ebdbf9b96a306bbfb0",
+    "name": "What's Going On",
+    "artist_id": "a4cac82164ef67d9d07d37",
+    "album_type": "album",
+    "release_date": "1971-05-21"
+  },
+  {
+    "id": "dc07fdd080f66e874af41e",
+    "name": "Let's Stay Together",
+    "artist_id": "bc74f4f071a5a33f00ab88",
+    "album_type": "album",
+    "release_date": "1972-02-01"
+  },
+  {
+    "id": "65f02b821dfe66260cb589",
+    "name": "Curtis",
+    "artist_id": "eda91b38e63bc56017dc77",
+    "album_type": "album",
+    "release_date": "1970-09-01"
+  },
+  {
+    "id": "3a93635eb90de7fb14d62f",
+    "name": "Gospel Classics",
+    "artist_id": "6c5f67bf440a284c2c93be",
+    "album_type": "album",
+    "release_date": "1958-01-01"
+  },
+  {
+    "id": "7aeff088d17796a6efbaef",
+    "name": "Be Altitude: Respect Yourself",
+    "artist_id": "f3d8047a2161c9b4f11f65",
+    "album_type": "album",
+    "release_date": "1972-05-01"
+  },
+  {
+    "id": "2d185baed0dd0e4c0b1bd1",
+    "name": "Live at the Regal",
+    "artist_id": "ceb2d734d5f3dc1b5a5c6b",
+    "album_type": "album",
+    "release_date": "1965-01-01"
+  },
+  {
+    "id": "ace531a215e1ef78965c4c",
+    "name": "Moanin' in the Moonlight",
+    "artist_id": "a3cb738850fa39be667c4d",
+    "album_type": "album",
+    "release_date": "1959-01-01"
+  }
+]

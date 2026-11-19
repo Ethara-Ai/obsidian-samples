@@ -1,0 +1,115 @@
+[
+  {
+    "id": "4f523d1a5e50e17192eb8a5a",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Darnell",
+      "last_name": "Washington",
+      "email": "darnell.washington@gmail.com",
+      "phone": "",
+      "country": "US",
+      "region": "TN",
+      "address1": "Address on file",
+      "address2": "",
+      "city": "Memphis",
+      "zip": "38104",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17400,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "fulfilled",
+        "metadata": {
+          "title": "Smoke Ring Logo Tee",
+          "price": 2400,
+          "variant_label": "White / M",
+          "sku": "SRB-12-17400",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3262000001",
+      "shop_order_label": "3262000001",
+      "shop_fulfilled_at": "2026-09-18 19:00:00+00:00"
+    },
+    "total_price": 2400,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "fulfilled",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [
+      {
+        "carrier": "USPS",
+        "number": "9880038341904759700001",
+        "url": "https://tools.usps.example/track?n=9880038341904759700001",
+        "delivered_at": "2026-09-22 19:00:00+00:00"
+      }
+    ],
+    "created_at": "2026-09-14 18:00:00+00:00",
+    "sent_to_production_at": "2026-09-14 18:00:00+00:00",
+    "fulfilled_at": "2026-09-18 19:00:00+00:00"
+  },
+  {
+    "id": "764e869669d69d3120f3d87d",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "address_to": {
+      "first_name": "Terrence",
+      "last_name": "Banks",
+      "email": "terrence.banks@example.com",
+      "phone": "",
+      "country": "US",
+      "region": "TN",
+      "address1": "Address on file",
+      "address2": "",
+      "city": "Memphis",
+      "zip": "38104",
+      "company": ""
+    },
+    "line_items": [
+      {
+        "product_id": "868423a2dd55fe3e67f13e7a",
+        "variant_id": 17407,
+        "quantity": 1,
+        "print_provider_id": 27,
+        "cost": 1029,
+        "shipping_cost": 475,
+        "status": "in-production",
+        "metadata": {
+          "title": "Smoke Ring Logo Tee",
+          "price": 2400,
+          "variant_label": "White / XL",
+          "sku": "SRB-12-17407",
+          "country": "United States"
+        }
+      }
+    ],
+    "metadata": {
+      "order_type": "external",
+      "shop_order_id": "3262000002",
+      "shop_order_label": "3262000002",
+      "shop_fulfilled_at": "2026-11-12 19:00:00+00:00"
+    },
+    "total_price": 2400,
+    "total_shipping": 475,
+    "total_tax": 0,
+    "status": "in-production",
+    "shipping_method": 1,
+    "is_printify_express": false,
+    "is_economy_shipping": false,
+    "shipments": [],
+    "created_at": "2026-11-08 18:00:00+00:00",
+    "sent_to_production_at": "2026-11-08 18:00:00+00:00",
+    "fulfilled_at": "2026-11-12 19:00:00+00:00"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "stage": 1,
+  "stage_name": "certificates",
+  "description": "Tuesday 21:20: Ryan's phone photo of the session 9 sign-in sheet syncs to his Pictures folder (the request that follows names it).",
+  "applies_between_turns": [
+    "T6",
+    "T7"
+  ],
+  "applied_at_local_time": "2026-12-08T21:20:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_signin_photo",
+        "action": "copy",
+        "src": "files/IMG_5004.jpg",
+        "dst": "/workspace/home/home/Pictures/PRIDE Fall 2026/IMG_5004.jpg",
+        "description": "Ryan's phone photo of the session 9 sign-in sheet syncs to his Pictures folder.",
+        "fires_at_turn": "T7"
+      }
+    ],
+    "loud": [],
+    "silent": []
+  }
+}

@@ -1,0 +1,5 @@
+[service]
+name = "function-health-api"
+port = 8136
+env_var_name = "FUNCTION_HEALTH_API_URL"
+healthcheck_path = "/health"

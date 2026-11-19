@@ -1,0 +1,1038 @@
+[
+ {
+  "id": "27330c41-3a6c-5012-8089-c6793cf3da14",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "How I launch a listing. These apply to every listing I take, and to anything you make for one.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "How I launch a listing. These apply to every listing I take, and to anything you make for one.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "e9477762-81e7-5833-87b7-003ab7d8eeba",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 1,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The house beats the paperwork",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The house beats the paperwork",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "69003169-df00-52ab-bf90-e9256289c82b",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 2,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What the house shows beats what anyone writes about it. When a seller's answer, a caption or a label on a plan disagrees with the photos, the permit card or a product label, the house wins: fix my record, keep the claim out of every piece of marketing, and put the mismatch on the disclosure checklist so the seller can correct it before signing.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What the house shows beats what anyone writes about it. When a seller's answer, a caption or a label on a plan disagrees with the photos, the permit card or a product label, the house wins: fix my record, keep the claim out of every piece of marketing, and put the mismatch on the disclosure checklist so the seller can correct it before signing.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "d9eb91db-903d-5098-8546-fee3c91c6174",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 3,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Bedrooms: a room counts as a bedroom only if it has a door and a closet. A plan shows what the builder drew and the photos show what is there now; the photos win. Without both it is a loft or bonus room, whatever it is labelled.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Bedrooms: a room counts as a bedroom only if it has a door and a closet. A plan shows what the builder drew and the photos show what is there now; the photos win. Without both it is a loft or bonus room, whatever it is labelled.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "a5248e95-fa62-532b-af87-a0f4f75d591d",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 4,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Garage spaces: count the bays the garage doors serve, one per single door and two per double door. Not what the seller fits inside.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Garage spaces: count the bays the garage doors serve, one per single door and two per double door. Not what the seller fits inside.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "1ff0fa57-79b7-5a32-8a90-0ff2c207405f",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 5,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Heated sq ft: the as-built plan's heated total. An addition counts only once I've seen its permit with a passed final inspection, and only if it is air-conditioned. Price per sq ft is list price over heated sq ft.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Heated sq ft: the as-built plan's heated total. An addition counts only once I've seen its permit with a passed final inspection, and only if it is air-conditioned. Price per sq ft is list price over heated sq ft.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "d06d7e97-845f-5879-86d6-1365ddab6816",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 6,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Roof year and windows come off the permit card and the window label. Impact windows only when the label says impact rated.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Roof year and windows come off the permit card and the window label. Impact windows only when the label says impact rated.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "137bc15f-8d83-5f4c-9f94-a00dcec3b86f",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 7,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Defects: anything a photo shows that the seller's answers deny goes on the disclosure checklist, even if it has been covered up since.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Defects: anything a photo shows that the seller's answers deny goes on the disclosure checklist, even if it has been covered up since.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "bba96ebb-abc8-5635-8aa3-66b8a6eec9c1",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 8,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Marketing",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Marketing",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "a9aa2748-c962-5f67-ac54-fe8b89f720e7",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 9,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Every flyer, card, graphic and post follows the FREC advertising rule, 61J2-10.025. Read it before anything goes public: https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-61J2-10-025",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Every flyer, card, graphic and post follows the FREC advertising rule, 61J2-10.025. Read it before anything goes public: https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-61J2-10-025",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "07ad7ef2-ed8f-5ec6-9027-a43427e6c489",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 10,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "My contact line: Brittany Morales, (813) 555-0119, brittany.morales@greenridertech.co.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "My contact line: Brittany Morales, (813) 555-0119, brittany.morales@greenridertech.co.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "fcf044f6-deac-5000-a77f-7a833ba100ae",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 11,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Public remarks for Stellar: 1,000 characters at most, and nothing in them I can't back with the house.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Public remarks for Stellar: 1,000 characters at most, and nothing in them I can't back with the house.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "a263da6f-0a3e-5ffe-8b1f-bb2b727b01c6",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 12,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Open houses",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Open houses",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "2877eee8-cd46-5198-a975-b481e06b3416",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 13,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Saturday 2 to 4 PM. The house has to be empty for the open house and the hour before it: nothing on the sellers' calendar at the house in that time.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Saturday 2 to 4 PM. The house has to be empty for the open house and the hour before it: nothing on the sellers' calendar at the house in that time.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "b2155bad-7b10-50d9-bab8-c0bb0f13c54c",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "2be100c7-70c4-5510-812d-7d139cf2b68b"
+  },
+  "position": 14,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "If Saturday doesn't work, it's Sunday 1 to 3 PM. Move everything over and tell me.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "If Saturday doesn't work, it's Sunday 1 to 3 PM. Move everything over and tell me.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "af3b3939-43f8-5e76-b645-029af8b7dfb8",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "695a2682-1fc4-52c1-adc7-a5eeec84db80"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Listing appointment 10/19, agreement signed 10/20. Joanne's questionnaire answers came by email 10/20; the fields above are hers until checked. Heated SqFt is blank until someone goes over the plan.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Listing appointment 10/19, agreement signed 10/20. Joanne's questionnaire answers came by email 10/20; the fields above are hers until checked. Heated SqFt is blank until someone goes over the plan.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-20T23:40:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-20T23:40:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "a2e66c81-bf29-5e71-889e-eddf75486104",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "695a2682-1fc4-52c1-adc7-a5eeec84db80"
+  },
+  "position": 1,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lockbox on the side gate; Joanne has the code.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lockbox on the side gate; Joanne has the code.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-20T23:40:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-20T23:40:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "415b54ae-17d9-5ae7-87a8-6278b761e25e",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "695a2682-1fc4-52c1-adc7-a5eeec84db80"
+  },
+  "position": 2,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Staged with Carlos 10/21 (light: pillows, art, counters; the Ellerys' furniture stays). Gabi shot 10/23; her two selects (front, living room) and her shoot notes are in the Drive folder.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Staged with Carlos 10/21 (light: pillows, art, counters; the Ellerys' furniture stays). Gabi shot 10/23; her two selects (front, living room) and her shoot notes are in the Drive folder.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-20T23:40:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-20T23:40:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "dc6a85f5-66c2-55ec-a317-5b31187f43b7",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "cc93a734-74dd-50ef-8b2a-794e7068efb8"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Price review with the seller Monday 10/26 at 1 PM. Petersons close at 350K; 375K might get them.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Price review with the seller Monday 10/26 at 1 PM. Petersons close at 350K; 375K might get them.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-16T15:10:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-16T15:10:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "0cab2010-d8f2-5c39-9455-db12cee57944",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "63d24922-a974-50c0-9e91-a5ee6f123f20"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Open house 10/17: five signed-in leads, the Nguyens came. Dana Pruitt and Marcus Webb to follow up.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Open house 10/17: five signed-in leads, the Nguyens came. Dana Pruitt and Marcus Webb to follow up.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-18T13:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-18T13:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "2d0df433-d94f-5f6e-8e95-ec2d85a36b76",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "7fb9b028-fe9f-5a07-8c72-ae84398ff0ed"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Offer under review with the seller; buyer's agent call Tuesday 10/27 at 9:30.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Offer under review with the seller; buyer's agent call Tuesday 10/27 at 9:30.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-18T21:30:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-18T21:30:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "5b29e01b-ff15-5a8f-afcc-c3f973836b6a",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Office-wide notes for SunCoast agents, kept by Tom. Each note says from when it applies.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Office-wide notes for SunCoast agents, kept by Tom. Each note says from when it applies.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ },
+ {
+  "id": "ce9a40a7-fa79-5ada-b278-7ac641ce4e8a",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 1,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Listing ads and posts",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Listing ads and posts",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ },
+ {
+  "id": "7613a9fd-7131-5150-aabc-6dbc71caed6f",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 2,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Contact block on listing ads, posts and open-house handouts: each agent's own contact line, as their launch standards set it, with SunCoast Realty Group beside it (FREC 61J2-10.025). No office line is needed.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Contact block on listing ads, posts and open-house handouts: each agent's own contact line, as their launch standards set it, with SunCoast Realty Group beside it (FREC 61J2-10.025). No office line is needed.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ },
+ {
+  "id": "7a590122-d270-5463-91bd-59f2bf42d327",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 3,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Every new listing gets my broker review before it goes active; I leave my notes on the listing's own page in your tracker.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Every new listing gets my broker review before it goes active; I leave my notes on the listing's own page in your tracker.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ },
+ {
+  "id": "80c4c048-646e-591a-ab16-d3a4b1f951cf",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 4,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Office",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Office",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ },
+ {
+  "id": "64d4542b-96d9-572d-8f8d-cd014f9b818a",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 5,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Desk fees are due on the 1st of each month.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Desk fees are due on the 1st of each month.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ },
+ {
+  "id": "66177a2f-64ff-54a3-bb4b-d3849cc31074",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "page_id",
+   "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+  },
+  "position": 6,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Old lockboxes go back to the front desk; new ones are in the supply room.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Old lockboxes go back to the front desk; new ones are in the supply room.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ }
+]

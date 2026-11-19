@@ -1,0 +1,7787 @@
+[
+  {
+    "id": "59b0274d-2461-452e-8dce-42c8b5ce4e99",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/8066Q6Re4U2Z5iT",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "50b0f1f0-6a3f-4366-a41f-957d9325e8de",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.5398,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-06T16:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "923ef348-7a9d-4551-b792-90d8dd45af37",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/92ZSUj79k4OhgXP",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Concentrate",
+      "image": {
+        "rid": "f049ac59-b2c6-4968-b4aa-d9b664f0f621",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.432,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-24T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "545267ff-f7e0-4068-9487-f35fbdf34fcb",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/jXf7iaR4NfS8269",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Read",
+      "image": {
+        "rid": "5a706079-29a1-43a7-9748-ff7f163125b5",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.4401,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-01T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c1b4a086-c202-4081-a0c9-19ba73326d0c",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/Yf8cPX6iNa97ak1",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Energize",
+      "image": {
+        "rid": "ab4e564d-89ff-4f83-bdab-2d3af528f3f1",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.6795,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-27T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "e280115d-4d1a-4c3f-8d8b-61a08d668a20",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/LNgdNabR6kgd7kV",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Relax",
+      "image": {
+        "rid": "3b95daa5-f76b-4513-9834-f8fe38edda67",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.4095,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-06T21:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "a2757516-40c9-4939-b4cd-4e0d332327b3",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/OfeMZ84h0a9T7cQ",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "0d4ddec2-5cbc-4e3b-a19c-119a97c1e206",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.4512,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-30T15:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c7693b0f-1bb7-4226-9c03-04fdb716f8af",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/eVeXhYdWed2bdOk",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "71c3c3fa-f2fd-44cb-a31b-2a6b235c182c",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.5794,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-28T11:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "8bbf0ff8-bfa6-4433-9619-cd52543162e0",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/Qja58PMRN8eP3Rd",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4825,
+              "y": 0.4071
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5428,
+              "y": 0.4027
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Golden pond",
+      "image": {
+        "rid": "ca7db494-b549-43dd-ba94-9a90909a4593",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.4419,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-17T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "ef359823-4b39-47e6-8976-e0fb441ca718",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/9iP0RWO28kZNb8N",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5452,
+              "y": 0.4005
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5291,
+              "y": 0.3955
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Sleepy",
+      "image": {
+        "rid": "3ac2ff60-5686-4564-a28c-dd2d1d59d793",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.5421,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-18T20:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "f8996042-a2b3-4c02-b17f-b703ff3ed96b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/VW5XZb6if0T111U",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.6058,
+              "y": 0.3753
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4987,
+              "y": 0.4249
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Savanna sunset",
+      "image": {
+        "rid": "5f165184-d33b-403f-b7df-51f6e80680ca",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.5615,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-05T12:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "09f9dd5b-227a-4420-a49c-8d6e9f32dcd7",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/igiR79LSjZacZQ9",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.6008,
+              "y": 0.3624
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.6008,
+              "y": 0.3624
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.6008,
+              "y": 0.3624
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2751,
+              "y": 0.1574
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4895,
+              "y": 0.4202
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Honolulu",
+      "image": {
+        "rid": "3211e75c-422e-49f0-97dc-954fbbc73969",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.5793,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-19T13:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "cb7b7130-c232-48fc-b291-d4225de0fc2f",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/Y59hNY5OQdY2XXY",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4621,
+              "y": 0.2193
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3141,
+              "y": 0.1581
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Tropical twilight",
+      "image": {
+        "rid": "2e0acab6-c4d3-4506-8eba-9ded79e88ae6",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.6758,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-27T22:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6075198b-c23e-4840-a938-74c589343860",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/2YjPa9SSee6iW1Z",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3896,
+              "y": 0.3802
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4566,
+              "y": 0.2475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Fairfax",
+      "image": {
+        "rid": "44361d62-4c3b-4e84-a4f2-4c40a8d71e29",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.6455,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-08T21:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "de3a2509-c376-437e-9e09-191143d7c593",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/99g08Ta7N37ig0P",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3646,
+              "y": 0.3584
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4524,
+              "y": 0.4126
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Spring blossom",
+      "image": {
+        "rid": "68d15c8d-cabc-403d-8185-3ec45714dc26",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.4501,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-01T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "bfe8230f-06a1-4a41-8c3a-538545de0d14",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/S0PUgTZRbjLkYPP",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.1701,
+              "y": 0.3383
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2253,
+              "y": 0.2125
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Arctic aurora",
+      "image": {
+        "rid": "1c30384b-7661-4aaa-a04b-f1b330a908ad",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.572,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-06T09:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "07664531-3015-4f7d-a59a-94d733c49245",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/OXT2NkbbQNe1eRR",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 40.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Movie night"
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.5438,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-12T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "dd272188-2750-402e-8c30-ac53513bf25c",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/N19SW3ThV5dPgVa",
+    "actions": [
+      {
+        "target": {
+          "rid": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 90.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 40.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Reading corner"
+    },
+    "group": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "speed": 0.675,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-16T17:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "7ee85cef-be25-4ddc-9cd5-f6a94de76367",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/28Whca6fNZLMd29",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "b6d5f3b1-9341-42c1-90f1-6be00e6caea3",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.6249,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-31T02:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "f9840cc2-8f0a-47b8-8b11-61ae8af93745",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/aL30f667N62V8Vd",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Concentrate",
+      "image": {
+        "rid": "4b772f5e-f4a2-490b-bb03-90f9a548e47a",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.578,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-26T17:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "57ef5bbe-106a-4db7-aa79-837752393ae6",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/i3SU66kMj3fhOQS",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Read",
+      "image": {
+        "rid": "bbc8b3df-71dd-4f4f-ac8a-3f33fe758dcf",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.437,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-14T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "3a1fd1d2-6795-492d-bcaf-7b145f4cd38e",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/WZjga9ff24Z5X7h",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Energize",
+      "image": {
+        "rid": "7653e333-47f4-4111-94a7-91270b57b887",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.5313,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-02T14:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "ab63b8e3-0b6c-4aed-b550-2ec0e6a937ce",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/dRL101fRYUZ11Ne",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Relax",
+      "image": {
+        "rid": "d96966a0-5b3a-4c8c-9b74-9770eb02adc7",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.4963,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-20T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "26965aff-474b-4fee-9fbf-9bc70b3254f3",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/XeQRd4SM7Lahij6",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "df813239-7817-4d02-a7a4-06b04bbc397e",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.5397,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-10T10:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6a4dea53-a5a4-41fc-a5a9-0c914e938dd4",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/a3j3ch1RWViLXVM",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "5b7ccc1d-2cd0-44e3-a57e-eae0b274ff94",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.5431,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-27T04:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "ddf520bc-c924-4d0e-b506-069b942d8695",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/7XS5MhWeYjLMbWa",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.3141,
+              "y": 0.1581
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4621,
+              "y": 0.2193
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3141,
+              "y": 0.1581
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Tropical twilight",
+      "image": {
+        "rid": "480d45df-4fd8-406c-a497-e7c97b8af848",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.4425,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-24T22:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "baf5fdf1-ac17-4a69-80d4-a1606d439681",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/jjbVOebVQk4d0XO",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5291,
+              "y": 0.3955
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5452,
+              "y": 0.4005
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5291,
+              "y": 0.3955
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Sleepy",
+      "image": {
+        "rid": "ab3583cc-f373-42f7-90b7-0526a234242f",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.4282,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-28T22:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "5d3c9180-5caf-421d-a5a2-1ffac2bbfbb6",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/07aO7bT5QO2kjbU",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 77.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 77.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 77.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.2245,
+              "y": 0.6145
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.3022,
+              "y": 0.1449
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.6355,
+              "y": 0.3424
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2245,
+              "y": 0.6145
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Rio",
+      "image": {
+        "rid": "3d57578c-ae38-4cef-9a58-fb5a70a3365d",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.6504,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-19T06:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6ea92271-b275-44ba-b792-bfa2c4966d4f",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/251bhURLN6Maei6",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4524,
+              "y": 0.4126
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3646,
+              "y": 0.3584
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4524,
+              "y": 0.4126
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Spring blossom",
+      "image": {
+        "rid": "af493833-fa94-4cdc-a769-5c29c7634852",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.5647,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-25T20:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6e22afd0-1097-4f0e-9ee1-6abcba06b6e6",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/d0Zfe8SVNV328c6",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4895,
+              "y": 0.4202
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.6008,
+              "y": 0.3624
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2751,
+              "y": 0.1574
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4895,
+              "y": 0.4202
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Honolulu",
+      "image": {
+        "rid": "9666e6c9-2d2d-43ff-bfdc-1361cf9ad66d",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.6445,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-02T12:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "81c7d5a5-5417-4665-8e85-bbe5e3176c14",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/iV4Qi7XPWQjgeOY",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 250
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 250
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Cooking"
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.6293,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-18T06:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "d9df1e9a-6432-49fc-8a61-4c1b3af3abe0",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/87be9ka2a0k81U4",
+    "actions": [
+      {
+        "target": {
+          "rid": "4adde52c-1261-4590-9636-48adf3ad1856",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "691d957a-2755-4aaa-8749-83a891bc1acd",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 15.0
+          },
+          "color_temperature": {
+            "mirek": 454
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Late snack"
+    },
+    "group": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "speed": 0.6804,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-05T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "0329c350-0887-4630-a804-ccafdeb36c47",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/9ZW2YgM0162VV4b",
+    "actions": [
+      {
+        "target": {
+          "rid": "5cc242c6-1b3e-4a63-8f8f-3b5aca2761de",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "5ecfb87a-3c33-468d-92be-4b224113a45e",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "0431eb98-8f1f-4fdb-a93e-0ec35f255146",
+      "rtype": "room"
+    },
+    "speed": 0.5773,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-26T14:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "1584327c-9d42-4db3-854d-875eb74964b8",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/NgYgSSPhRiVj927",
+    "actions": [
+      {
+        "target": {
+          "rid": "5cc242c6-1b3e-4a63-8f8f-3b5aca2761de",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "a05bcb3e-ac85-4804-bbea-9bd2bc1df588",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "0431eb98-8f1f-4fdb-a93e-0ec35f255146",
+      "rtype": "room"
+    },
+    "speed": 0.4725,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-19T14:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c0d8e9d3-883b-4137-823b-c60773a70fbb",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/39TbMXUPdS1j4e3",
+    "actions": [
+      {
+        "target": {
+          "rid": "5cc242c6-1b3e-4a63-8f8f-3b5aca2761de",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "b15a534d-9d7c-44a6-b2df-36acdbfff345",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "0431eb98-8f1f-4fdb-a93e-0ec35f255146",
+      "rtype": "room"
+    },
+    "speed": 0.6462,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-05T05:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "bfac455c-ebce-469e-bf19-310d924a5c6f",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/U8YMgUN3YZ5aPe6",
+    "actions": [
+      {
+        "target": {
+          "rid": "5cc242c6-1b3e-4a63-8f8f-3b5aca2761de",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 60.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dinner party"
+    },
+    "group": {
+      "rid": "0431eb98-8f1f-4fdb-a93e-0ec35f255146",
+      "rtype": "room"
+    },
+    "speed": 0.6131,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-20T05:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "74f013b4-a689-4456-af29-879de472d713",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/WkgS5SQiL28Q0XW",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "1f21bbd4-9c96-42ac-875d-de7250cb93c9",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.4373,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-04T15:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "f8386787-45b6-4b57-afc6-35dc808784da",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/efk1U7R9d5adVP7",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Concentrate",
+      "image": {
+        "rid": "f68b0e02-6f79-49ec-bf82-1f7e6e75691f",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.5773,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-09T06:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "4933856e-6895-495e-bb00-290b7d508f04",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/aQZ8QQkg20Rh7P7",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Read",
+      "image": {
+        "rid": "df7846f9-69fe-45a3-9781-3643d184c384",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6102,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-24T09:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "cb4767b9-eae6-42a0-bad2-7462af1be115",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/iW38NdPSRX44VMN",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Energize",
+      "image": {
+        "rid": "2111ae97-3ad5-4cf4-926f-f0993fac9724",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6878,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-13T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "23dc8391-9c41-47e5-bafe-2f5e8bb6d7bf",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/WWLNcbh4UkUhdkc",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Relax",
+      "image": {
+        "rid": "6da2c1e4-d38a-4c7e-9fd2-1ea2916834be",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6812,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-08T19:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "1d3bc303-ae30-462b-aefd-151f79e9c480",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/XbfNNQiTTY7WPda",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "77de6de9-f20e-427c-8640-0e7cf4de3ab9",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.5034,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-08T10:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "2a2b84d2-18bd-471e-9452-7bebd1609171",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/UVYU3XSSM5aXk2h",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "1faf78cb-8de2-4f2f-a02b-f43e64583be9",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6116,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-06T13:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "01308d64-6e69-4f5a-b95e-4f5bd0a4d9a1",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/aiYQ8QLOW4d0NjL",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4621,
+              "y": 0.2193
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3141,
+              "y": 0.1581
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Tropical twilight",
+      "image": {
+        "rid": "c0ad2a84-8c8e-4be9-90a7-f08aa806ad26",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.4924,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-02T19:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "9701057e-24b4-4162-8fae-57ab55d34c24",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/UPW4XUYYbPch2P8",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.6058,
+              "y": 0.3753
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4987,
+              "y": 0.4249
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Savanna sunset",
+      "image": {
+        "rid": "79bf805b-41a8-4509-9649-aba63b3a4fd3",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6289,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-28T17:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "1334c142-e828-4b03-bfe7-01732d2bf499",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/UVUUYcgOZc4iMUZ",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3646,
+              "y": 0.3584
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4524,
+              "y": 0.4126
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Spring blossom",
+      "image": {
+        "rid": "cbcf0b94-c68f-4548-bd95-578000391bb6",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.5231,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-18T22:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "11cf4ebd-d219-4543-88ae-5f1d64b26558",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/UeXbNRNUgP6Njb3",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3896,
+              "y": 0.3802
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4566,
+              "y": 0.2475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Fairfax",
+      "image": {
+        "rid": "6915020e-8d1a-47c6-ab42-418c99344d7f",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6314,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-19T16:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "face7a61-04bf-4532-b55b-a4f672f979d7",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/OVLjW6MbZhV2kg7",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.6008,
+              "y": 0.3624
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 74.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.6008,
+              "y": 0.3624
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2751,
+              "y": 0.1574
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4895,
+              "y": 0.4202
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Honolulu",
+      "image": {
+        "rid": "ddfd316c-4d59-4bc0-94db-2788c0d95612",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.625,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-18T14:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "fc23be38-7266-4c4d-8df9-1fd7695b4ec2",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/R9j1RdUiRN48U32",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 85.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color_temperature": {
+            "mirek": 250
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Video call"
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.6655,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-06T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6a58cdc4-38d4-48bd-9029-c0ba44157d5b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/77ZiakS7gP2dTd8",
+    "actions": [
+      {
+        "target": {
+          "rid": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 200
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "0701e838-173d-49f8-8296-d1039432264b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 200
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Drafting"
+    },
+    "group": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "speed": 0.5793,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-22T14:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "aa921cfc-be45-4e10-8e97-829743152f50",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/O31V0Vg4ZejdaQZ",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "5a6ceeed-930e-4757-968f-2548859e923c",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.5628,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-12T21:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "bbf9caad-7fa2-4dce-baaa-b225d2068ca2",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/WW7aSPOiP5i2SUd",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Concentrate",
+      "image": {
+        "rid": "5a3b06ef-9e14-426c-9bd9-d200d1aae3a1",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.4213,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-29T18:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6195ac36-897b-49ce-b47c-9124aeaae90b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/hW78jgfURYkL7WU",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Read",
+      "image": {
+        "rid": "f12830b6-2970-41fa-8b51-7985e598931d",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6931,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-26T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "bae8f804-47f3-498b-92de-9b78c145dc8f",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/QW0M5XSXZeRYL5Z",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Energize",
+      "image": {
+        "rid": "8bf8e0c2-08b7-43fe-9f4c-e32f80a0c51d",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.4915,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-01T03:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "925f9df5-67c1-42a5-b1c1-4a9f25dab3e0",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/9U8cTP6jULj3iSe",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Relax",
+      "image": {
+        "rid": "69d85092-959e-4262-8a6e-cd26740a151c",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.5632,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-30T07:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "34a9797e-be32-4afd-b95e-d06a34a143fc",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/2949VZW89acO9Uj",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "2b1afa00-9649-43a1-bb9e-1bd109db96b1",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.5268,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-11T05:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "4cd51c80-b2b1-4f05-af11-d0d4eb6ccace",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/ZTdZ3j3eSQL3Nba",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "77495205-dd09-4bba-bdf0-34f55b502a2d",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6652,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-23T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "1daab09e-e142-49f1-9bc7-ee26f3560270",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/iY2YSUNgOe66MbW",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.3896,
+              "y": 0.3802
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3896,
+              "y": 0.3802
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4566,
+              "y": 0.2475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Fairfax",
+      "image": {
+        "rid": "0d54abb4-3b02-4855-9aab-a48b98148220",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.5418,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-01T17:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "5874afdb-c7f8-4e60-a0c8-a48d4807b5bc",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/2RXj62Ue969TRkj",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.3646,
+              "y": 0.3584
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3646,
+              "y": 0.3584
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4524,
+              "y": 0.4126
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Spring blossom",
+      "image": {
+        "rid": "8a937692-0f0f-4b4b-a7d3-11780e1d4f7a",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.4441,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-03T10:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "bbcd52f6-e8ae-406e-bb3c-85b7a34018a2",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/MaRg1Wjk5NPaL9Y",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.6058,
+              "y": 0.3753
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 61.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5723,
+              "y": 0.3829
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.6058,
+              "y": 0.3753
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4987,
+              "y": 0.4249
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Savanna sunset",
+      "image": {
+        "rid": "7b9b0513-3d12-4fc6-8e3f-75aa96e60dad",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.5546,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-06T06:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "23e7de9d-f24b-4e8b-b360-53a0f14c59e6",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/ZWS1giOkeQTLW6Y",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.1701,
+              "y": 0.3383
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.1701,
+              "y": 0.3383
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2253,
+              "y": 0.2125
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Arctic aurora",
+      "image": {
+        "rid": "4db54cb2-0da2-42b6-a115-3701e55f1a0e",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6512,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-29T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "a2fbc9b7-7b77-48b1-b16f-aa6e41baba73",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/O5SP9UejW0M7M0k",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4621,
+              "y": 0.2193
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 52.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.2142,
+              "y": 0.1305
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4621,
+              "y": 0.2193
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3141,
+              "y": 0.1581
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Tropical twilight",
+      "image": {
+        "rid": "e1d1180c-4304-4756-87ef-19c18cd1f516",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6755,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-26T04:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "4c5a16f8-3b09-4931-95b0-f3808612375b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/f9eSPf0Lgdi28ke",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 77.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.3022,
+              "y": 0.1449
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 77.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.6355,
+              "y": 0.3424
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 77.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.3022,
+              "y": 0.1449
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.6355,
+              "y": 0.3424
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2245,
+              "y": 0.6145
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Rio",
+      "image": {
+        "rid": "b4865a0d-8788-4248-a38b-836249dee8bc",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6908,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-01T06:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "6fcb99f5-f433-4ba1-bb26-936e61ac035d",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/cgOf5LecS2Q29hg",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4825,
+              "y": 0.4071
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4825,
+              "y": 0.4071
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5428,
+              "y": 0.4027
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Golden pond",
+      "image": {
+        "rid": "b1de60d9-bce3-484e-9c49-138514958df7",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6011,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-03T01:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "246e33cf-b4f1-4a99-a9a9-0302d1e2aa14",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/8fe7j6hU2TUOkZX",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5452,
+              "y": 0.4005
+            }
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5452,
+              "y": 0.4005
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5291,
+              "y": 0.3955
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Sleepy",
+      "image": {
+        "rid": "5e8806a1-b259-4a6a-9c45-1432bbddb577",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.4556,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-11T11:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "a4a5cdf4-38f1-4be6-a911-98aae4c2f622",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/f6jjj9QNjcRQ7ba",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 25.0
+          },
+          "color_temperature": {
+            "mirek": 454
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 25.0
+          },
+          "color_temperature": {
+            "mirek": 454
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": false
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Wind down"
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.4313,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-19T20:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c095d625-7944-4885-91e7-9b52fbc55dac",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/WPM15feU7c0XPg7",
+    "actions": [
+      {
+        "target": {
+          "rid": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color_temperature": {
+            "mirek": 250
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color_temperature": {
+            "mirek": 250
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Wake up"
+    },
+    "group": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "speed": 0.6736,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-31T17:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "9e5ab32f-dceb-490e-805a-5321d9e777bc",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/WTTgYOT7Q0NZkMf",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "3320c5f2-959a-4085-bac6-7520c51ab0d3",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.5313,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-22T21:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "b439ab5c-17f2-4bed-8f97-524832a10804",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/aaPbZiW9Pg7hXLR",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Concentrate",
+      "image": {
+        "rid": "062c35c3-7879-488d-bf0a-fb5d93951fb5",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.6871,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-20T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "05d9a7d9-7799-443c-968a-e1a3f1d095c3",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/jgVYeMVgbT065eg",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Read",
+      "image": {
+        "rid": "0d285a4d-2c44-41bd-885c-d64345239722",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.4763,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-26T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "5c8ec619-d308-485c-a878-5177e3b702f1",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/4b7Pje5h59hU657",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Energize",
+      "image": {
+        "rid": "50e3a2be-d469-4bc0-a95d-0da4fabeb526",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.455,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-04T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c1ccf946-b2f3-436a-9583-d3f1796b9725",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/QOd1263bSTi87Wc",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Relax",
+      "image": {
+        "rid": "e63e80d1-d9cd-40a7-be69-25b98ccf40d6",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.637,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-12T01:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "39721130-54f7-4fc0-b7cc-4b6b84c664b9",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/YOhX2eM30TejObb",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "a34340a7-198a-4a6b-b69b-caf61ab224ef",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.4305,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-02T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "72da220b-45ff-4e3d-94a2-badaac8f3737",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/Y1LNjbMhQRcQ6e9",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "3592a898-3e80-4076-a3ba-e30f05e213ad",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.5983,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-21T23:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "375009f7-9410-44a7-8663-1f0428795f54",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/MU0bk8k2T2eTaZL",
+    "actions": [
+      {
+        "target": {
+          "rid": "3a0dced2-aa10-4499-bc25-57182c45f834",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 5.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      },
+      {
+        "target": {
+          "rid": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 5.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Night path"
+    },
+    "group": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "speed": 0.5665,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-05T02:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "98d56817-22b0-4f58-ae8f-1ee44d9aa852",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/39LSWbX5Ni8L0f5",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "e06ea79a-ec8f-4358-8ab2-d3ba2de0f870",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.632,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-03T01:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "69638205-0869-414a-9665-8629fe8d0698",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/W927NPYZRjdP5MX",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 233
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Concentrate",
+      "image": {
+        "rid": "8ed1ad76-bb59-4bbc-9079-37836036de5c",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.4525,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-16T02:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c6e36ba7-a3ec-4d83-948d-e5287242a3b6",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/9iSOWYgP7kL0bUk",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 346
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Read",
+      "image": {
+        "rid": "d0010453-aeb5-470d-9017-88443fc59f1b",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.5188,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-27T02:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "24c8d265-9a4c-4d02-98fb-8e297b099f09",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/gLRfO43MOj7hQef",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          },
+          "color_temperature": {
+            "mirek": 156
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Energize",
+      "image": {
+        "rid": "723af3cd-80cc-4cb2-876b-4a3cc045e5a4",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.6472,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-18T22:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "2dccc674-1190-4460-8f6a-dd5aaffa7aef",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/TkM3RT0ZXPaOaP9",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 56.0
+          },
+          "color_temperature": {
+            "mirek": 447
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Relax",
+      "image": {
+        "rid": "e975527c-772c-4205-b22b-52983271c4d7",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.4561,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-05T15:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "dd47ce51-16fe-4bc7-842a-266b98232574",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/NWVa1VLSURNUe28",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          },
+          "color_temperature": {
+            "mirek": 366
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "4ffdcd28-9008-4523-8c8e-acc1fcb03d07",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.5857,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-08-27T09:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "411a3a7a-0593-42ab-8f67-459fe0ab395e",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/2hbVZNje694MNQ0",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          },
+          "color_temperature": {
+            "mirek": 500
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "c7123119-3523-408c-8e2e-4f8830714221",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.48,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-29T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "4f3f8e79-50cf-4b6c-9a24-096101b7d884",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/aV9N46Qkeahgcdi",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.4074,
+              "y": 0.2393
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3646,
+              "y": 0.3584
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4524,
+              "y": 0.4126
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Spring blossom",
+      "image": {
+        "rid": "a07a0c44-ab79-42c7-adcf-96efaa5f0c49",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.4589,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-25T11:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "7b263413-f58f-41c5-b3a8-307f687f83d7",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/aS2VedfiOVL5302",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 58.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5089,
+              "y": 0.4142
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.3896,
+              "y": 0.3802
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4566,
+              "y": 0.2475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Fairfax",
+      "image": {
+        "rid": "94567290-b533-4641-b99c-ebbf381eed66",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.5489,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-11T13:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "d6733793-c98c-418e-8fe1-f758ebc76a0f",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/5NWSX7eg9STYPRk",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 20.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5605,
+              "y": 0.4004
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5452,
+              "y": 0.4005
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5291,
+              "y": 0.3955
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Sleepy",
+      "image": {
+        "rid": "41c82df0-8ba3-4ea0-8262-bd1ee18f61f4",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.4468,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-29T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "9e2d91de-632f-4958-b4d5-ed7fb62e5273",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/gP1Y3RdNVcP3i77",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 66.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.5167,
+              "y": 0.4138
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.4825,
+              "y": 0.4071
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.5428,
+              "y": 0.4027
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Golden pond",
+      "image": {
+        "rid": "88a0dab4-5a3a-4937-b368-b20be283ec05",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.6426,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-03T01:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "ef42abf4-202f-45dc-8fe7-cbb620460251",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/c5145RWk9X4cfk8",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 70.0
+          },
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [
+        {
+          "color": {
+            "xy": {
+              "x": 0.1532,
+              "y": 0.0475
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.1701,
+              "y": 0.3383
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        },
+        {
+          "color": {
+            "xy": {
+              "x": 0.2253,
+              "y": 0.2125
+            }
+          },
+          "dimming": {
+            "brightness": 80.0
+          }
+        }
+      ],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Arctic aurora",
+      "image": {
+        "rid": "7afbf359-37d5-46fd-ad13-7aaba80931dd",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.4751,
+    "auto_dynamic": true,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-12T11:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "32cd58d8-7e7e-4aed-aba0-ac5b4a2dcc29",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/NbbYYf2geSeeQhU",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 80.0
+          },
+          "color_temperature": {
+            "mirek": 370
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Welcome home"
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.6871,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-14T15:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "dd4c724e-6007-4ce5-b7ce-f8ddd98e94c7",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/11eYVgf2P2UTWZY",
+    "actions": [
+      {
+        "target": {
+          "rid": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 90.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Halloween"
+    },
+    "group": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "speed": 0.6401,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-07T21:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "41863375-1e34-4087-b49a-c7e7533701da",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/QQZOjWi4P0ZfLT9",
+    "actions": [
+      {
+        "target": {
+          "rid": "734912a5-e62f-4ee6-b58b-4dcce7772706",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Bright",
+      "image": {
+        "rid": "7e884fec-7ebe-4e43-82f2-6af185f577b2",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "d0cf7095-9add-4dee-8315-8e81147fed26",
+      "rtype": "room"
+    },
+    "speed": 0.5725,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-10T07:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "c8827870-efbd-48a2-8a40-d6ef0adbabba",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/ha593SPR8LZe150",
+    "actions": [
+      {
+        "target": {
+          "rid": "734912a5-e62f-4ee6-b58b-4dcce7772706",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 30.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Dimmed",
+      "image": {
+        "rid": "06d165c9-ef6a-4ec7-ad6e-079a55c0cf85",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "d0cf7095-9add-4dee-8315-8e81147fed26",
+      "rtype": "room"
+    },
+    "speed": 0.4949,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-30T08:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "b81ecff5-d6db-4744-835a-efc8963a0b9b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/P808dh3QQOcNXhd",
+    "actions": [
+      {
+        "target": {
+          "rid": "734912a5-e62f-4ee6-b58b-4dcce7772706",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 1.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Nightlight",
+      "image": {
+        "rid": "aef1ac11-74b6-4a40-b9f6-7f8cec1bbb9b",
+        "rtype": "public_image"
+      }
+    },
+    "group": {
+      "rid": "d0cf7095-9add-4dee-8315-8e81147fed26",
+      "rtype": "room"
+    },
+    "speed": 0.5248,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-09-07T02:00:00.000Z"
+    },
+    "type": "scene"
+  },
+  {
+    "id": "bca26a4a-668a-432d-b7aa-df2bbf6977fc",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/scenes/jX2LONefLOk9cWR",
+    "actions": [
+      {
+        "target": {
+          "rid": "734912a5-e62f-4ee6-b58b-4dcce7772706",
+          "rtype": "light"
+        },
+        "action": {
+          "on": {
+            "on": true
+          },
+          "dimming": {
+            "brightness": 100.0
+          }
+        }
+      }
+    ],
+    "palette": {
+      "color": [],
+      "dimming": [],
+      "color_temperature": [],
+      "effects": []
+    },
+    "metadata": {
+      "name": "Workbench"
+    },
+    "group": {
+      "rid": "d0cf7095-9add-4dee-8315-8e81147fed26",
+      "rtype": "room"
+    },
+    "speed": 0.4258,
+    "auto_dynamic": false,
+    "status": {
+      "active": "inactive",
+      "last_recall": "2026-10-01T04:00:00.000Z"
+    },
+    "type": "scene"
+  }
+]

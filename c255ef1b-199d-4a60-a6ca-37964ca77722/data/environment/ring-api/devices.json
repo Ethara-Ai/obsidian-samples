@@ -1,0 +1,611 @@
+[
+  {
+    "id": 589148202,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "doorbot",
+    "description": "Front Door",
+    "device_id": "f3d172073746",
+    "model": "Video Doorbell Pro 2",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": null,
+    "wired": true,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": 6,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -56,
+      "average_signal_strength": -57,
+      "firmware": "Up to Date",
+      "battery_percentage": null,
+      "battery_voltage": null,
+      "ac_power": 1,
+      "transformer_voltage": 19,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 2,
+      "tx_rate": 36.0,
+      "rx_rate": 24.0,
+      "updated_at": "2026-10-05T12:50:00.000Z"
+    }
+  },
+  {
+    "id": 589237377,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "floodlight_cam",
+    "description": "Backyard",
+    "device_id": "75acdafffdec",
+    "model": "Floodlight Cam Wired Plus",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": null,
+    "wired": true,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -63,
+      "average_signal_strength": -49,
+      "firmware": "Up to Date",
+      "battery_percentage": null,
+      "battery_voltage": null,
+      "ac_power": 1,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 1,
+      "tx_rate": 24.0,
+      "rx_rate": 24.0,
+      "updated_at": "2026-10-05T12:14:00.000Z"
+    },
+    "led_status": "off",
+    "siren_status": {
+      "seconds_remaining": 0
+    }
+  },
+  {
+    "id": 589293258,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "stickup_cam",
+    "description": "Garage",
+    "device_id": "731e2fe40d0d",
+    "model": "Stick Up Cam Battery",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 38,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -79,
+      "average_signal_strength": -77,
+      "firmware": "Up to Date",
+      "battery_percentage": 38,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 0,
+      "tx_rate": 36.0,
+      "rx_rate": 24.0,
+      "updated_at": "2026-10-05T12:14:00.000Z"
+    }
+  },
+  {
+    "id": 589357060,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "stickup_cam",
+    "description": "Side Gate",
+    "device_id": "291694e4bc42",
+    "model": "Stick Up Cam Battery",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 82,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -48,
+      "average_signal_strength": -55,
+      "firmware": "Up to Date",
+      "battery_percentage": 82,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 2,
+      "tx_rate": 24.0,
+      "rx_rate": 72.2,
+      "updated_at": "2026-10-05T12:30:00.000Z"
+    }
+  },
+  {
+    "id": 589383181,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "chime",
+    "description": "Living Room Chime",
+    "device_id": "e2c3ea9befc1",
+    "model": "Chime Pro (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": null,
+    "wired": true,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -49,
+      "average_signal_strength": -52,
+      "firmware": "Up to Date",
+      "battery_percentage": null,
+      "battery_voltage": null,
+      "ac_power": 1,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 1,
+      "tx_rate": 36.0,
+      "rx_rate": 24.0,
+      "updated_at": "2026-10-05T12:35:00.000Z"
+    }
+  },
+  {
+    "id": 589421692,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "base_station_v1",
+    "description": "Alarm Base Station",
+    "device_id": "885b867a6670",
+    "model": "Ring Alarm Base Station (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 100,
+    "wired": true,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -67,
+      "average_signal_strength": -62,
+      "firmware": "Up to Date",
+      "battery_percentage": 100,
+      "battery_voltage": 3920,
+      "ac_power": 1,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 2,
+      "tx_rate": 24.0,
+      "rx_rate": 54.0,
+      "updated_at": "2026-10-05T12:30:00.000Z"
+    },
+    "alarm": {
+      "mode": "disarmed",
+      "updated_at": "2026-10-05T11:20:00.000Z",
+      "updated_by": "Dana Whitfield"
+    }
+  },
+  {
+    "id": 589473821,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "sensor.contact",
+    "description": "Front Door Contact",
+    "device_id": "be57bb4aad0a",
+    "model": "Contact Sensor (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 92,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -51,
+      "average_signal_strength": -49,
+      "firmware": "Up to Date",
+      "battery_percentage": 92,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 0,
+      "tx_rate": 24.0,
+      "rx_rate": 54.0,
+      "updated_at": "2026-10-05T12:25:00.000Z"
+    }
+  },
+  {
+    "id": 589522976,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "sensor.contact",
+    "description": "Back Door Contact",
+    "device_id": "02d26a41c1a0",
+    "model": "Contact Sensor (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 88,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -51,
+      "average_signal_strength": -47,
+      "firmware": "Up to Date",
+      "battery_percentage": 88,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 1,
+      "tx_rate": 54.0,
+      "rx_rate": 72.2,
+      "updated_at": "2026-10-05T12:14:00.000Z"
+    }
+  },
+  {
+    "id": 589595014,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "sensor.contact",
+    "description": "Patio Door Contact",
+    "device_id": "775d33dca85b",
+    "model": "Contact Sensor (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 79,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -63,
+      "average_signal_strength": -47,
+      "firmware": "Up to Date",
+      "battery_percentage": 79,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 2,
+      "tx_rate": 36.0,
+      "rx_rate": 72.2,
+      "updated_at": "2026-10-05T12:26:00.000Z"
+    }
+  },
+  {
+    "id": 589609596,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "sensor.motion",
+    "description": "Living Room Motion",
+    "device_id": "e8090db172e9",
+    "model": "Motion Detector (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 95,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -65,
+      "average_signal_strength": -56,
+      "firmware": "Up to Date",
+      "battery_percentage": 95,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 1,
+      "tx_rate": 72.2,
+      "rx_rate": 54.0,
+      "updated_at": "2026-10-05T12:54:00.000Z"
+    }
+  },
+  {
+    "id": 589618932,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "sensor.motion",
+    "description": "Basement Motion",
+    "device_id": "213110e39eba",
+    "model": "Motion Detector (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 61,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -46,
+      "average_signal_strength": -51,
+      "firmware": "Up to Date",
+      "battery_percentage": 61,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 0,
+      "tx_rate": 54.0,
+      "rx_rate": 54.0,
+      "updated_at": "2026-10-05T12:36:00.000Z"
+    }
+  },
+  {
+    "id": 589677487,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "security-keypad",
+    "description": "Hallway Keypad",
+    "device_id": "2c5f9f795588",
+    "model": "Keypad (2nd Gen)",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Larkmoor House",
+    "battery_life": 100,
+    "wired": false,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": null,
+      "motion_zones": {
+        "zone1": {
+          "name": "Walkway",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Larkmoor-IoT",
+      "latest_signal_strength": -56,
+      "average_signal_strength": -62,
+      "firmware": "Up to Date",
+      "battery_percentage": 100,
+      "battery_voltage": 3920,
+      "ac_power": 0,
+      "transformer_voltage": null,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 0,
+      "tx_rate": 24.0,
+      "rx_rate": 54.0,
+      "updated_at": "2026-10-05T12:31:00.000Z"
+    }
+  }
+]

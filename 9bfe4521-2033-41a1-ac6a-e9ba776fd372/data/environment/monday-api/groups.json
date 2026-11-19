@@ -1,0 +1,30 @@
+[
+  {
+    "group_id": "grp-todo",
+    "board_id": "board-101",
+    "title": "To Do",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "In Progress",
+    "color": "#0086c0",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Done",
+    "color": "#00c875",
+    "position": "3"
+  },
+  {
+    "group_id": "grp-x-todo",
+    "board_id": "board-102",
+    "title": "Planned",
+    "color": "#fdab3d",
+    "position": "1"
+  }
+]

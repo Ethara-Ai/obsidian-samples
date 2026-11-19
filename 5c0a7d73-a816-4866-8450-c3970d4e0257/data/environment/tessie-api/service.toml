@@ -1,0 +1,5 @@
+[service]
+name = "tessie-api"
+port = 8133
+env_var_name = "TESSIE_API_URL"
+healthcheck_path = "/health"

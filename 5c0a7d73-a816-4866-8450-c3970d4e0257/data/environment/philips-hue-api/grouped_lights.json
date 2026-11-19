@@ -1,0 +1,92 @@
+[
+  {
+    "id": "80210fb4-08bd-476a-93a5-d30b7e246ad2",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/1",
+    "owner": {
+      "rid": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "03ac1d40-b0b4-454c-96dd-53c03654aae8",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/2",
+    "owner": {
+      "rid": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "71701b6a-832e-4dae-bb7f-dd4c472991af",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/3",
+    "owner": {
+      "rid": "0431eb98-8f1f-4fdb-a93e-0ec35f255146",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "c06d9eaa-29e1-46ef-899a-dc61565d7322",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/4",
+    "owner": {
+      "rid": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "8e96825a-e1e6-49ba-be36-c7add745c624",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/5",
+    "owner": {
+      "rid": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "0552a64b-fb96-4b4c-9a1f-05f8acd3374c",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/6",
+    "owner": {
+      "rid": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "3bfd7e01-d154-4655-b6f8-2cc26d802de0",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/7",
+    "owner": {
+      "rid": "48cbadea-2800-4298-9d62-4cbfa5620674",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "a0964d5d-4e7f-4e3d-85e3-91e09b390282",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/8",
+    "owner": {
+      "rid": "d0cf7095-9add-4dee-8315-8e81147fed26",
+      "rtype": "room"
+    },
+    "type": "grouped_light"
+  },
+  {
+    "id": "be9a5db7-1f83-46aa-9918-f5fa568d1d69",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/0",
+    "owner": {
+      "rid": "0ce98e8d-ca00-4ab0-8205-cd156818f096",
+      "rtype": "bridge_home"
+    },
+    "type": "grouped_light"
+  }
+]

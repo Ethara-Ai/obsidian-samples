@@ -1,0 +1,5 @@
+[service]
+name = "opentable-api"
+port = 8114
+env_var_name = "OPENTABLE_API_URL"
+healthcheck_path = "/health"

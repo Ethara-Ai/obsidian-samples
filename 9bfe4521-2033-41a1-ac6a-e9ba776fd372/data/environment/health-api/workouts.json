@@ -1,0 +1,44 @@
+[
+  {
+    "id": "wk-0001",
+    "person_id": "per-reggie-clayton",
+    "type": "running",
+    "start": "2026-09-12T07:30:00-05:00",
+    "end": "2026-09-12T08:05:00-05:00",
+    "duration_min": "35",
+    "distance_km": "5.20",
+    "active_energy_kcal": "410",
+    "avg_heart_rate": "148",
+    "max_heart_rate": "165",
+    "elevation_gain_m": "12",
+    "notes": "Shelby Farms loop, slow and steady."
+  },
+  {
+    "id": "wk-0002",
+    "person_id": "per-reggie-clayton",
+    "type": "walking",
+    "start": "2026-10-10T08:00:00-05:00",
+    "end": "2026-10-10T08:50:00-05:00",
+    "duration_min": "50",
+    "distance_km": "4.60",
+    "active_energy_kcal": "290",
+    "avg_heart_rate": "112",
+    "max_heart_rate": "128",
+    "elevation_gain_m": "8",
+    "notes": "Greenway walk with Zuri."
+  },
+  {
+    "id": "wk-0003",
+    "person_id": "per-reggie-clayton",
+    "type": "running",
+    "start": "2026-11-01T08:15:00-06:00",
+    "end": "2026-11-01T08:48:00-06:00",
+    "duration_min": "33",
+    "distance_km": "4.90",
+    "active_energy_kcal": "385",
+    "avg_heart_rate": "151",
+    "max_heart_rate": "168",
+    "elevation_gain_m": "10",
+    "notes": "Shelby Farms, cold morning, wrist stiff."
+  }
+]

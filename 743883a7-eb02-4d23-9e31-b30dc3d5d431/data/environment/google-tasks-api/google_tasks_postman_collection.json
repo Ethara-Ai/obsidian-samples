@@ -1,0 +1,222 @@
+{
+  "info": {
+    "name": "Google Tasks API Mock v1",
+    "description": "Mock Google Tasks API v1. Base URL: http://localhost:8119. In docker-compose: http://google-tasks-api:8119. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8119"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=gtasks-connector-app&client_secret=gtsk_fa899cd2bc7e0734"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"gtasks-connector-app\", \"client_secret\": \"gtsk_fa899cd2bc7e0734\", \"scope\": \"tasks.readonly tasks\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list task lists",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/tasks/v1/users/@me/lists",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list open tasks due in the install window",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks?showCompleted=false&dueMin=2026-10-19T00:00:00Z&dueMax=2026-10-31T00:00:00Z",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the default list",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/tasks/v1/lists/@default/tasks?maxResults=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a task",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks/pPx6gzDAh5pYd70_DFy1Fu",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a task",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\": \"Confirm the Lakefront crane permit\", \"notes\": \"Ask Raj Patel.\", \"due\": \"2026-10-20T00:00:00Z\"}"
+        }
+      }
+    },
+    {
+      "name": "create a subtask",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks?parent=pPx6gzDAh5pYd70_DFy1Fu",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\": \"Send Frank the crew list\"}"
+        }
+      }
+    },
+    {
+      "name": "mark a task complete",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks/pPx6gzDAh5pYd70_DFy1Fu",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"status\": \"completed\"}"
+        }
+      }
+    },
+    {
+      "name": "replace a task",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks/pPx6gzDAh5pYd70_DFy1Fu",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"id\": \"pPx6gzDAh5pYd70_DFy1Fu\", \"title\": \"Confirm the River North install crew with Frank Morales\", \"notes\": \"Crew confirmed for October 19.\", \"status\": \"needsAction\", \"due\": \"2026-10-09T00:00:00Z\"}"
+        }
+      }
+    },
+    {
+      "name": "delete a task",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/tasks/v1/lists/hlqanAgx_KWElkpZUVjFZ8/tasks/<task>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

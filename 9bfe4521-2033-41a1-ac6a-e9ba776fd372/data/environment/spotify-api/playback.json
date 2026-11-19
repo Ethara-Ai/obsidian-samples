@@ -1,0 +1,13 @@
+[
+  {
+    "account_id": "acct-caleb-rourke",
+    "device_id": "87835653f7f79d15420fc69988bdadcd623b1314",
+    "context_uri": "spotify:playlist:d9e0873bdc5c2eed8b4cb4",
+    "item_uri": "spotify:track:a77bb68ebc39ad9a43a618",
+    "progress_ms": "84213",
+    "is_playing": "false",
+    "shuffle_state": "false",
+    "repeat_state": "off",
+    "updated_at": "2026-11-14T22:12:44Z"
+  }
+]

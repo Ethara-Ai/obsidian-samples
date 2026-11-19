@@ -1,0 +1,1485 @@
+[
+  {
+    "id": "khQZsm5qYSkCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-07-20T14:48:00Z",
+    "expires": "2024-07-21T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll studio-nas",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:nas",
+            "tag:server"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "93f4480ef35b36c05efbbc28b6fae44a3015a43f48a558e2a31871f0d2f8d87d"
+  },
+  {
+    "id": "kAjntRVGVd5CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-07-27T14:48:00Z",
+    "expires": "2024-07-28T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll render-01",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:render",
+            "tag:server"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "869dee00f83875e739e91d511e81ae348b5908821e03009e2ee2068a04d51c28"
+  },
+  {
+    "id": "kmJ56h9LlRCCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-19T14:48:00Z",
+    "expires": "2024-06-20T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll render-02",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:render",
+            "tag:server"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "cc1855559af753bae5ca573267547b53080a63f467ccb829cd1545260ceff527"
+  },
+  {
+    "id": "kual0YjeqB8CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-07T14:48:00Z",
+    "expires": "2024-06-08T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll backup-01",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:server"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "bac71e9ec3c22f50b7456298a31a93b407e17885df4cf5c9ec9433d4c3c27471"
+  },
+  {
+    "id": "k5xrtgt8OIRCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-12T14:48:00Z",
+    "expires": "2024-06-13T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll print-server",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:printer"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "5f6988f78d84e1ba855762ac609e813f543cf0a79ff8abc15f2a9f1915596520"
+  },
+  {
+    "id": "ki3ZjnGlF6jCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-26T14:48:00Z",
+    "expires": "2024-06-27T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll studio-router",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:server"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "819dbc9141fc843be38cf9551904c40fbf91a379cee4ee1142376f9da4c680af"
+  },
+  {
+    "id": "k0ioP2oVHSfCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-24T14:48:00Z",
+    "expires": "2024-06-25T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll exit-chicago",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:exit"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "a979d0ac0d06ebdfc1c848d2e21b764dc7dc7be1e06db6f1053dc042519c424e"
+  },
+  {
+    "id": "kMZKwKeYmw3CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-07-02T14:48:00Z",
+    "expires": "2024-07-03T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll conf-room-tv",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:conference"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "4eabcabed4120988855de87321720a381cff9721d3f32231feba38a90e8ab055"
+  },
+  {
+    "id": "kcq1kptIEn6CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-07-29T14:48:00Z",
+    "expires": "2024-07-30T14:48:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "enroll lobby-display",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": true,
+          "tags": [
+            "tag:conference"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "7a5a94d32a149a690aceda846df20b33a14630b3c0f3a188c114b589392f6344"
+  },
+  {
+    "id": "kpqwnA0iGaTCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-09-29T14:31:00Z",
+    "expires": "2026-10-06T14:31:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard ben-laptop-new",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "91284181d3a34a38cba86b39ee794394111e33b81e66717ccc66e219f0629584"
+  },
+  {
+    "id": "kO0nd2VUV3lCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-10-01T19:05:00Z",
+    "expires": "2026-10-08T19:05:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard sofia-ipad",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "f2bb0f1647f974c2d4ddacbc70ff01392b167ab39288bf46e84397cc53743eb4"
+  },
+  {
+    "id": "kFUHJGoNBINCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-10-02T13:47:00Z",
+    "expires": "2026-10-09T13:47:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard hannah-desktop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "3c99e7e0363f464daddebee36f563f4d5aeebcb54a44eb3ade1b838125538c5d"
+  },
+  {
+    "id": "kVLrEEilkF5CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-10-03T23:52:00Z",
+    "expires": "2026-10-10T23:52:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "123621cdae02e1d94f3746f4b0b6d9219d29ec4caef1a25e98dda0b455a0f4a9"
+  },
+  {
+    "id": "kONhshGtYL0CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-06-01T16:00:00Z",
+    "expires": "2026-07-01T16:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "render workers Jun 2026",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": true,
+          "ephemeral": true,
+          "preauthorized": true,
+          "tags": [
+            "tag:render"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "8b794bd479850322a07f40f96a36ff873deec7c78707d9079853ec9037864b64"
+  },
+  {
+    "id": "krOXAJWuvhiCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-07-01T16:00:00Z",
+    "expires": "2026-07-31T16:00:00Z",
+    "revoked": "2026-07-22T16:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "render workers Jul 2026",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": true,
+          "ephemeral": true,
+          "preauthorized": true,
+          "tags": [
+            "tag:render"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "aa9f3b6a69ff8f6481d8107dea0ac9f138d4c4dcd0b959de157749f04afd6ceb"
+  },
+  {
+    "id": "kCSnth1qkqxCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-08-01T16:00:00Z",
+    "expires": "2026-08-31T16:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "render workers Aug 2026",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": true,
+          "ephemeral": true,
+          "preauthorized": true,
+          "tags": [
+            "tag:render"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "0ab1b2f9ebdaa7e7e68c509162b1e11ce152ed17259fa3641ae6b30d576cc829"
+  },
+  {
+    "id": "ktQ1LKuSI2aCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-09-01T16:00:00Z",
+    "expires": "2026-10-01T16:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "render workers Sep 2026",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": true,
+          "ephemeral": true,
+          "preauthorized": true,
+          "tags": [
+            "tag:render"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "5e4ab5ca87990ef05ec1e67a2f963d422d9a34032e5a4b7fd359b863f9763d7d"
+  },
+  {
+    "id": "kDGjCE2VJPxCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-10-01T16:00:00Z",
+    "expires": "2026-10-31T16:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "render workers Oct 2026",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": true,
+          "ephemeral": true,
+          "preauthorized": true,
+          "tags": [
+            "tag:render"
+          ]
+        }
+      }
+    },
+    "secret_sha256": "c4b9a83f356ef8164eb613d456f1b8e53696843628cb7f513ebdde667605fd5e"
+  },
+  {
+    "id": "k50iGnrLCECCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-02-17T00:00:00Z",
+    "expires": "2026-02-18T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "conference room",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "df40eb1879ccbbdb5d3ae98a1f3d7aa2802b642fd911850b24f34b3d590f38b2"
+  },
+  {
+    "id": "kaJOZRCPnUgCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-01-12T00:00:00Z",
+    "expires": "2025-01-19T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "replace laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "8cdb60941b03bafddf6115c940ec6e0f617a74c5ed0e773b87df613a3311069a"
+  },
+  {
+    "id": "kLYKM1rkBfyCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-09-02T00:00:00Z",
+    "expires": "2024-09-09T00:00:00Z",
+    "revoked": "2024-09-02T22:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "replace laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "b23efed64012bb9b4cbd171e9da28335a86e13ac4d71e979b0cd8ae112632bd6"
+  },
+  {
+    "id": "kpL8Trubl30CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-10-01T00:00:00Z",
+    "expires": "2024-12-30T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "5848c60d0b0ff0c798c4990fa5049ff835b534ff62b02a27cb80523427873f0b"
+  },
+  {
+    "id": "kZ8iCMPmOSACNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-07-09T00:00:00Z",
+    "expires": "2025-08-08T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "6ed40a65eb863a82672392feb91d78f4277777f114556f6dcca703e1bdd1b730"
+  },
+  {
+    "id": "k7gC0pEUQzrCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-01-05T00:00:00Z",
+    "expires": "2025-01-06T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "6bc0be1ceafd8436e2dde16ac61e0361f7aca458cf2c932fef81dd0e18483d66"
+  },
+  {
+    "id": "kMgR8oW5pGzCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-06-10T00:00:00Z",
+    "expires": "2026-09-08T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "a73b32373292112f787e49922119fb6b945031331c679209ebcbf11eabd4d34c"
+  },
+  {
+    "id": "krAFwWtg4gxCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-02-20T00:00:00Z",
+    "expires": "2025-03-22T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "b18fa9eacfe5daa96b66c37fd6c1c528313fa9b72a23d478f52ce056c4978db7"
+  },
+  {
+    "id": "kOKPYFkQvyGCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-05-08T00:00:00Z",
+    "expires": "2026-08-06T00:00:00Z",
+    "revoked": "2026-05-08T20:00:00Z",
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "temp contractor",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "9d4f63c49e42ad1d1366e7cd2f726c35606fe7d93bd233c108ba466d01a0a2cc"
+  },
+  {
+    "id": "krRyckIQC28CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-08-01T00:00:00Z",
+    "expires": "2025-08-08T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "temp contractor",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "4b735d9119bb75acdbebf45ac299c7d092a215444393be8fef3edde094c5372f"
+  },
+  {
+    "id": "kDD4ylzuChuCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-03-11T00:00:00Z",
+    "expires": "2026-06-09T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "4f8bf1d2f73a7163b5f8cdc8f3c26e3a5b30ddddb995afdda6808b30c787208e"
+  },
+  {
+    "id": "kAQv7brpLUDCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-08-17T00:00:00Z",
+    "expires": "2025-09-16T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "studio printer",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "599a2069391617d2ec7825ec8bc9f401f79f44747f96899d5b72319f9ab38d90"
+  },
+  {
+    "id": "kPYDs3GSmocCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-08-24T00:00:00Z",
+    "expires": "2024-11-22T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "studio printer",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "049107ba40a5ef8f835b2ab8744a5feed5ee78a162ab5cff5063fe43e48afa28"
+  },
+  {
+    "id": "kjuzLg5MVZWCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-12-25T00:00:00Z",
+    "expires": "2026-03-25T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "studio printer",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "94f961c902d350266485287609ccecc51259561f698183713279f66b274a0f85"
+  },
+  {
+    "id": "kU8k6OU7tGBCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-07-28T00:00:00Z",
+    "expires": "2026-10-26T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "studio printer",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "57039cdbabc1d48429389cba9b7778c2ca3acc3ba0a9ebe3a33d3aea19f15457"
+  },
+  {
+    "id": "kDUSNClBQlnCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-07-02T00:00:00Z",
+    "expires": "2025-07-03T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "6a6715a8cdc4edb8df880dc37dfd72d0b832a06766ca4c7f57585355a257720a"
+  },
+  {
+    "id": "kjIexHNQnqACNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-10-24T00:00:00Z",
+    "expires": "2026-01-22T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "replace laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "a5f4f648e7689d75e830e9ecb979b0471c457c61a1801c5bd6b9dcfa6837f849"
+  },
+  {
+    "id": "k9qUqc5AQyZCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-03-02T00:00:00Z",
+    "expires": "2026-03-09T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "temp contractor",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "cdee3eef13ca0d5ca9102ef5348a11daa8ec5de15cb800c91dd962012b849f46"
+  },
+  {
+    "id": "kEw5n2OTvN8CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-10-24T00:00:00Z",
+    "expires": "2024-10-25T00:00:00Z",
+    "revoked": "2024-10-24T01:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "79efbc1f5aef4a315f0f6a62719899dbd7092707497c1ebccd80a72e40c9aa24"
+  },
+  {
+    "id": "kfNSOmMwOEcCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-11-23T00:00:00Z",
+    "expires": "2025-11-30T00:00:00Z",
+    "revoked": "2025-11-24T12:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "3706b4ec9b6e53cb18f85f8c82c714866992b94c3ff1f4db5507df9e9de97993"
+  },
+  {
+    "id": "k0z54PHTRqXCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-10-21T00:00:00Z",
+    "expires": "2024-11-20T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "69623fca8326ac21d227bbc60d6db383212b16e3b5fbda473e80ca98795a70e8"
+  },
+  {
+    "id": "kQWG5cswnbZCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-06-25T00:00:00Z",
+    "expires": "2025-07-02T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "replace laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "66f7392037b0b6036dc4db7531944bab8f68b024d0765bd66c4167d398872716"
+  },
+  {
+    "id": "ktIQJnDoEfdCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-09-29T00:00:00Z",
+    "expires": "2024-09-30T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "a0c61218a7501dbca8f38c791a5924c024c20f712564d9cd066bdb055cf4b784"
+  },
+  {
+    "id": "kRFJwPEPyh8CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-01-02T00:00:00Z",
+    "expires": "2025-01-09T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "04f0498a840f5a9705c0f40295d0e62e0010d5177271ac1aa5945ae4adb77f7f"
+  },
+  {
+    "id": "k1UWsUh3TFRCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-12-04T00:00:00Z",
+    "expires": "2025-12-11T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "conference room",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "476cdda961d574f23439aeee3162b70c72ebdf7403290a414ada3a45f2314b2c"
+  },
+  {
+    "id": "k3G7uL1TaEWCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-03-28T00:00:00Z",
+    "expires": "2026-03-29T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "conference room",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "7de206d9e1237a353dba173a0e9594062300df0de5d3b1b13b466802247550e7"
+  },
+  {
+    "id": "kJkOaf2R9XECNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-12-20T00:00:00Z",
+    "expires": "2025-12-21T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "13d356b5af3cf13829ee91d6d5fd73636192bd4a06686a992bd135feedb5fe5d"
+  },
+  {
+    "id": "kRirPQav9r5CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-11-08T00:00:00Z",
+    "expires": "2025-11-09T00:00:00Z",
+    "revoked": "2025-11-09T15:00:00Z",
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "3d07212875f787a6fb0a4881867ac59502332ca23208cd8c4c186ca51694a8a4"
+  },
+  {
+    "id": "k5oGijHflvPCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-08-29T00:00:00Z",
+    "expires": "2024-09-05T00:00:00Z",
+    "revoked": "2024-08-29T10:00:00Z",
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "835390e4c9b26cba323352150616a2f70ec132edf33e0896c046edb837715608"
+  },
+  {
+    "id": "kXE0uMiYlZkCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-03-23T00:00:00Z",
+    "expires": "2026-03-30T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "243912113af7c565ecfb2893ff84aff76cde2ad8986c2cff2d60dcbc42107fc0"
+  },
+  {
+    "id": "kw0wtAeNquWCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-11-21T00:00:00Z",
+    "expires": "2024-12-21T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "fc30dce5e239a4634f2103b9daed09340bc0963b9f1770492e8a7651967e91bf"
+  },
+  {
+    "id": "kCzjvaUlQfVCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-04T00:00:00Z",
+    "expires": "2024-06-11T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "replace laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "e76404ef04bc091c7b8a2d9b9592bb1ba19fc40b3c61d4cc06720f9820141863"
+  },
+  {
+    "id": "kPtp5DSztu3CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-12-16T00:00:00Z",
+    "expires": "2024-12-23T00:00:00Z",
+    "revoked": "2024-12-16T22:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "65bef7f0cca3864f1caf0f02f6cc3254744958391e3dadfffb80fbdbbe660ce2"
+  },
+  {
+    "id": "kmQPf1uHGKfCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-07-26T00:00:00Z",
+    "expires": "2025-07-27T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "0cb82c4e3ee1075e4ec1ec45bea2068bbc1b26ce5d4cdb63a8c9c94aec92d19a"
+  },
+  {
+    "id": "k48YtdFY25jCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-02-01T00:00:00Z",
+    "expires": "2026-02-02T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "2149ecc9b1615ff38d7b3fb5493a17c32d6f3432a0429c940e5c9414c78aabe4"
+  },
+  {
+    "id": "kDojmxMmuubCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-06-25T00:00:00Z",
+    "expires": "2024-07-25T00:00:00Z",
+    "revoked": "2024-06-25T13:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "2edc8d3854dcc0bcc471820afc6079b23fcae23a562d42d1255c7106022a54c6"
+  },
+  {
+    "id": "kUHT30CcTqyCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-03-06T00:00:00Z",
+    "expires": "2026-04-05T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard phone",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "a618367e4d1ad586bd95e95e4cd8d3f46a282903c145e4a5610339de7a509bb2"
+  },
+  {
+    "id": "kPLaFbSK10RCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-08-10T00:00:00Z",
+    "expires": "2024-08-11T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "bf6a9a83bfb4a15a4317240c05ea7735697e8065cfbf88ae60c95648b7a0cd18"
+  },
+  {
+    "id": "kJSZ9BjLKHlCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-08-31T00:00:00Z",
+    "expires": "2024-09-01T00:00:00Z",
+    "revoked": "2024-09-01T00:00:00Z",
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "home device",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "96cbce43715382f58a247c54a393dc8898876778770cda5683d81158cc38af3a"
+  },
+  {
+    "id": "kCeywIahCNBCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-04-28T00:00:00Z",
+    "expires": "2026-05-05T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "3e0639cc2a71d0aede6c962a408fc7c8c38cadba57c93b75fd882c425df409bb"
+  },
+  {
+    "id": "kIF5sFe7rSkCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-02-08T00:00:00Z",
+    "expires": "2025-02-15T00:00:00Z",
+    "revoked": null,
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "conference room",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "62a3dc017ff282e41b6030bd673e05fcfc6f4aeab2ecf6baabacec0840c7a93d"
+  },
+  {
+    "id": "kSVNhHZJ1dPCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-03-09T00:00:00Z",
+    "expires": "2025-04-08T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "temp contractor",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "137805e0324ee6bceb1a95591f580212f0103896948c063503979f6c124c28ca"
+  },
+  {
+    "id": "kj4XO8rfeuBCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-07-09T00:00:00Z",
+    "expires": "2025-10-07T00:00:00Z",
+    "revoked": "2025-07-09T02:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "onboard laptop",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "b35c5cbb62fc2d53a668bccb3aff2f348ce7445c8e26a925a005e87215ad3fdd"
+  },
+  {
+    "id": "klhL1Du17AiCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2024-11-21T00:00:00Z",
+    "expires": "2024-11-22T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "b4ade35f3f6982b8412a331e8b4f0ac8a08c97b17c7835c02d20ddc7d69e9e10"
+  },
+  {
+    "id": "kf5GCF1wUwsCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-04-15T00:00:00Z",
+    "expires": "2025-05-15T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "5b0441104b6a64e4d735616c54afa8dca2c94b4e78d19d7bae2ce3361e8dfb63"
+  },
+  {
+    "id": "kM7C2ymHCryCNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-08-18T00:00:00Z",
+    "expires": "2026-08-19T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "temp contractor",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "2abe2042add0cb45ce7a1cd78f5359760bd05fcf08f99b70161dc7deafd78986"
+  },
+  {
+    "id": "kbI3obWCfA0CNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2026-07-03T00:00:00Z",
+    "expires": "2026-07-04T00:00:00Z",
+    "revoked": null,
+    "user_login": "dana.whitfield@lakeshoredesign.example",
+    "description": "studio printer",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "724ec11ddc9d743e035eeaccc4cabb66f3af5deaf9052006c4b6a6876907100e"
+  },
+  {
+    "id": "khBq1HpgCvICNTRL",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "keyType": "auth",
+    "created": "2025-10-23T00:00:00Z",
+    "expires": "2025-11-22T00:00:00Z",
+    "revoked": "2025-10-24T00:00:00Z",
+    "user_login": "leah.novak@lakeshoredesign.example",
+    "description": "",
+    "capabilities": {
+      "devices": {
+        "create": {
+          "reusable": false,
+          "ephemeral": false,
+          "preauthorized": false,
+          "tags": []
+        }
+      }
+    },
+    "secret_sha256": "1c6c1055110527d1ce0e43f440de968cbd93bf321e3b8afe81186b3c682d3d8a"
+  }
+]

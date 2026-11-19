@@ -1,0 +1,243 @@
+{
+  "info": {
+    "name": "Home Assistant API Mock 2026.9.3",
+    "description": "Mock Home Assistant API 2026.9.3. Base URL: http://localhost:8130. In docker-compose: http://home-assistant-api:8130. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8130"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=hass-connector-app&client_secret=hacs_8c3f17e2a95d40b6"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"hass-connector-app\", \"client_secret\": \"hacs_8c3f17e2a95d40b6\", \"scope\": \"homeassistant:read homeassistant:control\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read the configuration",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/config",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list all entity states",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/states",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get one entity's state",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/states/climate.main_floor",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "turn a light on",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/services/light/turn_on",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"entity_id\": \"light.porch_light\", \"brightness_pct\": 80, \"color_temp_kelvin\": 2700}"
+        }
+      }
+    },
+    {
+      "name": "turn lights off",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/services/light/turn_off",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"entity_id\": [\"light.kitchen_pendant_1\", \"light.kitchen_pendant_2\"]}"
+        }
+      }
+    },
+    {
+      "name": "set the thermostat",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/services/climate/set_temperature",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"entity_id\": \"climate.main_floor\", \"temperature\": 70}"
+        }
+      }
+    },
+    {
+      "name": "lock a door",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/services/lock/lock",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"entity_id\": \"lock.garage_entry\"}"
+        }
+      }
+    },
+    {
+      "name": "recall a scene",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/services/scene/turn_on",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"entity_id\": \"scene.movie_night\"}"
+        }
+      }
+    },
+    {
+      "name": "read an entity's history for a period",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/history/period/2026-10-04T00:00:00-05:00?filter_entity_id=lock.front_door,cover.garage_door&end_time=2026-10-05T00:00:00-05:00",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read a light's history, state changes only",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/history/period/2026-10-02T00:00:00-05:00?filter_entity_id=light.living_room_floor_lamp&significant_changes_only&minimal_response",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

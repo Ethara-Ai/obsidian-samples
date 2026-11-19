@@ -1,0 +1,5 @@
+[service]
+name = "google-sheets-api"
+port = 8111
+env_var_name = "GOOGLE_SHEETS_API_URL"
+healthcheck_path = "/health"

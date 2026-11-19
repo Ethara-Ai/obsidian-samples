@@ -1,0 +1,110 @@
+{
+  "stage": 4,
+  "stage_name": "stage4_bulletin_walkthrough",
+  "description": "Tuesday 10:30: Tom Henderson rewrites the contact-block line of his SunCoast office bulletin page in Notion: from today every SunCoast listing ad, post, newsletter piece and open-house handout gives the office line (813) 555-0100 right after the brokerage name. At Monday's start the line deferred to each agent's launch standards. The page's edit time moves. Tuesday 10:45: Tom emails Brittany that before the listing's first open house he will walk the house with her, so it has to be empty from noon that day (Brittany's standards alone would clear it by 1 PM for a 2 PM start). The mail lands unread. Nothing announces either.",
+  "applies_between_turns": [
+    "T7",
+    "T8"
+  ],
+  "applied_at_local_time": "2026-10-27T10:45:00-04:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_spine_bulletin_line",
+        "service": "notion-api",
+        "description": "Tom's new contact-block line on his office bulletin page: the office line (813) 555-0100 after the brokerage name on every listing ad, post, newsletter piece and open-house handout from Tuesday.",
+        "method": "PATCH",
+        "path": "/v1/blocks/7613a9fd-7131-5150-aabc-6dbc71caed6f",
+        "admin": {
+          "op": "upsert",
+          "table": "blocks",
+          "row": {
+            "id": "7613a9fd-7131-5150-aabc-6dbc71caed6f",
+            "account_id": "acct-brittany-morales",
+            "parent": {
+              "type": "page_id",
+              "page_id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88"
+            },
+            "position": 2,
+            "type": "bulleted_list_item",
+            "payload": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Contact block on listing ads, posts and open-house handouts, from Tuesday, October 27: the agent's name and number, then SunCoast Realty Group with the office line, (813) 555-0100, right after it. This covers every ad, post, newsletter piece, open-house card, feature sheet and sign-in sheet that goes out from today."
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Contact block on listing ads, posts and open-house handouts, from Tuesday, October 27: the agent's name and number, then SunCoast Realty Group with the office line, (813) 555-0100, right after it. This covers every ad, post, newsletter piece, open-house card, feature sheet and sign-in sheet that goes out from today."
+                }
+              ],
+              "color": "default"
+            },
+            "archived": false,
+            "created_time": "2024-02-05T15:00:00.000Z",
+            "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+            "last_edited_time": "2026-10-27T14:30:00.000Z",
+            "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+          }
+        },
+        "fires_at_turn": "T8"
+      },
+      {
+        "id": "sil_spine_bulletin_edited",
+        "service": "notion-api",
+        "description": "The bulletin page's edit time moves with Tom's edit.",
+        "method": "PATCH",
+        "path": "/v1/pages/699bef8d-7f09-5182-8aa5-bfb0d609ad88",
+        "admin": {
+          "op": "patch",
+          "table": "pages",
+          "pk": "699bef8d-7f09-5182-8aa5-bfb0d609ad88",
+          "set": {
+            "last_edited_time": "2026-10-27T14:30:00.000Z",
+            "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+          }
+        },
+        "fires_at_turn": "T8"
+      },
+      {
+        "id": "sil_spine_tom_walk",
+        "service": "gmail-api",
+        "description": "Tom's walk-through request: the house empty from noon on open-house day.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-bm-1027t",
+            "thread_id": "thr-bm-1027t",
+            "from_addr": "thenderson@suncoastrealty.com",
+            "to_addr": "brittany.morales@greenridertech.co",
+            "cc_addr": "",
+            "subject": "Sea Grape open house",
+            "snippet": "Hi Brittany,  Sea Grape looks good for coming soon tomorrow. Before its first open house I",
+            "body": "Hi Brittany,\n\nSea Grape looks good for coming soon tomorrow. Before its first open house I'd like to walk the house with you, the way I do with every new listing, so please have it empty from noon that day.\n\nTom",
+            "date": "2026-10-27T10:45:00-04:00",
+            "internal_date": 1793112300000,
+            "size_estimate": 1111,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T8"
+      }
+    ]
+  }
+}

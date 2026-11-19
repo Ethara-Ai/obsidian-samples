@@ -1,0 +1,185 @@
+{
+  "info": {
+    "name": "Uber Rides API Mock v1.2",
+    "description": "Mock Uber Rides API v1.2. Base URL: http://localhost:8115. In docker-compose: http://uber-api:8115. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8115"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=uber-connector-app&client_secret=ubcs_0d6725bef0eb232e"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"uber-connector-app\", \"client_secret\": \"ubcs_0d6725bef0eb232e\", \"scope\": \"ride_request.estimate all_trips history request\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "products at the studio",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.2/products?latitude=41.9147&longitude=-87.6826",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "price estimate",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.2/estimates/price?start_latitude=41.9147&start_longitude=-87.6826&end_latitude=41.8893&end_longitude=-87.6309",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "time estimate",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.2/estimates/time?start_latitude=41.9147&start_longitude=-87.6826",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "request a ride",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1.2/requests",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"product_id\": \"<product_id>\", \"start_latitude\": 41.9147, \"start_longitude\": -87.6826, \"end_latitude\": 41.8893, \"end_longitude\": -87.6309}"
+        }
+      }
+    },
+    {
+      "name": "ride status",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.2/requests/<request_id>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "current ride",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.2/requests/current",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cancel a ride",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/v1.2/requests/<request_id>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ride history",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.2/history?offset=0&limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

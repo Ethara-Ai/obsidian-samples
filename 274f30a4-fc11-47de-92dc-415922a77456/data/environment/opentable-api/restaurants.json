@@ -1,0 +1,5460 @@
+[
+  {
+    "rid": 104000,
+    "name": "Marrow & Vine",
+    "street": "1012 W Randolph St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60607",
+    "country": "US",
+    "neighborhood": "West Loop",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Wine Bar"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(312) 555-2000",
+    "latitude": 41.8843,
+    "longitude": -87.6534,
+    "rating": 4.8,
+    "reviews_count": 2841,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 104038,
+    "name": "Lantern House",
+    "street": "2620 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60647",
+    "country": "US",
+    "neighborhood": "Logan Square",
+    "cuisine": "Contemporary American",
+    "cuisines": [
+      "Contemporary American",
+      "Cocktail Bar"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-2113",
+    "latitude": 41.9295,
+    "longitude": -87.7076,
+    "rating": 4.6,
+    "reviews_count": 1529,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104076,
+    "name": "Copper Fern",
+    "street": "430 N Wells St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60654",
+    "country": "US",
+    "neighborhood": "River North",
+    "cuisine": "Farm-to-table",
+    "cuisines": [
+      "Farm-to-table",
+      "American"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-2226",
+    "latitude": 41.8899,
+    "longitude": -87.634,
+    "rating": 4.5,
+    "reviews_count": 2210,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104114,
+    "name": "Alder & Ash",
+    "street": "1544 N Damen Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60622",
+    "country": "US",
+    "neighborhood": "Wicker Park",
+    "cuisine": "Wood-fired",
+    "cuisines": [
+      "Wood-fired",
+      "American"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-2339",
+    "latitude": 41.9097,
+    "longitude": -87.6776,
+    "rating": 4.6,
+    "reviews_count": 987,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104152,
+    "name": "Fulton Ember",
+    "street": "845 W Fulton Market",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60607",
+    "country": "US",
+    "neighborhood": "Fulton Market",
+    "cuisine": "Steakhouse",
+    "cuisines": [
+      "Steakhouse",
+      "American"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(312) 555-2452",
+    "latitude": 41.8866,
+    "longitude": -87.6497,
+    "rating": 4.7,
+    "reviews_count": 3312,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 104185,
+    "name": "Little Saffron",
+    "street": "5304 N Clark St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60640",
+    "country": "US",
+    "neighborhood": "Andersonville",
+    "cuisine": "Persian",
+    "cuisines": [
+      "Persian",
+      "Middle Eastern"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-2565",
+    "latitude": 41.979,
+    "longitude": -87.6684,
+    "rating": 4.7,
+    "reviews_count": 812,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104223,
+    "name": "Brine & Barley",
+    "street": "3149 N Broadway",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60657",
+    "country": "US",
+    "neighborhood": "Lakeview",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Gastropub"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-2678",
+    "latitude": 41.9393,
+    "longitude": -87.6447,
+    "rating": 4.3,
+    "reviews_count": 1164,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104261,
+    "name": "Osteria Lucca",
+    "street": "515 N Clark St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60654",
+    "country": "US",
+    "neighborhood": "River North",
+    "cuisine": "Italian",
+    "cuisines": [
+      "Italian",
+      "Pasta"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-2791",
+    "latitude": 41.8914,
+    "longitude": -87.6312,
+    "rating": 4.6,
+    "reviews_count": 2675,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104299,
+    "name": "Calumet Oyster Bar",
+    "street": "1019 N Rush St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60611",
+    "country": "US",
+    "neighborhood": "Gold Coast",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Oysters"
+    ],
+    "price_band": 4,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-2904",
+    "latitude": 41.9008,
+    "longitude": -87.6276,
+    "rating": 4.4,
+    "reviews_count": 1490,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104337,
+    "name": "Pilsen Comal",
+    "street": "1814 S Blue Island Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60608",
+    "country": "US",
+    "neighborhood": "Pilsen",
+    "cuisine": "Mexican",
+    "cuisines": [
+      "Mexican",
+      "Latin American"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3017",
+    "latitude": 41.8569,
+    "longitude": -87.6627,
+    "rating": 4.7,
+    "reviews_count": 1733,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104370,
+    "name": "Kinzie Chophouse",
+    "street": "400 N Wells St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60654",
+    "country": "US",
+    "neighborhood": "River North",
+    "cuisine": "Steakhouse",
+    "cuisines": [
+      "Steakhouse",
+      "American"
+    ],
+    "price_band": 4,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-3130",
+    "latitude": 41.889,
+    "longitude": -87.6339,
+    "rating": 4.5,
+    "reviews_count": 4020,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104408,
+    "name": "Saint Halsted",
+    "street": "180 N Halsted St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60661",
+    "country": "US",
+    "neighborhood": "West Loop",
+    "cuisine": "French",
+    "cuisines": [
+      "French",
+      "Bistro"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-3243",
+    "latitude": 41.8852,
+    "longitude": -87.6474,
+    "rating": 4.4,
+    "reviews_count": 1105,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104446,
+    "name": "Bodega Sol",
+    "street": "3159 W Logan Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60647",
+    "country": "US",
+    "neighborhood": "Logan Square",
+    "cuisine": "Spanish",
+    "cuisines": [
+      "Spanish",
+      "Tapas"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3356",
+    "latitude": 41.9285,
+    "longitude": -87.7051,
+    "rating": 4.5,
+    "reviews_count": 864,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104484,
+    "name": "Wren Kitchen",
+    "street": "4520 N Lincoln Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60625",
+    "country": "US",
+    "neighborhood": "Ravenswood",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Brunch"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3469",
+    "latitude": 41.9645,
+    "longitude": -87.6855,
+    "rating": 4.6,
+    "reviews_count": 702,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104522,
+    "name": "Hanami Izakaya",
+    "street": "1130 W Lake St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60607",
+    "country": "US",
+    "neighborhood": "West Loop",
+    "cuisine": "Japanese",
+    "cuisines": [
+      "Japanese",
+      "Izakaya"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3582",
+    "latitude": 41.8857,
+    "longitude": -87.656,
+    "rating": 4.6,
+    "reviews_count": 1388,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104555,
+    "name": "Ruta Taqueria",
+    "street": "1301 W 18th St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60608",
+    "country": "US",
+    "neighborhood": "Pilsen",
+    "cuisine": "Mexican",
+    "cuisines": [
+      "Mexican",
+      "Tacos"
+    ],
+    "price_band": 1,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3695",
+    "latitude": 41.8578,
+    "longitude": -87.6582,
+    "rating": 4.4,
+    "reviews_count": 655,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104593,
+    "name": "Northbound Smokehouse",
+    "street": "2510 N Clark St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60614",
+    "country": "US",
+    "neighborhood": "Lincoln Park",
+    "cuisine": "Barbecue",
+    "cuisines": [
+      "Barbecue",
+      "American"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3808",
+    "latitude": 41.928,
+    "longitude": -87.6418,
+    "rating": 4.3,
+    "reviews_count": 1210,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104631,
+    "name": "Trellis Garden Cafe",
+    "street": "2215 N Halsted St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60614",
+    "country": "US",
+    "neighborhood": "Lincoln Park",
+    "cuisine": "Cafe",
+    "cuisines": [
+      "Cafe",
+      "Brunch"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-3921",
+    "latitude": 41.9223,
+    "longitude": -87.6491,
+    "rating": 4.4,
+    "reviews_count": 931,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104669,
+    "name": "Cassia Thai",
+    "street": "4746 N Broadway",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60640",
+    "country": "US",
+    "neighborhood": "Uptown",
+    "cuisine": "Thai",
+    "cuisines": [
+      "Thai",
+      "Asian"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-4034",
+    "latitude": 41.9683,
+    "longitude": -87.6576,
+    "rating": 4.5,
+    "reviews_count": 1047,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104707,
+    "name": "Bistro Laurent",
+    "street": "2302 N Lincoln Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60614",
+    "country": "US",
+    "neighborhood": "Lincoln Park",
+    "cuisine": "French",
+    "cuisines": [
+      "French",
+      "Bistro"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-4147",
+    "latitude": 41.9242,
+    "longitude": -87.6466,
+    "rating": 4.6,
+    "reviews_count": 1586,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104740,
+    "name": "Ember & Oak",
+    "street": "212 E Ohio St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60611",
+    "country": "US",
+    "neighborhood": "Streeterville",
+    "cuisine": "Steakhouse",
+    "cuisines": [
+      "Steakhouse",
+      "Seafood"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(312) 555-4260",
+    "latitude": 41.8925,
+    "longitude": -87.6214,
+    "rating": 4.7,
+    "reviews_count": 2398,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 104778,
+    "name": "Masala Lane",
+    "street": "2614 W Devon Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60659",
+    "country": "US",
+    "neighborhood": "West Ridge",
+    "cuisine": "Indian",
+    "cuisines": [
+      "Indian",
+      "Vegetarian"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-4373",
+    "latitude": 41.9976,
+    "longitude": -87.6942,
+    "rating": 4.5,
+    "reviews_count": 1118,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104816,
+    "name": "Oyster & Pearl",
+    "street": "16 W Adams St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60603",
+    "country": "US",
+    "neighborhood": "The Loop",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Oysters"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-4486",
+    "latitude": 41.8794,
+    "longitude": -87.6289,
+    "rating": 4.4,
+    "reviews_count": 1321,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 104854,
+    "name": "Fennel & Rye",
+    "street": "2534 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60647",
+    "country": "US",
+    "neighborhood": "Logan Square",
+    "cuisine": "Contemporary American",
+    "cuisines": [
+      "Contemporary American",
+      "Brunch"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-4599",
+    "latitude": 41.9272,
+    "longitude": -87.7037,
+    "rating": 4.5,
+    "reviews_count": 776,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104892,
+    "name": "Sakura Omakase",
+    "street": "222 W Ontario St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60654",
+    "country": "US",
+    "neighborhood": "River North",
+    "cuisine": "Sushi",
+    "cuisines": [
+      "Sushi",
+      "Japanese"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(312) 555-4712",
+    "latitude": 41.8933,
+    "longitude": -87.6352,
+    "rating": 4.9,
+    "reviews_count": 1204,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 104925,
+    "name": "Greek Isle Taverna",
+    "street": "302 S Halsted St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60661",
+    "country": "US",
+    "neighborhood": "Greektown",
+    "cuisine": "Greek",
+    "cuisines": [
+      "Greek",
+      "Mediterranean"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-4825",
+    "latitude": 41.8778,
+    "longitude": -87.6474,
+    "rating": 4.4,
+    "reviews_count": 2103,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 104963,
+    "name": "The Lark Room",
+    "street": "1653 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60647",
+    "country": "US",
+    "neighborhood": "Wicker Park",
+    "cuisine": "Cocktail Bar",
+    "cuisines": [
+      "Cocktail Bar",
+      "Small Plates"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-4938",
+    "latitude": 41.9113,
+    "longitude": -87.6779,
+    "rating": 4.5,
+    "reviews_count": 690,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105001,
+    "name": "Paloma Cocina",
+    "street": "1458 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60622",
+    "country": "US",
+    "neighborhood": "Wicker Park",
+    "cuisine": "Mexican",
+    "cuisines": [
+      "Mexican",
+      "Seafood"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-5051",
+    "latitude": 41.9081,
+    "longitude": -87.6747,
+    "rating": 4.6,
+    "reviews_count": 1455,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105039,
+    "name": "Riverside Supper Club",
+    "street": "301 E Wacker Dr",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60601",
+    "country": "US",
+    "neighborhood": "The Loop",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Jazz"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(312) 555-5164",
+    "latitude": 41.8875,
+    "longitude": -87.6197,
+    "rating": 4.3,
+    "reviews_count": 980,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105077,
+    "name": "Pasta Fresca",
+    "street": "1414 W Taylor St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60607",
+    "country": "US",
+    "neighborhood": "Little Italy",
+    "cuisine": "Italian",
+    "cuisines": [
+      "Italian",
+      "Pasta"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(312) 555-5277",
+    "latitude": 41.8693,
+    "longitude": -87.662,
+    "rating": 4.5,
+    "reviews_count": 1662,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105110,
+    "name": "Hudson & Pine",
+    "street": "88 Bank St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10014",
+    "country": "US",
+    "neighborhood": "West Village",
+    "cuisine": "Contemporary American",
+    "cuisines": [
+      "Contemporary American",
+      "Wine Bar"
+    ],
+    "price_band": 4,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(212) 555-5390",
+    "latitude": 40.7365,
+    "longitude": -74.0062,
+    "rating": 4.7,
+    "reviews_count": 2234,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105148,
+    "name": "Atlas Noodle Bar",
+    "street": "137 E 7th St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10009",
+    "country": "US",
+    "neighborhood": "East Village",
+    "cuisine": "Asian",
+    "cuisines": [
+      "Asian",
+      "Noodles"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-5503",
+    "latitude": 40.726,
+    "longitude": -73.984,
+    "rating": 4.5,
+    "reviews_count": 1580,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105186,
+    "name": "Brasserie Nord",
+    "street": "61 N Moore St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10013",
+    "country": "US",
+    "neighborhood": "Tribeca",
+    "cuisine": "French",
+    "cuisines": [
+      "French",
+      "Brasserie"
+    ],
+    "price_band": 4,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(212) 555-5616",
+    "latitude": 40.7199,
+    "longitude": -74.008,
+    "rating": 4.6,
+    "reviews_count": 1987,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105224,
+    "name": "Saltwater Grill",
+    "street": "19 Fulton St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10038",
+    "country": "US",
+    "neighborhood": "Seaport",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Oysters"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-5729",
+    "latitude": 40.7066,
+    "longitude": -74.0036,
+    "rating": 4.3,
+    "reviews_count": 1406,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105262,
+    "name": "La Palma Trattoria",
+    "street": "211 Thompson St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10012",
+    "country": "US",
+    "neighborhood": "Greenwich Village",
+    "cuisine": "Italian",
+    "cuisines": [
+      "Italian",
+      "Pasta"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-5842",
+    "latitude": 40.7291,
+    "longitude": -73.9989,
+    "rating": 4.6,
+    "reviews_count": 2559,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105295,
+    "name": "Kettle & Smoke",
+    "street": "276 Grand St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "11211",
+    "country": "US",
+    "neighborhood": "Williamsburg",
+    "cuisine": "Barbecue",
+    "cuisines": [
+      "Barbecue",
+      "American"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-5955",
+    "latitude": 40.7137,
+    "longitude": -73.9584,
+    "rating": 4.4,
+    "reviews_count": 1133,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105333,
+    "name": "Juniper Social",
+    "street": "232 Ninth Ave",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10011",
+    "country": "US",
+    "neighborhood": "Chelsea",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Cocktail Bar"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(212) 555-6068",
+    "latitude": 40.7464,
+    "longitude": -74.0013,
+    "rating": 4.4,
+    "reviews_count": 942,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105371,
+    "name": "Gramercy Oak",
+    "street": "57 Irving Pl",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "country": "US",
+    "neighborhood": "Gramercy",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Steakhouse"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(212) 555-6181",
+    "latitude": 40.7367,
+    "longitude": -73.9872,
+    "rating": 4.8,
+    "reviews_count": 3105,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 105409,
+    "name": "Bowery Dumpling House",
+    "street": "105 Bowery",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10002",
+    "country": "US",
+    "neighborhood": "Lower East Side",
+    "cuisine": "Chinese",
+    "cuisines": [
+      "Chinese",
+      "Dim Sum"
+    ],
+    "price_band": 1,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-6294",
+    "latitude": 40.7178,
+    "longitude": -73.9946,
+    "rating": 4.4,
+    "reviews_count": 2011,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105447,
+    "name": "Mercer Street Bistro",
+    "street": "147 Mercer St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10012",
+    "country": "US",
+    "neighborhood": "SoHo",
+    "cuisine": "French",
+    "cuisines": [
+      "French",
+      "Bistro"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(212) 555-6407",
+    "latitude": 40.7253,
+    "longitude": -73.9982,
+    "rating": 4.5,
+    "reviews_count": 1288,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105480,
+    "name": "Uptown Comal",
+    "street": "2290 Frederick Douglass Blvd",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10027",
+    "country": "US",
+    "neighborhood": "Harlem",
+    "cuisine": "Mexican",
+    "cuisines": [
+      "Mexican",
+      "Latin American"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-6520",
+    "latitude": 40.81,
+    "longitude": -73.9512,
+    "rating": 4.5,
+    "reviews_count": 803,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105518,
+    "name": "Tavola Rossa",
+    "street": "441 Amsterdam Ave",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10024",
+    "country": "US",
+    "neighborhood": "Upper West Side",
+    "cuisine": "Italian",
+    "cuisines": [
+      "Italian",
+      "Wine Bar"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-6633",
+    "latitude": 40.7843,
+    "longitude": -73.9774,
+    "rating": 4.4,
+    "reviews_count": 1365,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105556,
+    "name": "Midtown Steak Room",
+    "street": "51 W 52nd St",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10019",
+    "country": "US",
+    "neighborhood": "Midtown",
+    "cuisine": "Steakhouse",
+    "cuisines": [
+      "Steakhouse",
+      "American"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(212) 555-6746",
+    "latitude": 40.7607,
+    "longitude": -73.9776,
+    "rating": 4.6,
+    "reviews_count": 4421,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 105594,
+    "name": "Garden Thali",
+    "street": "122 Lexington Ave",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10016",
+    "country": "US",
+    "neighborhood": "Murray Hill",
+    "cuisine": "Indian",
+    "cuisines": [
+      "Indian",
+      "Vegetarian"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-6859",
+    "latitude": 40.7432,
+    "longitude": -73.983,
+    "rating": 4.6,
+    "reviews_count": 1222,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105632,
+    "name": "Chelsea Pier Oysters",
+    "street": "75 Ninth Ave",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10011",
+    "country": "US",
+    "neighborhood": "Chelsea",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Oysters"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(212) 555-6972",
+    "latitude": 40.7424,
+    "longitude": -74.006,
+    "rating": 4.3,
+    "reviews_count": 1678,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105665,
+    "name": "Fog City Tavern",
+    "street": "1300 Battery St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94111",
+    "country": "US",
+    "neighborhood": "Embarcadero",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Seafood"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-7085",
+    "latitude": 37.8027,
+    "longitude": -122.4012,
+    "rating": 4.4,
+    "reviews_count": 2412,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105703,
+    "name": "Mission Ember",
+    "street": "3227 22nd St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94110",
+    "country": "US",
+    "neighborhood": "Mission",
+    "cuisine": "Wood-fired",
+    "cuisines": [
+      "Wood-fired",
+      "Californian"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-7198",
+    "latitude": 37.7552,
+    "longitude": -122.4193,
+    "rating": 4.6,
+    "reviews_count": 1307,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105741,
+    "name": "Little Hayes",
+    "street": "432 Hayes St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94102",
+    "country": "US",
+    "neighborhood": "Hayes Valley",
+    "cuisine": "Californian",
+    "cuisines": [
+      "Californian",
+      "Wine Bar"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(415) 555-7311",
+    "latitude": 37.7768,
+    "longitude": -122.4239,
+    "rating": 4.5,
+    "reviews_count": 865,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105779,
+    "name": "Pacific Crudo",
+    "street": "557 Columbus Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94133",
+    "country": "US",
+    "neighborhood": "North Beach",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Italian"
+    ],
+    "price_band": 4,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(415) 555-7424",
+    "latitude": 37.8004,
+    "longitude": -122.41,
+    "rating": 4.7,
+    "reviews_count": 1032,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 105817,
+    "name": "Sunset Ramen",
+    "street": "1239 9th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94122",
+    "country": "US",
+    "neighborhood": "Inner Sunset",
+    "cuisine": "Japanese",
+    "cuisines": [
+      "Japanese",
+      "Ramen"
+    ],
+    "price_band": 1,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-7537",
+    "latitude": 37.7647,
+    "longitude": -122.4664,
+    "rating": 4.5,
+    "reviews_count": 1490,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105850,
+    "name": "Golden Gate Dim Sum",
+    "street": "627 Clement St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94118",
+    "country": "US",
+    "neighborhood": "Richmond",
+    "cuisine": "Chinese",
+    "cuisines": [
+      "Chinese",
+      "Dim Sum"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-7650",
+    "latitude": 37.7828,
+    "longitude": -122.4656,
+    "rating": 4.4,
+    "reviews_count": 2280,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105888,
+    "name": "Valencia Verde",
+    "street": "811 Valencia St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94110",
+    "country": "US",
+    "neighborhood": "Mission",
+    "cuisine": "Mexican",
+    "cuisines": [
+      "Mexican",
+      "Vegetarian"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-7763",
+    "latitude": 37.7594,
+    "longitude": -122.4214,
+    "rating": 4.3,
+    "reviews_count": 744,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 105926,
+    "name": "Nob Hill Supper Club",
+    "street": "1075 California St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94108",
+    "country": "US",
+    "neighborhood": "Nob Hill",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Steakhouse"
+    ],
+    "price_band": 4,
+    "dining_style": "Fine Dining",
+    "dress_code": "Jacket Preferred",
+    "phone": "(415) 555-7876",
+    "latitude": 37.7918,
+    "longitude": -122.413,
+    "rating": 4.8,
+    "reviews_count": 1880,
+    "max_online_party_size": 6,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sunday": []
+    },
+    "tables": {
+      "default": {
+        "2": 3,
+        "4": 2,
+        "6": 1
+      },
+      "bar": {
+        "2": 2
+      }
+    },
+    "cancellation_policy": "Cancel at least 24 hours ahead. Later cancellations and no-shows are charged $50 per person."
+  },
+  {
+    "rid": 105964,
+    "name": "Ferry Point Oysters",
+    "street": "1 Ferry Building",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94111",
+    "country": "US",
+    "neighborhood": "Embarcadero",
+    "cuisine": "Seafood",
+    "cuisines": [
+      "Seafood",
+      "Oysters"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-7989",
+    "latitude": 37.7955,
+    "longitude": -122.3937,
+    "rating": 4.5,
+    "reviews_count": 3120,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 106002,
+    "name": "Dogpatch Smokehouse",
+    "street": "2401 3rd St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94107",
+    "country": "US",
+    "neighborhood": "Dogpatch",
+    "cuisine": "Barbecue",
+    "cuisines": [
+      "Barbecue",
+      "American"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-8102",
+    "latitude": 37.758,
+    "longitude": -122.3887,
+    "rating": 4.2,
+    "reviews_count": 690,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 106035,
+    "name": "Marina Bay Kitchen",
+    "street": "2100 Chestnut St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94123",
+    "country": "US",
+    "neighborhood": "Marina",
+    "cuisine": "Californian",
+    "cuisines": [
+      "Californian",
+      "Brunch"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-8215",
+    "latitude": 37.8008,
+    "longitude": -122.4373,
+    "rating": 4.3,
+    "reviews_count": 1102,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 106073,
+    "name": "Russian Hill Trattoria",
+    "street": "1550 Hyde St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94109",
+    "country": "US",
+    "neighborhood": "Russian Hill",
+    "cuisine": "Italian",
+    "cuisines": [
+      "Italian",
+      "Pasta"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Elegant",
+    "dress_code": "Smart Casual",
+    "phone": "(415) 555-8328",
+    "latitude": 37.7959,
+    "longitude": -122.4176,
+    "rating": 4.6,
+    "reviews_count": 1270,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      }
+    },
+    "cancellation_policy": "Please cancel at least 4 hours ahead so we can offer your table to another guest."
+  },
+  {
+    "rid": 106111,
+    "name": "SoMa Social",
+    "street": "301 Folsom St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94105",
+    "country": "US",
+    "neighborhood": "SoMa",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Cocktail Bar"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-8441",
+    "latitude": 37.7871,
+    "longitude": -122.3923,
+    "rating": 4.2,
+    "reviews_count": 954,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "outdoor": {
+        "2": 2,
+        "4": 2
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 106149,
+    "name": "Castro Cantina",
+    "street": "4166 18th St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94114",
+    "country": "US",
+    "neighborhood": "Castro",
+    "cuisine": "Mexican",
+    "cuisines": [
+      "Mexican",
+      "Tacos"
+    ],
+    "price_band": 2,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-8554",
+    "latitude": 37.7608,
+    "longitude": -122.4357,
+    "rating": 4.4,
+    "reviews_count": 1007,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 30,
+    "hours": {
+      "monday": [],
+      "tuesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "09:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "high_top": {
+        "4": 2
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  },
+  {
+    "rid": 106187,
+    "name": "Presidio Grill",
+    "street": "215 Lincoln Blvd",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94129",
+    "country": "US",
+    "neighborhood": "Presidio",
+    "cuisine": "American",
+    "cuisines": [
+      "American",
+      "Brunch"
+    ],
+    "price_band": 3,
+    "dining_style": "Casual Dining",
+    "dress_code": "Casual Dress",
+    "phone": "(415) 555-8667",
+    "latitude": 37.7989,
+    "longitude": -122.4662,
+    "rating": 4.3,
+    "reviews_count": 812,
+    "max_online_party_size": 8,
+    "slot_interval_minutes": 15,
+    "hours": {
+      "monday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "tuesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "wednesday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "thursday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "friday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "saturday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "sunday": [
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "tables": {
+      "default": {
+        "2": 4,
+        "4": 3,
+        "6": 1,
+        "8": 1
+      },
+      "bar": {
+        "2": 3
+      }
+    },
+    "cancellation_policy": "Please let us know if your plans change."
+  }
+]

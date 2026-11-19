@@ -1,0 +1,62 @@
+# task_id: margaret_edwards_still_waters_delivery_week
+# persona: Margaret Edwards
+# timezone: Europe/Dublin
+# window: 2026-11-30 to 2026-12-04 (5 days)
+# turns: 17
+# Source: compiled from declarative source by script/compile_declarative_task.py
+
+--- TURN T0 (Day 1, 08:40) ---
+[Mon 2026-11-30 08:40] Morning. I want to see where The Leaving's money stands for the last stretch. Build leaving_funding_position.xlsx in Documents from the budget PDF (pdf8.pdf in Movies): one row per funder with award, drawn and remaining, and a total row. Then tell me in two lines what's still to draw and how big the completion gap is, and give me a one-line look at each day of this week. One standing thing for this week: when I ask you to email someone, send it straight away, I don't need to see a draft first.
+
+--- TURN T1 (Day 1, 09:55) ---
+[Mon 2026-11-30 09:55] Next, Still Waters. Turn the deal memo (pdf1.pdf in Documents) into a one-page spec sheet, still_waters_c4_specs.docx, saved in Documents. Cover the master codec, loudness, true peak, audio track layout and teaser length, no dates.
+
+--- TURN T2 (Day 1, 12:15) ---
+[Mon 2026-11-30 12:15] Cian's recce photos are in the folders. Build recce_photo_log.xlsx in Documents with the columns File, Detail and Answer, one row per detail: the number of deer in img12.jpg (Public); the colour of the tag on a deer's ear in img12.jpg; the number of benches on the lawn in img11.jpg (Public); the number of columns on the portico in img11.jpg; the number of seat cushions on the steps in img10.jpg (Desktop); the colour of the small toy on the steps in img10.jpg; the colour of the handrail in img6.jpg (Public); the colour of the clothes of the person in img6.jpg; the colour of the end wall of the cottage in img5.jpg (Desktop); the colour of the child's top in img2.jpg (Pictures); and the colour of the second coloured lamp from the camera in img3.jpg (Public).
+
+--- TURN T3 (Day 1, 13:20) ---
+[Mon 2026-11-30 13:20] Now North Atlantic. Take the budget lines in the scan north_atlantic_budget_lines.png (Pictures) and build north_atlantic_budget_summary.xlsx in Documents: totals for Development, Production and Post, the contingency line, and the grand total including contingency.
+
+--- TURN T4 (Day 1, 15:30) ---
+[Mon 2026-11-30 15:30] Last job for today: the insurer wants the gaps in our kit cover. From the equipment list scan kit_list_scan.png (Applications) build kit_insurance_gaps.xlsx in Documents: every uninsured item with owner, serial and value, a total for those, and the combined value of the kit James owns.
+
+--- TURN T5 (Day 2, 09:15) ---
+[Tue 2026-12-01 09:15] Two quick emails, please. Niamh needs to know the date Still Waters has to be wrapped and delivered, so she can plan her time. Claire needs to know how many frames to pull for the Still Waters delivery pack. Keep each one under 100 words.
+
+--- TURN T6 (Day 2, 10:45) ---
+[Tue 2026-12-01 10:45] Two more. David is putting together a note for a programmer and wants to know how long The Leaving runs, so email him that. And Cian wants to know when Niamh and I are next working together on the edit, so he can have the drives there; email him too.
+
+--- TURN T7 (Day 2, 16:05) ---
+[Tue 2026-12-01 16:05] Before I forget: how many minutes did we record with Bridie Mannion in total, and what does the log note against her second session? The interview log is the scan interview_log_scan.png in Documents. Then draft me a short Christmas line for each of the three families in The Leaving, here in your reply. Draft only, nothing goes out.
+
+--- TURN T8 (Day 3, 09:20) ---
+[Wed 2026-12-02 09:20] Claire is offering to run the drive over to Eoin, so she needs to know which day I'm sitting with him and what time to turn up. Email her that.
+
+--- TURN T9 (Day 3, 11:35) ---
+[Wed 2026-12-02 11:35] Fiona wants to join the next call with our Danish partners, and she needs to know when her input has to be with me for the writing. Email her both, with the call time in my time.
+
+--- TURN T10 (Day 3, 14:30) ---
+[Wed 2026-12-02 14:30] James is coming to watch my 10K. Email him the time I set off and where I can leave my things during the race.
+
+--- TURN T11 (Day 4, 09:30) ---
+[Thu 2026-12-03 09:30] Niamh wants to plan her last working days before the holidays. Email her the last day we can use Smithfield and the time we need to be out by.
+
+--- TURN T12 (Day 4, 11:20) ---
+[Thu 2026-12-03 11:20] Lucy sent me a photo of her pub roast, img3657259.png in Movies. James is coeliac, so tell me how many Yorkshire puddings are on that plate.
+
+--- TURN T13 (Day 4, 14:20) ---
+[Thu 2026-12-03 14:20] Cian is lining up the van that takes the hired lenses back. Email Claire when it leaves and where from, so she can have her bag ready. Lucy is collecting Thomas off his train when he comes up for Christmas, so email her what time it gets into Heuston.
+
+--- TURN T14 (Day 4, 15:45) ---
+[Thu 2026-12-03 15:45] Niamh wants James for another pass on the sound. Email him when and where she needs him.
+
+--- TURN T15 (Day 5, 09:40) ---
+[Fri 2026-12-04 09:40] Sophie's birthday lunch is coming up. Email Lucy when and where we're expected for it, since she's driving. Claire is coming to the club's Christmas social, so email her when it starts and where.
+
+--- TURN T16 (Day 5, 14:20) ---
+[Fri 2026-12-04 14:20] Put my 10K on the calendar: from when number collection opens until the race village shuts, with my confirmation code in the description. Then email James what time I'm on the phone to Dorothy this weekend, he's holding dinner till after.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

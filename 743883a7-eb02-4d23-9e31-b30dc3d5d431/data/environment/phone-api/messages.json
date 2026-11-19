@@ -1,0 +1,732 @@
+[
+  {
+    "id": "msg_ffee0558d8ba2270",
+    "conversation_id": "conv_4a676730e0d8c8ec",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Freight elevator is yours 9pm to 6am Oct 19 through 30. Badge pickup at security.",
+    "sent_at": "2026-09-23T10:30:47-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_397d068f79bdd108",
+    "conversation_id": "conv_4a676730e0d8c8ec",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Perfect, thank you Frank. I'll send the vendor list by Friday.",
+    "sent_at": "2026-09-23T10:41:03-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_3146106d572715c6",
+    "conversation_id": "conv_4a676730e0d8c8ec",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Still need insurance certificates from Linnet and North Branch.",
+    "sent_at": "2026-10-02T10:50:46-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_37611de94a0dc9d2",
+    "conversation_id": "conv_4a676730e0d8c8ec",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Jerome is chasing both, you'll have them by the 12th.",
+    "sent_at": "2026-10-02T11:02:47-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_8adf12de127992ea",
+    "conversation_id": "conv_6cd8b614429f28a9",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Called you, no rush. Night crew is 6 people, list coming Wednesday.",
+    "sent_at": "2026-09-22T19:52:04-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_3e295fb601b713c6",
+    "conversation_id": "conv_6cd8b614429f28a9",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Thanks Lara. Can the crew start with the ceiling at the bar?",
+    "sent_at": "2026-09-22T20:15:47-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_4073f2fbabeaff86",
+    "conversation_id": "conv_6cd8b614429f28a9",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Yes, bar first night, then the desk wall.",
+    "sent_at": "2026-09-22T20:21:32-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_49f27c10b6fc8108",
+    "conversation_id": "conv_6cd8b614429f28a9",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Sequence attached in email. Floor box is in on the 24th per Raj.",
+    "sent_at": "2026-10-02T08:40:42-05:00",
+    "status": "delivered",
+    "read": false
+  },
+  {
+    "id": "msg_0a66b60994b20aa4",
+    "conversation_id": "conv_5d14622fb5d0e3b3",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Can you confirm the reception desk power in writing for North Branch?",
+    "sent_at": "2026-09-16T10:52:31-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_ba287b2c23584d99",
+    "conversation_id": "conv_5d14622fb5d0e3b3",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Two 20A circuits and a floor box, 18 inches left of the old spot. Email coming.",
+    "sent_at": "2026-09-16T14:05:47-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_92dd040637d790a0",
+    "conversation_id": "conv_5d14622fb5d0e3b3",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Left you a voicemail. Electrician can do the floor box on the 24th.",
+    "sent_at": "2026-10-01T09:24:35-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_73dadf1394df9575",
+    "conversation_id": "conv_5d14622fb5d0e3b3",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Great, I'll tell Jerome and Walt.",
+    "sent_at": "2026-10-01T09:31:43-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_be98c7a2a3d591d5",
+    "conversation_id": "conv_6b0af93724ab489e",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Thanks for the call. Please send change order 3 when you can.",
+    "sent_at": "2026-09-30T15:20:23-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_c4cd2e0436f40c70",
+    "conversation_id": "conv_6b0af93724ab489e",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Will do. Final pricing is $18,640 and the dates don't move.",
+    "sent_at": "2026-09-30T15:26:44-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_3a9f042db46fa939",
+    "conversation_id": "conv_6b0af93724ab489e",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Still don't have CO3 in my inbox.",
+    "sent_at": "2026-10-03T09:10:37-05:00",
+    "status": "delivered",
+    "read": false
+  },
+  {
+    "id": "msg_b2d9db26e628aea6",
+    "conversation_id": "conv_99c35065ae0e46d5",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Halo 24 price holds to Sept 12. Need approval by the 4th to ship Oct 16.",
+    "sent_at": "2026-09-03T10:05:53-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_e9e228bb6cead324",
+    "conversation_id": "conv_99c35065ae0e46d5",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Understood. Working on it with Brightwell.",
+    "sent_at": "2026-09-03T10:24:52-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_a63e1ab7f48bc3ba",
+    "conversation_id": "conv_bce969b8ccf6eb7f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Shop drawings for the desk are in your inbox.",
+    "sent_at": "2026-09-17T16:05:01-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_91e57b021d326a4a",
+    "conversation_id": "conv_bce969b8ccf6eb7f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Got them. Grommets will move, Jerome sends the floor box location.",
+    "sent_at": "2026-09-17T16:40:09-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_89d12e29aff8701a",
+    "conversation_id": "conv_bce969b8ccf6eb7f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Revisions done. Delivery October 26 still holds.",
+    "sent_at": "2026-09-22T11:15:09-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_1981188aece6f92e",
+    "conversation_id": "conv_ac3a42fc5473ea1b",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Counter looks amazing. Everyone is asking who did it.",
+    "sent_at": "2026-09-28T18:30:03-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_f03c79f9c9f2e421",
+    "conversation_id": "conv_ac3a42fc5473ea1b",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "So happy to hear it! Second day is Monday the 5th.",
+    "sent_at": "2026-09-28T18:45:57-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_8b51c0a04c4112bf",
+    "conversation_id": "conv_ac3a42fc5473ea1b",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "One screen came cracked. Hannah says replacement Saturday?",
+    "sent_at": "2026-10-01T11:10:19-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_8c651b282100083d",
+    "conversation_id": "conv_ac3a42fc5473ea1b",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Yes, Saturday the 3rd. Install Monday morning.",
+    "sent_at": "2026-10-01T11:16:14-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_453841f3cb228e1c",
+    "conversation_id": "conv_9b8cac453ca34db8",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Signed agreement sent back. Excited to get started!",
+    "sent_at": "2026-09-11T17:40:47-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_436e389c78934b2e",
+    "conversation_id": "conv_9b8cac453ca34db8",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Wonderful, thank you Nadia. Jerome will reach out about the survey.",
+    "sent_at": "2026-09-11T17:55:24-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_ccd7891426a50346",
+    "conversation_id": "conv_9b8cac453ca34db8",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Can the site visit move to Oct 8 afternoon?",
+    "sent_at": "2026-09-30T12:02:22-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_d08f20529e847694",
+    "conversation_id": "conv_9b8cac453ca34db8",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Yes, I'll rebook it in Calendly for 1pm.",
+    "sent_at": "2026-09-30T12:10:46-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_c3cf423f2f1797c9",
+    "conversation_id": "conv_208c2930647e502f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Landlord confirmed sprinklers in the storage room by Oct 20.",
+    "sent_at": "2026-09-21T11:40:55-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_453cfc3cdc20f320",
+    "conversation_id": "conv_208c2930647e502f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Great news. That keeps the cafe where we planned it.",
+    "sent_at": "2026-09-21T11:52:02-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_1714c7ce5188dc50",
+    "conversation_id": "conv_208c2930647e502f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Any chance the proposal comes before the 27th?",
+    "sent_at": "2026-10-02T16:20:39-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_22e049d6c22339a7",
+    "conversation_id": "conv_208c2930647e502f",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Aiming for the 20th so you have a week with it.",
+    "sent_at": "2026-10-02T16:31:45-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_6cc36dd82fa6d97c",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Caterer is booked for Nov 12. $2,900 for 80 people.",
+    "sent_at": "2026-09-03T15:02:17-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_8956a8830226e8ae",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Perfect.",
+    "sent_at": "2026-09-03T15:10:30-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_61168f479452bf3a",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Hannah asked for Oct 12-16 off, OK to approve?",
+    "sent_at": "2026-09-09T11:05:19-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_f2b65bf2ddf0fb20",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Yes, approve it.",
+    "sent_at": "2026-09-09T11:07:16-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_e5fedc0b38e17ea8",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "62 RSVPs for the open house so far!",
+    "sent_at": "2026-09-25T16:00:04-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_a2c684a010bb36ac",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Coordinator interviews booked Oct 8 and 9, four candidates.",
+    "sent_at": "2026-10-02T09:15:30-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_9f7157d023a61a54",
+    "conversation_id": "conv_d6a44c32276c052c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Great, put them on my calendar.",
+    "sent_at": "2026-10-02T09:20:05-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_3d620bf09abf43d0",
+    "conversation_id": "conv_83ea3e40c2bdc5fd",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Marion says partners liked the proposal, want the 5 phase payment plan.",
+    "sent_at": "2026-09-21T18:10:38-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_9e45859e732a4ef7",
+    "conversation_id": "conv_83ea3e40c2bdc5fd",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Great. Send the revised schedule tomorrow.",
+    "sent_at": "2026-09-21T18:22:39-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_d02dc54d4d2b363f",
+    "conversation_id": "conv_83ea3e40c2bdc5fd",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Rate card draft by next Friday.",
+    "sent_at": "2026-09-29T17:05:23-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_7661b15facdce224",
+    "conversation_id": "conv_83ea3e40c2bdc5fd",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Tess at Saddlebrook wants a call next week.",
+    "sent_at": "2026-10-03T10:12:54-05:00",
+    "status": "delivered",
+    "read": false
+  },
+  {
+    "id": "msg_cabd968e01b74218",
+    "conversation_id": "conv_6c8cc61d9653238c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Raj needs the Halo 24 canopy detail, sending it now.",
+    "sent_at": "2026-09-01T13:45:17-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_0c97c2971682a842",
+    "conversation_id": "conv_6c8cc61d9653238c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Thanks Priya.",
+    "sent_at": "2026-09-01T13:50:24-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_22584fc951984be9",
+    "conversation_id": "conv_6c8cc61d9653238c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Linnet mockup is great, RT 0.8 seconds.",
+    "sent_at": "2026-09-15T12:05:47-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_bd7123b88c0c03a3",
+    "conversation_id": "conv_6c8cc61d9653238c",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Alicia asked about CO3 again after the meeting.",
+    "sent_at": "2026-09-30T11:30:12-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_cad082c41c0a559a",
+    "conversation_id": "conv_ad46414f51965b94",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Omar picked the warm white quartz.",
+    "sent_at": "2026-09-10T11:00:18-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_308f84e1256f12c9",
+    "conversation_id": "conv_ad46414f51965b94",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Replacement screen ships Saturday, install Monday 8am.",
+    "sent_at": "2026-10-01T14:40:37-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_2f6d30e10ed5de5a",
+    "conversation_id": "conv_ad46414f51965b94",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Thanks Hannah. Enjoy your week off after!",
+    "sent_at": "2026-10-01T14:45:18-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_3ecaddb7b943d6b3",
+    "conversation_id": "conv_fe80cdfbbf9e0954",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Raj still hasn't confirmed desk power. Chasing.",
+    "sent_at": "2026-09-11T15:20:34-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_6c1ea05e63490f24",
+    "conversation_id": "conv_fe80cdfbbf9e0954",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "COI requests out to every vendor, due Oct 12.",
+    "sent_at": "2026-09-23T11:00:51-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_389b74ee09fcdcaa",
+    "conversation_id": "conv_fe80cdfbbf9e0954",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Linnet COI received. Still waiting on North Branch.",
+    "sent_at": "2026-10-02T17:45:42-05:00",
+    "status": "delivered",
+    "read": false
+  },
+  {
+    "id": "msg_a1a1f7f65f3d5bc6",
+    "conversation_id": "conv_e9ecde77746a2484",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Open house invite is live in Calendly.",
+    "sent_at": "2026-09-12T14:20:37-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_355e1e805e2c6f09",
+    "conversation_id": "conv_e9ecde77746a2484",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Looks great!",
+    "sent_at": "2026-09-12T14:31:01-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_c76187e15ef2fdbc",
+    "conversation_id": "conv_eb6d583ad7895852",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Andersonville Florist quote is $380.",
+    "sent_at": "2026-09-09T09:40:37-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_9b302d808e1ddf04",
+    "conversation_id": "conv_eb6d583ad7895852",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Go ahead and book it.",
+    "sent_at": "2026-09-09T09:44:43-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_cc65ed18d2e27c3c",
+    "conversation_id": "conv_eb6d583ad7895852",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "New laptop arrived, can you approve it on Tailscale?",
+    "sent_at": "2026-10-02T13:10:21-05:00",
+    "status": "delivered",
+    "read": false
+  },
+  {
+    "id": "msg_8def8f922679d731",
+    "conversation_id": "conv_1fa49ebde1233d45",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Got the August numbers. Q3 payment is $14,200, due the 15th.",
+    "sent_at": "2026-09-08T16:15:45-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_1991925754368610",
+    "conversation_id": "conv_1fa49ebde1233d45",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Thanks Ken, Leah will pay it this week.",
+    "sent_at": "2026-09-08T16:20:17-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_c5e7af1712e41770",
+    "conversation_id": "conv_11aa03f9dcc0b4bb",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "We can shoot Brightwell Nov 3 or 4. Which works?",
+    "sent_at": "2026-10-03T12:20:32-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_8c50d0b0a351d486",
+    "conversation_id": "conv_11aa03f9dcc0b4bb",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "November 3 please. Morning light is best in the lobby.",
+    "sent_at": "2026-10-03T12:41:22-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_7749e6a276724b83",
+    "conversation_id": "conv_8647548f880648a4",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Thanks for the interview! Sending the facts sheet request by email.",
+    "sent_at": "2026-09-29T11:50:04-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_b6106160d4974e74",
+    "conversation_id": "conv_555878834d16b049",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Called about the Third Coast quotes. Brand language attached.",
+    "sent_at": "2026-09-29T17:20:45-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_d6d68f4746eb6e07",
+    "conversation_id": "conv_555878834d16b049",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Got it, calling you now.",
+    "sent_at": "2026-09-30T08:25:58-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_2f1a20f52f938054",
+    "conversation_id": "conv_f289afee74d9ee84",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Thanks for the call. Oct 13 consultation confirmed.",
+    "sent_at": "2026-09-25T14:05:05-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_543b3ac9756e5975",
+    "conversation_id": "conv_b9307b1ce78acdb8",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Board meeting is Nov 5. Can we see the proposal Oct 20?",
+    "sent_at": "2026-09-24T15:40:26-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_7d5292bef4883213",
+    "conversation_id": "conv_b9307b1ce78acdb8",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "outbound",
+    "body": "Yes, October 20 at 10.",
+    "sent_at": "2026-09-24T15:52:23-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_9979450c28b8af32",
+    "conversation_id": "conv_fa1b639f0ba4daff",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Brightwell chairs ship to our warehouse Oct 20, delivery Oct 28.",
+    "sent_at": "2026-09-14T09:10:43-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_8ebbb1c99c55cd09",
+    "conversation_id": "conv_3a17d9d6b961fce5",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Panels ship Oct 9. Installer guide attached.",
+    "sent_at": "2026-09-15T13:00:42-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_709b9965416caed3",
+    "conversation_id": "conv_fae42ac2a188ad5e",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "USPS: your package is held at the facility. Update address: usps-redeliver.example",
+    "sent_at": "2026-09-17T12:03:57-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_3300e2da782f43d6",
+    "conversation_id": "conv_a4a3c2c76c9c6024",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Hi Dana, it's your bank. Confirm the $2,400 charge by replying YES.",
+    "sent_at": "2026-09-26T20:41:32-05:00",
+    "status": "delivered",
+    "read": true
+  },
+  {
+    "id": "msg_f039414c3f128cc9",
+    "conversation_id": "conv_2cc17d0e39734503",
+    "owner_account_id": "acct-dana-whitfield",
+    "direction": "inbound",
+    "body": "Congrats! You won a $500 Home Depot card. Claim: giftfast.example",
+    "sent_at": "2026-10-01T19:12:22-05:00",
+    "status": "delivered",
+    "read": true
+  }
+]

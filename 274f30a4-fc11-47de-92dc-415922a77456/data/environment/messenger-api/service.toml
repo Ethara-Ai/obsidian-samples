@@ -1,0 +1,5 @@
+[service]
+name = "messenger-api"
+port = 8107
+env_var_name = "MESSENGER_API_URL"
+healthcheck_path = "/health"

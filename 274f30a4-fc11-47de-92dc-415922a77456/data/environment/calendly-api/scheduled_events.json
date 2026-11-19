@@ -1,0 +1,1425 @@
+[
+  {
+    "uuid": "XW09LIH1YCHMIAH0",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2025-12-09T16:00:00.000000Z",
+    "end_time": "2025-12-09T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/pek-lvkn-oln"
+    },
+    "created_at": "2025-11-29T11:00:00.000000Z",
+    "updated_at": "2025-11-29T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "A1COHPZWIS0ESNT9",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-02-05T21:00:00.000000Z",
+    "end_time": "2026-02-05T21:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/pgb-zgcs-ylz"
+    },
+    "created_at": "2026-01-28T17:00:00.000000Z",
+    "updated_at": "2026-01-28T17:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "C65A80PJRN1SO4L6",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-02-10T17:30:00.000000Z",
+    "end_time": "2026-02-10T18:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/zyj-jfrj-qpn"
+    },
+    "created_at": "2026-02-07T12:30:00.000000Z",
+    "updated_at": "2026-02-07T12:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "A434DGB2KPQ45US9",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-02-18T20:00:00.000000Z",
+    "end_time": "2026-02-18T20:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/jky-krmq-dvf"
+    },
+    "created_at": "2026-02-15T20:00:00.000000Z",
+    "updated_at": "2026-02-15T20:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "FXOAOO8IE5Z30LKP",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-03-03T15:30:00.000000Z",
+    "end_time": "2026-03-03T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/akz-jaje-dpk"
+    },
+    "created_at": "2026-02-25T06:30:00.000000Z",
+    "updated_at": "2026-02-25T06:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "9W1R8D9IIIRT7JGJ",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-04-29T18:00:00.000000Z",
+    "end_time": "2026-04-29T18:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ozq-ukkw-fhr"
+    },
+    "created_at": "2026-04-24T11:00:00.000000Z",
+    "updated_at": "2026-04-24T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "54MUDYMBJ2BTJEHL",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-07-01T15:00:00.000000Z",
+    "end_time": "2026-07-01T15:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/lal-rreb-xfq"
+    },
+    "created_at": "2026-06-28T12:00:00.000000Z",
+    "updated_at": "2026-06-28T12:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "N699MPV1IPD1DAX2",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-07-07T20:30:00.000000Z",
+    "end_time": "2026-07-07T21:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/uxd-zskw-lrb"
+    },
+    "created_at": "2026-07-02T17:30:00.000000Z",
+    "updated_at": "2026-07-02T17:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "02DN8NJSDIFLJ094",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-07-14T16:00:00.000000Z",
+    "end_time": "2026-07-14T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/eau-jxko-bom"
+    },
+    "created_at": "2026-06-30T09:00:00.000000Z",
+    "updated_at": "2026-06-30T09:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "MR3REOGQXIGIUAJA",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-07-16T21:00:00.000000Z",
+    "end_time": "2026-07-16T21:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/jgx-csnf-pqu"
+    },
+    "created_at": "2026-07-09T21:00:00.000000Z",
+    "updated_at": "2026-07-09T21:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "NOPJ9DJVEZVOTHKP",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-08-13T15:30:00.000000Z",
+    "end_time": "2026-08-13T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/hhz-okbv-tni"
+    },
+    "created_at": "2026-08-06T09:30:00.000000Z",
+    "updated_at": "2026-08-06T09:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "O7R4TW3WS5PCTE0G",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "canceled",
+    "start_time": "2026-10-22T19:00:00.000000Z",
+    "end_time": "2026-10-22T19:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/zva-kpkn-dnm"
+    },
+    "created_at": "2026-09-25T00:10:00.000000Z",
+    "updated_at": "2026-10-01T14:40:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Dana Whitfield",
+      "reason": "I'm on site for an install that week. Please book a time in early November.",
+      "canceler_type": "host",
+      "created_at": "2026-10-01T14:40:00.000000Z"
+    },
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "4V9WPSLZ5W7OHDIM",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-11-04T20:00:00.000000Z",
+    "end_time": "2026-11-04T20:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/maj-qyld-hfy"
+    },
+    "created_at": "2026-10-01T17:15:00.000000Z",
+    "updated_at": "2026-10-01T17:15:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "0DBK2U2W4R4U5H36",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-10-06T16:00:00.000000Z",
+    "end_time": "2026-10-06T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ugj-snpf-jxw"
+    },
+    "created_at": "2026-09-22T13:00:00.000000Z",
+    "updated_at": "2026-09-22T13:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "5WBVH3NKBD01HBZY",
+    "event_type_uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Discovery call",
+    "status": "active",
+    "start_time": "2026-10-15T21:00:00.000000Z",
+    "end_time": "2026-10-15T21:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ale-amzv-rim"
+    },
+    "created_at": "2026-10-01T08:00:00.000000Z",
+    "updated_at": "2026-10-01T08:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "DEDL6ONGT1QG9ZNI",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-01-13T16:00:00.000000Z",
+    "end_time": "2026-01-13T17:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-01-09T14:00:00.000000Z",
+    "updated_at": "2026-01-09T14:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "PHABKLWW2K0HL2GE",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-02-24T20:00:00.000000Z",
+    "end_time": "2026-02-24T21:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-02-20T13:00:00.000000Z",
+    "updated_at": "2026-02-20T13:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "MVTIJ7F2W7YVFHYW",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-03-17T15:00:00.000000Z",
+    "end_time": "2026-03-17T16:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-03-09T10:00:00.000000Z",
+    "updated_at": "2026-03-09T10:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "VAGYPHU5PRYSYTXI",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-07-28T16:00:00.000000Z",
+    "end_time": "2026-07-28T17:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-07-20T09:00:00.000000Z",
+    "updated_at": "2026-07-20T09:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "RER7VGN1APDN0IZJ",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-08-04T18:00:00.000000Z",
+    "end_time": "2026-08-04T19:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-07-21T15:00:00.000000Z",
+    "updated_at": "2026-07-21T15:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "MH0WST4ABBY591QJ",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-10-13T15:00:00.000000Z",
+    "end_time": "2026-10-13T16:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-10-02T02:00:00.000000Z",
+    "updated_at": "2026-10-02T02:00:00.000000Z",
+    "cancellation": null,
+    "guests": [
+      "cora.lind@bluebirdhotels.example"
+    ],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "FAW9EDN4BQS17DTF",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "canceled",
+    "start_time": "2026-10-14T20:00:00.000000Z",
+    "end_time": "2026-10-14T21:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-09-28T13:15:00.000000Z",
+    "updated_at": "2026-09-30T13:15:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Helen Cho",
+      "reason": "Our board meeting moved to that afternoon. I'll rebook in November.",
+      "canceler_type": "invitee",
+      "created_at": "2026-09-30T13:15:00.000000Z"
+    },
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "ZCS0MC19VRTV9FX3",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-08-20T15:00:00.000000Z",
+    "end_time": "2026-08-20T16:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Lumen Coworking, second floor"
+    },
+    "created_at": "2026-08-14T09:00:00.000000Z",
+    "updated_at": "2026-08-14T09:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "I2FI2KJWRLV6GAYH",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-09-24T14:00:00.000000Z",
+    "end_time": "2026-09-24T15:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Midway Credit Union, main branch"
+    },
+    "created_at": "2026-09-16T10:00:00.000000Z",
+    "updated_at": "2026-09-16T10:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "PZWHLPIICUKO5FCF",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-10-08T18:00:00.000000Z",
+    "end_time": "2026-10-08T19:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Greenline Dental, second floor suite"
+    },
+    "created_at": "2026-10-01T10:00:00.000000Z",
+    "updated_at": "2026-10-01T10:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": "Bring the operatory layouts; the contract is due October 15."
+  },
+  {
+    "uuid": "SVJCN87QF2DN66NB",
+    "event_type_uuid": "TZCPPLFTA2LIE8OY",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Press interview",
+    "status": "active",
+    "start_time": "2026-09-29T16:00:00.000000Z",
+    "end_time": "2026-09-29T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ocs-cyjl-qra"
+    },
+    "created_at": "2026-09-23T10:00:00.000000Z",
+    "updated_at": "2026-09-23T10:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "6WIVLZBCC1402FXO",
+    "event_type_uuid": "TZCPPLFTA2LIE8OY",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Press interview",
+    "status": "active",
+    "start_time": "2026-10-16T19:00:00.000000Z",
+    "end_time": "2026-10-16T19:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ujn-mfvt-tke"
+    },
+    "created_at": "2026-10-02T00:00:00.000000Z",
+    "updated_at": "2026-10-02T00:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "4JTIP1HC7ZAMTXLJ",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "active",
+    "start_time": "2026-03-10T20:00:00.000000Z",
+    "end_time": "2026-03-10T20:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/zdo-wtle-uyu"
+    },
+    "created_at": "2026-03-06T20:00:00.000000Z",
+    "updated_at": "2026-03-06T20:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "85W16P035K29JI4V",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-05-12T15:00:00.000000Z",
+    "end_time": "2026-05-12T15:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/whl-vitq-hkl"
+    },
+    "created_at": "2026-05-04T08:00:00.000000Z",
+    "updated_at": "2026-05-04T08:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "AIKLOJZ6HY256IWF",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-09-10T20:00:00.000000Z",
+    "end_time": "2026-09-10T20:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/gsp-akgq-mex"
+    },
+    "created_at": "2026-09-04T11:00:00.000000Z",
+    "updated_at": "2026-09-04T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "GL52VVK0AJSLJBP1",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-10-07T16:00:00.000000Z",
+    "end_time": "2026-10-07T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/soz-xbfl-moy"
+    },
+    "created_at": "2026-09-26T08:00:00.000000Z",
+    "updated_at": "2026-09-26T08:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "H6LC7MIJ139AZT60",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-10-27T15:00:00.000000Z",
+    "end_time": "2026-10-27T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/bmz-klng-gwx"
+    },
+    "created_at": "2026-10-01T02:00:00.000000Z",
+    "updated_at": "2026-10-01T02:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "V3YS3J23YW4TM81Q",
+    "event_type_uuid": "E1DXZL4GV4OI00UV",
+    "user_uuid": "N63J3QOWHG6RI6P2",
+    "name": "Studio coordinator interview",
+    "status": "active",
+    "start_time": "2026-10-08T15:00:00.000000Z",
+    "end_time": "2026-10-08T15:45:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-10-01T02:00:00.000000Z",
+    "updated_at": "2026-10-01T02:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "33YX9UY3D0LPMMDW",
+    "event_type_uuid": "E1DXZL4GV4OI00UV",
+    "user_uuid": "N63J3QOWHG6RI6P2",
+    "name": "Studio coordinator interview",
+    "status": "canceled",
+    "start_time": "2026-10-08T18:00:00.000000Z",
+    "end_time": "2026-10-08T18:45:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-10-01T09:00:00.000000Z",
+    "updated_at": "2026-10-01T23:20:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Zoe Castellanos",
+      "reason": "I accepted another offer. Thank you for your time.",
+      "canceler_type": "invitee",
+      "created_at": "2026-10-01T23:20:00.000000Z"
+    },
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "L0Y7CU9PC9XG0GAG",
+    "event_type_uuid": "E1DXZL4GV4OI00UV",
+    "user_uuid": "N63J3QOWHG6RI6P2",
+    "name": "Studio coordinator interview",
+    "status": "active",
+    "start_time": "2026-10-09T15:00:00.000000Z",
+    "end_time": "2026-10-09T15:45:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-10-01T06:00:00.000000Z",
+    "updated_at": "2026-10-01T06:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "MSSS516CR4K8Z5NJ",
+    "event_type_uuid": "E1DXZL4GV4OI00UV",
+    "user_uuid": "N63J3QOWHG6RI6P2",
+    "name": "Studio coordinator interview",
+    "status": "active",
+    "start_time": "2026-10-09T16:00:00.000000Z",
+    "end_time": "2026-10-09T16:45:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-09-30T16:00:00.000000Z",
+    "updated_at": "2026-09-30T16:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "6JYERD7LBF8AOZ5M",
+    "event_type_uuid": "E1DXZL4GV4OI00UV",
+    "user_uuid": "N63J3QOWHG6RI6P2",
+    "name": "Studio coordinator interview",
+    "status": "active",
+    "start_time": "2026-10-09T19:00:00.000000Z",
+    "end_time": "2026-10-09T19:45:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-10-01T19:00:00.000000Z",
+    "updated_at": "2026-10-01T19:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "Y0TQ7SNA5ARTT35F",
+    "event_type_uuid": "95FM7VYKVI7RM03Q",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Fall open house",
+    "status": "active",
+    "start_time": "2026-11-12T23:30:00.000000Z",
+    "end_time": "2026-11-13T01:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-09-22T21:45:00.000000Z",
+    "updated_at": "2026-10-01T17:20:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "8PZX8E90GY245ZCX",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-03-03T19:00:00.000000Z",
+    "end_time": "2026-03-03T20:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-02-26T14:00:00.000000Z",
+    "updated_at": "2026-02-26T14:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "PPKNDV9VBAPC5T0D",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-03-05T17:00:00.000000Z",
+    "end_time": "2026-03-05T18:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-02-25T17:00:00.000000Z",
+    "updated_at": "2026-02-25T17:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "4299YUUA97E3LM9Q",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-05-12T19:00:00.000000Z",
+    "end_time": "2026-05-12T20:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-04-28T16:00:00.000000Z",
+    "updated_at": "2026-04-28T16:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "N7JA4PVRGDIWUHP9",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-07-21T20:00:00.000000Z",
+    "end_time": "2026-07-21T21:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-07-14T16:00:00.000000Z",
+    "updated_at": "2026-07-14T16:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "2MITBTOWYTIR7EBJ",
+    "event_type_uuid": "PIEBFKZEMI9JF6M0",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Design consultation",
+    "status": "active",
+    "start_time": "2026-08-25T15:00:00.000000Z",
+    "end_time": "2026-08-25T16:00:00.000000Z",
+    "location": {
+      "type": "physical",
+      "location": "Lakeshore Design Studio, Fulton Market, Chicago"
+    },
+    "created_at": "2026-08-22T07:00:00.000000Z",
+    "updated_at": "2026-08-22T07:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "JHZE4DXLCPUZN2QW",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-01-22T15:30:00.000000Z",
+    "end_time": "2026-01-22T17:00:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Greenline Dental, second floor suite"
+    },
+    "created_at": "2026-01-19T08:30:00.000000Z",
+    "updated_at": "2026-01-19T08:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "XWPIA5EXDEBVRCMI",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-03-10T14:00:00.000000Z",
+    "end_time": "2026-03-10T15:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Halsted Fitness, main floor"
+    },
+    "created_at": "2026-02-28T06:00:00.000000Z",
+    "updated_at": "2026-02-28T06:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "UFLRLTED17D09XW6",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-03-19T13:30:00.000000Z",
+    "end_time": "2026-03-19T15:00:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Riverside Pediatrics, ground floor"
+    },
+    "created_at": "2026-03-08T08:30:00.000000Z",
+    "updated_at": "2026-03-08T08:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "0XGG2HY9S7VQ2VNY",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-03-24T15:00:00.000000Z",
+    "end_time": "2026-03-24T16:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Fulton Market Lofts, roof deck and mail room"
+    },
+    "created_at": "2026-03-20T07:00:00.000000Z",
+    "updated_at": "2026-03-20T07:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "CIPM6DZF7SCAFD38",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-05-19T13:30:00.000000Z",
+    "end_time": "2026-05-19T15:00:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Andersonville Florist, the shop floor"
+    },
+    "created_at": "2026-05-09T08:30:00.000000Z",
+    "updated_at": "2026-05-09T08:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "AIAO9CATPHLEIX27",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-07-30T15:30:00.000000Z",
+    "end_time": "2026-07-30T17:00:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Harbor Street Cafe"
+    },
+    "created_at": "2026-07-23T15:30:00.000000Z",
+    "updated_at": "2026-07-23T15:30:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "4JIERBS5PMFVK73I",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-08-18T14:00:00.000000Z",
+    "end_time": "2026-08-18T15:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Calloway & Finch LLP, 14th floor"
+    },
+    "created_at": "2026-08-06T11:00:00.000000Z",
+    "updated_at": "2026-08-06T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "KXNFJ7PBCZ5RZ47R",
+    "event_type_uuid": "0ZAHPDUF6GKCBLTF",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Site visit",
+    "status": "active",
+    "start_time": "2026-08-27T15:00:00.000000Z",
+    "end_time": "2026-08-27T16:30:00.000000Z",
+    "location": {
+      "type": "ask_invitee",
+      "location": "Bluebird Hotel, River West"
+    },
+    "created_at": "2026-08-13T11:00:00.000000Z",
+    "updated_at": "2026-08-13T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "82M3UCLTVTDQNYRW",
+    "event_type_uuid": "TZCPPLFTA2LIE8OY",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Press interview",
+    "status": "active",
+    "start_time": "2026-03-12T16:00:00.000000Z",
+    "end_time": "2026-03-12T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/zwk-pjjj-cbe"
+    },
+    "created_at": "2026-03-09T13:00:00.000000Z",
+    "updated_at": "2026-03-09T13:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "161T4JGPY5VJAVZK",
+    "event_type_uuid": "TZCPPLFTA2LIE8OY",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Press interview",
+    "status": "active",
+    "start_time": "2026-06-16T19:00:00.000000Z",
+    "end_time": "2026-06-16T19:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/qys-letn-iok"
+    },
+    "created_at": "2026-06-06T14:00:00.000000Z",
+    "updated_at": "2026-06-06T14:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "D19TPCU1CBS8G6O6",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "active",
+    "start_time": "2025-11-18T21:00:00.000000Z",
+    "end_time": "2025-11-18T21:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/hiw-ocsj-fow"
+    },
+    "created_at": "2025-11-04T17:00:00.000000Z",
+    "updated_at": "2025-11-04T17:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "OXUTFVVICR9NMEMG",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "active",
+    "start_time": "2025-12-04T21:00:00.000000Z",
+    "end_time": "2025-12-04T21:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/fwb-badl-jxr"
+    },
+    "created_at": "2025-11-26T21:00:00.000000Z",
+    "updated_at": "2025-11-26T21:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "W9WQA8EUZQ72O7O3",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "active",
+    "start_time": "2026-01-15T21:00:00.000000Z",
+    "end_time": "2026-01-15T21:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/fre-yywr-rdx"
+    },
+    "created_at": "2026-01-07T12:00:00.000000Z",
+    "updated_at": "2026-01-07T12:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "60UX1FD1PEBMWLMY",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "active",
+    "start_time": "2026-02-12T21:00:00.000000Z",
+    "end_time": "2026-02-12T21:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/pey-ovlz-bwk"
+    },
+    "created_at": "2026-02-02T15:00:00.000000Z",
+    "updated_at": "2026-02-02T15:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "3JF6LD4RRU7FM4GN",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "active",
+    "start_time": "2026-02-26T21:00:00.000000Z",
+    "end_time": "2026-02-26T21:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/upw-iibn-xgb"
+    },
+    "created_at": "2026-02-14T15:00:00.000000Z",
+    "updated_at": "2026-02-14T15:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "XRTS7YTPE3G61JZY",
+    "event_type_uuid": "KOQ8DN6YGH3HV2VR",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Portfolio review",
+    "status": "canceled",
+    "start_time": "2026-03-24T20:00:00.000000Z",
+    "end_time": "2026-03-24T20:45:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/sxh-zsnr-oqq"
+    },
+    "created_at": "2026-03-16T18:00:00.000000Z",
+    "updated_at": "2026-03-20T14:15:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Theo Brandvold",
+      "reason": "I have accepted a role in Minneapolis. Thank you for your time.",
+      "canceler_type": "invitee",
+      "created_at": "2026-03-20T14:15:00.000000Z"
+    },
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "BISBXLZMWK2T6OVV",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-01-20T16:00:00.000000Z",
+    "end_time": "2026-01-20T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/zwe-nluz-mcj"
+    },
+    "created_at": "2026-01-09T14:00:00.000000Z",
+    "updated_at": "2026-01-09T14:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "NI4A6TZF51PE5EF1",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-02-17T17:00:00.000000Z",
+    "end_time": "2026-02-17T17:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/gcd-fzqa-zdr"
+    },
+    "created_at": "2026-02-03T13:00:00.000000Z",
+    "updated_at": "2026-02-03T13:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "34DLDEWVK6DAPS56",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-03-31T20:00:00.000000Z",
+    "end_time": "2026-03-31T20:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/nfz-nssn-ciw"
+    },
+    "created_at": "2026-03-27T13:00:00.000000Z",
+    "updated_at": "2026-03-27T13:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "L8XDSWE2YC8FM22X",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-04-14T15:00:00.000000Z",
+    "end_time": "2026-04-14T15:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/nzu-gogn-tmv"
+    },
+    "created_at": "2026-04-01T09:00:00.000000Z",
+    "updated_at": "2026-04-01T09:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "JTICREVP0CW1QR1U",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-06-09T19:00:00.000000Z",
+    "end_time": "2026-06-09T19:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/kew-gbyd-epb"
+    },
+    "created_at": "2026-05-29T12:00:00.000000Z",
+    "updated_at": "2026-05-29T12:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "Z05PAOK640OICZ74",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-06-23T15:00:00.000000Z",
+    "end_time": "2026-06-23T15:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ksd-jqoi-igs"
+    },
+    "created_at": "2026-06-15T10:00:00.000000Z",
+    "updated_at": "2026-06-15T10:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "J2E3X6UQDQA7ZA48",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "active",
+    "start_time": "2026-08-11T16:00:00.000000Z",
+    "end_time": "2026-08-11T16:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/ujb-vuiu-wyi"
+    },
+    "created_at": "2026-08-07T09:00:00.000000Z",
+    "updated_at": "2026-08-07T09:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "3JLBE53H0NZUIWWN",
+    "event_type_uuid": "OA5KGV6TTNVNVHAO",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Partnership intro",
+    "status": "canceled",
+    "start_time": "2026-09-15T18:00:00.000000Z",
+    "end_time": "2026-09-15T18:30:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/pmn-fvrh-nmi"
+    },
+    "created_at": "2026-09-10T10:00:00.000000Z",
+    "updated_at": "2026-09-11T15:00:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Marcus Oyelaran",
+      "reason": "I'm traveling that week. I'll send new times.",
+      "canceler_type": "host",
+      "created_at": "2026-09-11T15:00:00.000000Z"
+    },
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "PMD6UXUNUJA6PJ3L",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-03-26T19:00:00.000000Z",
+    "end_time": "2026-03-26T20:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/qzh-tyhk-ytn"
+    },
+    "created_at": "2026-03-15T10:00:00.000000Z",
+    "updated_at": "2026-03-15T10:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "P2T4BHQSYTZRPF6A",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-04-02T16:00:00.000000Z",
+    "end_time": "2026-04-02T17:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/lik-kufl-eer"
+    },
+    "created_at": "2026-03-19T08:00:00.000000Z",
+    "updated_at": "2026-03-19T08:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "2ORIXM2YGBIFHA1F",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-04-07T15:00:00.000000Z",
+    "end_time": "2026-04-07T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/dez-aybz-kxt"
+    },
+    "created_at": "2026-03-28T15:00:00.000000Z",
+    "updated_at": "2026-03-28T15:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "HAFB3GQQGVG61W99",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-05-26T20:00:00.000000Z",
+    "end_time": "2026-05-26T21:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/lto-jsqs-sjy"
+    },
+    "created_at": "2026-05-22T11:00:00.000000Z",
+    "updated_at": "2026-05-22T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "LEERZZF23QEJ3UU2",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-08-12T15:00:00.000000Z",
+    "end_time": "2026-08-12T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/pqx-cmme-lka"
+    },
+    "created_at": "2026-08-07T11:00:00.000000Z",
+    "updated_at": "2026-08-07T11:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "Y4G6AEZGYWMIX2BE",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-09-01T15:00:00.000000Z",
+    "end_time": "2026-09-01T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/acw-tbxm-qbr"
+    },
+    "created_at": "2026-08-21T14:00:00.000000Z",
+    "updated_at": "2026-08-21T14:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "TCTYH08D1ORZ6ADF",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-09-08T19:00:00.000000Z",
+    "end_time": "2026-09-08T20:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/usp-cmmx-ctr"
+    },
+    "created_at": "2026-09-03T15:00:00.000000Z",
+    "updated_at": "2026-09-03T15:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  },
+  {
+    "uuid": "W5QJZKLMPJMMYCQM",
+    "event_type_uuid": "D80PPMKJJMIU4J16",
+    "user_uuid": "270TPG2MMRQSRVLR",
+    "name": "Proposal walkthrough",
+    "status": "active",
+    "start_time": "2026-10-20T15:00:00.000000Z",
+    "end_time": "2026-10-20T16:00:00.000000Z",
+    "location": {
+      "type": "google_conference",
+      "status": "pushed",
+      "join_url": "https://meet.google.com/tij-zecw-hfn"
+    },
+    "created_at": "2026-10-02T15:00:00.000000Z",
+    "updated_at": "2026-10-02T15:00:00.000000Z",
+    "cancellation": null,
+    "guests": [],
+    "meeting_notes": ""
+  }
+]

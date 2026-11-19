@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c79154e6b2c76baec8e644b85d33668b510ab772",
+    "account_id": "acct-caleb-rourke",
+    "name": "Classroom Laptop",
+    "type": "Computer",
+    "is_restricted": "false",
+    "is_private_session": "false",
+    "volume_percent": "55"
+  },
+  {
+    "id": "6297408648ff23bb0a20d09b5ba659ff382677f5",
+    "account_id": "acct-caleb-rourke",
+    "name": "Caleb's iPhone",
+    "type": "Smartphone",
+    "is_restricted": "false",
+    "is_private_session": "false",
+    "volume_percent": "40"
+  },
+  {
+    "id": "93dac0217db3354d10efac25890de794ba070e81",
+    "account_id": "acct-caleb-rourke",
+    "name": "Band Room Speaker",
+    "type": "Speaker",
+    "is_restricted": "false",
+    "is_private_session": "false",
+    "volume_percent": "70"
+  },
+  {
+    "id": "10b5a7b7e487418e191121c4578c026b84a08080",
+    "account_id": "acct-caleb-rourke",
+    "name": "Kitchen Echo",
+    "type": "Speaker",
+    "is_restricted": "true",
+    "is_private_session": "false",
+    "volume_percent": "35"
+  }
+]

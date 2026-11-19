@@ -1,0 +1,29 @@
+[
+  {
+    "id": "84896d3e067884621c0f54",
+    "show_id": "f3a316f28ae25539b6f2af",
+    "name": "On doing the work in front of you",
+    "description": "A short morning reflection on duty and focus.",
+    "release_date": "2026-10-12",
+    "duration_ms": "612000",
+    "explicit": "false"
+  },
+  {
+    "id": "dc1885915a8902bc29de6d",
+    "show_id": "f3a316f28ae25539b6f2af",
+    "name": "The discipline of perception",
+    "description": "A reading from Epictetus.",
+    "release_date": "2026-11-02",
+    "duration_ms": "598000",
+    "explicit": "false"
+  },
+  {
+    "id": "0e647f28da2af6b6f4a51e",
+    "show_id": "68642b87ba7eae739804f0",
+    "name": "Pacific theater, part one",
+    "description": "The opening of a long series on the Pacific war.",
+    "release_date": "2026-09-20",
+    "duration_ms": "14400000",
+    "explicit": "false"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "sys_id": "inc-0001001",
+    "number": "INC0001001",
+    "short_description": "Shop networked printer offline",
+    "description": "Printer in the shop office drops off the network most mornings.",
+    "state": "2",
+    "priority": "3",
+    "impact": "3",
+    "urgency": "2",
+    "category": "hardware",
+    "assigned_to": "usr-helpdesk",
+    "opened_by": "usr-reggie",
+    "opened_at": "2026-10-06T13:10:00Z",
+    "updated_at": "2026-10-08T15:00:00Z"
+  },
+  {
+    "sys_id": "inc-0001002",
+    "number": "INC0001002",
+    "short_description": "Classroom projector will not power on",
+    "description": "District-issued projector in the shop classroom shows no signal.",
+    "state": "6",
+    "priority": "3",
+    "impact": "3",
+    "urgency": "2",
+    "category": "hardware",
+    "assigned_to": "usr-helpdesk",
+    "opened_by": "usr-reggie",
+    "opened_at": "2026-09-15T12:40:00Z",
+    "updated_at": "2026-09-17T16:20:00Z"
+  },
+  {
+    "sys_id": "inc-0001003",
+    "number": "INC0001003",
+    "short_description": "Dell laptop slow to sign in",
+    "description": "School-issued Dell laptop takes several minutes to reach the desktop.",
+    "state": "1",
+    "priority": "4",
+    "impact": "3",
+    "urgency": "2",
+    "category": "software",
+    "assigned_to": "usr-helpdesk",
+    "opened_by": "usr-reggie",
+    "opened_at": "2026-11-10T14:05:00Z",
+    "updated_at": "2026-11-10T14:05:00Z"
+  }
+]

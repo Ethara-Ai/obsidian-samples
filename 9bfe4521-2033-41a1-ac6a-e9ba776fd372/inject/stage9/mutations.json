@@ -1,0 +1,56 @@
+{
+  "stage": 9,
+  "stage_name": "union_send",
+  "description": "Friday 21:20: Keisha Robinson emails Reggie, in a new thread, her phone photo of the counseling office's tally of spring CTE elective requests as Angela Brooks updated it again: two blue marks added after Metalworking & Welding I's twenty-three, 'late adds 12/11 - AB', for 25 (Advanced Fabrication's late adds of 12/9 still on it). The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it.",
+  "applies_between_turns": [
+    "T16",
+    "T17"
+  ],
+  "applied_at_local_time": "2026-12-11T21:20:00-06:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_hg_attachment",
+        "action": "copy",
+        "src": "files/IMG_5203.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/F20D778A-CEDF-52DF-894B-0B5471EB84EA/INBOX.mbox/225A10D3-D120-5216-881C-102FA5723F0C/Data/4/1/Attachments/48229/2/IMG_5203.jpg",
+        "description": "The attachment of Keisha Robinson (who photographed the counseling office's tally again)'s mail, in the Mail app's attachment store. the counseling office's tally after two late Metalworking & Welding I sign-ups: 25.",
+        "fires_at_turn": "T17"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_hg_mail",
+        "service": "gmail-api",
+        "description": "Keisha Robinson (who photographed the counseling office's tally again) emails Reggie a picture. the counseling office's tally after two late Metalworking & Welding I sign-ups: 25.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-46f3a17fa0",
+            "thread_id": "thr-55bde364",
+            "from_addr": "keisha.robinson@gmail.com",
+            "to_addr": "reggie.clayton@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_5203.jpg",
+            "snippet": "IMG_5203.jpg K",
+            "body": "IMG_5203.jpg\n\nK",
+            "date": "2026-12-11T21:20:00-06:00",
+            "internal_date": 1797045600000,
+            "size_estimate": 192015,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T17"
+      }
+    ]
+  }
+}

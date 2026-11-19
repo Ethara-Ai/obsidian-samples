@@ -1,0 +1,1578 @@
+[
+  {
+    "id": 17394,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "White / S",
+    "options": {
+      "color": "White",
+      "size": "S"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17400,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "White / M",
+    "options": {
+      "color": "White",
+      "size": "M"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17402,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "White / L",
+    "options": {
+      "color": "White",
+      "size": "L"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17407,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "White / XL",
+    "options": {
+      "color": "White",
+      "size": "XL"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17409,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "White / 2XL",
+    "options": {
+      "color": "White",
+      "size": "2XL"
+    },
+    "cost": 1279,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17414,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Natural / S",
+    "options": {
+      "color": "Natural",
+      "size": "S"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17417,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Natural / M",
+    "options": {
+      "color": "Natural",
+      "size": "M"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17419,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Natural / L",
+    "options": {
+      "color": "Natural",
+      "size": "L"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17421,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Natural / XL",
+    "options": {
+      "color": "Natural",
+      "size": "XL"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17429,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Natural / 2XL",
+    "options": {
+      "color": "Natural",
+      "size": "2XL"
+    },
+    "cost": 1279,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17430,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Sage / S",
+    "options": {
+      "color": "Sage",
+      "size": "S"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17434,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Sage / M",
+    "options": {
+      "color": "Sage",
+      "size": "M"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17436,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Sage / L",
+    "options": {
+      "color": "Sage",
+      "size": "L"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17439,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Sage / XL",
+    "options": {
+      "color": "Sage",
+      "size": "XL"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17442,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Sage / 2XL",
+    "options": {
+      "color": "Sage",
+      "size": "2XL"
+    },
+    "cost": 1279,
+    "is_available": false,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17444,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Black / S",
+    "options": {
+      "color": "Black",
+      "size": "S"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17450,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Black / M",
+    "options": {
+      "color": "Black",
+      "size": "M"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17454,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Black / L",
+    "options": {
+      "color": "Black",
+      "size": "L"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17460,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Black / XL",
+    "options": {
+      "color": "Black",
+      "size": "XL"
+    },
+    "cost": 1029,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17468,
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "title": "Black / 2XL",
+    "options": {
+      "color": "Black",
+      "size": "2XL"
+    },
+    "cost": 1279,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17472,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "White / S",
+    "options": {
+      "color": "White",
+      "size": "S"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17473,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "White / M",
+    "options": {
+      "color": "White",
+      "size": "M"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17479,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "White / L",
+    "options": {
+      "color": "White",
+      "size": "L"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17484,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "White / XL",
+    "options": {
+      "color": "White",
+      "size": "XL"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17485,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "White / 2XL",
+    "options": {
+      "color": "White",
+      "size": "2XL"
+    },
+    "cost": 1239,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17489,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Natural / S",
+    "options": {
+      "color": "Natural",
+      "size": "S"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17490,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Natural / M",
+    "options": {
+      "color": "Natural",
+      "size": "M"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17491,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Natural / L",
+    "options": {
+      "color": "Natural",
+      "size": "L"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17493,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Natural / XL",
+    "options": {
+      "color": "Natural",
+      "size": "XL"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17494,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Natural / 2XL",
+    "options": {
+      "color": "Natural",
+      "size": "2XL"
+    },
+    "cost": 1239,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17495,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Sage / S",
+    "options": {
+      "color": "Sage",
+      "size": "S"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17496,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Sage / M",
+    "options": {
+      "color": "Sage",
+      "size": "M"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17497,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Sage / L",
+    "options": {
+      "color": "Sage",
+      "size": "L"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17505,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Sage / XL",
+    "options": {
+      "color": "Sage",
+      "size": "XL"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17507,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Sage / 2XL",
+    "options": {
+      "color": "Sage",
+      "size": "2XL"
+    },
+    "cost": 1239,
+    "is_available": false,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17512,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Black / S",
+    "options": {
+      "color": "Black",
+      "size": "S"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17513,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Black / M",
+    "options": {
+      "color": "Black",
+      "size": "M"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17519,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Black / L",
+    "options": {
+      "color": "Black",
+      "size": "L"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17520,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Black / XL",
+    "options": {
+      "color": "Black",
+      "size": "XL"
+    },
+    "cost": 989,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17521,
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "title": "Black / 2XL",
+    "options": {
+      "color": "Black",
+      "size": "2XL"
+    },
+    "cost": 1239,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17529,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Oatmeal / S",
+    "options": {
+      "color": "Oatmeal",
+      "size": "S"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17533,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Oatmeal / M",
+    "options": {
+      "color": "Oatmeal",
+      "size": "M"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17540,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Oatmeal / L",
+    "options": {
+      "color": "Oatmeal",
+      "size": "L"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17547,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Oatmeal / XL",
+    "options": {
+      "color": "Oatmeal",
+      "size": "XL"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17550,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Oatmeal / 2XL",
+    "options": {
+      "color": "Oatmeal",
+      "size": "2XL"
+    },
+    "cost": 2495,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17554,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Heather Navy / S",
+    "options": {
+      "color": "Heather Navy",
+      "size": "S"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17561,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Heather Navy / M",
+    "options": {
+      "color": "Heather Navy",
+      "size": "M"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17564,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Heather Navy / L",
+    "options": {
+      "color": "Heather Navy",
+      "size": "L"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17566,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Heather Navy / XL",
+    "options": {
+      "color": "Heather Navy",
+      "size": "XL"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17572,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Heather Navy / 2XL",
+    "options": {
+      "color": "Heather Navy",
+      "size": "2XL"
+    },
+    "cost": 2495,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17573,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Black / S",
+    "options": {
+      "color": "Black",
+      "size": "S"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17581,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Black / M",
+    "options": {
+      "color": "Black",
+      "size": "M"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17586,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Black / L",
+    "options": {
+      "color": "Black",
+      "size": "L"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17592,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Black / XL",
+    "options": {
+      "color": "Black",
+      "size": "XL"
+    },
+    "cost": 2245,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17600,
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "title": "Black / 2XL",
+    "options": {
+      "color": "Black",
+      "size": "2XL"
+    },
+    "cost": 2495,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 5100
+      },
+      {
+        "position": "back",
+        "width": 4500,
+        "height": 5100
+      }
+    ]
+  },
+  {
+    "id": 17601,
+    "blueprint_id": 68,
+    "print_provider_id": 63,
+    "title": "11oz",
+    "options": {
+      "size": "11oz"
+    },
+    "cost": 512,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17608,
+    "blueprint_id": 68,
+    "print_provider_id": 105,
+    "title": "11oz",
+    "options": {
+      "size": "11oz"
+    },
+    "cost": 538,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17614,
+    "blueprint_id": 425,
+    "print_provider_id": 63,
+    "title": "15oz",
+    "options": {
+      "size": "15oz"
+    },
+    "cost": 629,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17620,
+    "blueprint_id": 553,
+    "print_provider_id": 27,
+    "title": "Natural / One size",
+    "options": {
+      "color": "Natural",
+      "size": "One size"
+    },
+    "cost": 1145,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17624,
+    "blueprint_id": 553,
+    "print_provider_id": 27,
+    "title": "Black / One size",
+    "options": {
+      "color": "Black",
+      "size": "One size"
+    },
+    "cost": 1145,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17632,
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "title": "11\" x 14\"",
+    "options": {
+      "size": "11\" x 14\""
+    },
+    "cost": 799,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17640,
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "title": "12\" x 18\"",
+    "options": {
+      "size": "12\" x 18\""
+    },
+    "cost": 979,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17644,
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "title": "18\" x 24\"",
+    "options": {
+      "size": "18\" x 24\""
+    },
+    "cost": 1249,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17649,
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "title": "24\" x 36\"",
+    "options": {
+      "size": "24\" x 36\""
+    },
+    "cost": 1699,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17656,
+    "blueprint_id": 400,
+    "print_provider_id": 105,
+    "title": "3\" x 3\"",
+    "options": {
+      "size": "3\" x 3\""
+    },
+    "cost": 158,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17663,
+    "blueprint_id": 400,
+    "print_provider_id": 105,
+    "title": "4\" x 4\"",
+    "options": {
+      "size": "4\" x 4\""
+    },
+    "cost": 180,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17665,
+    "blueprint_id": 400,
+    "print_provider_id": 105,
+    "title": "5.5\" x 5.5\"",
+    "options": {
+      "size": "5.5\" x 5.5\""
+    },
+    "cost": 219,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17672,
+    "blueprint_id": 1098,
+    "print_provider_id": 27,
+    "title": "Natural / One size",
+    "options": {
+      "color": "Natural",
+      "size": "One size"
+    },
+    "cost": 1675,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  },
+  {
+    "id": 17673,
+    "blueprint_id": 1098,
+    "print_provider_id": 27,
+    "title": "Slate / One size",
+    "options": {
+      "color": "Slate",
+      "size": "One size"
+    },
+    "cost": 1675,
+    "is_available": true,
+    "placeholders": [
+      {
+        "position": "front",
+        "width": 4500,
+        "height": 2700
+      }
+    ]
+  }
+]

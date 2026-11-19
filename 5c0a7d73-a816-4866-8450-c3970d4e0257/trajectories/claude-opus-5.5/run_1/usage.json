@@ -1,0 +1,316 @@
+{
+  "input_tokens": 966,
+  "output_tokens": 468619,
+  "cache_read_tokens": 39355249,
+  "cache_write_tokens": 2711061,
+  "total_tokens": 42535895,
+  "request_count": 561,
+  "cost_usd": 28.894211,
+  "auth_provider": "oauth",
+  "sources": {
+    "agent": {
+      "input_tokens": 436,
+      "output_tokens": 54813,
+      "cache_read_tokens": 6353893,
+      "cache_write_tokens": 191983,
+      "total_tokens": 6601125,
+      "audio_seconds": 0.0,
+      "cost_usd": 3.328698,
+      "request_count": 114,
+      "usage_source": "litellm_run_key",
+      "usage_attribution": "run_key",
+      "elapsed_time": 755.03
+    },
+    "preflight": {
+      "input_tokens": 34,
+      "output_tokens": 1,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "total_tokens": 35,
+      "audio_seconds": 0.0,
+      "cost_usd": 0.0,
+      "request_count": 1,
+      "usage_source": "litellm"
+    },
+    "judge": {
+      "input_tokens": 96,
+      "output_tokens": 80190,
+      "cache_read_tokens": 6583502,
+      "cache_write_tokens": 494433,
+      "total_tokens": 7158221,
+      "request_count": 86,
+      "cost_usd": 5.032312,
+      "cost_priced_ok": true,
+      "per_member": {
+        "sonnet": {
+          "model": "claude-sonnet-4-6",
+          "input_tokens": 96,
+          "output_tokens": 80190,
+          "cache_read_tokens": 6583502,
+          "cache_write_tokens": 494433,
+          "total_tokens": 7158221,
+          "request_count": 86,
+          "cost_usd": 5.032312,
+          "ok": true,
+          "cost_priced_ok": true
+        }
+      }
+    },
+    "image": {
+      "requests": 1,
+      "images_requested": 1,
+      "images": 1,
+      "refused": 0,
+      "refused_reasons": {},
+      "models": [
+        "meta/muse-image"
+      ],
+      "cost_usd": 0.01,
+      "cost_source": "provider",
+      "token_usage": {
+        "prompt_tokens": 294,
+        "completion_tokens": 2761,
+        "total_tokens": 3055,
+        "image_tokens": 2761
+      }
+    },
+    "judge_superseded": {
+      "input_tokens": 400,
+      "output_tokens": 333615,
+      "cache_read_tokens": 26417854,
+      "cache_write_tokens": 2024645,
+      "total_tokens": 28776514,
+      "request_count": 360,
+      "cost_usd": 20.523201,
+      "cost_priced_ok": true,
+      "attempts": [
+        {
+          "grader": "agentic",
+          "status": "superseded",
+          "source": "usage.json",
+          "input_tokens": 92,
+          "output_tokens": 82373,
+          "cache_read_tokens": 6027196,
+          "cache_write_tokens": 509549,
+          "total_tokens": 6619210,
+          "request_count": 82,
+          "cost_usd": 4.954839,
+          "cost_priced_ok": true,
+          "per_member": {
+            "sonnet": {
+              "model": "claude-sonnet-4-6",
+              "input_tokens": 92,
+              "output_tokens": 82373,
+              "cache_read_tokens": 6027196,
+              "cache_write_tokens": 509549,
+              "total_tokens": 6619210,
+              "request_count": 82,
+              "cost_usd": 4.954839,
+              "ok": true,
+              "cost_priced_ok": true
+            }
+          }
+        },
+        {
+          "grader": "agentic",
+          "status": "superseded",
+          "source": "usage.json",
+          "input_tokens": 107,
+          "output_tokens": 70810,
+          "cache_read_tokens": 7009042,
+          "cache_write_tokens": 474497,
+          "total_tokens": 7554456,
+          "request_count": 97,
+          "cost_usd": 4.944547,
+          "cost_priced_ok": true,
+          "per_member": {
+            "sonnet": {
+              "model": "claude-sonnet-4-6",
+              "input_tokens": 107,
+              "output_tokens": 70810,
+              "cache_read_tokens": 7009042,
+              "cache_write_tokens": 474497,
+              "total_tokens": 7554456,
+              "request_count": 97,
+              "cost_usd": 4.944547,
+              "ok": true,
+              "cost_priced_ok": true
+            }
+          }
+        },
+        {
+          "grader": "agentic",
+          "status": "superseded",
+          "source": "usage.json",
+          "input_tokens": 110,
+          "output_tokens": 97689,
+          "cache_read_tokens": 8003711,
+          "cache_write_tokens": 562879,
+          "total_tokens": 8664389,
+          "request_count": 100,
+          "cost_usd": 5.977575,
+          "cost_priced_ok": true,
+          "per_member": {
+            "sonnet": {
+              "model": "claude-sonnet-4-6",
+              "input_tokens": 110,
+              "output_tokens": 97689,
+              "cache_read_tokens": 8003711,
+              "cache_write_tokens": 562879,
+              "total_tokens": 8664389,
+              "request_count": 100,
+              "cost_usd": 5.977575,
+              "ok": true,
+              "cost_priced_ok": true
+            }
+          }
+        },
+        {
+          "grader": "agentic",
+          "status": "superseded",
+          "source": "usage.json",
+          "input_tokens": 91,
+          "output_tokens": 82743,
+          "cache_read_tokens": 5377905,
+          "cache_write_tokens": 477720,
+          "total_tokens": 5938459,
+          "request_count": 81,
+          "cost_usd": 4.64624,
+          "cost_priced_ok": true,
+          "per_member": {
+            "sonnet": {
+              "model": "claude-sonnet-4-6",
+              "input_tokens": 91,
+              "output_tokens": 82743,
+              "cache_read_tokens": 5377905,
+              "cache_write_tokens": 477720,
+              "total_tokens": 5938459,
+              "request_count": 81,
+              "cost_usd": 4.64624,
+              "ok": true,
+              "cost_priced_ok": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  "pricing": {
+    "card_version": "f11499585256",
+    "agent": {
+      "rates_source": "card",
+      "card_id": "claude-opus-5-5",
+      "match": "exact",
+      "rates_per_mtok": [
+        4.0,
+        20.0,
+        0.2,
+        5.0
+      ]
+    },
+    "judge": {
+      "sonnet": {
+        "rates_source": "card",
+        "card_id": "claude-sonnet-4-6",
+        "match": "exact",
+        "rates_per_mtok": [
+          3.0,
+          15.0,
+          0.3,
+          3.75
+        ]
+      }
+    }
+  },
+  "effort_pin": {
+    "effort": "medium",
+    "models": "opus"
+  },
+  "model": "claude-opus-5.5",
+  "audio_seconds": 0.0,
+  "usage_source": "litellm_run_key",
+  "usage_attribution": {
+    "status": "failed",
+    "messages": 83,
+    "rows_selected": 114,
+    "rows_internal": 25,
+    "rows_post_agent": 0,
+    "rows_zero_token": 0,
+    "rows_other_session": 4,
+    "rows_unmatched": 2
+  },
+  "elapsed_time": 755.03,
+  "internal_calls": {
+    "input_tokens": 220,
+    "output_tokens": 5331,
+    "cache_read_tokens": 33296,
+    "cache_write_tokens": 50690,
+    "total_tokens": 89537,
+    "audio_seconds": 0.0,
+    "cost_usd": 0.366813,
+    "request_count": 25,
+    "by_purpose": {
+      "embeddings": {
+        "input_tokens": 200,
+        "output_tokens": 0,
+        "cache_read_tokens": 0,
+        "cache_write_tokens": 0,
+        "total_tokens": 200,
+        "audio_seconds": 0.0,
+        "cost_usd": 4e-06,
+        "request_count": 20
+      },
+      "heartbeat": {
+        "input_tokens": 8,
+        "output_tokens": 611,
+        "cache_read_tokens": 33296,
+        "cache_write_tokens": 29863,
+        "total_tokens": 63778,
+        "audio_seconds": 0.0,
+        "cost_usd": 0.168226,
+        "request_count": 2
+      },
+      "image": {
+        "input_tokens": 12,
+        "output_tokens": 4720,
+        "cache_read_tokens": 0,
+        "cache_write_tokens": 20827,
+        "total_tokens": 25559,
+        "audio_seconds": 0.0,
+        "cost_usd": 0.198583,
+        "request_count": 3
+      }
+    }
+  },
+  "other_session_calls": {
+    "input_tokens": 8,
+    "output_tokens": 996,
+    "cache_read_tokens": 123578,
+    "cache_write_tokens": 3991,
+    "total_tokens": 128573,
+    "audio_seconds": 0.0,
+    "cost_usd": 0.064623,
+    "request_count": 4,
+    "by_session": {
+      "8ef67fee-6687-43ea-a16b-1e6e4c766914": {
+        "input_tokens": 8,
+        "output_tokens": 996,
+        "cache_read_tokens": 123578,
+        "cache_write_tokens": 3991,
+        "total_tokens": 128573,
+        "audio_seconds": 0.0,
+        "cost_usd": 0.064623,
+        "request_count": 4,
+        "assistant_messages": 5,
+        "session_file": "8ef67fee-6687-43ea-a16b-1e6e4c766914.jsonl",
+        "session_key": "agent:main:main",
+        "origin": {
+          "label": "heartbeat",
+          "provider": "heartbeat",
+          "from": "heartbeat",
+          "to": "heartbeat"
+        }
+      }
+    }
+  }
+}

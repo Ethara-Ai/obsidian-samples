@@ -1,0 +1,262 @@
+{
+  "info": {
+    "name": "Withings API Mock v2",
+    "description": "Mock Withings API v2. Base URL: http://localhost:8135. In docker-compose: http://withings-api:8135. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8135"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=withings-connector-app&client_secret=withingscs_c2f84a906e1d37b5"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"withings-connector-app\", \"client_secret\": \"withingscs_c2f84a906e1d37b5\", \"scope\": \"user.metrics user.activity user.info\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "weight and body fat for September",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/measure",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getmeas&meastypes=1,6,8&category=1&startdate=1788238800&enddate=1790830799"
+        }
+      }
+    },
+    {
+      "name": "blood pressure readings, next page",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/measure",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getmeas&meastypes=9,10,11&offset=0"
+        }
+      }
+    },
+    {
+      "name": "measures changed since a time",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/measure",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getmeas&lastupdate=1790830800"
+        }
+      }
+    },
+    {
+      "name": "weight goal",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/measure",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getmeas&category=2"
+        }
+      }
+    },
+    {
+      "name": "daily activity for a week",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/measure",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getactivity&startdateymd=2026-09-28&enddateymd=2026-10-04"
+        }
+      }
+    },
+    {
+      "name": "steps and calories only",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/measure",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getactivity&startdateymd=2026-09-01&enddateymd=2026-09-30&data_fields=steps,calories"
+        }
+      }
+    },
+    {
+      "name": "sleep summaries for a week",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/sleep",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getsummary&startdateymd=2026-09-28&enddateymd=2026-10-05"
+        }
+      }
+    },
+    {
+      "name": "sleep scores changed since a time",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/sleep",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getsummary&lastupdate=1790830800&data_fields=sleep_score,total_sleep_time"
+        }
+      }
+    },
+    {
+      "name": "devices",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/user",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "action=getdevice"
+        }
+      }
+    }
+  ]
+}

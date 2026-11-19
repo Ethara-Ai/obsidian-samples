@@ -1,0 +1,44 @@
+[
+  {
+    "id": "g797b374c572_0_0",
+    "presentation_id": "944de22729dda8c644bef064d15ddcf8a",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": "Open plainly. Keep it short."
+  },
+  {
+    "id": "gdf8539e2ad6_0_1",
+    "presentation_id": "944de22729dda8c644bef064d15ddcf8a",
+    "position": 1,
+    "layout": "TITLE_AND_BODY",
+    "notes": "Tie it back to what the students do in the shop."
+  },
+  {
+    "id": "gd6b06d4c52e_0_2",
+    "presentation_id": "944de22729dda8c644bef064d15ddcf8a",
+    "position": 2,
+    "layout": "TITLE_AND_BODY",
+    "notes": "Tie it back to what the students do in the shop."
+  },
+  {
+    "id": "gda711ada135_0_0",
+    "presentation_id": "c0f05e944a2ce74af12fb895edee83187",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": "Open plainly. Keep it short."
+  },
+  {
+    "id": "ge870253ee70_0_1",
+    "presentation_id": "c0f05e944a2ce74af12fb895edee83187",
+    "position": 1,
+    "layout": "TITLE_AND_BODY",
+    "notes": "Tie it back to what the students do in the shop."
+  },
+  {
+    "id": "gd3d5417af24_0_2",
+    "presentation_id": "c0f05e944a2ce74af12fb895edee83187",
+    "position": 2,
+    "layout": "TITLE_AND_BODY",
+    "notes": "Tie it back to what the students do in the shop."
+  }
+]

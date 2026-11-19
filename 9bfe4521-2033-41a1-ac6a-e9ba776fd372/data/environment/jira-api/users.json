@@ -1,0 +1,20 @@
+[
+ {
+  "account_id": "acct-rclayton",
+  "display_name": "Reggie Clayton",
+  "email": "reggie.clayton@finthesiss.ai",
+  "active": "true"
+ },
+ {
+  "account_id": "acct-ytate",
+  "display_name": "Yolanda Tate",
+  "email": "yolanda.tate@local780.example",
+  "active": "true"
+ },
+ {
+  "account_id": "acct-local780",
+  "display_name": "Local 780 Union Hall",
+  "email": "local780@gmail.com",
+  "active": "true"
+ }
+]

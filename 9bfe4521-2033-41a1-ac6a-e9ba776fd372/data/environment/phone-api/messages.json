@@ -1,0 +1,82 @@
+[
+ {
+  "id": "msg_fd82572289d7db03",
+  "conversation_id": "conv_3b9278e79ced17d3",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "inbound",
+  "body": "Lunch Monday? I'm buying for once.",
+  "sent_at": "2026-12-04T15:40:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_b70787b4dc049473",
+  "conversation_id": "conv_3b9278e79ced17d3",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "outbound",
+  "body": "You're on.",
+  "sent_at": "2026-12-04T15:52:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_02415e15efb02865",
+  "conversation_id": "conv_f43321d47788cc11",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "inbound",
+  "body": "Secret Santa list is in your box. Don't peek at mine.",
+  "sent_at": "2026-12-04T12:10:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_0c0af471a7a2b2cf",
+  "conversation_id": "conv_0bc484039839d5df",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "inbound",
+  "body": "Kids are packed for Sunday. Zuri needs her step shoes back by Thursday.",
+  "sent_at": "2026-12-05T18:20:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_612a3a2f6bc5d919",
+  "conversation_id": "conv_0bc484039839d5df",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "outbound",
+  "body": "Got it. Shoes go in her bag.",
+  "sent_at": "2026-12-05T18:31:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_65528460f80ed1d2",
+  "conversation_id": "conv_3b4a161ef605eb53",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "inbound",
+  "body": "Can we get wings Sunday after church?",
+  "sent_at": "2026-12-05T20:02:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_9d026d89009bbe24",
+  "conversation_id": "conv_3b4a161ef605eb53",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "outbound",
+  "body": "We'll see what Grandma made first.",
+  "sent_at": "2026-12-05T20:10:00-06:00",
+  "status": "delivered",
+  "read": true
+ },
+ {
+  "id": "msg_55c3b9118369f9a4",
+  "conversation_id": "conv_d7373136ba757fe3",
+  "owner_account_id": "acct-reggie-clayton",
+  "direction": "inbound",
+  "body": "Your mama says the porch light's out again. I'll swing by Monday.",
+  "sent_at": "2026-12-06T13:45:00-06:00",
+  "status": "delivered",
+  "read": true
+ }
+]

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "name": "FlightAware AeroAPI Mock v4",
+    "description": "Mock FlightAware AeroAPI v4. Base URL: http://localhost:8109. In docker-compose: http://flightaware-api:8109. Get a token from POST /oauth/token first; the ping admits any live token and each other operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [{"key": "baseUrl", "value": "http://localhost:8109"}, {"key": "token", "value": ""}],
+  "item": [
+    {"name": "health", "request": {"method": "GET", "url": "{{baseUrl}}/health"}},
+    {"name": "token (default scope: flights.read)", "request": {"method": "POST", "url": "{{baseUrl}}/oauth/token",
+      "header": [{"key": "Content-Type", "value": "application/x-www-form-urlencoded"}],
+      "body": {"mode": "raw", "raw": "grant_type=client_credentials&client_id=aeroapi-connector-app&client_secret=facs_91e6d0b3a84c27f5"}}},
+    {"name": "token with airport scope", "request": {"method": "POST", "url": "{{baseUrl}}/oauth/token",
+      "header": [{"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"aeroapi-connector-app\", \"client_secret\": \"facs_91e6d0b3a84c27f5\", \"scope\": \"flights.read airports.read\"}"}}},
+    {"name": "tokeninfo", "request": {"method": "GET", "url": "{{baseUrl}}/oauth/tokeninfo", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "service reachability", "request": {"method": "GET", "url": "{{baseUrl}}/aeroapi/ping", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "flight status by ICAO ident", "request": {"method": "GET", "url": "{{baseUrl}}/aeroapi/flights/UAL552", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "flight status by IATA ident with window", "request": {"method": "GET", "url": "{{baseUrl}}/aeroapi/flights/DL418?start=2026-10-03T00:00:00Z&end=2026-10-04T00:00:00Z", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "airport delays", "request": {"method": "GET", "url": "{{baseUrl}}/aeroapi/airports/KORD/delays", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "airport weather", "request": {"method": "GET", "url": "{{baseUrl}}/aeroapi/airports/SFO/weather/observations", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}}
+  ]
+}

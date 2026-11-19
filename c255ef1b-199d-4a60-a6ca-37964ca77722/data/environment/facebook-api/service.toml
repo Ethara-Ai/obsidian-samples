@@ -1,0 +1,5 @@
+[service]
+name = "facebook-api"
+port = 8103
+env_var_name = "FACEBOOK_API_URL"
+healthcheck_path = "/health"

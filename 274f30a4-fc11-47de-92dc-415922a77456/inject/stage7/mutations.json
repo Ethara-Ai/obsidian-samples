@@ -1,0 +1,119 @@
+{
+  "stage": 7,
+  "stage_name": "church_send",
+  "description": "Friday 06:50: Calvin Brooks, Grace Community's Minister of Music, emails Ryan, in a new thread, a photo of the Christmas Eve choir sheet as revised: choir call 5:15 PM struck, 4:45, brass run-through. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Friday 06:55: Pastor Richard Walker emails Ryan, in a new thread, a photo of Grace Community's Christmas schedule as revised: the children's pageant rehearsal on Saturday 19 December, 1:30 PM struck, 3:15, the toy drive has the Fellowship Hall until 3. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Friday 06:45: Oscar asks him to bring his big Dutch oven on Christmas Day in a WhatsApp message to Ryan (unannounced).",
+  "applies_between_turns": [
+    "T13",
+    "T14"
+  ],
+  "applied_at_local_time": "2026-12-11T06:55:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h6_attachment",
+        "action": "copy",
+        "src": "files/IMG_9318.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52336/2/IMG_9318.jpg",
+        "description": "The attachment of Calvin Brooks (Minister of Music)'s mail, in the Mail app's attachment store. The choir call for Christmas Eve moves to 4:45 PM.",
+        "fires_at_turn": "T14"
+      },
+      {
+        "id": "fs_h9_attachment",
+        "action": "copy",
+        "src": "files/IMG_6640.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52342/2/IMG_6640.jpg",
+        "description": "The attachment of Pastor Richard Walker (Grace Community Church; the choir sheet names him for the pageant)'s mail, in the Mail app's attachment store. Pastor Walker moves the children's pageant rehearsal to 3:15 PM.",
+        "fires_at_turn": "T14"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_h6_mail",
+        "service": "gmail-api",
+        "description": "Calvin Brooks (Minister of Music) emails Ryan a photo. The choir call for Christmas Eve moves to 4:45 PM.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-50c08b3e36",
+            "thread_id": "thr-f1e51da1",
+            "from_addr": "calvin.brooks.music@gmail.com",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_9318.jpg",
+            "snippet": "IMG_9318.jpg Calvin",
+            "body": "IMG_9318.jpg\n\nCalvin",
+            "date": "2026-12-11T06:50:00-05:00",
+            "internal_date": 1796989800000,
+            "size_estimate": 184020,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T14"
+      },
+      {
+        "id": "sil_h9_mail",
+        "service": "gmail-api",
+        "description": "Pastor Richard Walker (Grace Community Church; the choir sheet names him for the pageant) emails Ryan a photo. Pastor Walker moves the children's pageant rehearsal to 3:15 PM.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-1f56ad8548",
+            "thread_id": "thr-47aa27a7",
+            "from_addr": "pastor.walker.grace@gmail.com",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_6640.jpg",
+            "snippet": "IMG_6640.jpg Pastor Walker",
+            "body": "IMG_6640.jpg\n\nPastor Walker",
+            "date": "2026-12-11T06:55:00-05:00",
+            "internal_date": 1796990100000,
+            "size_estimate": 184027,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T14"
+      },
+      {
+        "id": "sil_wa_oscar",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Ryan's chat with Oscar Mitchell.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.4aa0dca049b57e808526",
+            "conversation_id": "conv-rm-oscar",
+            "direction": "inbound",
+            "from_wa_id": "13015550175",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "And bring your big Dutch oven Christmas Day, mine cracked.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-11T11:45:00Z"
+          }
+        },
+        "fires_at_turn": "T14"
+      }
+    ]
+  }
+}

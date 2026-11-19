@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0ce98e8d-ca00-4ab0-8205-cd156818f096",
+    "owner_account_id": "acct-dana-whitfield",
+    "bridge_id": "ecb5fafffe1a2b3c",
+    "time_zone": "America/Chicago",
+    "name": "Larkmoor Hue Bridge",
+    "model_id": "BSB002",
+    "software_version": "1.68.1968096020",
+    "type": "bridge"
+  }
+]

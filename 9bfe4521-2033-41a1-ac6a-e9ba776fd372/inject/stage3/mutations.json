@@ -1,0 +1,104 @@
+{
+  "stage": 3,
+  "stage_name": "count_send",
+  "description": "Thursday 08:05: Keisha Robinson emails Reggie, in a new thread, her phone photo of the counseling office's tally of spring CTE elective requests as Angela Brooks updated it: four blue marks added after Advanced Fabrication's thirteen, 'late adds 12/9 - AB', for 17. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Thursday 07:45: Coach Banks asks him to give DeShawn a ride to the cages on Saturday at 9 (DeShawn's mother is working), in a WhatsApp message to Reggie (unannounced). Thursday 09:20: Cedric Pope asks him to bring Jaylen's batting gloves on Saturday (Jaylen left them in his truck), in a WhatsApp message to Reggie (unannounced).",
+  "applies_between_turns": [
+    "T10",
+    "T11"
+  ],
+  "applied_at_local_time": "2026-12-10T09:20:00-06:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_hf_attachment",
+        "action": "copy",
+        "src": "files/IMG_5176.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/F20D778A-CEDF-52DF-894B-0B5471EB84EA/INBOX.mbox/225A10D3-D120-5216-881C-102FA5723F0C/Data/4/1/Attachments/48214/2/IMG_5176.jpg",
+        "description": "The attachment of Keisha Robinson (who photographed the counseling office's updated tally)'s mail, in the Mail app's attachment store. the counseling office's tally after four late Advanced Fabrication sign-ups: 17.",
+        "fires_at_turn": "T11"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_hf_mail",
+        "service": "gmail-api",
+        "description": "Keisha Robinson (who photographed the counseling office's updated tally) emails Reggie a picture. the counseling office's tally after four late Advanced Fabrication sign-ups: 17.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-dd16f1b035",
+            "thread_id": "thr-2a6314fa",
+            "from_addr": "keisha.robinson@gmail.com",
+            "to_addr": "reggie.clayton@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_5176.jpg",
+            "snippet": "IMG_5176.jpg K",
+            "body": "IMG_5176.jpg\n\nK",
+            "date": "2026-12-10T08:05:00-06:00",
+            "internal_date": 1796911500000,
+            "size_estimate": 192015,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T11"
+      },
+      {
+        "id": "sil_wa_banks1",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Terrence Banks.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.5b67acd47634f5760830",
+            "conversation_id": "conv-rc-banks",
+            "direction": "inbound",
+            "from_wa_id": "19015550291",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Can you give DeShawn a ride to the cages Saturday at 9? His mom's working.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T13:45:00Z"
+          }
+        },
+        "fires_at_turn": "T11"
+      },
+      {
+        "id": "sil_wa_cedric1",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Cedric Pope.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.efe076a42f0456aa06e2",
+            "conversation_id": "conv-rc-cedric",
+            "direction": "inbound",
+            "from_wa_id": "19015550418",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Jaylen left his batting gloves in your truck. Can you bring them Saturday?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T15:20:00Z"
+          }
+        },
+        "fires_at_turn": "T11"
+      }
+    ]
+  }
+}

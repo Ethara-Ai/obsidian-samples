@@ -1,0 +1,104 @@
+{
+  "stage": 2,
+  "stage_name": "order_send",
+  "description": "Wednesday 19:40: Hattie Moore, the Orange Mound Community Garden's coordinator, emails Reggie, in a new thread, a photo of the crew's bench sketch with her red correction: the slats' 1/4 x 2 flat bar struck through and 3/16 x 2 written under it, 'lighter please - HM 12/9'. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Wednesday 20:05: Darnell asks him to bring his big cooler on Saturday (his own has a cracked lid), in a WhatsApp message to Reggie (unannounced). Wednesday 21:30: Calvin Reed asks him to look at his trailer hitch this weekend (it rattles), in a WhatsApp message to Reggie (unannounced).",
+  "applies_between_turns": [
+    "T9",
+    "T10"
+  ],
+  "applied_at_local_time": "2026-12-09T21:30:00-06:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_hb_attachment",
+        "action": "copy",
+        "src": "files/IMG_0093.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/F20D778A-CEDF-52DF-894B-0B5471EB84EA/INBOX.mbox/225A10D3-D120-5216-881C-102FA5723F0C/Data/4/1/Attachments/48211/2/IMG_0093.jpg",
+        "description": "The attachment of Hattie Moore (Orange Mound Community Garden)'s mail, in the Mail app's attachment store. Hattie Moore's correction on the bench sketch: the slats in 3/16 x 2 flat bar.",
+        "fires_at_turn": "T10"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_hb_mail",
+        "service": "gmail-api",
+        "description": "Hattie Moore (Orange Mound Community Garden) emails Reggie a picture. Hattie Moore's correction on the bench sketch: the slats in 3/16 x 2 flat bar.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-62b6cb3c3c",
+            "thread_id": "thr-ac7e8d26",
+            "from_addr": "hattie.moore@omgarden.example",
+            "to_addr": "reggie.clayton@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_0093.jpg",
+            "snippet": "IMG_0093.jpg Hattie",
+            "body": "IMG_0093.jpg\n\nHattie",
+            "date": "2026-12-09T19:40:00-06:00",
+            "internal_date": 1796866800000,
+            "size_estimate": 192020,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T10"
+      },
+      {
+        "id": "sil_wa_darnell1",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Darnell Washington.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.f62f8c4c6509e4724a17",
+            "conversation_id": "conv-rc-darnell",
+            "direction": "inbound",
+            "from_wa_id": "19015550176",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Can you bring your big cooler Saturday? Mine's got a crack in the lid.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T02:05:00Z"
+          }
+        },
+        "fires_at_turn": "T10"
+      },
+      {
+        "id": "sil_wa_calvin1",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Calvin Reed.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.ef04832da091a60d693b",
+            "conversation_id": "conv-rc-calvin",
+            "direction": "inbound",
+            "from_wa_id": "19015550412",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Coach, can you look at my trailer hitch this weekend? It's rattling bad.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T03:30:00Z"
+          }
+        },
+        "fires_at_turn": "T10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "rom_000023d7a1d2f5f2",
+    "accommodation_id": "acc_0000f909a870da9b",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00006303aff4deb8",
+    "accommodation_id": "acc_0000f909a870da9b",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000fadfdf7c0ebf",
+    "accommodation_id": "acc_0000f909a870da9b",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000094d45832cd6",
+    "accommodation_id": "acc_000089e11c6fbbc2",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000a65ad2bb13b5",
+    "accommodation_id": "acc_000089e11c6fbbc2",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000e5542a307e08",
+    "accommodation_id": "acc_000089e11c6fbbc2",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000b0c1dfdb2b8b",
+    "accommodation_id": "acc_000028d328496336",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000063769ccac3c3",
+    "accommodation_id": "acc_000028d328496336",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000015a5b41c8d6b",
+    "accommodation_id": "acc_000028d328496336",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_000068f1560cd8d8",
+    "accommodation_id": "acc_0000385f3e39746f",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00009502359278d2",
+    "accommodation_id": "acc_0000385f3e39746f",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000336500ca73a3",
+    "accommodation_id": "acc_0000385f3e39746f",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00004d490944a652",
+    "accommodation_id": "acc_00006ebdcf9d6691",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00004adb7616d7ca",
+    "accommodation_id": "acc_00006ebdcf9d6691",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000048d848b4f594",
+    "accommodation_id": "acc_00006ebdcf9d6691",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00003102f380b2ef",
+    "accommodation_id": "acc_0000b29f053bee45",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00001eb8960cf7dc",
+    "accommodation_id": "acc_0000b29f053bee45",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00001bb9de02b9df",
+    "accommodation_id": "acc_0000b29f053bee45",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00000596afd48759",
+    "accommodation_id": "acc_00003d8bafd4696c",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00000781992f377e",
+    "accommodation_id": "acc_00003d8bafd4696c",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000025c8590b06ac",
+    "accommodation_id": "acc_00003d8bafd4696c",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000760a3befed6e",
+    "accommodation_id": "acc_0000886f6a424717",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00001a848165a13f",
+    "accommodation_id": "acc_0000886f6a424717",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000003f24ba9634d",
+    "accommodation_id": "acc_0000886f6a424717",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_000018174d0258a5",
+    "accommodation_id": "acc_0000e4f61a015af8",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000fe5d67d4a6ae",
+    "accommodation_id": "acc_0000e4f61a015af8",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000097cde09f2cf3",
+    "accommodation_id": "acc_0000e4f61a015af8",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000da6acad6f38c",
+    "accommodation_id": "acc_000025c6a4d3840c",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000619461600fde",
+    "accommodation_id": "acc_000025c6a4d3840c",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000dd0960029c50",
+    "accommodation_id": "acc_000025c6a4d3840c",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_000042b55a512a21",
+    "accommodation_id": "acc_00009f9cc1732f62",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000762b0814f026",
+    "accommodation_id": "acc_00009f9cc1732f62",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00004c50d3452eb6",
+    "accommodation_id": "acc_00009f9cc1732f62",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00002b8456a268fa",
+    "accommodation_id": "acc_0000faae575cc01f",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000bf63b576bd93",
+    "accommodation_id": "acc_0000faae575cc01f",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000dbfd0f9e14c8",
+    "accommodation_id": "acc_0000faae575cc01f",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000463a389a6b74",
+    "accommodation_id": "acc_000074954f727f1e",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000084ba96c6f5c7",
+    "accommodation_id": "acc_000074954f727f1e",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000fac9a77a543b",
+    "accommodation_id": "acc_000074954f727f1e",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00007f7f4027c1c6",
+    "accommodation_id": "acc_0000dfae626fc86c",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000b7d5842d8ab8",
+    "accommodation_id": "acc_0000dfae626fc86c",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000a37056f50c53",
+    "accommodation_id": "acc_0000dfae626fc86c",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00001d1a92f7d990",
+    "accommodation_id": "acc_00005134a899b3a8",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000089a8ebc1d44d",
+    "accommodation_id": "acc_00005134a899b3a8",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00007122172d84bb",
+    "accommodation_id": "acc_00005134a899b3a8",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000e346b8de30ca",
+    "accommodation_id": "acc_0000758dfa11271e",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000054ec53d0f112",
+    "accommodation_id": "acc_0000758dfa11271e",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00009d2f360a9ab7",
+    "accommodation_id": "acc_0000758dfa11271e",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000139ec13706d3",
+    "accommodation_id": "acc_0000f76c5d95c9c0",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000035d64dfbbcb7",
+    "accommodation_id": "acc_0000f76c5d95c9c0",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000de0a93e56bf2",
+    "accommodation_id": "acc_0000f76c5d95c9c0",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000b6cb1a12d0be",
+    "accommodation_id": "acc_0000c21456cd95fa",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000420e2d51c232",
+    "accommodation_id": "acc_0000c21456cd95fa",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000038b06ff850a6",
+    "accommodation_id": "acc_0000c21456cd95fa",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00008f17ae812221",
+    "accommodation_id": "acc_000053bfa64ecd92",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000059c2daf0b592",
+    "accommodation_id": "acc_000053bfa64ecd92",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000057b98f902751",
+    "accommodation_id": "acc_000053bfa64ecd92",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00005da034724177",
+    "accommodation_id": "acc_000061de0b553f3f",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000d2c3478710e4",
+    "accommodation_id": "acc_000061de0b553f3f",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000347e4595aabd",
+    "accommodation_id": "acc_000061de0b553f3f",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_00004d607ecb63b0",
+    "accommodation_id": "acc_0000d69e1f0d3031",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000e4a365a6e682",
+    "accommodation_id": "acc_0000d69e1f0d3031",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000faf0b19f9a14",
+    "accommodation_id": "acc_0000d69e1f0d3031",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000eebac915be34",
+    "accommodation_id": "acc_0000cc9a8c747624",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00005aa0e15fdca9",
+    "accommodation_id": "acc_0000cc9a8c747624",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000961dea214afa",
+    "accommodation_id": "acc_0000cc9a8c747624",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_000051955c707cd2",
+    "accommodation_id": "acc_000035947f6979a0",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000206fbfd2781e",
+    "accommodation_id": "acc_000035947f6979a0",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_000027b79b45f541",
+    "accommodation_id": "acc_000035947f6979a0",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_000092a705242598",
+    "accommodation_id": "acc_0000db5cc40bcc42",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000520805632a8e",
+    "accommodation_id": "acc_0000db5cc40bcc42",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000a4279c8ec90f",
+    "accommodation_id": "acc_0000db5cc40bcc42",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000f276cc896374",
+    "accommodation_id": "acc_0000714e06d5dd23",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00006d590714ef40",
+    "accommodation_id": "acc_0000714e06d5dd23",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000a1da4ef32dfa",
+    "accommodation_id": "acc_0000714e06d5dd23",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000993d428ae3f2",
+    "accommodation_id": "acc_000065f58ac05e5d",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000e98b02224373",
+    "accommodation_id": "acc_000065f58ac05e5d",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000f1ea9ccf0efd",
+    "accommodation_id": "acc_000065f58ac05e5d",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000851844f81760",
+    "accommodation_id": "acc_0000c7c52629b72b",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00001dd19ec4c06c",
+    "accommodation_id": "acc_0000c7c52629b72b",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00004cea9da08a7f",
+    "accommodation_id": "acc_0000c7c52629b72b",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000d037a977de6f",
+    "accommodation_id": "acc_0000f595253df2f1",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00000d39d785377b",
+    "accommodation_id": "acc_0000f595253df2f1",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000af9c3354e067",
+    "accommodation_id": "acc_0000f595253df2f1",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000bae94d751076",
+    "accommodation_id": "acc_0000ccf86c3880dc",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00004f6f2ac4f11f",
+    "accommodation_id": "acc_0000ccf86c3880dc",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00007841810f72c0",
+    "accommodation_id": "acc_0000ccf86c3880dc",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  },
+  {
+    "id": "rom_0000d8cb2bc3d945",
+    "accommodation_id": "acc_0000d3340ba85563",
+    "name": "Standard Double",
+    "beds": "1 queen bed",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_00004ab5f8f6a9a5",
+    "accommodation_id": "acc_0000d3340ba85563",
+    "name": "Superior Twin",
+    "beds": "2 twin beds",
+    "max_guests": "2"
+  },
+  {
+    "id": "rom_0000508a46a311e5",
+    "accommodation_id": "acc_0000d3340ba85563",
+    "name": "Family Suite",
+    "beds": "1 king bed and 1 sofa bed",
+    "max_guests": "4"
+  }
+]

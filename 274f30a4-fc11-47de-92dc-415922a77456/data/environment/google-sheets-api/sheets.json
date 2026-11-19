@@ -1,0 +1,26 @@
+[
+ {
+  "id": "1prideFall2026RosterxRMitchell:0",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "title": "Roster",
+  "index": 0,
+  "row_count": 1000,
+  "column_count": 26,
+  "frozen_row_count": 1,
+  "tab_color": "#1F6F63",
+  "column_formats": {}
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "title": "Monthly",
+  "index": 0,
+  "row_count": 1000,
+  "column_count": 26,
+  "frozen_row_count": 1,
+  "tab_color": "#4285F4",
+  "column_formats": {}
+ }
+]

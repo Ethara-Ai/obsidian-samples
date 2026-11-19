@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "Threads API Mock v1.0",
+    "description": "Mock Threads API v1.0. Base URL: http://localhost:8113. In docker-compose: http://threads-api:8113. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8113"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=threads-connector-app&client_secret=thcs_9015e0d54a27516a"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"threads-connector-app\", \"client_secret\": \"thcs_9015e0d54a27516a\", \"scope\": \"threads_basic threads_content_publish threads_read_replies\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "profile",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me?fields=id,username,name,threads_biography",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "my threads",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/threads?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "my threads in September",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/threads?since=2026-09-01&until=2026-09-30&limit=50",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "one thread",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/180624500000000037",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a text container",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1.0/me/threads",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"media_type\": \"TEXT\", \"text\": \"The planters made it to Chicago in one piece.\"}"
+        }
+      }
+    },
+    {
+      "name": "publish the container",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1.0/me/threads_publish",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"creation_id\": \"<container id>\"}"
+        }
+      }
+    },
+    {
+      "name": "replies to a thread",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/180624500000000037/replies",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "replies oldest first",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/180624500000000037/replies?reverse=false",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

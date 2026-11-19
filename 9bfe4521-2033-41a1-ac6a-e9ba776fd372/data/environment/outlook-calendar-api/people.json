@@ -1,0 +1,58 @@
+[
+  {
+    "address": "reggie.clayton@finthesiss.ai",
+    "name": "Reggie Clayton",
+    "time_zone": "Central Standard Time",
+    "work_start": "07:15",
+    "work_end": "15:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "dpatterson@gmail.com",
+    "name": "Denise Patterson",
+    "time_zone": "Central Standard Time",
+    "work_start": "07:15",
+    "work_end": "15:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "jerome.simmons@example.com",
+    "name": "Jerome Simmons",
+    "time_zone": "Central Standard Time",
+    "work_start": "07:15",
+    "work_end": "15:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "keisha.robinson@gmail.com",
+    "name": "Keisha Robinson",
+    "time_zone": "Central Standard Time",
+    "work_start": "07:15",
+    "work_end": "15:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 7106550005106510001,
+    "owner_account_id": "acct-dana-whitfield",
+    "device_id": 589148202,
+    "kind": "ding",
+    "created_at": "2026-11-01T14:55:10.000Z",
+    "answered": false,
+    "favorite": false,
+    "duration": 27,
+    "recording_status": "ready",
+    "size_bytes": 1149164,
+    "person_detected": true,
+    "detection_type": "human"
+  },
+  {
+    "id": 7106550005106510002,
+    "owner_account_id": "acct-dana-whitfield",
+    "device_id": 589148202,
+    "kind": "motion",
+    "created_at": "2026-11-04T17:31:40.000Z",
+    "answered": false,
+    "favorite": false,
+    "duration": 22,
+    "recording_status": "ready",
+    "size_bytes": 3340210,
+    "person_detected": true,
+    "detection_type": "human"
+  },
+  {
+    "id": 7106550005106510003,
+    "owner_account_id": "acct-dana-whitfield",
+    "device_id": 589148202,
+    "kind": "ding",
+    "created_at": "2026-11-08T14:48:05.000Z",
+    "answered": true,
+    "favorite": false,
+    "duration": 31,
+    "recording_status": "ready",
+    "size_bytes": 1419800,
+    "person_detected": true,
+    "detection_type": "human"
+  },
+  {
+    "id": 7106550005106510004,
+    "owner_account_id": "acct-dana-whitfield",
+    "device_id": 589148202,
+    "kind": "motion",
+    "created_at": "2026-11-10T20:12:30.000Z",
+    "answered": false,
+    "favorite": false,
+    "duration": 18,
+    "recording_status": "ready",
+    "size_bytes": 2201002,
+    "person_detected": false,
+    "detection_type": "animal"
+  },
+  {
+    "id": 7106550005106510005,
+    "owner_account_id": "acct-dana-whitfield",
+    "device_id": 589148202,
+    "kind": "motion",
+    "created_at": "2026-11-12T16:02:15.000Z",
+    "answered": false,
+    "favorite": false,
+    "duration": 25,
+    "recording_status": "ready",
+    "size_bytes": 3010044,
+    "person_detected": true,
+    "detection_type": "human"
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "id": "act_276bcae9db6640ce",
+    "note_id": "3eee94c3-e824-419f-b282-f5b478df4d53",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 08-03",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-08-05",
+    "completed": true
+  },
+  {
+    "id": "act_5097eba215494ff4",
+    "note_id": "3eee94c3-e824-419f-b282-f5b478df4d53",
+    "position": 1,
+    "text": "Send the weekly vendor follow-up list",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-08-04",
+    "completed": true
+  },
+  {
+    "id": "act_70365cca5d6b44c3",
+    "note_id": "658cec3a-e6e2-4473-aced-a9f0b903a526",
+    "position": 0,
+    "text": "Send Marion the client questionnaire",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-08-06",
+    "completed": true
+  },
+  {
+    "id": "act_2e7b3d7423604908",
+    "note_id": "658cec3a-e6e2-4473-aced-a9f0b903a526",
+    "position": 1,
+    "text": "Confirm the August 18 site visit with the building manager",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-11",
+    "completed": true
+  },
+  {
+    "id": "act_217a1bda708f4596",
+    "note_id": "932221ff-0207-4962-800f-6cf666361f96",
+    "position": 0,
+    "text": "Revise the reception desk plan and send it to Raj for the power layout",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-08-12",
+    "completed": true
+  },
+  {
+    "id": "act_8cb45dc3a7724b14",
+    "note_id": "932221ff-0207-4962-800f-6cf666361f96",
+    "position": 1,
+    "text": "Study wall washers for the brand wall and share options with Carla",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-08-19",
+    "completed": true
+  },
+  {
+    "id": "act_a0f663b25db847d7",
+    "note_id": "932221ff-0207-4962-800f-6cf666361f96",
+    "position": 2,
+    "text": "Price the two circuits and the floor box at the new desk location",
+    "assignee_id": "per_a5f95f58bb2d4840",
+    "due_date": "2026-08-19",
+    "completed": true
+  },
+  {
+    "id": "act_8a0bef76072b4dd0",
+    "note_id": "bd18d451-3115-42b6-9fc5-f285f5dbc68e",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 08-10",
+    "assignee_id": "per_76311ccd41e146f6",
+    "due_date": "2026-08-12",
+    "completed": true
+  },
+  {
+    "id": "act_1f3c53381107412d",
+    "note_id": "9b239221-357d-4833-8696-3c694e13ae70",
+    "position": 0,
+    "text": "Send Vera the before photos and the install dates under embargo",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-08-14",
+    "completed": true
+  },
+  {
+    "id": "act_07f5f768d6444e1e",
+    "note_id": "9b239221-357d-4833-8696-3c694e13ae70",
+    "position": 1,
+    "text": "Ask Carla whether Brightwell will approve press for the reveal",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-18",
+    "completed": true
+  },
+  {
+    "id": "act_d395cd51e74145c9",
+    "note_id": "a8744ad6-1b5f-404f-870e-31205512bb7e",
+    "position": 0,
+    "text": "Send Omar the signed proposal and the deposit invoice",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-08-13",
+    "completed": true
+  },
+  {
+    "id": "act_7eb46879d5434819",
+    "note_id": "a8744ad6-1b5f-404f-870e-31205512bb7e",
+    "position": 1,
+    "text": "Get quartz quotes for the counter top",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-08-21",
+    "completed": true
+  },
+  {
+    "id": "act_2d37996aad3148d2",
+    "note_id": "a8744ad6-1b5f-404f-870e-31205512bb7e",
+    "position": 2,
+    "text": "Confirm the two Monday closure dates with Omar",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-19",
+    "completed": true
+  },
+  {
+    "id": "act_9dde6e01c4d94cdc",
+    "note_id": "c57db97f-1d5b-4f25-85b7-cbee823db8b0",
+    "position": 0,
+    "text": "Book the August 25 design consultation with Patricia",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-08-14",
+    "completed": true
+  },
+  {
+    "id": "act_9c14b0354e824592",
+    "note_id": "c57db97f-1d5b-4f25-85b7-cbee823db8b0",
+    "position": 1,
+    "text": "Pull two bank and credit union references for Patricia",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-21",
+    "completed": true
+  },
+  {
+    "id": "act_87cab4d928354591",
+    "note_id": "7e3b6278-1396-483e-81cf-0c412703e875",
+    "position": 0,
+    "text": "Pair with Ben on the Harbor Street counter drawings",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-08-28",
+    "completed": true
+  },
+  {
+    "id": "act_b0d82f06ac284e93",
+    "note_id": "7e3b6278-1396-483e-81cf-0c412703e875",
+    "position": 1,
+    "text": "Ask Leah to move one Brightwell task off Priya's plate",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-18",
+    "completed": true
+  },
+  {
+    "id": "act_3b5fb08586a048e5",
+    "note_id": "4add3470-c795-4beb-976e-59ac4b3dd02b",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 08-17",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-08-19",
+    "completed": true
+  },
+  {
+    "id": "act_7183979020774222",
+    "note_id": "4add3470-c795-4beb-976e-59ac4b3dd02b",
+    "position": 1,
+    "text": "Send the weekly vendor follow-up list",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-08-18",
+    "completed": true
+  },
+  {
+    "id": "act_4c24f364b7bc46d6",
+    "note_id": "5261e792-52aa-4df1-be3c-bf45086c0884",
+    "position": 0,
+    "text": "Measure the slab to slab heights and photograph the ceiling",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-08-21",
+    "completed": true
+  },
+  {
+    "id": "act_de03eaa3cb694d5e",
+    "note_id": "5261e792-52aa-4df1-be3c-bf45086c0884",
+    "position": 1,
+    "text": "Send Marion a summary of the site visit with first ideas",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-25",
+    "completed": true
+  },
+  {
+    "id": "act_ce44edc6a0e84775",
+    "note_id": "a5c10d5e-f22a-4b92-8b0e-fde0c992d154",
+    "position": 0,
+    "text": "Draft a test fit with 120 desks and eight phone booths",
+    "assignee_id": "per_e00e234e5e59489a",
+    "due_date": "2026-09-04",
+    "completed": true
+  },
+  {
+    "id": "act_92a0d2c078db4184",
+    "note_id": "a5c10d5e-f22a-4b92-8b0e-fde0c992d154",
+    "position": 1,
+    "text": "Get Halloway Signage's quote for the wayfinding package",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-09-04",
+    "completed": true
+  },
+  {
+    "id": "act_74a4a2ef4f824ff7",
+    "note_id": "a5c10d5e-f22a-4b92-8b0e-fde0c992d154",
+    "position": 2,
+    "text": "Write the Lumen proposal draft",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-25",
+    "completed": true
+  },
+  {
+    "id": "act_84512572c7084c6c",
+    "note_id": "74bed466-2360-48fa-98de-284346259f31",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 08-24",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-08-26",
+    "completed": true
+  },
+  {
+    "id": "act_3232f67901f845c2",
+    "note_id": "4bb4c795-087a-41fa-95f0-a7300c234bd2",
+    "position": 0,
+    "text": "Sketch the service bar and two member rooms for Patricia",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-09-10",
+    "completed": true
+  },
+  {
+    "id": "act_34a454bf8a9542e5",
+    "note_id": "4bb4c795-087a-41fa-95f0-a7300c234bd2",
+    "position": 1,
+    "text": "Confirm the September 24 site visit time",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-08-28",
+    "completed": true
+  },
+  {
+    "id": "act_ac7005dc374741e2",
+    "note_id": "f4cb5bf5-12b9-464e-9fe4-c3f540a6f5a3",
+    "position": 0,
+    "text": "Get Cobblestone's written quote and lead time for the Halo 24 pendants",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-09-01",
+    "completed": true
+  },
+  {
+    "id": "act_78d64c6ab7324278",
+    "note_id": "f4cb5bf5-12b9-464e-9fe4-c3f540a6f5a3",
+    "position": 1,
+    "text": "Issue the Copperleaf purchase order for the lounge seating",
+    "assignee_id": "per_101fe1646fa44503",
+    "due_date": "2026-08-31",
+    "completed": true
+  },
+  {
+    "id": "act_9cb09c8832ea4f35",
+    "note_id": "f4cb5bf5-12b9-464e-9fe4-c3f540a6f5a3",
+    "position": 2,
+    "text": "Prepare change order 03 for the pendant upgrade",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-02",
+    "completed": true
+  },
+  {
+    "id": "act_435b41621eec44df",
+    "note_id": "3188f016-98bc-4f2a-99f6-cb7f3c5e771b",
+    "position": 0,
+    "text": "Write the programming summary for both lobbies",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-09-11",
+    "completed": true
+  },
+  {
+    "id": "act_5d930e8cd7eb4e06",
+    "note_id": "3188f016-98bc-4f2a-99f6-cb7f3c5e771b",
+    "position": 1,
+    "text": "Send Evan the Brightwell before and after images",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-04",
+    "completed": true
+  },
+  {
+    "id": "act_19318f62380246d0",
+    "note_id": "cdc11264-ef1a-4abb-91ee-5fbb4e1851a5",
+    "position": 0,
+    "text": "Send Iris the final fabric and finish codes",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-08-28",
+    "completed": true
+  },
+  {
+    "id": "act_d1dd918a666b47a4",
+    "note_id": "cdc11264-ef1a-4abb-91ee-5fbb4e1851a5",
+    "position": 1,
+    "text": "Tell Quillfield that the chairs arrive October 28",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-09-02",
+    "completed": true
+  },
+  {
+    "id": "act_f0795b6302194434",
+    "note_id": "41b9ea3b-9773-4b79-83ec-c6f57c16d2cc",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 08-31",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-09-02",
+    "completed": true
+  },
+  {
+    "id": "act_09502f6304644345",
+    "note_id": "41b9ea3b-9773-4b79-83ec-c6f57c16d2cc",
+    "position": 1,
+    "text": "Send the weekly vendor follow-up list",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-01",
+    "completed": true
+  },
+  {
+    "id": "act_896c67cbc4a84bcc",
+    "note_id": "8723bdbd-0fba-4c89-9964-81ac26acc501",
+    "position": 0,
+    "text": "Send the equipment list with the chairs being replaced",
+    "assignee_id": "per_e8e7cb31c7b64fa6",
+    "due_date": "2026-09-08",
+    "completed": true
+  },
+  {
+    "id": "act_d923db14652248ed",
+    "note_id": "8723bdbd-0fba-4c89-9964-81ac26acc501",
+    "position": 1,
+    "text": "Send Nadia the professional services agreement",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-04",
+    "completed": true
+  },
+  {
+    "id": "act_ddce94b739ee4927",
+    "note_id": "8723bdbd-0fba-4c89-9964-81ac26acc501",
+    "position": 2,
+    "text": "Draft the two phase schedule",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-11",
+    "completed": true
+  },
+  {
+    "id": "act_9bfbc3e52e564433",
+    "note_id": "934162c6-6488-4ad6-b488-f9816e9ec648",
+    "position": 0,
+    "text": "Get change order 03 approved by September 4",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-04",
+    "completed": true
+  },
+  {
+    "id": "act_9e3b5c3ea6764259",
+    "note_id": "934162c6-6488-4ad6-b488-f9816e9ec648",
+    "position": 1,
+    "text": "Send Raj the canopy detail for the Halo 24",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-09-03",
+    "completed": true
+  },
+  {
+    "id": "act_e5a107ef16d34139",
+    "note_id": "76cb966c-9dd4-45ca-be68-e58e45016ada",
+    "position": 0,
+    "text": "Approve the final pricing on change order 03 and send it to Alicia",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-04",
+    "completed": false
+  },
+  {
+    "id": "act_5850ef99261b41a8",
+    "note_id": "76cb966c-9dd4-45ca-be68-e58e45016ada",
+    "position": 1,
+    "text": "Confirm the reception desk power with Jerome",
+    "assignee_id": "per_a5f95f58bb2d4840",
+    "due_date": "2026-09-16",
+    "completed": true
+  },
+  {
+    "id": "act_266a4cbe2c2341c5",
+    "note_id": "d3c1cf2c-208b-445a-abde-b964c2af1d6e",
+    "position": 0,
+    "text": "Book the caterer for November 12",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-17",
+    "completed": true
+  },
+  {
+    "id": "act_33c709d4f591406e",
+    "note_id": "d3c1cf2c-208b-445a-abde-b964c2af1d6e",
+    "position": 1,
+    "text": "Design the invite and set up the Calendly event",
+    "assignee_id": "per_76311ccd41e146f6",
+    "due_date": "2026-09-12",
+    "completed": true
+  },
+  {
+    "id": "act_6e0b780e70f948f3",
+    "note_id": "d3c1cf2c-208b-445a-abde-b964c2af1d6e",
+    "position": 2,
+    "text": "Ask Andersonville Florist for a quote",
+    "assignee_id": "per_29dad22015fd463d",
+    "due_date": "2026-09-10",
+    "completed": true
+  },
+  {
+    "id": "act_d9997d5602b54215",
+    "note_id": "e0764243-80c0-431a-ac81-4677a9e3aeb5",
+    "position": 0,
+    "text": "Send Ken the Q3 numbers through August",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-08",
+    "completed": true
+  },
+  {
+    "id": "act_d064307028264aab",
+    "note_id": "e0764243-80c0-431a-ac81-4677a9e3aeb5",
+    "position": 1,
+    "text": "Approve the plotter purchase before September 30",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-30",
+    "completed": true
+  },
+  {
+    "id": "act_28633d5b2a8d4856",
+    "note_id": "c7472f46-5b7c-4cc2-a1f4-21eb0765520e",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 09-08",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-10",
+    "completed": true
+  },
+  {
+    "id": "act_698ed23f0805416e",
+    "note_id": "b0b75aed-d9f1-45e4-96db-01b4ce1b290a",
+    "position": 0,
+    "text": "Revise the payment schedule into five phases",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-09-15",
+    "completed": true
+  },
+  {
+    "id": "act_31bbb1b83d524a20",
+    "note_id": "b0b75aed-d9f1-45e4-96db-01b4ce1b290a",
+    "position": 1,
+    "text": "Follow up with Marion after the partners meeting",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-23",
+    "completed": false
+  },
+  {
+    "id": "act_613c51e85b9d4902",
+    "note_id": "6a125d2a-db1f-4ca0-ba8a-c5196725a9d2",
+    "position": 0,
+    "text": "Post the studio coordinator job description",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-16",
+    "completed": true
+  },
+  {
+    "id": "act_18e4614e68ae47a0",
+    "note_id": "6a125d2a-db1f-4ca0-ba8a-c5196725a9d2",
+    "position": 1,
+    "text": "Update the Studio Capacity Planner with Greenline",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-12",
+    "completed": true
+  },
+  {
+    "id": "act_4b6483bfa74e4c6e",
+    "note_id": "6a125d2a-db1f-4ca0-ba8a-c5196725a9d2",
+    "position": 2,
+    "text": "Approve Hannah's October time off",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-09-12",
+    "completed": true
+  },
+  {
+    "id": "act_ef390e733e504150",
+    "note_id": "848b6106-154c-4320-9487-b6b0d51f6555",
+    "position": 0,
+    "text": "Schedule the quartz templating",
+    "assignee_id": "per_29dad22015fd463d",
+    "due_date": "2026-09-16",
+    "completed": true
+  },
+  {
+    "id": "act_24e6e5fb18674cfa",
+    "note_id": "848b6106-154c-4320-9487-b6b0d51f6555",
+    "position": 1,
+    "text": "Order the two menu screens",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-09-15",
+    "completed": true
+  },
+  {
+    "id": "act_244c365278bb4dd5",
+    "note_id": "6ed00bab-1479-4b19-b623-fc209d5df96f",
+    "position": 0,
+    "text": "Send Tess the hospitality portfolio pages and Brightwell references",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-09-14",
+    "completed": true
+  },
+  {
+    "id": "act_faec700d1b2d4c6a",
+    "note_id": "a9cae174-c391-436b-9d89-13eb5d21d2db",
+    "position": 0,
+    "text": "Get the reception desk power confirmed in writing from Raj",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-18",
+    "completed": true
+  },
+  {
+    "id": "act_8b2f7c4722cf4606",
+    "note_id": "a9cae174-c391-436b-9d89-13eb5d21d2db",
+    "position": 1,
+    "text": "Plan the Greenline existing conditions survey",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-25",
+    "completed": true
+  },
+  {
+    "id": "act_849ee85578124726",
+    "note_id": "2fda2f25-c4ce-4c99-9d4d-1a37dc77e88e",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 09-14",
+    "assignee_id": "per_76311ccd41e146f6",
+    "due_date": "2026-09-16",
+    "completed": true
+  },
+  {
+    "id": "act_957246cbd6144a0e",
+    "note_id": "2fda2f25-c4ce-4c99-9d4d-1a37dc77e88e",
+    "position": 1,
+    "text": "Send the weekly vendor follow-up list",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-15",
+    "completed": true
+  },
+  {
+    "id": "act_c2edf922f3c8465c",
+    "note_id": "0e55c3ee-b3c4-40e7-a8fc-48b914127be0",
+    "position": 0,
+    "text": "Add the panels to the Quillfield install sequence for October 22",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-22",
+    "completed": true
+  },
+  {
+    "id": "act_47af3991e1ab459c",
+    "note_id": "0e55c3ee-b3c4-40e7-a8fc-48b914127be0",
+    "position": 1,
+    "text": "Approve the final panel layout",
+    "assignee_id": "per_8b7fdbeab57347c6",
+    "due_date": "2026-09-17",
+    "completed": true
+  },
+  {
+    "id": "act_0d8b4ca697ba47c2",
+    "note_id": "d89a3e4f-8abd-440c-9b36-0c14c2fb5f5a",
+    "position": 0,
+    "text": "Publish the job description and the Calendly interview event",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-18",
+    "completed": true
+  },
+  {
+    "id": "act_7a2f898df69d4157",
+    "note_id": "d89a3e4f-8abd-440c-9b36-0c14c2fb5f5a",
+    "position": 1,
+    "text": "Screen applicants and book interviews",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-10-02",
+    "completed": true
+  },
+  {
+    "id": "act_e976f032385b4d1b",
+    "note_id": "525a5974-02ae-4ba3-9fb7-b0ec268d6f62",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 09-21",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-23",
+    "completed": true
+  },
+  {
+    "id": "act_ad9f06e3ac1344df",
+    "note_id": "915bb30b-8e4a-4719-b282-a2a482f344ce",
+    "position": 0,
+    "text": "Revise the grommet locations and the brass inlay",
+    "assignee_id": "per_1f8456ca1902412b",
+    "due_date": "2026-09-25",
+    "completed": true
+  },
+  {
+    "id": "act_a5098610d2ff4897",
+    "note_id": "915bb30b-8e4a-4719-b282-a2a482f344ce",
+    "position": 1,
+    "text": "Send Walt the final floor box location from Raj",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-23",
+    "completed": true
+  },
+  {
+    "id": "act_f902d6358b224a07",
+    "note_id": "9e0d49d7-e2f7-47a9-95c4-caedcbd3d8e3",
+    "position": 0,
+    "text": "Send the night shift crew list and the install sequence",
+    "assignee_id": "per_28b12fe43a5a44d3",
+    "due_date": "2026-10-07",
+    "completed": false
+  },
+  {
+    "id": "act_95f373d36a5a4e6b",
+    "note_id": "9e0d49d7-e2f7-47a9-95c4-caedcbd3d8e3",
+    "position": 1,
+    "text": "Collect certificates of insurance from every vendor",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-10-12",
+    "completed": false
+  },
+  {
+    "id": "act_341f1fe93e164b3f",
+    "note_id": "9e0d49d7-e2f7-47a9-95c4-caedcbd3d8e3",
+    "position": 2,
+    "text": "Reserve the freight elevator for October 19 to 30",
+    "assignee_id": "per_aab90131077c473b",
+    "due_date": "2026-10-02",
+    "completed": true
+  },
+  {
+    "id": "act_cd5a87e2dd8a47f0",
+    "note_id": "9e0d49d7-e2f7-47a9-95c4-caedcbd3d8e3",
+    "position": 3,
+    "text": "Confirm the October 30 punch list walk with Alicia",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-09",
+    "completed": false
+  },
+  {
+    "id": "act_2425fe54def6449a",
+    "note_id": "7bd3ec7a-7862-4103-907d-53f7669c00f2",
+    "position": 0,
+    "text": "Measure the lobby and the two window offices",
+    "assignee_id": "per_1dd2a4d93c3e42ae",
+    "due_date": "2026-09-25",
+    "completed": true
+  },
+  {
+    "id": "act_053c6ce608004748",
+    "note_id": "7bd3ec7a-7862-4103-907d-53f7669c00f2",
+    "position": 1,
+    "text": "Revise the service bar sketch around the teller glass",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-10-02",
+    "completed": true
+  },
+  {
+    "id": "act_df4b3a3b0ff54991",
+    "note_id": "7bd3ec7a-7862-4103-907d-53f7669c00f2",
+    "position": 2,
+    "text": "Draft the Midway proposal for October 20",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-16",
+    "completed": false
+  },
+  {
+    "id": "act_5fcfba39b1af4b8d",
+    "note_id": "c5287ad8-1faa-425e-aefe-3a2368f4bb56",
+    "position": 0,
+    "text": "Prepare the Brightwell slideshow for the big screen",
+    "assignee_id": "per_76311ccd41e146f6",
+    "due_date": "2026-11-06",
+    "completed": false
+  },
+  {
+    "id": "act_8bbbc6ce0c7c4967",
+    "note_id": "c5287ad8-1faa-425e-aefe-3a2368f4bb56",
+    "position": 1,
+    "text": "Order name tags and signage",
+    "assignee_id": "per_29dad22015fd463d",
+    "due_date": "2026-10-30",
+    "completed": false
+  },
+  {
+    "id": "act_62eed69dc265409a",
+    "note_id": "c5287ad8-1faa-425e-aefe-3a2368f4bb56",
+    "position": 2,
+    "text": "Send a reminder to everyone who has not RSVPd",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-10-29",
+    "completed": false
+  },
+  {
+    "id": "act_da9087b0aa8245b3",
+    "note_id": "2b252406-684d-4b31-8ab5-fa9d485cee70",
+    "position": 0,
+    "text": "Update the Studio Capacity Planner for the week of 09-28",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-30",
+    "completed": true
+  },
+  {
+    "id": "act_4cf1324568c246ee",
+    "note_id": "2b252406-684d-4b31-8ab5-fa9d485cee70",
+    "position": 1,
+    "text": "Send the weekly vendor follow-up list",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-09-29",
+    "completed": true
+  },
+  {
+    "id": "act_66829a84e36a45e7",
+    "note_id": "aec3f4d1-c861-41fb-aa30-74d4ef81dff8",
+    "position": 0,
+    "text": "Send Kai the project facts sheet and Carla's contact",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-02",
+    "completed": true
+  },
+  {
+    "id": "act_3aa38e91e8484310",
+    "note_id": "aec3f4d1-c861-41fb-aa30-74d4ef81dff8",
+    "position": 1,
+    "text": "Book Lakeview Photo for the week of November 2",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-09",
+    "completed": false
+  },
+  {
+    "id": "act_e47d0c65d30b4f1f",
+    "note_id": "877135a1-f5e7-4ecb-bbea-1d6d587eb34e",
+    "position": 0,
+    "text": "Finish the 2027 rate card draft",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-10-09",
+    "completed": false
+  },
+  {
+    "id": "act_09a9b785998343a8",
+    "note_id": "877135a1-f5e7-4ecb-bbea-1d6d587eb34e",
+    "position": 1,
+    "text": "Model the 2027 revenue at the new rates",
+    "assignee_id": "per_8605886c3bb24165",
+    "due_date": "2026-10-09",
+    "completed": false
+  },
+  {
+    "id": "act_56d7b38f08d349c5",
+    "note_id": "b643f8e6-d1c6-4405-be03-d26de155956e",
+    "position": 0,
+    "text": "Send Alicia the October status deck",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-09",
+    "completed": false
+  },
+  {
+    "id": "act_2d592079c3994f6d",
+    "note_id": "b643f8e6-d1c6-4405-be03-d26de155956e",
+    "position": 1,
+    "text": "Approve change order 03 and send it to Alicia for signature",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-02",
+    "completed": false
+  },
+  {
+    "id": "act_f3859ffabec7454c",
+    "note_id": "b643f8e6-d1c6-4405-be03-d26de155956e",
+    "position": 2,
+    "text": "Send Third Coast the approved brand language",
+    "assignee_id": "per_1f87e78f45e541ed",
+    "due_date": "2026-10-07",
+    "completed": false
+  },
+  {
+    "id": "act_94ff6c2d030f495f",
+    "note_id": "00bef5d5-3db7-4f38-87a8-6c1a57009f31",
+    "position": 0,
+    "text": "Confirm the replacement screen delivery for October 3",
+    "assignee_id": "per_0839c9cfc26947ca",
+    "due_date": "2026-10-03",
+    "completed": false
+  },
+  {
+    "id": "act_f4964d7ef71a4dc6",
+    "note_id": "00bef5d5-3db7-4f38-87a8-6c1a57009f31",
+    "position": 1,
+    "text": "Send Omar the care sheet for the quartz",
+    "assignee_id": "per_29dad22015fd463d",
+    "due_date": "2026-10-02",
+    "completed": true
+  },
+  {
+    "id": "act_eaf54968b5c24f60",
+    "note_id": "b8edbdeb-0226-4365-a5aa-4ce2dfa8a4b6",
+    "position": 0,
+    "text": "Compare the fee against the Proposal Template",
+    "assignee_id": "per_495db021ac8d4a7e",
+    "due_date": "2026-10-07",
+    "completed": false
+  },
+  {
+    "id": "act_1a0bdc068bf64866",
+    "note_id": "b8edbdeb-0226-4365-a5aa-4ce2dfa8a4b6",
+    "position": 1,
+    "text": "Finish the second test fit with the larger cafe",
+    "assignee_id": "per_e00e234e5e59489a",
+    "due_date": "2026-10-14",
+    "completed": false
+  },
+  {
+    "id": "act_f55da9a875b94a58",
+    "note_id": "b8edbdeb-0226-4365-a5aa-4ce2dfa8a4b6",
+    "position": 2,
+    "text": "Send Tariq the agenda for October 27",
+    "assignee_id": "per_3277db7e82834dd9",
+    "due_date": "2026-10-20",
+    "completed": false
+  }
+]

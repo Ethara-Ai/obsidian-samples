@@ -1,0 +1,198 @@
+{
+  "info": {
+    "name": "Calendly API Mock v2",
+    "description": "Mock Calendly API v2. Base URL: http://localhost:8123. In docker-compose: http://calendly-api:8123. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8123"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=calendly-connector-app&client_secret=cal_f26ac5a486de8cd98960f089"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"calendly-connector-app\", \"client_secret\": \"cal_f26ac5a486de8cd98960f089\", \"scope\": \"users:read event_types:read scheduled_events:read scheduled_events:write\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get the current user",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/users/me",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list your active event types",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/event_types?user=https://api.calendly.com/users/42NTS4KYNC3YWW5R&active=true",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the organization's event types by position",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/event_types?organization=https://api.calendly.com/organizations/0HEBCQM01P53BWFF&sort=position:asc",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list your upcoming events in October",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/scheduled_events?user=https://api.calendly.com/users/42NTS4KYNC3YWW5R&status=active&min_start_time=2026-10-02T00:00:00Z&max_start_time=2026-11-01T00:00:00Z",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the organization's canceled events",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/scheduled_events?organization=https://api.calendly.com/organizations/0HEBCQM01P53BWFF&status=canceled",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list one invitee's events",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/scheduled_events?organization=https://api.calendly.com/organizations/0HEBCQM01P53BWFF&invitee_email=tariq@lumencowork.example",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a scheduled event",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/scheduled_events/PZWHLPIICUKO5FCF",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list an event's invitees",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/scheduled_events/PZWHLPIICUKO5FCF/invitees",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cancel a scheduled event",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/scheduled_events/PZWHLPIICUKO5FCF/cancellation",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"reason\": \"Moving the site visit to next week.\"}"
+        }
+      }
+    }
+  ]
+}

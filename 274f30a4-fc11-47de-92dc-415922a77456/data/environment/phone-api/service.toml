@@ -1,0 +1,5 @@
+[service]
+name = "phone-api"
+port = 8129
+env_var_name = "PHONE_API_URL"
+healthcheck_path = "/health"

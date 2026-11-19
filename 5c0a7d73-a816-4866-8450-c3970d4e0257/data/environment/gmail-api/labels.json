@@ -1,0 +1,47 @@
+[
+ {
+  "id": "INBOX",
+  "name": "INBOX",
+  "type": "system",
+  "messages_total": 11,
+  "messages_unread": 2,
+  "threads_total": 11,
+  "threads_unread": 2
+ },
+ {
+  "id": "SENT",
+  "name": "SENT",
+  "type": "system",
+  "messages_total": 2,
+  "messages_unread": 0,
+  "threads_total": 2,
+  "threads_unread": 0
+ },
+ {
+  "id": "DRAFT",
+  "name": "DRAFT",
+  "type": "system",
+  "messages_total": 0,
+  "messages_unread": 0,
+  "threads_total": 0,
+  "threads_unread": 0
+ },
+ {
+  "id": "TRASH",
+  "name": "TRASH",
+  "type": "system",
+  "messages_total": 0,
+  "messages_unread": 0,
+  "threads_total": 0,
+  "threads_unread": 0
+ },
+ {
+  "id": "SPAM",
+  "name": "SPAM",
+  "type": "system",
+  "messages_total": 0,
+  "messages_unread": 0,
+  "threads_total": 0,
+  "threads_unread": 0
+ }
+]

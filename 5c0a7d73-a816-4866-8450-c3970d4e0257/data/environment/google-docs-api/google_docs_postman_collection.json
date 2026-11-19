@@ -1,0 +1,196 @@
+{
+  "info": {
+    "name": "Google Docs API Mock v1",
+    "description": "Mock Google Docs API v1. Base URL: http://localhost:8110. In docker-compose: http://google-docs-api:8110. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8110"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=gdocs-connector-app&client_secret=gdcs_e1957bdfec2845c8"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"gdocs-connector-app\", \"client_secret\": \"gdcs_e1957bdfec2845c8\", \"scope\": \"documents.readonly documents\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a document",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/documents/11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a document with its tab content",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/documents/11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7?includeTabsContent=true",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get only the title and revision",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/documents/11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7?fields=title,revisionId",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a document",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/documents",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\": \"Lobby punch list\"}"
+        }
+      }
+    },
+    {
+      "name": "fill the invoice template",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/documents/11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"requests\": [{\"replaceAllText\": {\"containsText\": {\"text\": \"{{INVOICE_NUMBER}}\", \"matchCase\": true}, \"replaceText\": \"2026-046\"}}, {\"insertText\": {\"endOfSegmentLocation\": {}, \"text\": \"\\nThank you for your business.\"}}]}"
+        }
+      }
+    },
+    {
+      "name": "insert text at an index",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/documents/11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"requests\": [{\"insertText\": {\"location\": {\"index\": 1}, \"text\": \"DRAFT \"}}]}"
+        }
+      }
+    },
+    {
+      "name": "format the invoice template",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/documents/11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"requests\": [{\"updateParagraphStyle\": {\"range\": {\"startIndex\": 1, \"endIndex\": 8}, \"paragraphStyle\": {\"alignment\": \"CENTER\"}, \"fields\": \"alignment\"}}, {\"updateTextStyle\": {\"range\": {\"startIndex\": 89, \"endIndex\": 149}, \"textStyle\": {\"bold\": true}, \"fields\": \"bold\"}}, {\"createParagraphBullets\": {\"range\": {\"startIndex\": 150, \"endIndex\": 274}, \"bulletPreset\": \"BULLET_DISC_CIRCLE_SQUARE\"}}, {\"insertTable\": {\"rows\": 3, \"columns\": 2, \"endOfSegmentLocation\": {}}}]}"
+        }
+      }
+    }
+  ]
+}

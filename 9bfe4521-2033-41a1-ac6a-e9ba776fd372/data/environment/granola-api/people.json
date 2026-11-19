@@ -1,0 +1,30 @@
+[
+  {
+    "id": "per_f187cebb22cb0444",
+    "name": "Reggie Clayton",
+    "email": "reggie.clayton@finthesiss.ai",
+    "organization": "Ridgeway Regional High School",
+    "title": "Industrial Arts Teacher"
+  },
+  {
+    "id": "per_b78f576611ec06f9",
+    "name": "Denise Patterson",
+    "email": "dpatterson@gmail.com",
+    "organization": "Ridgeway Regional High School",
+    "title": "Principal"
+  },
+  {
+    "id": "per_c5fd961c9f737a95",
+    "name": "Keisha Robinson",
+    "email": "keisha.robinson@gmail.com",
+    "organization": "Ridgeway Regional High School",
+    "title": "English Teacher"
+  },
+  {
+    "id": "per_e4fbe62d887b8cde",
+    "name": "Jerome Simmons",
+    "email": "jerome.simmons@example.com",
+    "organization": "Ridgeway Regional High School",
+    "title": "Auto Shop Teacher"
+  }
+]

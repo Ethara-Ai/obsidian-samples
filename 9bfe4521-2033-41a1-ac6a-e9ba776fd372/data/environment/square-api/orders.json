@@ -1,0 +1,42 @@
+[
+ {
+  "id": "ORD_SR1010A",
+  "customer_id": "",
+  "location_id": "LOC_MAIN",
+  "line_items": "VAR_BRISKET x1; VAR_TEA x1",
+  "total_amount": "1650",
+  "currency": "USD",
+  "state": "COMPLETED",
+  "created_at": "2026-10-10T17:20:00Z"
+ },
+ {
+  "id": "ORD_SR1010B",
+  "customer_id": "CUST_CEDRIC",
+  "location_id": "LOC_MAIN",
+  "line_items": "VAR_RIB x2",
+  "total_amount": "2400",
+  "currency": "USD",
+  "state": "COMPLETED",
+  "created_at": "2026-10-10T18:05:00Z"
+ },
+ {
+  "id": "ORD_SR1010C",
+  "customer_id": "CUST_GREER",
+  "location_id": "LOC_MAIN",
+  "line_items": "VAR_PORK x2; VAR_TEA x2",
+  "total_amount": "1900",
+  "currency": "USD",
+  "state": "COMPLETED",
+  "created_at": "2026-10-10T19:40:00Z"
+ },
+ {
+  "id": "ORD_SR1010D",
+  "customer_id": "CUST_KEISHA",
+  "location_id": "LOC_MAIN",
+  "line_items": "VAR_BRISKET x2",
+  "total_amount": "3000",
+  "currency": "USD",
+  "state": "COMPLETED",
+  "created_at": "2026-10-10T20:15:00Z"
+ }
+]

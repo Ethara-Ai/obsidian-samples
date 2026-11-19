@@ -1,0 +1,172 @@
+{
+  "info": {
+    "name": "Ring API Mock clients_api",
+    "description": "Mock Ring API clients_api. Base URL: http://localhost:8132. In docker-compose: http://ring-api:8132. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8132"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=ring-connector-app&client_secret=rgcs_6e2b4d90f7a1c385"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"ring-connector-app\", \"client_secret\": \"rgcs_6e2b4d90f7a1c385\", \"scope\": \"devices.read history.read alarm.control\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list devices",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clients_api/ring_devices",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a device's health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clients_api/doorbots/589293258/health",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the doorbell's rings this week",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clients_api/doorbots/589148202/history?kind=ding&since=2026-09-28&until=2026-10-04&limit=20",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a camera's motion on one night",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clients_api/doorbots/589357060/history?since=2026-10-03&until=2026-10-03",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "page further back in the history",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clients_api/doorbots/589148202/history?limit=20&older_than=7106551424723322726",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a recording's details",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clients_api/dings/7106551424723322726/recording",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "set the alarm mode",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/api/v1/mode/location/932bb586-3180-481f-b506-e90a9c3ebbb0",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"mode\": \"away\"}"
+        }
+      }
+    }
+  ]
+}

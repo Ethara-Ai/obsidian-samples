@@ -1,0 +1,50 @@
+[
+ {
+  "id": "PAY_SR1010A",
+  "order_id": "ORD_SR1010A",
+  "customer_id": "",
+  "amount": "1650",
+  "currency": "USD",
+  "status": "COMPLETED",
+  "source_type": "CARD",
+  "location_id": "LOC_MAIN",
+  "receipt_number": "RCP001",
+  "created_at": "2026-10-10T17:20:00Z"
+ },
+ {
+  "id": "PAY_SR1010B",
+  "order_id": "ORD_SR1010B",
+  "customer_id": "CUST_CEDRIC",
+  "amount": "2400",
+  "currency": "USD",
+  "status": "COMPLETED",
+  "source_type": "CARD",
+  "location_id": "LOC_MAIN",
+  "receipt_number": "RCP002",
+  "created_at": "2026-10-10T18:05:00Z"
+ },
+ {
+  "id": "PAY_SR1010C",
+  "order_id": "ORD_SR1010C",
+  "customer_id": "CUST_GREER",
+  "amount": "1900",
+  "currency": "USD",
+  "status": "COMPLETED",
+  "source_type": "CARD",
+  "location_id": "LOC_MAIN",
+  "receipt_number": "RCP003",
+  "created_at": "2026-10-10T19:40:00Z"
+ },
+ {
+  "id": "PAY_SR1010D",
+  "order_id": "ORD_SR1010D",
+  "customer_id": "CUST_KEISHA",
+  "amount": "3000",
+  "currency": "USD",
+  "status": "COMPLETED",
+  "source_type": "CARD",
+  "location_id": "LOC_MAIN",
+  "receipt_number": "RCP004",
+  "created_at": "2026-10-10T20:15:00Z"
+ }
+]

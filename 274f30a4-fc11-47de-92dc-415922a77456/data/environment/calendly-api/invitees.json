@@ -1,0 +1,2042 @@
+[
+  {
+    "uuid": "FT2Q6I3O43OXQKAO",
+    "event_uuid": "XW09LIH1YCHMIAH0",
+    "email": "nadia@greenlinedental.example",
+    "first_name": "Nadia",
+    "last_name": "Petrov",
+    "name": "Nadia Petrov",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "A full renovation of our dental practice: reception, eight operatories and a staff lounge.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "Over $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "November 2026",
+        "position": 2
+      }
+    ],
+    "created_at": "2025-11-29T11:00:00.000000Z",
+    "updated_at": "2025-11-29T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "3TR7WIEW8N4L547L",
+    "event_uuid": "A1COHPZWIS0ESNT9",
+    "email": "chris@halstedfit.example",
+    "first_name": "Chris",
+    "last_name": "Novak",
+    "name": "Chris Novak",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Halsted Fitness: a new front desk, locker rooms and a recovery lounge.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$75,000 to $150,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Before the summer rush",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-01-28T17:00:00.000000Z",
+    "updated_at": "2026-01-28T17:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "HTGZ4SIU6AKP8LMK",
+    "event_uuid": "C65A80PJRN1SO4L6",
+    "email": "hcho@riversidepeds.example",
+    "first_name": "Helen",
+    "last_name": "Cho",
+    "name": "Helen Cho",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Riverside Pediatrics: a calmer waiting room and two new exam rooms.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$150,000 to $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Early 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-02-07T12:30:00.000000Z",
+    "updated_at": "2026-02-07T12:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "NE3U7B2IJWZIBMYO",
+    "event_uuid": "A434DGB2KPQ45US9",
+    "email": "rosa@pilsenarts.example",
+    "first_name": "Rosa",
+    "last_name": "Delgado",
+    "name": "Rosa Delgado",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Pilsen Arts Collective: a small gallery shop in the front room.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$25,000 to $75,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Fall 2026",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-02-15T20:00:00.000000Z",
+    "updated_at": "2026-02-15T20:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "W90M4FSV0LGY75RV",
+    "event_uuid": "FXOAOO8IE5Z30LKP",
+    "email": "kosei@fultonlofts.example",
+    "first_name": "Kevin",
+    "last_name": "Osei",
+    "name": "Kevin Osei",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Fulton Market Lofts phase 2: the rooftop lounge and the mail room.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$75,000 to $150,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Spring 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-02-25T06:30:00.000000Z",
+    "updated_at": "2026-02-25T06:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "89UGKMKZ4DMLKWQ3",
+    "event_uuid": "9W1R8D9IIIRT7JGJ",
+    "email": "elena@andersonvilleflorist.example",
+    "first_name": "Elena",
+    "last_name": "Park",
+    "name": "Elena Park",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Andersonville Florist: a refresh of the shop counter and the window display.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "Under $25,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "This summer",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-04-24T11:00:00.000000Z",
+    "updated_at": "2026-04-24T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "AUKRQ7YHF8GYCVUC",
+    "event_uuid": "54MUDYMBJ2BTJEHL",
+    "email": "tariq@lumencowork.example",
+    "first_name": "Tariq",
+    "last_name": "Hassan",
+    "name": "Tariq Hassan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Lumen Coworking: a second floor with 120 desks, phone booths and a cafe.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "Over $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "End of Q1 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-06-28T12:00:00.000000Z",
+    "updated_at": "2026-06-28T12:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "KIZKEEU3K7EHEDPA",
+    "event_uuid": "N699MPV1IPD1DAX2",
+    "email": "omar@harborstreetcafe.example",
+    "first_name": "Omar",
+    "last_name": "Haddad",
+    "name": "Omar Haddad",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Harbor Street Cafe: menu boards and a brighter counter area.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "Under $25,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "As soon as possible",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-07-02T17:30:00.000000Z",
+    "updated_at": "2026-07-02T17:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "2ZCERPOC6O31M84O",
+    "event_uuid": "02DN8NJSDIFLJ094",
+    "email": "emarsh@bluebirdhotels.example",
+    "first_name": "Evan",
+    "last_name": "Marsh",
+    "name": "Evan Marsh",
+    "status": "active",
+    "timezone": "America/New_York",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Bluebird Hotel Group: lobbies for two Chicago properties.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "Over $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-06-30T09:00:00.000000Z",
+    "updated_at": "2026-06-30T09:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "G92VQNQ1510ZQCVU",
+    "event_uuid": "MR3REOGQXIGIUAJA",
+    "email": "mcalloway@callowayfinch.example",
+    "first_name": "Marion",
+    "last_name": "Calloway",
+    "name": "Marion Calloway",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Calloway & Finch LLP: a full office fit-out on one floor.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "Over $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Mid 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-07-09T21:00:00.000000Z",
+    "updated_at": "2026-07-09T21:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "KPSU2U7023BPA7J6",
+    "event_uuid": "NOPJ9DJVEZVOTHKP",
+    "email": "pgomez@midwaycu.example",
+    "first_name": "Patricia",
+    "last_name": "Gomez",
+    "name": "Patricia Gomez",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Midway Credit Union: the main branch lobby and the member service desks.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$150,000 to $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Q2 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-08-06T09:30:00.000000Z",
+    "updated_at": "2026-08-06T09:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "JLGCN3LZJOIIPV26",
+    "event_uuid": "O7R4TW3WS5PCTE0G",
+    "email": "gemma@lockhartvintage.example",
+    "first_name": "Gemma",
+    "last_name": "Lockhart",
+    "name": "Gemma Lockhart",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Lockhart Vintage: a second shop with fitting rooms.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$25,000 to $75,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Spring 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-09-25T00:10:00.000000Z",
+    "updated_at": "2026-10-01T14:40:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Dana Whitfield",
+      "reason": "I'm on site for an install that week. Please book a time in early November.",
+      "canceler_type": "host",
+      "created_at": "2026-10-01T14:40:00.000000Z"
+    },
+    "rescheduled": false
+  },
+  {
+    "uuid": "D8GSUE2H3VRYZWNP",
+    "event_uuid": "4V9WPSLZ5W7OHDIM",
+    "email": "gemma@lockhartvintage.example",
+    "first_name": "Gemma",
+    "last_name": "Lockhart",
+    "name": "Gemma Lockhart",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Lockhart Vintage: a second shop with fitting rooms.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$25,000 to $75,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Spring 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-10-01T17:15:00.000000Z",
+    "updated_at": "2026-10-01T17:15:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "7NA5T0POXVSAR3LP",
+    "event_uuid": "0DBK2U2W4R4U5H36",
+    "email": "desmond@emberrowkitchen.example",
+    "first_name": "Desmond",
+    "last_name": "Kerrigan",
+    "name": "Desmond Kerrigan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Ember Row Kitchen: a 60-seat dining room and a six-seat bar.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$150,000 to $400,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Summer 2027",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-09-22T13:00:00.000000Z",
+    "updated_at": "2026-09-22T13:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "2W75EW0GHBNWGWK2",
+    "event_uuid": "5WBVH3NKBD01HBZY",
+    "email": "wendell.osgood@mail.example",
+    "first_name": "Wendell",
+    "last_name": "Osgood",
+    "name": "Wendell Osgood",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What are you hoping to design?",
+        "answer": "Our Wicker Park two-flat: kitchen and living room on the first floor.",
+        "position": 0
+      },
+      {
+        "question": "Budget range",
+        "answer": "$75,000 to $150,000",
+        "position": 1
+      },
+      {
+        "question": "Ideal completion date",
+        "answer": "Next spring",
+        "position": 2
+      }
+    ],
+    "created_at": "2026-10-01T08:00:00.000000Z",
+    "updated_at": "2026-10-01T08:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "QDDPNC6X8964P0CL",
+    "event_uuid": "DEDL6ONGT1QG9ZNI",
+    "email": "nadia@greenlinedental.example",
+    "first_name": "Nadia",
+    "last_name": "Petrov",
+    "name": "Nadia Petrov",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Greenline Dental",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-01-09T14:00:00.000000Z",
+    "updated_at": "2026-01-09T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "4G5SWNX90RHYNMKY",
+    "event_uuid": "PHABKLWW2K0HL2GE",
+    "email": "chris@halstedfit.example",
+    "first_name": "Chris",
+    "last_name": "Novak",
+    "name": "Chris Novak",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Halsted Fitness",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-02-20T13:00:00.000000Z",
+    "updated_at": "2026-02-20T13:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "269HDH8QH5NHJ23M",
+    "event_uuid": "MVTIJ7F2W7YVFHYW",
+    "email": "kosei@fultonlofts.example",
+    "first_name": "Kevin",
+    "last_name": "Osei",
+    "name": "Kevin Osei",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Fulton Market Lofts phase 2",
+        "position": 0
+      },
+      {
+        "question": "Who else will attend?",
+        "answer": "Our property manager",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-03-09T10:00:00.000000Z",
+    "updated_at": "2026-03-09T10:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "L509124DCPUPSW9U",
+    "event_uuid": "VAGYPHU5PRYSYTXI",
+    "email": "tariq@lumencowork.example",
+    "first_name": "Tariq",
+    "last_name": "Hassan",
+    "name": "Tariq Hassan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Lumen Coworking second floor",
+        "position": 0
+      },
+      {
+        "question": "Who else will attend?",
+        "answer": "Our operations lead",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-07-20T09:00:00.000000Z",
+    "updated_at": "2026-07-20T09:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "0BY1IX2E46X1CZZQ",
+    "event_uuid": "RER7VGN1APDN0IZJ",
+    "email": "mcalloway@callowayfinch.example",
+    "first_name": "Marion",
+    "last_name": "Calloway",
+    "name": "Marion Calloway",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Calloway & Finch office",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-07-21T15:00:00.000000Z",
+    "updated_at": "2026-07-21T15:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "UIQM5AV5CD7E7RA9",
+    "event_uuid": "MH0WST4ABBY591QJ",
+    "email": "emarsh@bluebirdhotels.example",
+    "first_name": "Evan",
+    "last_name": "Marsh",
+    "name": "Evan Marsh",
+    "status": "active",
+    "timezone": "America/New_York",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Bluebird Chicago lobbies",
+        "position": 0
+      },
+      {
+        "question": "Who else will attend?",
+        "answer": "Cora Lind, our brand director",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-02T02:00:00.000000Z",
+    "updated_at": "2026-10-02T02:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "O2XUONB6N1F0JYPN",
+    "event_uuid": "FAW9EDN4BQS17DTF",
+    "email": "hcho@riversidepeds.example",
+    "first_name": "Helen",
+    "last_name": "Cho",
+    "name": "Helen Cho",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Riverside Pediatrics",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-28T13:15:00.000000Z",
+    "updated_at": "2026-09-30T13:15:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Helen Cho",
+      "reason": "Our board meeting moved to that afternoon. I'll rebook in November.",
+      "canceler_type": "invitee",
+      "created_at": "2026-09-30T13:15:00.000000Z"
+    },
+    "rescheduled": false
+  },
+  {
+    "uuid": "RP39NW808TDIYBFZ",
+    "event_uuid": "ZCS0MC19VRTV9FX3",
+    "email": "tariq@lumencowork.example",
+    "first_name": "Tariq",
+    "last_name": "Hassan",
+    "name": "Tariq Hassan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Lumen Coworking, the new second floor",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Freight elevator at the back; ask the front desk for a badge.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-08-14T09:00:00.000000Z",
+    "updated_at": "2026-08-14T09:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "DO1MRLQ18ZEQQM1Q",
+    "event_uuid": "I2FI2KJWRLV6GAYH",
+    "email": "pgomez@midwaycu.example",
+    "first_name": "Patricia",
+    "last_name": "Gomez",
+    "name": "Patricia Gomez",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Midway Credit Union, main branch",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Use the staff entrance before 9.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-16T10:00:00.000000Z",
+    "updated_at": "2026-09-16T10:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "AU3GICLAKZAZH241",
+    "event_uuid": "PZWHLPIICUKO5FCF",
+    "email": "nadia@greenlinedental.example",
+    "first_name": "Nadia",
+    "last_name": "Petrov",
+    "name": "Nadia Petrov",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Greenline Dental, second floor suite",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Street parking only; we close for lunch 12 to 1.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-01T10:00:00.000000Z",
+    "updated_at": "2026-10-01T10:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "P2RBP7RNWZA8I7S8",
+    "event_uuid": "SVJCN87QF2DN66NB",
+    "email": "kai@thirdcoast.example",
+    "first_name": "Kai",
+    "last_name": "Yilmaz",
+    "name": "Kai Yilmaz",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Publication",
+        "answer": "Third Coast Interiors Magazine",
+        "position": 0
+      },
+      {
+        "question": "Topic",
+        "answer": "A feature on the Brightwell lobby redesign",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-23T10:00:00.000000Z",
+    "updated_at": "2026-09-23T10:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "HTISGV7ETWJNHEYL",
+    "event_uuid": "6WIVLZBCC1402FXO",
+    "email": "chloe@chicagodesign.example",
+    "first_name": "Chloe",
+    "last_name": "Delacroix",
+    "name": "Chloe Delacroix",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Publication",
+        "answer": "Chicago Design Weekly",
+        "position": 0
+      },
+      {
+        "question": "Topic",
+        "answer": "Small studios winning hospitality work",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-02T00:00:00.000000Z",
+    "updated_at": "2026-10-02T00:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "8VLAQJQQLGGU8CSS",
+    "event_uuid": "4JTIP1HC7ZAMTXLJ",
+    "email": "ben.hartigan@mail.example",
+    "first_name": "Ben",
+    "last_name": "Hartigan",
+    "name": "Ben Hartigan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/ben",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-03-06T20:00:00.000000Z",
+    "updated_at": "2026-03-06T20:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "UYU9T4S19OMAGROT",
+    "event_uuid": "85W16P035K29JI4V",
+    "email": "fiona@ashworthlowe.example",
+    "first_name": "Fiona",
+    "last_name": "Ashworth",
+    "name": "Fiona Ashworth",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Ashworth & Lowe",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Sharing hospitality leads after the Salone exchange",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-05-04T08:00:00.000000Z",
+    "updated_at": "2026-05-04T08:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "5NMT7ORF0ZOI89V3",
+    "event_uuid": "AIKLOJZ6HY256IWF",
+    "email": "tbrennan@saddlebrook.example",
+    "first_name": "Tess",
+    "last_name": "Brennan",
+    "name": "Tess Brennan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Saddlebrook Hospitality Partners",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Two boutique hotels in 2027",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-04T11:00:00.000000Z",
+    "updated_at": "2026-09-04T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "C20PBEDZ12IKDYMB",
+    "event_uuid": "GL52VVK0AJSLJBP1",
+    "email": "ray@signalfab.example",
+    "first_name": "Ray",
+    "last_name": "Dunn",
+    "name": "Ray Dunn",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Signal Fabrication",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Getting on the approved vendor list for signage",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-26T08:00:00.000000Z",
+    "updated_at": "2026-09-26T08:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "AU2ES0D5R8QP9QXV",
+    "event_uuid": "H6LC7MIJ139AZT60",
+    "email": "tariq@lumencowork.example",
+    "first_name": "Tariq",
+    "last_name": "Hassan",
+    "name": "Tariq Hassan",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Lumen Coworking second floor",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-10-01T02:00:00.000000Z",
+    "updated_at": "2026-10-01T02:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "FK4MKWUIFMHX07MR",
+    "event_uuid": "V3YS3J23YW4TM81Q",
+    "email": "caleb.mabry@mail.example",
+    "first_name": "Caleb",
+    "last_name": "Mabry",
+    "name": "Caleb Mabry",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Name on your application",
+        "answer": "Caleb Mabry",
+        "position": 0
+      },
+      {
+        "question": "Earliest start date",
+        "answer": "2026-12-30",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-01T02:00:00.000000Z",
+    "updated_at": "2026-10-01T02:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "MGL1DI37N86XCW15",
+    "event_uuid": "33YX9UY3D0LPMMDW",
+    "email": "zoe.castellanos@mail.example",
+    "first_name": "Zoe",
+    "last_name": "Castellanos",
+    "name": "Zoe Castellanos",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Name on your application",
+        "answer": "Zoe Castellanos",
+        "position": 0
+      },
+      {
+        "question": "Earliest start date",
+        "answer": "2027-01-27",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-01T09:00:00.000000Z",
+    "updated_at": "2026-10-01T23:20:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Zoe Castellanos",
+      "reason": "I accepted another offer. Thank you for your time.",
+      "canceler_type": "invitee",
+      "created_at": "2026-10-01T23:20:00.000000Z"
+    },
+    "rescheduled": false
+  },
+  {
+    "uuid": "51QHGCTV34WG4VZB",
+    "event_uuid": "L0Y7CU9PC9XG0GAG",
+    "email": "nate.galloway@mail.example",
+    "first_name": "Nate",
+    "last_name": "Galloway",
+    "name": "Nate Galloway",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Name on your application",
+        "answer": "Nate Galloway",
+        "position": 0
+      },
+      {
+        "question": "Earliest start date",
+        "answer": "2027-03-15",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-01T06:00:00.000000Z",
+    "updated_at": "2026-10-01T06:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "UCI480E8RCHTDG5K",
+    "event_uuid": "MSSS516CR4K8Z5NJ",
+    "email": "mina.lindgren@mail.example",
+    "first_name": "Mina",
+    "last_name": "Lindgren",
+    "name": "Mina Lindgren",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Name on your application",
+        "answer": "Mina Lindgren",
+        "position": 0
+      },
+      {
+        "question": "Earliest start date",
+        "answer": "2027-03-11",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-30T16:00:00.000000Z",
+    "updated_at": "2026-09-30T16:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "JGLEX201XN5XXA7W",
+    "event_uuid": "6JYERD7LBF8AOZ5M",
+    "email": "emma.kaminski@mail.example",
+    "first_name": "Emma",
+    "last_name": "Kaminski",
+    "name": "Emma Kaminski",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Name on your application",
+        "answer": "Emma Kaminski",
+        "position": 0
+      },
+      {
+        "question": "Earliest start date",
+        "answer": "2027-01-20",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-10-01T19:00:00.000000Z",
+    "updated_at": "2026-10-01T19:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "65UB863EE1K5BCE7",
+    "event_uuid": "Y0TQ7SNA5ARTT35F",
+    "email": "mpacheco@pemberly.example",
+    "first_name": "Mara",
+    "last_name": "Pacheco",
+    "name": "Mara Pacheco",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "How did you hear about us?",
+        "answer": "The Merchandise Mart open house",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-22T21:45:00.000000Z",
+    "updated_at": "2026-09-22T21:45:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "63HZKTG7QFE0TGKF",
+    "event_uuid": "Y0TQ7SNA5ARTT35F",
+    "email": "kai@lakeviewphoto.example",
+    "first_name": "Kai",
+    "last_name": "Ybarra",
+    "name": "Kai Ybarra",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "How did you hear about us?",
+        "answer": "Instagram",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-24T23:05:00.000000Z",
+    "updated_at": "2026-09-24T23:05:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "0F28FP5D5RZU6NMI",
+    "event_uuid": "Y0TQ7SNA5ARTT35F",
+    "email": "elena@andersonvilleflorist.example",
+    "first_name": "Elena",
+    "last_name": "Park",
+    "name": "Elena Park",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "How did you hear about us?",
+        "answer": "You did our shop",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-25T19:30:00.000000Z",
+    "updated_at": "2026-09-30T16:00:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Elena Park",
+      "reason": "We have a shop event that night. Next time!",
+      "canceler_type": "invitee",
+      "created_at": "2026-09-30T16:00:00.000000Z"
+    },
+    "rescheduled": false
+  },
+  {
+    "uuid": "1NE0FQEU8E0LF957",
+    "event_uuid": "Y0TQ7SNA5ARTT35F",
+    "email": "wendell.osgood@mail.example",
+    "first_name": "Wendell",
+    "last_name": "Osgood",
+    "name": "Wendell Osgood",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "How did you hear about us?",
+        "answer": "Booking a discovery call",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-29T01:10:00.000000Z",
+    "updated_at": "2026-09-29T01:10:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "QQERF03SNV5BV0KK",
+    "event_uuid": "Y0TQ7SNA5ARTT35F",
+    "email": "ruth@hydeparkbooks.example",
+    "first_name": "Ruth",
+    "last_name": "Coleman",
+    "name": "Ruth Coleman",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "How did you hear about us?",
+        "answer": "A friend",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-30T00:15:00.000000Z",
+    "updated_at": "2026-09-30T00:15:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "LT990K6PUNP5Y8E7",
+    "event_uuid": "Y0TQ7SNA5ARTT35F",
+    "email": "gemma@lockhartvintage.example",
+    "first_name": "Gemma",
+    "last_name": "Lockhart",
+    "name": "Gemma Lockhart",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "How did you hear about us?",
+        "answer": "Dana mentioned it",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-10-01T17:20:00.000000Z",
+    "updated_at": "2026-10-01T17:20:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "G4TR3QBDAWQ3JJPI",
+    "event_uuid": "8PZX8E90GY245ZCX",
+    "email": "hcho@riversidepeds.example",
+    "first_name": "Helen",
+    "last_name": "Cho",
+    "name": "Helen Cho",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Riverside Pediatrics waiting room",
+        "position": 0
+      },
+      {
+        "question": "Who else will attend?",
+        "answer": "Our practice manager",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-02-26T14:00:00.000000Z",
+    "updated_at": "2026-02-26T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "8153JFLPVLC4ES0V",
+    "event_uuid": "PPKNDV9VBAPC5T0D",
+    "email": "rosa@pilsenarts.example",
+    "first_name": "Rosa",
+    "last_name": "Delgado",
+    "name": "Rosa Delgado",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Pilsen Arts Collective gallery shop",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-02-25T17:00:00.000000Z",
+    "updated_at": "2026-02-25T17:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "XL4PQZFBWIB76Z22",
+    "event_uuid": "4299YUUA97E3LM9Q",
+    "email": "elena@andersonvilleflorist.example",
+    "first_name": "Elena",
+    "last_name": "Park",
+    "name": "Elena Park",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Andersonville Florist counter refresh",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-04-28T16:00:00.000000Z",
+    "updated_at": "2026-04-28T16:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "4EX1NIWQC2SP0RQX",
+    "event_uuid": "N7JA4PVRGDIWUHP9",
+    "email": "omar@harborstreetcafe.example",
+    "first_name": "Omar",
+    "last_name": "Haddad",
+    "name": "Omar Haddad",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Harbor Street Cafe menu boards",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-07-14T16:00:00.000000Z",
+    "updated_at": "2026-07-14T16:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "6ORJ4BC2WKT5L1B3",
+    "event_uuid": "2MITBTOWYTIR7EBJ",
+    "email": "pgomez@midwaycu.example",
+    "first_name": "Patricia",
+    "last_name": "Gomez",
+    "name": "Patricia Gomez",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Project name",
+        "answer": "Midway Credit Union branch lobby",
+        "position": 0
+      },
+      {
+        "question": "Who else will attend?",
+        "answer": "Our branch manager",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-08-22T07:00:00.000000Z",
+    "updated_at": "2026-08-22T07:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "0FIOG010TV95MUYL",
+    "event_uuid": "JHZE4DXLCPUZN2QW",
+    "email": "nadia@greenlinedental.example",
+    "first_name": "Nadia",
+    "last_name": "Petrov",
+    "name": "Nadia Petrov",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Greenline Dental, second floor suite",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Street parking only; we close for lunch 12 to 1.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-01-19T08:30:00.000000Z",
+    "updated_at": "2026-01-19T08:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "9XN5KIMAD06N1LNB",
+    "event_uuid": "XWPIA5EXDEBVRCMI",
+    "email": "chris@halstedfit.example",
+    "first_name": "Chris",
+    "last_name": "Novak",
+    "name": "Chris Novak",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Halsted Fitness, main floor",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Come before the 10:30 class; the front desk has a visitor pass.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-02-28T06:00:00.000000Z",
+    "updated_at": "2026-02-28T06:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "GOACUE81KEZ573NK",
+    "event_uuid": "UFLRLTED17D09XW6",
+    "email": "hcho@riversidepeds.example",
+    "first_name": "Helen",
+    "last_name": "Cho",
+    "name": "Helen Cho",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Riverside Pediatrics, ground floor",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Patients start at 10, so the waiting room is free until then.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-03-08T08:30:00.000000Z",
+    "updated_at": "2026-03-08T08:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "J1TIEPMS2E842PQR",
+    "event_uuid": "0XGG2HY9S7VQ2VNY",
+    "email": "kosei@fultonlofts.example",
+    "first_name": "Kevin",
+    "last_name": "Osei",
+    "name": "Kevin Osei",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Fulton Market Lofts, roof deck and mail room",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Check in with the concierge for roof access.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-03-20T07:00:00.000000Z",
+    "updated_at": "2026-03-20T07:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "T56CT452D4YZNVYS",
+    "event_uuid": "CIPM6DZF7SCAFD38",
+    "email": "elena@andersonvilleflorist.example",
+    "first_name": "Elena",
+    "last_name": "Park",
+    "name": "Elena Park",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Andersonville Florist, the shop floor",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "The shop opens at 10; knock on the front door.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-05-09T08:30:00.000000Z",
+    "updated_at": "2026-05-09T08:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "32HIGL97NIHR3M6I",
+    "event_uuid": "AIAO9CATPHLEIX27",
+    "email": "omar@harborstreetcafe.example",
+    "first_name": "Omar",
+    "last_name": "Haddad",
+    "name": "Omar Haddad",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Harbor Street Cafe",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Come after the breakfast rush.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-07-23T15:30:00.000000Z",
+    "updated_at": "2026-07-23T15:30:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "EDXR6ELOQ5AUO71Q",
+    "event_uuid": "4JIERBS5PMFVK73I",
+    "email": "mcalloway@callowayfinch.example",
+    "first_name": "Marion",
+    "last_name": "Calloway",
+    "name": "Marion Calloway",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Calloway & Finch LLP, 14th floor",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Visitor badges at the lobby desk.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-08-06T11:00:00.000000Z",
+    "updated_at": "2026-08-06T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "F1YFBF05GOPDTZ5A",
+    "event_uuid": "KXNFJ7PBCZ5RZ47R",
+    "email": "emarsh@bluebirdhotels.example",
+    "first_name": "Evan",
+    "last_name": "Marsh",
+    "name": "Evan Marsh",
+    "status": "active",
+    "timezone": "America/New_York",
+    "questions_and_answers": [
+      {
+        "question": "Site address",
+        "answer": "Bluebird Hotel, River West",
+        "position": 0
+      },
+      {
+        "question": "Access or parking notes",
+        "answer": "Ask the front desk for the general manager.",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-08-13T11:00:00.000000Z",
+    "updated_at": "2026-08-13T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "VL5I3A5RAXUNGZBU",
+    "event_uuid": "82M3UCLTVTDQNYRW",
+    "email": "lena@chicagodesign.example",
+    "first_name": "Lena",
+    "last_name": "Sorensen",
+    "name": "Lena Sorensen",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Publication",
+        "answer": "Chicago Design Weekly",
+        "position": 0
+      },
+      {
+        "question": "Topic",
+        "answer": "Studios to watch in 2026",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-03-09T13:00:00.000000Z",
+    "updated_at": "2026-03-09T13:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "G72333XZTUOV6WIT",
+    "event_uuid": "161T4JGPY5VJAVZK",
+    "email": "pablo@thirdcoast.example",
+    "first_name": "Pablo",
+    "last_name": "Akers",
+    "name": "Pablo Akers",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Publication",
+        "answer": "Third Coast Interiors Magazine",
+        "position": 0
+      },
+      {
+        "question": "Topic",
+        "answer": "A photo essay on Fulton Market Lofts phase 1",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-06-06T14:00:00.000000Z",
+    "updated_at": "2026-06-06T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "CES76C9VHKBLSU8D",
+    "event_uuid": "D19TPCU1CBS8G6O6",
+    "email": "noemi.albright@mail.example",
+    "first_name": "Noemi",
+    "last_name": "Albright",
+    "name": "Noemi Albright",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/noemi",
+        "position": 0
+      }
+    ],
+    "created_at": "2025-11-04T17:00:00.000000Z",
+    "updated_at": "2025-11-04T17:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "CWHMAS2GHMPCUAX2",
+    "event_uuid": "OXUTFVVICR9NMEMG",
+    "email": "felipe.duarte@mail.example",
+    "first_name": "Felipe",
+    "last_name": "Duarte",
+    "name": "Felipe Duarte",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/felipe",
+        "position": 0
+      }
+    ],
+    "created_at": "2025-11-26T21:00:00.000000Z",
+    "updated_at": "2025-11-26T21:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "BOVEQ58ELW9PKRBI",
+    "event_uuid": "W9WQA8EUZQ72O7O3",
+    "email": "hana.lisowski@mail.example",
+    "first_name": "Hana",
+    "last_name": "Lisowski",
+    "name": "Hana Lisowski",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/hana",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-01-07T12:00:00.000000Z",
+    "updated_at": "2026-01-07T12:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "IFC7JAUBK3JBGFHU",
+    "event_uuid": "60UX1FD1PEBMWLMY",
+    "email": "ruben.achterberg@mail.example",
+    "first_name": "Ruben",
+    "last_name": "Achterberg",
+    "name": "Ruben Achterberg",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/ruben",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-02-02T15:00:00.000000Z",
+    "updated_at": "2026-02-02T15:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "AHLXPPA2FEHX59GL",
+    "event_uuid": "3JF6LD4RRU7FM4GN",
+    "email": "ines.halloran@mail.example",
+    "first_name": "Ines",
+    "last_name": "Halloran",
+    "name": "Ines Halloran",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/ines",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-02-14T15:00:00.000000Z",
+    "updated_at": "2026-02-14T15:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "RXF4OS5F1STXLYAJ",
+    "event_uuid": "XRTS7YTPE3G61JZY",
+    "email": "theo.brandvold@mail.example",
+    "first_name": "Theo",
+    "last_name": "Brandvold",
+    "name": "Theo Brandvold",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Portfolio link",
+        "answer": "https://portfolio.example/theo",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-03-16T18:00:00.000000Z",
+    "updated_at": "2026-03-20T14:15:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Theo Brandvold",
+      "reason": "I have accepted a role in Minneapolis. Thank you for your time.",
+      "canceler_type": "invitee",
+      "created_at": "2026-03-20T14:15:00.000000Z"
+    },
+    "rescheduled": false
+  },
+  {
+    "uuid": "Y7RGG72EYCWJTI49",
+    "event_uuid": "BISBXLZMWK2T6OVV",
+    "email": "elindgren@kessler.example",
+    "first_name": "Emma",
+    "last_name": "Lindgren",
+    "name": "Emma Lindgren",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Kessler Halvorsen Architects",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "An interiors partner for two hotel conversions",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-01-09T14:00:00.000000Z",
+    "updated_at": "2026-01-09T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "EECO8VAH9HIVTFIJ",
+    "event_uuid": "NI4A6TZF51PE5EF1",
+    "email": "inwosu@tallow.example",
+    "first_name": "Imani",
+    "last_name": "Nwosu",
+    "name": "Imani Nwosu",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Tallow & Finch Design",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Sharing a large office project",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-02-03T13:00:00.000000Z",
+    "updated_at": "2026-02-03T13:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "ZSV1ERB3KJWWV9HP",
+    "event_uuid": "34DLDEWVK6DAPS56",
+    "email": "rjankowski@north.example",
+    "first_name": "Rory",
+    "last_name": "Jankowski",
+    "name": "Rory Jankowski",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "North Branch Studio",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Referring residential work both ways",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-03-27T13:00:00.000000Z",
+    "updated_at": "2026-03-27T13:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "WJRBPG8C4D1RI77J",
+    "event_uuid": "L8XDSWE2YC8FM22X",
+    "email": "icastellanos@copperleaf.example",
+    "first_name": "Iris",
+    "last_name": "Castellanos",
+    "name": "Iris Castellanos",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Copperleaf Contract Furniture",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Dealer pricing for hospitality projects",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-04-01T09:00:00.000000Z",
+    "updated_at": "2026-04-01T09:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "J3NMW1ICCLLNZRP2",
+    "event_uuid": "JTICREVP0CW1QR1U",
+    "email": "mpacheco@pemberly.example",
+    "first_name": "Mara",
+    "last_name": "Pacheco",
+    "name": "Mara Pacheco",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Pemberly Art Advisory",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Art programs for hotel lobbies",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-05-29T12:00:00.000000Z",
+    "updated_at": "2026-05-29T12:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "WLWZHXRVVWV9P5B5",
+    "event_uuid": "Z05PAOK640OICZ74",
+    "email": "marc@atelierdelacroix.example",
+    "first_name": "Marc",
+    "last_name": "Delacroix",
+    "name": "Marc Delacroix",
+    "status": "active",
+    "timezone": "Europe/Paris",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Atelier Delacroix",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Custom lighting for the Brightwell lobby",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-06-15T10:00:00.000000Z",
+    "updated_at": "2026-06-15T10:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "AX7WN7IAVEL0UVHI",
+    "event_uuid": "J2E3X6UQDQA7ZA48",
+    "email": "vera@fennimorepr.example",
+    "first_name": "Vera",
+    "last_name": "Farrow",
+    "name": "Vera Farrow",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Fennimore PR",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Press for the Brightwell lobby reveal",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-08-07T09:00:00.000000Z",
+    "updated_at": "2026-08-07T09:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "O61SY3QGI9BWDBP1",
+    "event_uuid": "3JLBE53H0NZUIWWN",
+    "email": "derek@arclinelighting.example",
+    "first_name": "Derek",
+    "last_name": "Ames",
+    "name": "Derek Ames",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Company",
+        "answer": "Arcline Lighting",
+        "position": 0
+      },
+      {
+        "question": "What would you like to explore?",
+        "answer": "Lighting packages for 2027 projects",
+        "position": 1
+      }
+    ],
+    "created_at": "2026-09-10T10:00:00.000000Z",
+    "updated_at": "2026-09-11T15:00:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Marcus Oyelaran",
+      "reason": "I'm traveling that week. I'll send new times.",
+      "canceler_type": "host",
+      "created_at": "2026-09-11T15:00:00.000000Z"
+    },
+    "rescheduled": false
+  },
+  {
+    "uuid": "0QHYLIT69P8R3TON",
+    "event_uuid": "PMD6UXUNUJA6PJ3L",
+    "email": "chris@halstedfit.example",
+    "first_name": "Chris",
+    "last_name": "Novak",
+    "name": "Chris Novak",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Halsted Fitness front desk and locker rooms",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-03-15T10:00:00.000000Z",
+    "updated_at": "2026-03-15T10:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "RIZG95KM3OUZ1MJ2",
+    "event_uuid": "P2T4BHQSYTZRPF6A",
+    "email": "hcho@riversidepeds.example",
+    "first_name": "Helen",
+    "last_name": "Cho",
+    "name": "Helen Cho",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Riverside Pediatrics waiting room and exam rooms",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-03-19T08:00:00.000000Z",
+    "updated_at": "2026-03-19T08:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "CH94B02QSGT032Y1",
+    "event_uuid": "2ORIXM2YGBIFHA1F",
+    "email": "kosei@fultonlofts.example",
+    "first_name": "Kevin",
+    "last_name": "Osei",
+    "name": "Kevin Osei",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Fulton Market Lofts phase 2",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-03-28T15:00:00.000000Z",
+    "updated_at": "2026-03-28T15:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "9ZDCHSZANYF24F1G",
+    "event_uuid": "HAFB3GQQGVG61W99",
+    "email": "elena@andersonvilleflorist.example",
+    "first_name": "Elena",
+    "last_name": "Park",
+    "name": "Elena Park",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Andersonville Florist counter refresh",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-05-22T11:00:00.000000Z",
+    "updated_at": "2026-05-22T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "G1ZT9JQLI5V8BTDE",
+    "event_uuid": "LEERZZF23QEJ3UU2",
+    "email": "omar@harborstreetcafe.example",
+    "first_name": "Omar",
+    "last_name": "Haddad",
+    "name": "Omar Haddad",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Harbor Street Cafe menu boards",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-08-07T11:00:00.000000Z",
+    "updated_at": "2026-08-07T11:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "JN8IBNJPI7RP8BOU",
+    "event_uuid": "Y4G6AEZGYWMIX2BE",
+    "email": "nadia@greenlinedental.example",
+    "first_name": "Nadia",
+    "last_name": "Petrov",
+    "name": "Nadia Petrov",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Greenline Dental renovation",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-08-21T14:00:00.000000Z",
+    "updated_at": "2026-08-21T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "2QGT4X7D4RR7DJLW",
+    "event_uuid": "TCTYH08D1ORZ6ADF",
+    "email": "mcalloway@callowayfinch.example",
+    "first_name": "Marion",
+    "last_name": "Calloway",
+    "name": "Marion Calloway",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Calloway & Finch office fit-out",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-09-03T15:00:00.000000Z",
+    "updated_at": "2026-09-03T15:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "DLZGGGP4PXMLHO52",
+    "event_uuid": "W5QJZKLMPJMMYCQM",
+    "email": "pgomez@midwaycu.example",
+    "first_name": "Patricia",
+    "last_name": "Gomez",
+    "name": "Patricia Gomez",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "Proposal name",
+        "answer": "Midway Credit Union branch lobby",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-10-02T15:00:00.000000Z",
+    "updated_at": "2026-10-02T15:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  }
+]

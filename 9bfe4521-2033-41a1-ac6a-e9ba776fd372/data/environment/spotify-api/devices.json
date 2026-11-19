@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3b42553c4e3241e8f3f8fbc19a69fa2f95708a9d",
+    "account_id": "acct-caleb-rourke",
+    "name": "iPhone 14",
+    "type": "Smartphone",
+    "is_restricted": "false",
+    "is_private_session": "false",
+    "volume_percent": "50"
+  },
+  {
+    "id": "87835653f7f79d15420fc69988bdadcd623b1314",
+    "account_id": "acct-caleb-rourke",
+    "name": "Garage Speaker",
+    "type": "Speaker",
+    "is_restricted": "false",
+    "is_private_session": "false",
+    "volume_percent": "60"
+  }
+]

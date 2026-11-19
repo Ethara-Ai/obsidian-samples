@@ -1,0 +1,138 @@
+{
+  "info": {
+    "name": "Granola API Mock v1",
+    "description": "Mock Granola API v1. Base URL: http://localhost:8125. In docker-compose: http://granola-api:8125. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8125"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=granola-connector-app&client_secret=grcs_7e1d94a05b36c2f8"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"granola-connector-app\", \"client_secret\": \"grcs_7e1d94a05b36c2f8\", \"scope\": \"notes:read notes:search\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list notes in a date range",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/notes?start_date=2026-09-21&end_date=2026-09-30",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the five newest notes",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/notes?limit=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a note with its summary, action items and transcript",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/notes/76cb966c-9dd4-45ca-be68-e58e45016ada",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search notes",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/notes/search?q=reception%20desk%20power",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search notes, first five results",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/notes/search?q=freight%20elevator&limit=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

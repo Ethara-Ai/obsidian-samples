@@ -1,0 +1,80 @@
+{
+  "stage": 6,
+  "stage_name": "pickup_send",
+  "description": "Thursday 21:20: Renee Holt, Fiona's teacher, emails Ryan, in a new thread, a photo of the Toddler Room notice as revised: early dismissal 12:30 PM struck, 11:45, staff training moved up. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Thursday 21:15: Denise asks him to pick up three books of stamps, for her Christmas cards in a WhatsApp message to Ryan (unannounced).",
+  "applies_between_turns": [
+    "T12",
+    "T13"
+  ],
+  "applied_at_local_time": "2026-12-10T21:20:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h5_attachment",
+        "action": "copy",
+        "src": "files/IMG_0447.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52333/2/IMG_0447.jpg",
+        "description": "The attachment of Renee Holt (Fiona's teacher, Little Explorers)'s mail, in the Mail app's attachment store. Little Explorers moves the party-day pickup to 11:45 AM.",
+        "fires_at_turn": "T13"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_h5_mail",
+        "service": "gmail-api",
+        "description": "Renee Holt (Fiona's teacher, Little Explorers) emails Ryan a photo. Little Explorers moves the party-day pickup to 11:45 AM.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-f2aeaa484e",
+            "thread_id": "thr-c5f67f67",
+            "from_addr": "reneeholt.lex@gmail.com",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_0447.jpg",
+            "snippet": "IMG_0447.jpg Renee",
+            "body": "IMG_0447.jpg\n\nRenee",
+            "date": "2026-12-10T21:20:00-05:00",
+            "internal_date": 1796955600000,
+            "size_estimate": 184019,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T13"
+      },
+      {
+        "id": "sil_wa_denise",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Ryan's chat with Denise Mitchell.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.1c4c25ab84249069c141",
+            "conversation_id": "conv-rm-denise",
+            "direction": "inbound",
+            "from_wa_id": "14105550153",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "Can you pick up 3 books of stamps for my Christmas cards when you're out?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-11T02:15:00Z"
+          }
+        },
+        "fires_at_turn": "T13"
+      }
+    ]
+  }
+}

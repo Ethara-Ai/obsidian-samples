@@ -1,0 +1,87 @@
+{
+  "stage": 1,
+  "stage_name": "decoys",
+  "description": "Monday 18:20 Daniel writes on WhatsApp about a Phase 2 punch-list sconce; Tuesday 08:05 Rania thanks Jessica for dinner. Neither touches the living room.",
+  "applies_between_turns": [
+    "T4",
+    "T5"
+  ],
+  "applied_at_local_time": "2026-10-27T08:05:00-04:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_dec_daniel_sconce",
+        "service": "whatsapp-api",
+        "description": "Daniel's Phase 2 punch-list note (decoy).",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.HBgLA24B6405A0606D76C7C22868",
+            "conversation_id": "conv-daniel",
+            "direction": "inbound",
+            "from_wa_id": "12025550299",
+            "to_wa_id": "12025550161",
+            "type": "text",
+            "text": "Mrs P's powder room sconce is back from repair. We'll rehang it Friday morning, nothing needed from you.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-10-26T22:20:00Z"
+          }
+        },
+        "fires_at_turn": "T5"
+      },
+      {
+        "id": "sil_dec_daniel_sconce_conv",
+        "service": "whatsapp-api",
+        "description": "The conversation's last message time moves, and the reply window opens, as on WhatsApp.",
+        "method": "GET",
+        "path": "/v17.0/conversations",
+        "admin": {
+          "op": "patch",
+          "table": "conversations",
+          "pk": "conv-daniel",
+          "set": {
+            "last_message_at": "2026-10-26T22:20:00Z",
+            "within_24h_window": true
+          }
+        },
+        "fires_at_turn": "T5"
+      },
+      {
+        "id": "sil_dec_rania_thanks",
+        "service": "gmail-api",
+        "description": "Rania thanks Jessica for the birthday dinner (decoy).",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-jw-1027",
+            "thread_id": "thr-jw-1027",
+            "from_addr": "rania.haddad.md@gmail.com",
+            "to_addr": "jessica.wright@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "last night",
+            "snippet": "Thank you for last night. Best birthday dinner in years.  R",
+            "body": "Thank you for last night. Best birthday dinner in years.\n\nR",
+            "date": "2026-10-27T08:05:00-04:00",
+            "internal_date": 1793102700000,
+            "size_estimate": 959,
+            "labels": [
+              "INBOX"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T5"
+      }
+    ]
+  }
+}

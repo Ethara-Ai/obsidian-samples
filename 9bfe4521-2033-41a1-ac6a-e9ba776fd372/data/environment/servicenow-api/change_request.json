@@ -1,0 +1,16 @@
+[
+  {
+    "sys_id": "chg-0002001",
+    "number": "CHG0002001",
+    "short_description": "Replace shop wing network switch port",
+    "description": "Move the shop printer to a fresh switch port.",
+    "state": "scheduled",
+    "priority": "4",
+    "risk": "low",
+    "type": "standard",
+    "assigned_to": "usr-helpdesk",
+    "requested_by": "usr-reggie",
+    "start_date": "2026-11-21T14:00:00Z",
+    "end_date": "2026-11-21T15:00:00Z"
+  }
+]

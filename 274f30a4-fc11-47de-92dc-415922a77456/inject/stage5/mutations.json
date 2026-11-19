@@ -1,0 +1,129 @@
+{
+  "stage": 5,
+  "stage_name": "oscar_send",
+  "description": "Thursday 12:30: Jacqueline Mitchell emails Ryan, in a new thread, a photo of the back of Pop's roast card, his own later note: turn it down to 300, not 325; 1 1/2 cups stock is plenty. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Thursday 12:00: His mother asks whether Andrew is still singing a solo on the 18th, at the winter program, where she wants a seat up front in a WhatsApp message to Ryan (unannounced). Thursday 12:25: Tami asks whether he is bringing the wine or the dip on Saturday, to the book club gathering in a WhatsApp message to Ryan (unannounced). Thursday 12:28: Oscar asks Ryan on WhatsApp what oven temperature and how much stock Pop used (the request that follows names it).",
+  "applies_between_turns": [
+    "T11",
+    "T12"
+  ],
+  "applied_at_local_time": "2026-12-10T12:30:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h4_attachment",
+        "action": "copy",
+        "src": "files/IMG_2216.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52330/2/IMG_2216.jpg",
+        "description": "The attachment of Jacqueline Mitchell (his mother, who keeps Pop's recipe box)'s mail, in the Mail app's attachment store. The back of Pop's card: 300\u00b0, not 325, and 1\u00bd cups of stock.",
+        "fires_at_turn": "T12"
+      }
+    ],
+    "loud": [
+      {
+        "id": "loud_wa_oscar",
+        "service": "whatsapp-api",
+        "description": "Oscar asks Ryan on WhatsApp for Pop's oven temperature and stock.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.2dc6ff4bc28902b4cea9",
+            "conversation_id": "conv-rm-oscar",
+            "direction": "inbound",
+            "from_wa_id": "13015550175",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "Doing a second roast Christmas Day like your father's. What oven temp and how much stock did he use?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T17:28:00Z"
+          }
+        },
+        "fires_at_turn": "T12"
+      }
+    ],
+    "silent": [
+      {
+        "id": "sil_h4_mail",
+        "service": "gmail-api",
+        "description": "Jacqueline Mitchell (his mother, who keeps Pop's recipe box) emails Ryan a photo. The back of Pop's card: 300\u00b0, not 325, and 1\u00bd cups of stock.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-06d5615663",
+            "thread_id": "thr-1b478673",
+            "from_addr": "jackie.mitchell@gmail.com",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "found it",
+            "snippet": "IMG_2216.jpg love, Mom",
+            "body": "IMG_2216.jpg\n\nlove, Mom",
+            "date": "2026-12-10T12:30:00-05:00",
+            "internal_date": 1796923800000,
+            "size_estimate": 184023,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T12"
+      },
+      {
+        "id": "sil_wa_jackie",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Ryan's chat with Jacqueline Mitchell.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.d528c245417ac5415a68",
+            "conversation_id": "conv-rm-jackie",
+            "direction": "inbound",
+            "from_wa_id": "14105550164",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "Is Andrew still singing a solo on the 18th? I want a seat up front.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T17:00:00Z"
+          }
+        },
+        "fires_at_turn": "T12"
+      },
+      {
+        "id": "sil_wa_tami",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Ryan's chat with Tamara Johnson.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.c37ca02aa2c8cf4017d4",
+            "conversation_id": "conv-rm-tami",
+            "direction": "inbound",
+            "from_wa_id": "14105550186",
+            "to_wa_id": "15551550100",
+            "type": "text",
+            "text": "Saturday: are you bringing the wine or the dip? Need to know by tomorrow!",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-10T17:25:00Z"
+          }
+        },
+        "fires_at_turn": "T12"
+      }
+    ]
+  }
+}

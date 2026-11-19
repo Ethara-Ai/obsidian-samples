@@ -1,0 +1,72 @@
+[
+  {
+    "email": "dana.whitfield@lakeshoredesign.example",
+    "display_name": "Dana Whitfield",
+    "type": "user"
+  },
+  {
+    "email": "marcus.oyelaran@lakeshoredesign.example",
+    "display_name": "Marcus Oyelaran",
+    "type": "user"
+  },
+  {
+    "email": "priya.raman@lakeshoredesign.example",
+    "display_name": "Priya Raman",
+    "type": "user"
+  },
+  {
+    "email": "tomas.lindqvist@lakeshoredesign.example",
+    "display_name": "Tomas Lindqvist",
+    "type": "user"
+  },
+  {
+    "email": "hannah.brooks@lakeshoredesign.example",
+    "display_name": "Hannah Brooks",
+    "type": "user"
+  },
+  {
+    "email": "jerome.castillo@lakeshoredesign.example",
+    "display_name": "Jerome Castillo",
+    "type": "user"
+  },
+  {
+    "email": "leah.novak@lakeshoredesign.example",
+    "display_name": "Leah Novak",
+    "type": "user"
+  },
+  {
+    "email": "ben.hartigan@lakeshoredesign.example",
+    "display_name": "Ben Hartigan",
+    "type": "user"
+  },
+  {
+    "email": "sofia.marchetti@lakeshoredesign.example",
+    "display_name": "Sofia Marchetti",
+    "type": "user"
+  },
+  {
+    "email": "team@lakeshoredesign.example",
+    "display_name": "Lakeshore Design Team",
+    "type": "group"
+  },
+  {
+    "email": "a.brandt@brightwell-hospitality.example",
+    "display_name": "Alicia Brandt",
+    "type": "user"
+  },
+  {
+    "email": "omar@harborstreetcafe.example",
+    "display_name": "Omar Haddad",
+    "type": "user"
+  },
+  {
+    "email": "greta@pressworks-chicago.example",
+    "display_name": "Greta Sims",
+    "type": "user"
+  },
+  {
+    "email": "kalvarado@alvaradotax.example",
+    "display_name": "Ken Alvarado",
+    "type": "user"
+  }
+]

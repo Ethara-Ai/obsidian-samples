@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0",
+    "name": "All Files",
+    "parent_id": "",
+    "description": "",
+    "owner_account_id": "acct-dana-whitfield",
+    "sequence_id": 0,
+    "created_at": "2026-06-02T09:00:00-05:00",
+    "modified_at": "2026-11-10T09:00:00-06:00",
+    "created_by": "19382711",
+    "modified_by": "19382711",
+    "owned_by": "19382711"
+  },
+  {
+    "id": "254781930087",
+    "name": "MEA Local 780 Policy",
+    "parent_id": "0",
+    "description": "Union policy PDFs from the district share.",
+    "owner_account_id": "acct-dana-whitfield",
+    "sequence_id": 3,
+    "created_at": "2026-06-02T09:00:00-05:00",
+    "modified_at": "2026-10-05T09:00:00-05:00",
+    "created_by": "19382711",
+    "modified_by": "19382711",
+    "owned_by": "19382711"
+  },
+  {
+    "id": "254781930088",
+    "name": "CTE Budget",
+    "parent_id": "0",
+    "description": "Career and technical education budget documents.",
+    "owner_account_id": "acct-dana-whitfield",
+    "sequence_id": 2,
+    "created_at": "2026-06-02T09:00:00-05:00",
+    "modified_at": "2026-11-10T09:00:00-06:00",
+    "created_by": "19382711",
+    "modified_by": "19382711",
+    "owned_by": "19382711"
+  },
+  {
+    "id": "254781930089",
+    "name": "Ridgeway Shop Safety",
+    "parent_id": "0",
+    "description": "Shop safety plans and inspection records.",
+    "owner_account_id": "acct-dana-whitfield",
+    "sequence_id": 1,
+    "created_at": "2026-06-04T09:00:00-05:00",
+    "modified_at": "2026-09-14T09:00:00-05:00",
+    "created_by": "19382711",
+    "modified_by": "19382711",
+    "owned_by": "19382711"
+  }
+]

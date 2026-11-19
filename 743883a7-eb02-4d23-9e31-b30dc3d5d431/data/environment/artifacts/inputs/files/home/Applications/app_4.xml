@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<property_listings agent="Brittany Morales" brokerage="SunCoast Realty Group" generated="2026-10-10">
+
+  <listing id="LST-2026-001" status="active">
+    <address>
+      <street>1014 E Frierson Ave</street>
+      <city>Tampa</city>
+      <state>FL</state>
+      <zip>33603</zip>
+      <neighborhood>Seminole Heights</neighborhood>
+    </address>
+    <property_type>Single Family</property_type>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <square_feet>1540</square_feet>
+    <list_price>389000</list_price>
+    <price_per_sqft>252.60</price_per_sqft>
+    <year_built>1948</year_built>
+    <parcel_id>A-19-29-18-4QK-000012-00040</parcel_id>
+    <list_date>2026-01-12</list_date>
+    <days_on_market>272</days_on_market>
+    <features>
+      <feature>Original hardwood floors throughout</feature>
+      <feature>Front porch with craftsman columns</feature>
+      <feature>Updated kitchen with tile backsplash</feature>
+      <feature>Detached one-car garage</feature>
+      <feature>Fenced backyard, mature oaks</feature>
+    </features>
+    <staging>
+      <staged_by>Brittany Morales with Carlos Menendez</staged_by>
+      <stage_date>2026-10-15</stage_date>
+      <stage_cost>1350</stage_cost>
+    </staging>
+    <open_house>
+      <date>2026-10-17</date>
+      <start_time>14:00</start_time>
+      <end_time>16:00</end_time>
+    </open_house>
+    <agent_notes>Price reduction review pending. Bungalow character strong, location appeal high. Target buyers: Petersons at 350K are close - worth a conversation at 375K.</agent_notes>
+  </listing>
+
+  <listing id="LST-2026-002" status="active">
+    <address>
+      <street>12508 Westchester Estates Dr</street>
+      <city>Tampa</city>
+      <state>FL</state>
+      <zip>33626</zip>
+      <neighborhood>Westchase</neighborhood>
+    </address>
+    <property_type>Single Family</property_type>
+    <bedrooms>4</bedrooms>
+    <bathrooms>3</bathrooms>
+    <square_feet>2760</square_feet>
+    <list_price>525000</list_price>
+    <price_per_sqft>190.22</price_per_sqft>
+    <year_built>2007</year_built>
+    <list_date>2026-10-01</list_date>
+    <days_on_market>9</days_on_market>
+    <features>
+      <feature>Quartz island kitchen, seats four</feature>
+      <feature>Screened pool and paver lanai</feature>
+      <feature>Primary suite with soaking tub and dual vanities</feature>
+      <feature>Three-car tandem garage</feature>
+      <feature>Top-rated Westchase school zone</feature>
+      <feature>Minutes from Veterans Expressway</feature>
+    </features>
+    <inspection>
+      <inspection_date>2026-10-09</inspection_date>
+      <inspector>Bay Area Property Inspections</inspector>
+      <license>HI-9921</license>
+      <overall_condition>Good - sale ready</overall_condition>
+      <recommended_repair>Faucet washer at primary bath</recommended_repair>
+    </inspection>
+    <staging>
+      <staged_by>Brittany Morales with Carlos Menendez</staged_by>
+      <stage_date>2026-09-28</stage_date>
+      <stage_cost>2100</stage_cost>
+    </staging>
+    <photos>
+      <photographer>Gabriela Santos</photographer>
+      <shoot_date>2026-10-09</shoot_date>
+      <turnaround_hours>24</turnaround_hours>
+      <fee>250</fee>
+    </photos>
+    <open_house>
+      <date>2026-10-17</date>
+      <start_time>14:00</start_time>
+      <end_time>16:00</end_time>
+    </open_house>
+    <agent_notes>Hot listing. Nguyens attended open house - fits their 4BR school-zone criteria at 500K budget. Follow up Monday. Dana Pruitt and Marcus Webb both hot leads from sign-in sheet.</agent_notes>
+  </listing>
+
+  <listing id="LST-2026-003" status="offer_pending">
+    <address>
+      <street>1120 E Kennedy Blvd</street>
+      <unit>814</unit>
+      <city>Tampa</city>
+      <state>FL</state>
+      <zip>33602</zip>
+      <neighborhood>Channelside</neighborhood>
+    </address>
+    <property_type>Condominium</property_type>
+    <bedrooms>2</bedrooms>
+    <bathrooms>2</bathrooms>
+    <square_feet>1180</square_feet>
+    <list_price>285000</list_price>
+    <price_per_sqft>241.53</price_per_sqft>
+    <year_built>2007</year_built>
+    <hoa_monthly>420</hoa_monthly>
+    <list_date>2026-02-05</list_date>
+    <days_on_market>257</days_on_market>
+    <features>
+      <feature>Water view from balcony</feature>
+      <feature>Deeded parking space</feature>
+      <feature>Building amenities: gym, rooftop pool</feature>
+      <feature>Walkable to Channelside dining and waterfront</feature>
+    </features>
+    <cma_summary>
+      <comp_range_low_per_sqft>234</comp_range_low_per_sqft>
+      <comp_range_high_per_sqft>248</comp_range_high_per_sqft>
+      <recommended_price>285000</recommended_price>
+      <prepared_date>2026-02-02</prepared_date>
+    </cma_summary>
+    <offer_status>
+      <received>true</received>
+      <review_status>Under review with seller</review_status>
+      <expected_close>2026-10-18</expected_close>
+    </offer_status>
+    <agent_notes>Dr. Ramirez toured but prefers waterfront. Pending offer likely from a separate buyer. Waterfront alternatives queued for Dr. Ramirez: 6020 Bayshore Blvd #705.</agent_notes>
+  </listing>
+
+  <closed_sales>
+    <sale id="CLO-2026-001">
+      <address>3811 W Estrella St, Tampa FL 33629</address>
+      <client>Hollis Family</client>
+      <side>Seller</side>
+      <close_date>2026-01-22</close_date>
+      <sale_price>452000</sale_price>
+      <commission_rate>0.025</commission_rate>
+      <gross_commission>11300</gross_commission>
+      <net_commission>9040</net_commission>
+    </sale>
+    <sale id="CLO-2026-002">
+      <address>2240 W Coral St, Tampa FL 33602</address>
+      <client>Andrea Boyd</client>
+      <side>Buyer</side>
+      <close_date>2026-02-09</close_date>
+      <sale_price>318500</sale_price>
+      <commission_rate>0.025</commission_rate>
+      <gross_commission>7962.50</gross_commission>
+      <net_commission>6370</net_commission>
+    </sale>
+    <sale id="CLO-2026-003">
+      <address>6109 Interbay Blvd, Tampa FL 33611</address>
+      <client>Sutton Family</client>
+      <side>Seller</side>
+      <close_date>2026-02-26</close_date>
+      <sale_price>535000</sale_price>
+      <commission_rate>0.025</commission_rate>
+      <gross_commission>13375</gross_commission>
+      <net_commission>10700</net_commission>
+    </sale>
+    <sale id="CLO-2026-004">
+      <address>909 S Howard Ave #312, Tampa FL 33606</address>
+      <client>Patel Family</client>
+      <side>Buyer</side>
+      <close_date>2026-02-28</close_date>
+      <sale_price>529000</sale_price>
+      <commission_rate>0.025</commission_rate>
+      <gross_commission>13225</gross_commission>
+      <net_commission>10580</net_commission>
+    </sale>
+  </closed_sales>
+
+  <ytd_summary as_of="2026-10-10">
+    <closed_volume>1834500</closed_volume>
+    <closed_count>4</closed_count>
+    <net_commission_closed>36690</net_commission_closed>
+    <active_pipeline_value>1199000</active_pipeline_value>
+    <volume_goal>5000000</volume_goal>
+    <volume_gap>3165500</volume_gap>
+  </ytd_summary>
+
+</property_listings>

@@ -1,0 +1,57 @@
+{
+  "stage": 5,
+  "stage_name": "sconce_rehung",
+  "description": "Thursday 17:50: Daniel writes on WhatsApp that the Phase 2 powder-room sconce is rehung, a day early, a decoy that touches nothing in the living room.",
+  "applies_between_turns": [
+    "T13",
+    "T14"
+  ],
+  "applied_at_local_time": "2026-10-29T17:50:00-04:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_dec_daniel_rehung",
+        "service": "whatsapp-api",
+        "description": "Daniel: the sconce is rehung (decoy).",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.HBgL0CA54F19D8363C82ECB0C46D",
+            "conversation_id": "conv-daniel",
+            "direction": "inbound",
+            "from_wa_id": "12025550299",
+            "to_wa_id": "12025550161",
+            "type": "text",
+            "text": "Rehung Mrs P's powder room sconce this afternoon, a day early. All done, nothing needed from you.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-10-29T21:50:00Z"
+          }
+        },
+        "fires_at_turn": "T14"
+      },
+      {
+        "id": "sil_dec_daniel_rehung_conv",
+        "service": "whatsapp-api",
+        "description": "The conversation's last message time moves, and the reply window opens, as on WhatsApp.",
+        "method": "GET",
+        "path": "/v17.0/conversations",
+        "admin": {
+          "op": "patch",
+          "table": "conversations",
+          "pk": "conv-daniel",
+          "set": {
+            "last_message_at": "2026-10-29T21:50:00Z",
+            "within_24h_window": true
+          }
+        },
+        "fires_at_turn": "T14"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "stage": 2,
+  "stage_name": "post_notes_land",
+  "description": "Tuesday 10:05: the notes of Monday afternoon's call with the post-production house gain two lines: the new running time and the new date and hour of the 30-second cut. Nothing announces it.",
+  "applies_between_turns": [
+    "T5",
+    "T6"
+  ],
+  "applied_at_local_time": "2026-12-01T10:05:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_notes_post_runtime",
+        "service": "google-calendar-api",
+        "description": "The post house's note: the running time after the trim.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-c1c9fe65c95f974d",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-c1c9fe65c95f974d",
+          "set": {
+            "description": "Post-call: film length now 86 min after the porch trim."
+          }
+        },
+        "fires_at_turn": "T6"
+      },
+      {
+        "id": "sil_notes_post_teaser",
+        "service": "google-calendar-api",
+        "description": "The post house's note: the 30-second cut moves.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-c1c9fe65c95f974d",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-c1c9fe65c95f974d",
+          "set": {
+            "description": "Post-call: film length now 86 min after the porch trim. The 30-second cut moved to Wed 9 Dec, 10:00."
+          }
+        },
+        "fires_at_turn": "T6"
+      }
+    ]
+  }
+}

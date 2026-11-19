@@ -1,0 +1,70 @@
+[
+  {
+    "uuid": "FT2Q6I3O43OXQKAO",
+    "event_uuid": "XW09LIH1YCHMIAH0",
+    "email": "vernon.holloway@example.com",
+    "first_name": "Vernon",
+    "last_name": "Holloway",
+    "name": "Vernon Holloway",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What do you need built or repaired?",
+        "answer": "Porch railing repair, one loose section.",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-10-01T14:00:00.000000Z",
+    "updated_at": "2026-10-01T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "FT2Q6I3O43OXQKAP",
+    "event_uuid": "XW09LIH1YCHMIAH1",
+    "email": "darnell.washington@gmail.com",
+    "first_name": "Darnell",
+    "last_name": "Washington",
+    "name": "Darnell Washington",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What do you need built or repaired?",
+        "answer": "Hitch rack for the cook trailer.",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-10-01T14:00:00.000000Z",
+    "updated_at": "2026-10-01T14:00:00.000000Z",
+    "cancellation": null,
+    "rescheduled": false
+  },
+  {
+    "uuid": "FT2Q6I3O43OXQKAQ",
+    "event_uuid": "XW09LIH1YCHMIAH2",
+    "email": "keisha.robinson@gmail.com",
+    "first_name": "Keisha",
+    "last_name": "Robinson",
+    "name": "Keisha Robinson",
+    "status": "canceled",
+    "timezone": "America/Chicago",
+    "questions_and_answers": [
+      {
+        "question": "What do you need built or repaired?",
+        "answer": "Garden gate latch.",
+        "position": 0
+      }
+    ],
+    "created_at": "2026-10-01T14:00:00.000000Z",
+    "updated_at": "2026-10-01T14:00:00.000000Z",
+    "cancellation": {
+      "canceled_by": "Keisha Robinson",
+      "reason": "Out of town that weekend.",
+      "canceler_type": "invitee",
+      "created_at": "2026-10-28T14:40:00.000000Z"
+    },
+    "rescheduled": false
+  }
+]

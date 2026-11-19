@@ -1,0 +1,200 @@
+[
+  {
+    "id": "policy",
+    "tailnet": "lakeshoredesign.example",
+    "owner_account_id": "acct-dana-whitfield",
+    "updated": "2026-08-12T16:20:00Z",
+    "document": {
+      "groups": {
+        "group:admins": [
+          "dana.whitfield@lakeshoredesign.example",
+          "leah.novak@lakeshoredesign.example"
+        ],
+        "group:studio": [
+          "dana.whitfield@lakeshoredesign.example",
+          "marcus.oyelaran@lakeshoredesign.example",
+          "leah.novak@lakeshoredesign.example",
+          "priya.raman@lakeshoredesign.example",
+          "hannah.brooks@lakeshoredesign.example",
+          "jerome.castillo@lakeshoredesign.example",
+          "tomas.lindqvist@lakeshoredesign.example",
+          "sofia.marchetti@lakeshoredesign.example",
+          "ben.hartigan@lakeshoredesign.example"
+        ],
+        "group:designers": [
+          "priya.raman@lakeshoredesign.example",
+          "hannah.brooks@lakeshoredesign.example",
+          "jerome.castillo@lakeshoredesign.example",
+          "tomas.lindqvist@lakeshoredesign.example",
+          "sofia.marchetti@lakeshoredesign.example",
+          "ben.hartigan@lakeshoredesign.example"
+        ],
+        "group:contractors": [
+          "lara.dimitrov@quillfield.example",
+          "walt@northbranchmillwork.example"
+        ]
+      },
+      "tagOwners": {
+        "tag:server": [
+          "group:admins"
+        ],
+        "tag:nas": [
+          "group:admins"
+        ],
+        "tag:render": [
+          "group:admins"
+        ],
+        "tag:printer": [
+          "group:admins"
+        ],
+        "tag:exit": [
+          "group:admins"
+        ],
+        "tag:conference": [
+          "group:admins"
+        ],
+        "tag:home": [
+          "dana.whitfield@lakeshoredesign.example"
+        ]
+      },
+      "acls": [
+        {
+          "action": "accept",
+          "src": [
+            "group:admins"
+          ],
+          "dst": [
+            "*:*"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "group:studio"
+          ],
+          "dst": [
+            "tag:nas:445,5000-5001",
+            "tag:printer:631,9100",
+            "tag:conference:*"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "group:designers"
+          ],
+          "dst": [
+            "tag:render:22,8080",
+            "10.20.0.0/24:*"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "group:contractors"
+          ],
+          "dst": [
+            "tag:nas:5001"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "dana.whitfield@lakeshoredesign.example"
+          ],
+          "dst": [
+            "tag:home:*",
+            "192.168.40.0/24:*"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "tag:render"
+          ],
+          "dst": [
+            "tag:nas:445"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "autogroup:member"
+          ],
+          "dst": [
+            "autogroup:internet:*"
+          ]
+        }
+      ],
+      "autoApprovers": {
+        "routes": {
+          "10.20.0.0/24": [
+            "group:admins"
+          ]
+        },
+        "exitNode": [
+          "tag:exit"
+        ]
+      },
+      "ssh": [
+        {
+          "action": "check",
+          "src": [
+            "group:admins"
+          ],
+          "dst": [
+            "tag:server",
+            "tag:render"
+          ],
+          "users": [
+            "root",
+            "autogroup:nonroot"
+          ]
+        },
+        {
+          "action": "accept",
+          "src": [
+            "group:designers"
+          ],
+          "dst": [
+            "tag:render"
+          ],
+          "users": [
+            "render"
+          ]
+        }
+      ],
+      "nodeAttrs": [
+        {
+          "target": [
+            "tag:render"
+          ],
+          "attr": [
+            "funnel"
+          ]
+        }
+      ],
+      "tests": [
+        {
+          "src": "lara.dimitrov@quillfield.example",
+          "accept": [
+            "tag:nas:5001"
+          ],
+          "deny": [
+            "tag:render:22",
+            "tag:home:443"
+          ]
+        },
+        {
+          "src": "priya.raman@lakeshoredesign.example",
+          "accept": [
+            "tag:render:22"
+          ],
+          "deny": [
+            "tag:home:443"
+          ]
+        }
+      ]
+    }
+  }
+]

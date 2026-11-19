@@ -1,0 +1,26 @@
+[
+ {
+  "id": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "account_id": "acct-jessica-wright",
+  "name": "Jessica Wright",
+  "email": "jessica.wright@finthesiss.ai",
+  "avatar_url": "",
+  "type": "person"
+ },
+ {
+  "id": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "account_id": "acct-jessica-wright",
+  "name": "Priya Chandran",
+  "email": "priya.chandran.dc@gmail.com",
+  "avatar_url": "",
+  "type": "person"
+ },
+ {
+  "id": "4a60f4af-98be-5adf-94e1-8a51b5041bf2",
+  "account_id": "acct-jessica-wright",
+  "name": "WI Connector",
+  "email": "",
+  "avatar_url": "",
+  "type": "bot"
+ }
+]

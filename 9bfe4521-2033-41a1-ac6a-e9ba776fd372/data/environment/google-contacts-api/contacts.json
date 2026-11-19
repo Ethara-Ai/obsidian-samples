@@ -1,0 +1,692 @@
+[
+ {
+  "id": "c9426991083327413624",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Tamika",
+  "family_name": "Clayton",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "tamika.clayton@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550187",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "ex-wife, co-parent",
+  "urls": [],
+  "starred": true,
+  "etag": "%413453646c87c3a5788426"
+ },
+ {
+  "id": "c5222060898084734274",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Marcus",
+  "family_name": "Clayton",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550233",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "son",
+  "urls": [],
+  "starred": true,
+  "etag": "%73c157037e36a37d119d2b"
+ },
+ {
+  "id": "c8134419363978613961",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Dorothy",
+  "family_name": "Holloway",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550142",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "mother (Mama)",
+  "urls": [],
+  "starred": true,
+  "etag": "%9ba5e01cf976ad9ab15800"
+ },
+ {
+  "id": "c1547995366428184944",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Curtis",
+  "family_name": "Clayton",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+14045550198",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "father, Atlanta",
+  "urls": [],
+  "starred": true,
+  "etag": "%4f7ce37b24d382358de3af"
+ },
+ {
+  "id": "c7754442901809238397",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Vernon",
+  "family_name": "Holloway",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550153",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "uncle",
+  "urls": [],
+  "starred": true,
+  "etag": "%4a4a14887a42165b00521c"
+ },
+ {
+  "id": "c4053667780469683518",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Darnell",
+  "family_name": "Washington",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "darnell.washington@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550176",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Smoke Ring BBQ",
+    "title": "best friend, BBQ partner"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%9a5aeec33c4fab9d00638a"
+ },
+ {
+  "id": "c6011128544785852396",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Jerome",
+  "family_name": "Simmons",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550215",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Ridgeway Regional High School",
+    "title": "auto shop teacher"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%007a060cb4148cc38e9da0"
+ },
+ {
+  "id": "c5374681665773238571",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Keisha",
+  "family_name": "Robinson",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "keisha.robinson@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550264",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Ridgeway Regional High School",
+    "title": "English teacher"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%7f59640dc05508ccd5ee2d"
+ },
+ {
+  "id": "c1819385249180351914",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Denise",
+  "family_name": "Patterson",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "dpatterson@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550308",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Ridgeway Regional High School",
+    "title": "principal"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%0c9941afca550f37f3a2c5"
+ },
+ {
+  "id": "c3045104842297480697",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Angela",
+  "family_name": "Brooks",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "angela.brooks.ridgeway@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550562",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Ridgeway Regional High School",
+    "title": "counselor"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%13882a0661f5363c844b4a"
+ },
+ {
+  "id": "c8902166198696134657",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Gail",
+  "family_name": "Haskins",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "gail.haskins@mcs-district.example",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550544",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Memphis City Schools",
+    "title": "CTE coordinator"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%bdd6330f01b3f35a79b3aa"
+ },
+ {
+  "id": "c9097774309443743906",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Monica",
+  "family_name": "Fields",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "summer.enrichment@mcs-district.example",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550590",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Memphis City Schools",
+    "title": "Summer Enrichment"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%c64a65cb74439d53a9e6ff"
+ },
+ {
+  "id": "c4280229501559603620",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Ray",
+  "family_name": "Odom",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "ray@bluffcityweldsupply.example",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550520",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Bluff City Welding Supply",
+    "title": "counter, Lamar Avenue"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%174872df656b140df082e3"
+ },
+ {
+  "id": "c7051578492589374433",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Hattie",
+  "family_name": "Moore",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "hattie.moore@omgarden.example",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550577",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Orange Mound Community Garden",
+    "title": "coordinator"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%878c6a3af0b8cc83ed5874"
+ },
+ {
+  "id": "c1616829274880807655",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Terrence",
+  "family_name": "Banks",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550291",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Orange Mound Tigers",
+    "title": "head coach, 12U"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%ad71aa46e52fcb5e40704e"
+ },
+ {
+  "id": "c4550626566838372075",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Calvin",
+  "family_name": "Reed",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550412",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Orange Mound Tigers",
+    "title": "Tigers dad"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%c98addcbd0479ca660f33c"
+ },
+ {
+  "id": "c7086088598744499245",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Cedric",
+  "family_name": "Pope",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550418",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Orange Mound Tigers",
+    "title": "Tigers dad (Jaylen)"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%0e9d0716b74232adab54cd"
+ },
+ {
+  "id": "c4750697086360814146",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Local 780",
+  "family_name": "Union Hall",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "local780@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550369",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Memphis Education Association Local 780",
+    "title": "union"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%ac9c4c8736b220324e8f09"
+ },
+ {
+  "id": "c6044024827833129040",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "James",
+  "family_name": "Hendricks",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550327",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Baptist Memorial Healthcare",
+    "title": "PCP"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%3df477e4ebe07913be7633"
+ },
+ {
+  "id": "c740221806029717610",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Karen",
+  "family_name": "Mitchell",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550341",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Midtown Audiology",
+    "title": "audiologist"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%3e796178995754b47aa641"
+ },
+ {
+  "id": "c8259743498963580039",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Anne",
+  "family_name": "Lawson",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+19015550355",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Lawson Family Dentistry",
+    "title": "dentist"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%fbfb88a3684c69ab3dceb1"
+ },
+ {
+  "id": "c4181702978448204943",
+  "owner_account_id": "acct-reggie-clayton",
+  "created_time": "2025-01-10T18:00:00.000Z",
+  "update_time": "2026-11-20T18:00:00.000Z",
+  "given_name": "Methodist Le Bonheur",
+  "family_name": "Scheduling",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "rheum.scheduling@mlh-memphis.example",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+19015550472",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [
+   {
+    "name": "Methodist Le Bonheur Healthcare",
+    "title": "Mama's appointments"
+   }
+  ],
+  "addresses": [],
+  "birthday": null,
+  "biography": "",
+  "urls": [],
+  "starred": false,
+  "etag": "%ef6357a114c89c9e53226f"
+ }
+]

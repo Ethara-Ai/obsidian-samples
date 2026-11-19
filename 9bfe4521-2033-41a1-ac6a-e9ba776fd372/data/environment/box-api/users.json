@@ -1,0 +1,23 @@
+[
+  {
+    "id": "19382711",
+    "name": "Reggie Clayton",
+    "login": "reggie.clayton@finthesiss.ai",
+    "account_id": "acct-dana-whitfield",
+    "is_owner": true
+  },
+  {
+    "id": "19382745",
+    "name": "Denise Patterson",
+    "login": "dpatterson@gmail.com",
+    "account_id": "acct-dana-whitfield",
+    "is_owner": false
+  },
+  {
+    "id": "19382763",
+    "name": "Keisha Robinson",
+    "login": "keisha.robinson@gmail.com",
+    "account_id": "acct-dana-whitfield",
+    "is_owner": false
+  }
+]

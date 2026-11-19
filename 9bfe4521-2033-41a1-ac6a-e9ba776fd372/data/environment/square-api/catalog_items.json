@@ -1,0 +1,46 @@
+[
+ {
+  "id": "ITEM_BRISKET",
+  "type": "ITEM",
+  "name": "Brisket plate",
+  "description": "Sliced brisket, two sides, white bread",
+  "category": "Booth menu",
+  "variation_id": "VAR_BRISKET",
+  "variation_name": "Regular",
+  "price_amount": "1500",
+  "currency": "USD"
+ },
+ {
+  "id": "ITEM_RIB",
+  "type": "ITEM",
+  "name": "Rib plate",
+  "description": "Half rack, two sides",
+  "category": "Booth menu",
+  "variation_id": "VAR_RIB",
+  "variation_name": "Regular",
+  "price_amount": "1200",
+  "currency": "USD"
+ },
+ {
+  "id": "ITEM_PORK",
+  "type": "ITEM",
+  "name": "Pulled pork sandwich",
+  "description": "Pulled pork on a bun with slaw",
+  "category": "Booth menu",
+  "variation_id": "VAR_PORK",
+  "variation_name": "Regular",
+  "price_amount": "800",
+  "currency": "USD"
+ },
+ {
+  "id": "ITEM_TEA",
+  "type": "ITEM",
+  "name": "Sweet tea",
+  "description": "Large cup, brewed that morning",
+  "category": "Booth menu",
+  "variation_id": "VAR_TEA",
+  "variation_name": "Regular",
+  "price_amount": "150",
+  "currency": "USD"
+ }
+]

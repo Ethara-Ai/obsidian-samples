@@ -1,0 +1,70 @@
+[
+  {
+    "uuid": "Z1UZI0P6L6HXOSB7",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Saturday welding consult",
+    "slug": "saturday-welding-consult",
+    "duration": 30,
+    "locations": [
+      {
+        "kind": "physical",
+        "location": "Back-alley garage, Orange Mound, Memphis"
+      }
+    ],
+    "color": "#d9822b",
+    "position": 0,
+    "active": true,
+    "secret": false,
+    "description": "Saturday morning look at a railing, gate or repair job at the garage.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "What do you need built or repaired?",
+        "type": "text",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      }
+    ],
+    "created_at": "2026-06-05T15:00:00.000000Z",
+    "updated_at": "2026-08-18T15:00:00.000000Z"
+  },
+  {
+    "uuid": "Z1UZI0P6L6HXOSB8",
+    "user_uuid": "42NTS4KYNC3YWW5R",
+    "name": "Parent-teacher conference",
+    "slug": "parent-teacher-conference",
+    "duration": 15,
+    "locations": [
+      {
+        "kind": "physical",
+        "location": "Ridgeway Regional High School, industrial arts wing"
+      }
+    ],
+    "color": "#2b6cd9",
+    "position": 1,
+    "active": true,
+    "secret": false,
+    "description": "Fall conference slot at Ridgeway Regional High School.",
+    "internal_note": "",
+    "kind": "solo",
+    "invitee_limit": 1,
+    "custom_questions": [
+      {
+        "name": "Which class is your student in?",
+        "type": "text",
+        "required": true,
+        "enabled": true,
+        "answer_choices": [],
+        "include_other": false,
+        "position": 0
+      }
+    ],
+    "created_at": "2026-06-05T15:00:00.000000Z",
+    "updated_at": "2026-08-18T15:00:00.000000Z"
+  }
+]

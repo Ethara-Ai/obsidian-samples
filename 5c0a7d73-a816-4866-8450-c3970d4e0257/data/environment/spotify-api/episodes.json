@@ -1,0 +1,542 @@
+[
+  {
+    "id": "5mBmah41q4Fur3okShgIrt",
+    "show_id": "92xOY7pTFPDJHTZo16Pglo",
+    "name": "Making Practice Stick",
+    "description": "In this episode of Practice Room, Ruth Bell digs into making Practice Stick.",
+    "release_date": "2026-01-14",
+    "duration_ms": "1994738",
+    "explicit": "false"
+  },
+  {
+    "id": "thFQiTtjSFvY02sIT1cuh2",
+    "show_id": "92xOY7pTFPDJHTZo16Pglo",
+    "name": "Slow Is Fast: Metronome Habits",
+    "description": "In this episode of Practice Room, Ruth Bell digs into slow Is Fast: Metronome Habits.",
+    "release_date": "2026-02-03",
+    "duration_ms": "1397252",
+    "explicit": "false"
+  },
+  {
+    "id": "XBIkSzVSUh3DmNhuTLOIvu",
+    "show_id": "92xOY7pTFPDJHTZo16Pglo",
+    "name": "Practicing for Auditions",
+    "description": "In this episode of Practice Room, Ruth Bell digs into practicing for Auditions.",
+    "release_date": "2026-02-25",
+    "duration_ms": "1554537",
+    "explicit": "false"
+  },
+  {
+    "id": "KH6Krez0omEg0Dq0YsOaTp",
+    "show_id": "92xOY7pTFPDJHTZo16Pglo",
+    "name": "When Students Hit a Plateau",
+    "description": "In this episode of Practice Room, Ruth Bell digs into when Students Hit a Plateau.",
+    "release_date": "2026-03-16",
+    "duration_ms": "3168687",
+    "explicit": "false"
+  },
+  {
+    "id": "ItOsU2090oVGSghuUBjTQc",
+    "show_id": "Q5Y00a6kunz86hL5V1w53m",
+    "name": "Running a Tight First Rehearsal",
+    "description": "In this episode of Rehearsal Notes, Gary Pham digs into running a Tight First Rehearsal.",
+    "release_date": "2026-01-06",
+    "duration_ms": "1133263",
+    "explicit": "false"
+  },
+  {
+    "id": "aLCXDoUMPmCkuhjxJPI2fK",
+    "show_id": "Q5Y00a6kunz86hL5V1w53m",
+    "name": "Warm-ups That Actually Warm Up",
+    "description": "In this episode of Rehearsal Notes, Gary Pham digs into warm-ups That Actually Warm Up.",
+    "release_date": "2026-01-27",
+    "duration_ms": "2724393",
+    "explicit": "false"
+  },
+  {
+    "id": "tDlS8x6YG98lmFHTFyVtMD",
+    "show_id": "Q5Y00a6kunz86hL5V1w53m",
+    "name": "Sectionals Without Chaos",
+    "description": "In this episode of Rehearsal Notes, Gary Pham digs into sectionals Without Chaos.",
+    "release_date": "2026-02-19",
+    "duration_ms": "1223602",
+    "explicit": "false"
+  },
+  {
+    "id": "4V4xfq3Z3TN9dw9PZ3vVFG",
+    "show_id": "Q5Y00a6kunz86hL5V1w53m",
+    "name": "Dress Rehearsal Checklist",
+    "description": "In this episode of Rehearsal Notes, Gary Pham digs into dress Rehearsal Checklist.",
+    "release_date": "2026-03-11",
+    "duration_ms": "1814778",
+    "explicit": "false"
+  },
+  {
+    "id": "bIxOS8jUVTVCjfFmMkE1RD",
+    "show_id": "AMwBfm5sgZPv76a3sQmozX",
+    "name": "Reading a Full Score for the First Time",
+    "description": "In this episode of The Score Reader, Imogen Hale digs into reading a Full Score for the First Time.",
+    "release_date": "2026-01-12",
+    "duration_ms": "3253733",
+    "explicit": "false"
+  },
+  {
+    "id": "wZzs9jAIbxb9ZEIyyZMEGj",
+    "show_id": "AMwBfm5sgZPv76a3sQmozX",
+    "name": "Why Bach Still Works",
+    "description": "In this episode of The Score Reader, Imogen Hale digs into why Bach Still Works.",
+    "release_date": "2026-02-01",
+    "duration_ms": "2183291",
+    "explicit": "false"
+  },
+  {
+    "id": "v7M0bKuQDe3GI3yKWHCnEg",
+    "show_id": "AMwBfm5sgZPv76a3sQmozX",
+    "name": "Clarinets in Transposition",
+    "description": "In this episode of The Score Reader, Imogen Hale digs into clarinets in Transposition.",
+    "release_date": "2026-02-22",
+    "duration_ms": "1832983",
+    "explicit": "false"
+  },
+  {
+    "id": "KkQzwp2M8l4BzgvzDp90MS",
+    "show_id": "AMwBfm5sgZPv76a3sQmozX",
+    "name": "Conducting Patterns Demystified",
+    "description": "In this episode of The Score Reader, Imogen Hale digs into conducting Patterns Demystified.",
+    "release_date": "2026-03-15",
+    "duration_ms": "1568852",
+    "explicit": "false"
+  },
+  {
+    "id": "ygsKmxnhJ5AM2uVOgwG9e2",
+    "show_id": "3JiDyhMgXBTIvITzCugUIc",
+    "name": "Rhythm Changes Explained",
+    "description": "In this episode of Jazz After Hours, Marcus Webb digs into rhythm Changes Explained.",
+    "release_date": "2026-01-09",
+    "duration_ms": "2101042",
+    "explicit": "false"
+  },
+  {
+    "id": "FCZ5awlh5ueU5FjkdHr6V7",
+    "show_id": "3JiDyhMgXBTIvITzCugUIc",
+    "name": "Comping for Beginners",
+    "description": "In this episode of Jazz After Hours, Marcus Webb digs into comping for Beginners.",
+    "release_date": "2026-01-31",
+    "duration_ms": "2146065",
+    "explicit": "false"
+  },
+  {
+    "id": "reBxzpRNY4KQ4WxjwYPdUm",
+    "show_id": "3JiDyhMgXBTIvITzCugUIc",
+    "name": "The Art of the Walking Bass Line",
+    "description": "In this episode of Jazz After Hours, Marcus Webb digs into the Art of the Walking Bass Line.",
+    "release_date": "2026-02-20",
+    "duration_ms": "1293272",
+    "explicit": "false"
+  },
+  {
+    "id": "w1eeV8I3VDy7eU4g5ngxvO",
+    "show_id": "3JiDyhMgXBTIvITzCugUIc",
+    "name": "Trading Fours",
+    "description": "In this episode of Jazz After Hours, Marcus Webb digs into trading Fours.",
+    "release_date": "2026-03-14",
+    "duration_ms": "1144386",
+    "explicit": "false"
+  },
+  {
+    "id": "b0P7VQwOarpKXqXXs9twzy",
+    "show_id": "sXnHzPDNTVzrDVKulI8Ld4",
+    "name": "The Night the Tuba Went Missing",
+    "description": "In this episode of Band Room Stories, Dale Okafor digs into the Night the Tuba Went Missing.",
+    "release_date": "2026-01-10",
+    "duration_ms": "2715406",
+    "explicit": "false"
+  },
+  {
+    "id": "IzlHpCkVAbWqK2CAFp3E5Y",
+    "show_id": "sXnHzPDNTVzrDVKulI8Ld4",
+    "name": "Halftime Show Disasters",
+    "description": "In this episode of Band Room Stories, Dale Okafor digs into halftime Show Disasters.",
+    "release_date": "2026-01-31",
+    "duration_ms": "2125442",
+    "explicit": "false"
+  },
+  {
+    "id": "shsfs5nj4fgxJDrCUis26U",
+    "show_id": "sXnHzPDNTVzrDVKulI8Ld4",
+    "name": "Starting a Program from Scratch",
+    "description": "In this episode of Band Room Stories, Dale Okafor digs into starting a Program from Scratch.",
+    "release_date": "2026-02-21",
+    "duration_ms": "2138257",
+    "explicit": "false"
+  },
+  {
+    "id": "fC6YvnQFkpbB8IohsW08Sv",
+    "show_id": "sXnHzPDNTVzrDVKulI8Ld4",
+    "name": "Fundraising Without Candy",
+    "description": "In this episode of Band Room Stories, Dale Okafor digs into fundraising Without Candy.",
+    "release_date": "2026-03-14",
+    "duration_ms": "1791716",
+    "explicit": "false"
+  },
+  {
+    "id": "xagR2OWJU8G0FObhiWbQfz",
+    "show_id": "qEevLhRK5nJaPZ434Q5TgW",
+    "name": "Writing the Second Verse",
+    "description": "In this episode of Songwriters' Kitchen, Priscilla Nguyen digs into writing the Second Verse.",
+    "release_date": "2026-01-10",
+    "duration_ms": "2355700",
+    "explicit": "false"
+  },
+  {
+    "id": "2CKWTcvf6a5XQxKkndTZYl",
+    "show_id": "qEevLhRK5nJaPZ434Q5TgW",
+    "name": "Lyrics from Overheard Conversations",
+    "description": "In this episode of Songwriters' Kitchen, Priscilla Nguyen digs into lyrics from Overheard Conversations.",
+    "release_date": "2026-01-30",
+    "duration_ms": "3125756",
+    "explicit": "false"
+  },
+  {
+    "id": "ItkBKizzWxKV1gtJ51uF5L",
+    "show_id": "qEevLhRK5nJaPZ434Q5TgW",
+    "name": "Chord Progressions Beyond I-IV-V",
+    "description": "In this episode of Songwriters' Kitchen, Priscilla Nguyen digs into chord Progressions Beyond I-IV-V.",
+    "release_date": "2026-02-19",
+    "duration_ms": "2703975",
+    "explicit": "false"
+  },
+  {
+    "id": "EyV5kcQhBvvzvo5UOelJSU",
+    "show_id": "qEevLhRK5nJaPZ434Q5TgW",
+    "name": "Co-writing Etiquette",
+    "description": "In this episode of Songwriters' Kitchen, Priscilla Nguyen digs into co-writing Etiquette.",
+    "release_date": "2026-03-12",
+    "duration_ms": "2928958",
+    "explicit": "false"
+  },
+  {
+    "id": "TzZpH3Oxa86InKvs4scAYX",
+    "show_id": "4hLIaBW5BzNumSBs5TxDm4",
+    "name": "Grant Writing for Music Teachers",
+    "description": "In this episode of Teaching Artists Weekly, Hana Sorensen digs into grant Writing for Music Teachers.",
+    "release_date": "2026-01-12",
+    "duration_ms": "2431370",
+    "explicit": "false"
+  },
+  {
+    "id": "wbi0icZ74yd0tqF54aNbvC",
+    "show_id": "4hLIaBW5BzNumSBs5TxDm4",
+    "name": "Inclusive Classrooms",
+    "description": "In this episode of Teaching Artists Weekly, Hana Sorensen digs into inclusive Classrooms.",
+    "release_date": "2026-01-31",
+    "duration_ms": "1622922",
+    "explicit": "false"
+  },
+  {
+    "id": "WtMXZn2Q2L8TGb0wbfrqkc",
+    "show_id": "4hLIaBW5BzNumSBs5TxDm4",
+    "name": "Assessment Without Tests",
+    "description": "In this episode of Teaching Artists Weekly, Hana Sorensen digs into assessment Without Tests.",
+    "release_date": "2026-02-21",
+    "duration_ms": "1193032",
+    "explicit": "false"
+  },
+  {
+    "id": "8Xlpsb9pDGSob1kZtDX8Fu",
+    "show_id": "4hLIaBW5BzNumSBs5TxDm4",
+    "name": "Building Community Partnerships",
+    "description": "In this episode of Teaching Artists Weekly, Hana Sorensen digs into building Community Partnerships.",
+    "release_date": "2026-03-14",
+    "duration_ms": "2814698",
+    "explicit": "false"
+  },
+  {
+    "id": "QCur0ZvogBuHBjcRXSeP4f",
+    "show_id": "DRSm26NGQOE7lG3hDER01r",
+    "name": "The Session Players Nobody Credited",
+    "description": "In this episode of Vinyl Archaeology, Felix Aronson digs into the Session Players Nobody Credited.",
+    "release_date": "2026-01-12",
+    "duration_ms": "1611445",
+    "explicit": "false"
+  },
+  {
+    "id": "p6GB5I3lmiyHBGbNZ8I0HY",
+    "show_id": "DRSm26NGQOE7lG3hDER01r",
+    "name": "Reissue Culture",
+    "description": "In this episode of Vinyl Archaeology, Felix Aronson digs into reissue Culture.",
+    "release_date": "2026-02-01",
+    "duration_ms": "1436199",
+    "explicit": "false"
+  },
+  {
+    "id": "pF7PEkNFXjgTllHop9kW82",
+    "show_id": "DRSm26NGQOE7lG3hDER01r",
+    "name": "Pressing Plants Explained",
+    "description": "In this episode of Vinyl Archaeology, Felix Aronson digs into pressing Plants Explained.",
+    "release_date": "2026-02-21",
+    "duration_ms": "2508716",
+    "explicit": "false"
+  },
+  {
+    "id": "jttSzSikyhveb5LafIw8VX",
+    "show_id": "DRSm26NGQOE7lG3hDER01r",
+    "name": "Liner Notes as Literature",
+    "description": "In this episode of Vinyl Archaeology, Felix Aronson digs into liner Notes as Literature.",
+    "release_date": "2026-03-15",
+    "duration_ms": "3008390",
+    "explicit": "false"
+  },
+  {
+    "id": "Bf1NYHNaCawzysItjSH0Vz",
+    "show_id": "2XSkuWY04XyxxmmE7moajr",
+    "name": "Portland's Basement Show Era",
+    "description": "In this episode of Pacific Northwest Sound, June Whitaker digs into portland's Basement Show Era.",
+    "release_date": "2026-01-10",
+    "duration_ms": "2366073",
+    "explicit": "false"
+  },
+  {
+    "id": "xlnYOOmVVTKIJGlXOB4oAM",
+    "show_id": "2XSkuWY04XyxxmmE7moajr",
+    "name": "The Seattle Sound Revisited",
+    "description": "In this episode of Pacific Northwest Sound, June Whitaker digs into the Seattle Sound Revisited.",
+    "release_date": "2026-01-29",
+    "duration_ms": "1093724",
+    "explicit": "false"
+  },
+  {
+    "id": "bAL2h6TtmMOwpnsaCWLAkq",
+    "show_id": "2XSkuWY04XyxxmmE7moajr",
+    "name": "Folk in the Willamette Valley",
+    "description": "In this episode of Pacific Northwest Sound, June Whitaker digs into folk in the Willamette Valley.",
+    "release_date": "2026-02-20",
+    "duration_ms": "2912259",
+    "explicit": "false"
+  },
+  {
+    "id": "NTvZ6yYIB5dwRxbMs6yruH",
+    "show_id": "2XSkuWY04XyxxmmE7moajr",
+    "name": "Venues We Lost",
+    "description": "In this episode of Pacific Northwest Sound, June Whitaker digs into venues We Lost.",
+    "release_date": "2026-03-15",
+    "duration_ms": "2040405",
+    "explicit": "false"
+  },
+  {
+    "id": "IEf5Wh8sraG0myjw9BhjgY",
+    "show_id": "nsyxsjSalctAJmvyMbJQJt",
+    "name": "Hearing Perfect Fifths",
+    "description": "In this episode of Ear Training Daily, Owen Barrett digs into hearing Perfect Fifths.",
+    "release_date": "2026-01-10",
+    "duration_ms": "1553170",
+    "explicit": "false"
+  },
+  {
+    "id": "dJm8WAd1P38zCUEIhy3ECW",
+    "show_id": "nsyxsjSalctAJmvyMbJQJt",
+    "name": "Singing Your Scale Degrees",
+    "description": "In this episode of Ear Training Daily, Owen Barrett digs into singing Your Scale Degrees.",
+    "release_date": "2026-01-30",
+    "duration_ms": "2116533",
+    "explicit": "false"
+  },
+  {
+    "id": "FECQXAPWoL2MBuXU2fTr8I",
+    "show_id": "nsyxsjSalctAJmvyMbJQJt",
+    "name": "Chord Quality by Color",
+    "description": "In this episode of Ear Training Daily, Owen Barrett digs into chord Quality by Color.",
+    "release_date": "2026-02-20",
+    "duration_ms": "2595088",
+    "explicit": "false"
+  },
+  {
+    "id": "WbN8IBVZrUZUGOHn42phNE",
+    "show_id": "nsyxsjSalctAJmvyMbJQJt",
+    "name": "Dictation Strategies",
+    "description": "In this episode of Ear Training Daily, Owen Barrett digs into dictation Strategies.",
+    "release_date": "2026-03-14",
+    "duration_ms": "3126169",
+    "explicit": "false"
+  },
+  {
+    "id": "86OlH5ACSrXnXqsvZLbQ5z",
+    "show_id": "3ZntCNs8lZXUXLhO2wJLEI",
+    "name": "Choosing Your First Amp",
+    "description": "In this episode of Gear and Gigs, Tamsin Reyes digs into choosing Your First Amp.",
+    "release_date": "2026-01-09",
+    "duration_ms": "2233918",
+    "explicit": "false"
+  },
+  {
+    "id": "Yd8bYtsNtRNoK5767rxn5o",
+    "show_id": "3ZntCNs8lZXUXLhO2wJLEI",
+    "name": "Stage Setup Basics",
+    "description": "In this episode of Gear and Gigs, Tamsin Reyes digs into stage Setup Basics.",
+    "release_date": "2026-01-31",
+    "duration_ms": "2782282",
+    "explicit": "false"
+  },
+  {
+    "id": "J2akBsm0BOB0qtZBlopYs6",
+    "show_id": "3ZntCNs8lZXUXLhO2wJLEI",
+    "name": "Gig Bag Essentials",
+    "description": "In this episode of Gear and Gigs, Tamsin Reyes digs into gig Bag Essentials.",
+    "release_date": "2026-02-20",
+    "duration_ms": "1372539",
+    "explicit": "false"
+  },
+  {
+    "id": "V1y9ldkQ4LtPt0bMceJWeO",
+    "show_id": "3ZntCNs8lZXUXLhO2wJLEI",
+    "name": "Reading a Contract",
+    "description": "In this episode of Gear and Gigs, Tamsin Reyes digs into reading a Contract.",
+    "release_date": "2026-03-12",
+    "duration_ms": "1410726",
+    "explicit": "false"
+  },
+  {
+    "id": "WGYRFa58NcFgFvvjmCwcKh",
+    "show_id": "iW7DTwartrqZZILAA5RnPt",
+    "name": "Breathing for Sustained Phrases",
+    "description": "In this episode of Choir Loft, Beatrice Lindgren digs into breathing for Sustained Phrases.",
+    "release_date": "2026-01-10",
+    "duration_ms": "2387487",
+    "explicit": "false"
+  },
+  {
+    "id": "EvOyCDOfRv2H7OCAaY5ugZ",
+    "show_id": "iW7DTwartrqZZILAA5RnPt",
+    "name": "Blend and Balance",
+    "description": "In this episode of Choir Loft, Beatrice Lindgren digs into blend and Balance.",
+    "release_date": "2026-02-01",
+    "duration_ms": "1776899",
+    "explicit": "false"
+  },
+  {
+    "id": "d4LIrfQWvEGnrzqvaQFx0A",
+    "show_id": "iW7DTwartrqZZILAA5RnPt",
+    "name": "Teaching Harmony by Ear",
+    "description": "In this episode of Choir Loft, Beatrice Lindgren digs into teaching Harmony by Ear.",
+    "release_date": "2026-02-23",
+    "duration_ms": "2152561",
+    "explicit": "false"
+  },
+  {
+    "id": "tE9DOWKGXXyWR7sFKt4REo",
+    "show_id": "iW7DTwartrqZZILAA5RnPt",
+    "name": "Concert Programming",
+    "description": "In this episode of Choir Loft, Beatrice Lindgren digs into concert Programming.",
+    "release_date": "2026-03-15",
+    "duration_ms": "2036295",
+    "explicit": "false"
+  },
+  {
+    "id": "kkH8ONzGQdawfgCzrusSDK",
+    "show_id": "YIcojn7YJJpLw0REx6u8IZ",
+    "name": "Subbing in the Pit",
+    "description": "In this episode of The Orchestra Pit, Nate Castellano digs into subbing in the Pit.",
+    "release_date": "2026-01-08",
+    "duration_ms": "1813930",
+    "explicit": "false"
+  },
+  {
+    "id": "Jj3FUdi4GJu5CfxjoYAOwT",
+    "show_id": "YIcojn7YJJpLw0REx6u8IZ",
+    "name": "Cues, Cuts and Vamps",
+    "description": "In this episode of The Orchestra Pit, Nate Castellano digs into cues, Cuts and Vamps.",
+    "release_date": "2026-01-30",
+    "duration_ms": "2624310",
+    "explicit": "false"
+  },
+  {
+    "id": "rxJZwveLyOIafuzHo4CG8F",
+    "show_id": "YIcojn7YJJpLw0REx6u8IZ",
+    "name": "Musical Theater for Strings",
+    "description": "In this episode of The Orchestra Pit, Nate Castellano digs into musical Theater for Strings.",
+    "release_date": "2026-02-19",
+    "duration_ms": "2083198",
+    "explicit": "false"
+  },
+  {
+    "id": "KceDblZoZwubyyvLWtBud1",
+    "show_id": "YIcojn7YJJpLw0REx6u8IZ",
+    "name": "Opening Night Nerves",
+    "description": "In this episode of The Orchestra Pit, Nate Castellano digs into opening Night Nerves.",
+    "release_date": "2026-03-14",
+    "duration_ms": "1448271",
+    "explicit": "false"
+  },
+  {
+    "id": "sce4br8leqki8bNrMISa4a",
+    "show_id": "6d8jRElP1sVoAnoMS5dRyv",
+    "name": "Subdivision Games",
+    "description": "In this episode of Rhythm Lab, Kofi Mensah digs into subdivision Games.",
+    "release_date": "2026-01-12",
+    "duration_ms": "3271522",
+    "explicit": "false"
+  },
+  {
+    "id": "Y5qdFEdyXe6cLM3xgsjYVL",
+    "show_id": "6d8jRElP1sVoAnoMS5dRyv",
+    "name": "Polyrhythms for Beginners",
+    "description": "In this episode of Rhythm Lab, Kofi Mensah digs into polyrhythms for Beginners.",
+    "release_date": "2026-02-01",
+    "duration_ms": "2962406",
+    "explicit": "false"
+  },
+  {
+    "id": "CjzIdFroFZlO2syo3FVNcK",
+    "show_id": "6d8jRElP1sVoAnoMS5dRyv",
+    "name": "Body Percussion in Class",
+    "description": "In this episode of Rhythm Lab, Kofi Mensah digs into body Percussion in Class.",
+    "release_date": "2026-02-23",
+    "duration_ms": "1276605",
+    "explicit": "false"
+  },
+  {
+    "id": "3Hwa7KlWLd9E0Cuf6mbzTc",
+    "show_id": "6d8jRElP1sVoAnoMS5dRyv",
+    "name": "Odd Meters Made Simple",
+    "description": "In this episode of Rhythm Lab, Kofi Mensah digs into odd Meters Made Simple.",
+    "release_date": "2026-03-15",
+    "duration_ms": "1541786",
+    "explicit": "false"
+  },
+  {
+    "id": "FFTUNNBQNk05i6p77qvzPQ",
+    "show_id": "NhunDUqErajv6wWgm6mWrn",
+    "name": "Behind the Season Announcement",
+    "description": "In this episode of Concert Hall Conversations, Elise Marchetti digs into behind the Season Announcement.",
+    "release_date": "2026-01-14",
+    "duration_ms": "1474906",
+    "explicit": "false"
+  },
+  {
+    "id": "D80vD7BlSGdkbG9g2v9ZSK",
+    "show_id": "NhunDUqErajv6wWgm6mWrn",
+    "name": "Conductors on Rehearsal",
+    "description": "In this episode of Concert Hall Conversations, Elise Marchetti digs into conductors on Rehearsal.",
+    "release_date": "2026-02-01",
+    "duration_ms": "2785473",
+    "explicit": "false"
+  },
+  {
+    "id": "8CwmegWOkqnGJAXyCD1jFH",
+    "show_id": "NhunDUqErajv6wWgm6mWrn",
+    "name": "Young Composers Showcase",
+    "description": "In this episode of Concert Hall Conversations, Elise Marchetti digs into young Composers Showcase.",
+    "release_date": "2026-02-22",
+    "duration_ms": "2752709",
+    "explicit": "false"
+  },
+  {
+    "id": "a0Mft9SU7T4bNRZIWFSJfe",
+    "show_id": "NhunDUqErajv6wWgm6mWrn",
+    "name": "Acoustics of a Hall",
+    "description": "In this episode of Concert Hall Conversations, Elise Marchetti digs into acoustics of a Hall.",
+    "release_date": "2026-03-18",
+    "duration_ms": "1131673",
+    "explicit": "false"
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "Google Contacts API Mock v1",
+    "description": "Mock Google People API v1 for contacts. Base URL: http://localhost:8116. In docker-compose: http://google-contacts-api:8116. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8116"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=gcontacts-connector-app&client_secret=gcnt_6b1f4403f61a0379"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"gcontacts-connector-app\", \"client_secret\": \"gcnt_6b1f4403f61a0379\", \"scope\": \"contacts.readonly contacts\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list contacts",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/people/me/connections?personFields=names,emailAddresses,phoneNumbers&pageSize=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list contacts by last name",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/people/me/connections?personFields=names&sortOrder=LAST_NAME_ASCENDING&pageSize=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search contacts by name",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/people:searchContacts?query=alicia&readMask=names,emailAddresses,organizations",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search contacts by phone",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/people:searchContacts?query=312-555-0140&readMask=names,phoneNumbers",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a contact",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/people/c2107818846745706418?personFields=names,emailAddresses,phoneNumbers,organizations,biographies",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a contact",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/people:createContact?personFields=names,emailAddresses,phoneNumbers",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"names\": [{\"givenName\": \"Odile\", \"familyName\": \"Ferrand\"}], \"emailAddresses\": [{\"value\": \"odile@ferrandstudio.example\", \"type\": \"work\"}], \"phoneNumbers\": [{\"value\": \"(312) 555-0199\", \"type\": \"mobile\"}]}"
+        }
+      }
+    },
+    {
+      "name": "update a contact's phone numbers",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/v1/people/c2107818846745706418:updateContact?updatePersonFields=phoneNumbers",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"etag\": \"%Ehy/0UiBB5mVHjIloBAuruytR3\", \"phoneNumbers\": [{\"value\": \"(312) 555-0140\", \"type\": \"work\"}, {\"value\": \"(773) 555-0188\", \"type\": \"mobile\"}]}"
+        }
+      }
+    },
+    {
+      "name": "delete a contact",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/v1/people/<personId>:deleteContact",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

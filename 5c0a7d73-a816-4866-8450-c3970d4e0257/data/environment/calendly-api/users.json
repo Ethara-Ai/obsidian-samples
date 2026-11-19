@@ -1,0 +1,35 @@
+[
+  {
+    "uuid": "42NTS4KYNC3YWW5R",
+    "org_uuid": "0HEBCQM01P53BWFF",
+    "name": "Dana Whitfield",
+    "slug": "dana-whitfield",
+    "email": "dana.whitfield@lakeshoredesign.example",
+    "timezone": "America/Chicago",
+    "role": "owner",
+    "created_at": "2023-02-14T16:20:41.000000Z",
+    "updated_at": "2026-08-30T14:02:11.000000Z"
+  },
+  {
+    "uuid": "270TPG2MMRQSRVLR",
+    "org_uuid": "0HEBCQM01P53BWFF",
+    "name": "Marcus Oyelaran",
+    "slug": "marcus-oyelaran",
+    "email": "marcus.oyelaran@lakeshoredesign.example",
+    "timezone": "America/Chicago",
+    "role": "user",
+    "created_at": "2024-04-02T15:11:09.000000Z",
+    "updated_at": "2026-06-11T18:40:00.000000Z"
+  },
+  {
+    "uuid": "N63J3QOWHG6RI6P2",
+    "org_uuid": "0HEBCQM01P53BWFF",
+    "name": "Leah Novak",
+    "slug": "leah-novak",
+    "email": "leah.novak@lakeshoredesign.example",
+    "timezone": "America/Chicago",
+    "role": "user",
+    "created_at": "2024-09-16T14:30:00.000000Z",
+    "updated_at": "2026-09-20T15:05:00.000000Z"
+  }
+]

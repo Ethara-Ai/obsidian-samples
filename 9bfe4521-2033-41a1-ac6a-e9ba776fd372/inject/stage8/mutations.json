@@ -1,0 +1,64 @@
+{
+  "stage": 8,
+  "stage_name": "rundown",
+  "description": "Friday 17:10: Cedric Pope asks whether Jaylen can ride with them to the cages (on Saturday, while he is working), in a WhatsApp message to Reggie (unannounced). Friday 18:30: Darnell asks him to be at the lot by 9:30 to help set up (on Saturday, before the booth opens), in a WhatsApp message to Reggie (unannounced).",
+  "applies_between_turns": [
+    "T15",
+    "T16"
+  ],
+  "applied_at_local_time": "2026-12-11T18:30:00-06:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_wa_cedric3",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Cedric Pope.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.80ba355fbb9e5126173c",
+            "conversation_id": "conv-rc-cedric",
+            "direction": "inbound",
+            "from_wa_id": "19015550418",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Can Jaylen ride with y'all to the cages tomorrow? I'm on shift.",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-11T23:10:00Z"
+          }
+        },
+        "fires_at_turn": "T16"
+      },
+      {
+        "id": "sil_wa_darnell4",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Darnell Washington.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.7bd01e14b52ed35f6b9a",
+            "conversation_id": "conv-rc-darnell",
+            "direction": "inbound",
+            "from_wa_id": "19015550176",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Smoker's on the trailer. Can you be at the lot by 9:30 to help set up?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-12T00:30:00Z"
+          }
+        },
+        "fires_at_turn": "T16"
+      }
+    ]
+  }
+}

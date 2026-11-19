@@ -1,0 +1,32 @@
+[
+  {
+    "driver_id": "2eba6c22-ae66-58af-84fa-676ed81086c4",
+    "city_id": "memphis",
+    "product_group": "uberx",
+    "name": "Marcus",
+    "phone_number": "+19015550911",
+    "sms_number": "+19015550911",
+    "rating": 4.84,
+    "picture_url": "https://d1w2poirtb3as9.cloudfront.net/img/drivers/d.png",
+    "vehicle_make": "Honda",
+    "vehicle_model": "Accord",
+    "vehicle_color": "Gray",
+    "license_plate": "TN 4821",
+    "vehicle_picture_url": "https://d1w2poirtb3as9.cloudfront.net/img/cars/c.png"
+  },
+  {
+    "driver_id": "7f2b9211-ae66-58af-84fa-676ed81086c4",
+    "city_id": "memphis",
+    "product_group": "uberx",
+    "name": "Lena",
+    "phone_number": "+19015550922",
+    "sms_number": "+19015550922",
+    "rating": 4.84,
+    "picture_url": "https://d1w2poirtb3as9.cloudfront.net/img/drivers/d.png",
+    "vehicle_make": "Toyota",
+    "vehicle_model": "Highlander",
+    "vehicle_color": "Black",
+    "license_plate": "TN 7710",
+    "vehicle_picture_url": "https://d1w2poirtb3as9.cloudfront.net/img/cars/c.png"
+  }
+]

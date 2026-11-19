@@ -1,0 +1,32 @@
+{
+  "stage": 3,
+  "stage_name": "booking_notes_land",
+  "description": "Tuesday 18:40: the notes of Tuesday morning's call with the facility gain a line: the colour day moves to a later day and an earlier hour. Nothing announces it.",
+  "applies_between_turns": [
+    "T7",
+    "T8"
+  ],
+  "applied_at_local_time": "2026-12-01T18:40:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_notes_booking_grade",
+        "service": "google-calendar-api",
+        "description": "The facility's note: the colour day moves.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-eaed2e0fc284bf09",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-eaed2e0fc284bf09",
+          "set": {
+            "description": "Post-call: colour day moved to Tue 15 Dec, 09:30."
+          }
+        },
+        "fires_at_turn": "T8"
+      }
+    ]
+  }
+}

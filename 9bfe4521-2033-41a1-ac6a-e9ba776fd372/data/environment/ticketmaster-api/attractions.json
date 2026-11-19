@@ -1,0 +1,34 @@
+[
+ {
+  "id": "att-grizzlies",
+  "name": "Memphis Grizzlies",
+  "type": "team",
+  "segment": "Sports",
+  "genre": "Basketball",
+  "upcoming_events": "4"
+ },
+ {
+  "id": "att-tigers",
+  "name": "Memphis Tigers Men's Basketball",
+  "type": "team",
+  "segment": "Sports",
+  "genre": "Basketball",
+  "upcoming_events": "2"
+ },
+ {
+  "id": "att-ballet",
+  "name": "Ballet Memphis",
+  "type": "performer",
+  "segment": "Arts & Theatre",
+  "genre": "Dance",
+  "upcoming_events": "1"
+ },
+ {
+  "id": "att-revue",
+  "name": "Beale Street Soul Revue",
+  "type": "performer",
+  "segment": "Music",
+  "genre": "R&B",
+  "upcoming_events": "1"
+ }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "id": "rec_zgzyb7zxcdxhrr",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_cn4x7e3hgb3f87",
+    "category": "supplements",
+    "title": "Start vitamin D3, 2,000 IU a day",
+    "body": "Vitamin D was 22 ng/mL, below range. Take it with a meal that has some fat, and retest at mid-year.",
+    "biomarker_ids": [
+      "vitamin-d"
+    ],
+    "status": "completed",
+    "created_at": "2025-04-28T03:41:00Z"
+  },
+  {
+    "id": "rec_j8crntyqprk2ha",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_cn4x7e3hgb3f87",
+    "category": "nutrition",
+    "title": "Eat more iron-rich foods",
+    "body": "Ferritin (14 ng/mL), hemoglobin and MCV were low together, a pattern of low iron stores. Pair beans, lentils, spinach and red meat with vitamin C.",
+    "biomarker_ids": [
+      "ferritin",
+      "hemoglobin",
+      "mcv"
+    ],
+    "status": "completed",
+    "created_at": "2025-04-28T16:41:00Z"
+  },
+  {
+    "id": "rec_my4g8hyyv1ed6z",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_cn4x7e3hgb3f87",
+    "category": "follow_up",
+    "title": "Discuss low iron with your doctor",
+    "body": "Low ferritin with low hemoglobin is worth a conversation about the cause and whether to supplement.",
+    "biomarker_ids": [
+      "ferritin",
+      "hemoglobin"
+    ],
+    "status": "completed",
+    "created_at": "2025-04-28T21:41:00Z"
+  },
+  {
+    "id": "rec_n52gdf9w9h440m",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_cn4x7e3hgb3f87",
+    "category": "nutrition",
+    "title": "Lower saturated fat",
+    "body": "LDL (132 mg/dL) and ApoB (98 mg/dL) were above range. Swap butter and fatty meats for olive oil, fish and legumes.",
+    "biomarker_ids": [
+      "ldl-cholesterol",
+      "apob"
+    ],
+    "status": "completed",
+    "created_at": "2025-04-28T02:41:00Z"
+  },
+  {
+    "id": "rec_hr615v6yp8bs5x",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_cn4x7e3hgb3f87",
+    "category": "supplements",
+    "title": "Add an omega-3 supplement or two fish meals a week",
+    "body": "The omega-3 index was 4.6 percent.",
+    "biomarker_ids": [
+      "omega-3-index"
+    ],
+    "status": "completed",
+    "created_at": "2025-04-28T22:41:00Z"
+  },
+  {
+    "id": "rec_frn3jvp62rmrbw",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ze02x6k987rxpc",
+    "category": "exercise",
+    "title": "Keep up cardio three or more days a week",
+    "body": "HDL rose to 61 mg/dL and hs-CRP fell to 1.4 mg/L since April.",
+    "biomarker_ids": [
+      "hdl-cholesterol",
+      "hs-crp"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-30T15:36:00Z"
+  },
+  {
+    "id": "rec_ec22vr5adkgban",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ze02x6k987rxpc",
+    "category": "supplements",
+    "title": "Continue vitamin D3",
+    "body": "Vitamin D is back in range at 34 ng/mL.",
+    "biomarker_ids": [
+      "vitamin-d"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-30T23:36:00Z"
+  },
+  {
+    "id": "rec_p463kkxm2vq190",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ryqbc371ajqfd6",
+    "category": "nutrition",
+    "title": "Choose low-mercury fish",
+    "body": "Mercury was 11.2 ug/L, above range. Swap tuna and swordfish for salmon, sardines or trout, and keep tuna to once a week.",
+    "biomarker_ids": [
+      "mercury"
+    ],
+    "status": "completed",
+    "created_at": "2026-04-21T19:48:00Z"
+  },
+  {
+    "id": "rec_dp553ydnrmwcza",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ryqbc371ajqfd6",
+    "category": "follow_up",
+    "title": "Talk to your doctor about LDL and ApoB",
+    "body": "LDL (118 mg/dL) and ApoB (92 mg/dL) are still above range a year in. Bring these results to your annual physical.",
+    "biomarker_ids": [
+      "ldl-cholesterol",
+      "apob"
+    ],
+    "status": "completed",
+    "created_at": "2026-04-21T06:48:00Z"
+  },
+  {
+    "id": "rec_hpgpzd3ws5y6ww",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ryqbc371ajqfd6",
+    "category": "nutrition",
+    "title": "Add soluble fiber",
+    "body": "Oats, barley, beans and psyllium lower LDL. Aim for 10 grams of soluble fiber a day.",
+    "biomarker_ids": [
+      "ldl-cholesterol"
+    ],
+    "status": "active",
+    "created_at": "2026-04-21T12:48:00Z"
+  },
+  {
+    "id": "rec_pajc6ws1abw68f",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ryqbc371ajqfd6",
+    "category": "exercise",
+    "title": "Add two strength sessions a week",
+    "body": "Muscle supports insulin sensitivity; insulin is in range at 5.1 uIU/mL, keep it there.",
+    "biomarker_ids": [
+      "insulin"
+    ],
+    "status": "active",
+    "created_at": "2026-04-21T07:48:00Z"
+  },
+  {
+    "id": "rec_taynwkz04gnwc6",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_ryqbc371ajqfd6",
+    "category": "sleep",
+    "title": "Keep a regular bedtime",
+    "body": "Consistent sleep supports cortisol rhythm and blood pressure.",
+    "biomarker_ids": [
+      "cortisol"
+    ],
+    "status": "active",
+    "created_at": "2026-04-21T01:48:00Z"
+  },
+  {
+    "id": "rec_gmh7p4ys8q7ntv",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_q5v9q78haejz55",
+    "category": "follow_up",
+    "title": "Recheck morning cortisol",
+    "body": "Morning cortisol was 21.4 ug/dL, just above range. Stress, poor sleep or a hard workout the day before can raise it; retest at your next visit.",
+    "biomarker_ids": [
+      "cortisol"
+    ],
+    "status": "active",
+    "created_at": "2026-09-14T23:52:00Z"
+  },
+  {
+    "id": "rec_y3c78g9b87rt6q",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_q5v9q78haejz55",
+    "category": "lifestyle",
+    "title": "Plan recovery during busy weeks",
+    "body": "Cortisol was above range while other markers held steady. Protect sleep and lighter training in high-stress stretches.",
+    "biomarker_ids": [
+      "cortisol"
+    ],
+    "status": "active",
+    "created_at": "2026-09-14T22:52:00Z"
+  },
+  {
+    "id": "rec_a2g29dc1bpzs98",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_q5v9q78haejz55",
+    "category": "nutrition",
+    "title": "Keep fish low in mercury",
+    "body": "Mercury fell back in range to 6.1 ug/L.",
+    "biomarker_ids": [
+      "mercury"
+    ],
+    "status": "active",
+    "created_at": "2026-09-14T16:52:00Z"
+  },
+  {
+    "id": "rec_h2wz4kk2bgvjcr",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_q5v9q78haejz55",
+    "category": "follow_up",
+    "title": "LDL and ApoB are improving",
+    "body": "ApoB is back in range at 86 mg/dL, and LDL fell to 109 mg/dL, still above range. Keep the fiber and fat changes and recheck in April.",
+    "biomarker_ids": [
+      "ldl-cholesterol",
+      "apob"
+    ],
+    "status": "active",
+    "created_at": "2026-09-14T21:52:00Z"
+  },
+  {
+    "id": "rec_zj8r4365ft1es4",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_q5v9q78haejz55",
+    "category": "supplements",
+    "title": "Keep iron at food levels",
+    "body": "Ferritin is 36 ng/mL and hemoglobin 13.4 g/dL, both in range. No iron supplement is needed.",
+    "biomarker_ids": [
+      "ferritin",
+      "hemoglobin"
+    ],
+    "status": "active",
+    "created_at": "2026-09-13T20:52:00Z"
+  },
+  {
+    "id": "rec_kk92g4t6rxhgfs",
+    "owner_account_id": "acct-dana-whitfield",
+    "visit_id": "vis_q5v9q78haejz55",
+    "category": "exercise",
+    "title": "Keep the cycling going",
+    "body": "HDL reached 66 mg/dL and hs-CRP 0.8 mg/L, the best of your four visits.",
+    "biomarker_ids": [
+      "hdl-cholesterol",
+      "hs-crp"
+    ],
+    "status": "active",
+    "created_at": "2026-09-14T13:52:00Z"
+  }
+]

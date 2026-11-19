@@ -1,0 +1,26 @@
+[
+  {
+    "id": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "account_id": "acct-alex-carter",
+    "name": "Reggie Clayton",
+    "email": "reggie.clayton@finthesiss.ai",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "account_id": "acct-alex-carter",
+    "name": "Keisha Robinson",
+    "email": "keisha.robinson@gmail.com",
+    "avatar_url": "",
+    "type": "person"
+  },
+  {
+    "id": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "account_id": "acct-alex-carter",
+    "name": "Jerome Simmons",
+    "email": "jerome.simmons@example.com",
+    "avatar_url": "",
+    "type": "person"
+  }
+]

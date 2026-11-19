@@ -1,0 +1,20 @@
+[
+ {
+  "id": "brittany.morales@greenridertech.co",
+  "summary": "Brittany Morales",
+  "description": "",
+  "time_zone": "America/New_York",
+  "access_role": "owner",
+  "primary": "true",
+  "color_id": "1"
+ },
+ {
+  "id": "joanne.ellery@gmail.com",
+  "summary": "Ellery family",
+  "description": "Shared with Brittany for showings and open houses.",
+  "time_zone": "America/New_York",
+  "access_role": "reader",
+  "primary": "false",
+  "color_id": "4"
+ }
+]

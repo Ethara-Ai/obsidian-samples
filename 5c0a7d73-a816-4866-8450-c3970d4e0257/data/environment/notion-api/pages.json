@@ -1,0 +1,829 @@
+[
+ {
+  "id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Studio standards",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Studio standards",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "📏"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2024-01-08T15:00:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "c327a8ab-8d1d-5689-8792-d4a627b1e174",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pemberton Georgetown",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pemberton Georgetown",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "🏛️"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2025-06-02T14:00:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-20T15:50:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "85648188-6e39-532d-a094-d6f18978eb29",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "c327a8ab-8d1d-5689-8792-d4a627b1e174"
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Living room notes",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Living room notes",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "📝"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-14T19:10:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-19T19:05:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "8c4173f3-d3e5-5e9d-8163-c2b7f6c257db",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Foxhall kitchen",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Foxhall kitchen",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "🍳"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-09-08T15:00:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-20T14:05:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "0e4e086f-8bb2-51da-82f0-698c946a0152",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Dinner party menus",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Dinner party menus",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "🍷"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2024-05-11T22:00:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-04T23:10:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "a66bf8fb-ea0a-5405-bfe7-d44b84150bb8",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Hollis sofa",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Hollis sofa",
+     "href": null
+    }
+   ],
+   "Vendor": "Maison Verde Trade",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "COM. Length to be set from the site measure.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "COM. Length to be set from the site measure.",
+     "href": null
+    }
+   ],
+   "Qty": 1,
+   "Unit": "ea",
+   "Unit price": null,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trade price by length, from Oct 19: 84 in $3,980 · 96 in $4,240 · 108 in $4,520 · 120 in $4,790. COM yardage, 54 in plain: 84 in 14 yd · 96 in 16 yd · 108 in 18 yd · 120 in 20 yd.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trade price by length, from Oct 19: 84 in $3,980 · 96 in $4,240 · 108 in $4,520 · 120 in $4,790. COM yardage, 54 in plain: 84 in 14 yd · 96 in 16 yd · 108 in 18 yd · 120 in 20 yd.",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-20T15:40:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "ac35aaf5-f3f3-55fe-a7c1-c32dcb412194",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Halden performance linen (COM for Hollis)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Halden performance linen (COM for Hollis)",
+     "href": null
+    }
+   ],
+   "Vendor": "Loom and Field Textiles",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Colourway to be confirmed: Dune 7210, Cashew 7214, Fog 7231, Sage 7240.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Colourway to be confirmed: Dune 7210, Cashew 7214, Fog 7231, Sage 7240.",
+     "href": null
+    }
+   ],
+   "Qty": null,
+   "Unit": "yd",
+   "Unit price": 86,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "54 in wide. Yardage from the Hollis COM chart.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "54 in wide. Yardage from the Hollis COM chart.",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-16T19:20:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "84417009-8fde-5a8c-b574-fa91f13583f2",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pike coffee table, white oak, 54 in",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pike coffee table, white oak, 54 in",
+     "href": null
+    }
+   ],
+   "Vendor": "Maison Verde Trade",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ],
+   "Qty": 1,
+   "Unit": "ea",
+   "Unit price": 1180,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Price from Oct 19.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Price from Oct 19.",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-20T15:41:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "81785034-c551-562b-98a3-e8078270c2f1",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Arlo side table, white oak",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Arlo side table, white oak",
+     "href": null
+    }
+   ],
+   "Vendor": "Maison Verde Trade",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ],
+   "Qty": 2,
+   "Unit": "ea",
+   "Unit price": 365,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Price from Oct 19.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Price from Oct 19.",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-20T15:42:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "3019fa65-b7b8-58ba-ba63-debb16d159f0",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wren table lamp, satin brass",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wren table lamp, satin brass",
+     "href": null
+    }
+   ],
+   "Vendor": "Maison Verde Trade",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ],
+   "Qty": 2,
+   "Unit": "ea",
+   "Unit price": 186,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-16T19:24:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "be42906c-834e-5d95-85e8-747c7295771b",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Flatweave wool rug, oatmeal, 8 x 10 ft",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Flatweave wool rug, oatmeal, 8 x 10 ft",
+     "href": null
+    }
+   ],
+   "Vendor": "Maison Verde Trade",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ],
+   "Qty": 1,
+   "Unit": "ea",
+   "Unit price": 612,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-16T19:25:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "5dfdf0dc-003a-519a-8810-c946e7f398bc",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Linen sheers, ivory, pair of panels",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Linen sheers, ivory, pair of panels",
+     "href": null
+    }
+   ],
+   "Vendor": "Loom and Field Textiles",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pair, for the front window: 72 in wide per EX-1.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pair, for the front window: 72 in wide per EX-1.",
+     "href": null
+    }
+   ],
+   "Qty": 2,
+   "Unit": "ea",
+   "Unit price": 152,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Sample S-205.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Sample S-205.",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-16T19:26:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "b9a18e5d-bf0d-5d01-ac24-f43dbd0008bc",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "database_id",
+   "database_id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac"
+  },
+  "properties": {
+   "Item": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Boucle pillows, oatmeal, 22 in",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Boucle pillows, oatmeal, 22 in",
+     "href": null
+    }
+   ],
+   "Vendor": "Loom and Field Textiles",
+   "Spec": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ],
+   "Qty": 4,
+   "Unit": "ea",
+   "Unit price": 64,
+   "Status": "Draft",
+   "Notes": [
+    {
+     "type": "text",
+     "text": {
+      "content": "",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-16T19:27:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ }
+]

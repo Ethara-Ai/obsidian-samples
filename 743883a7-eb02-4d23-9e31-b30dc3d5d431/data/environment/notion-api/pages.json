@@ -1,0 +1,362 @@
+[
+ {
+  "id": "2be100c7-70c4-5510-812d-7d139cf2b68b",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Listing launch standards",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Listing launch standards",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "📋"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-08-30T12:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "695a2682-1fc4-52c1-adc7-a5eeec84db80",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "database_id",
+   "database_id": "1bfc17da-1eb8-59af-8635-db201cbe87d7"
+  },
+  "properties": {
+   "Address": [
+    {
+     "type": "text",
+     "text": {
+      "content": "5759 W Sea Grape Ln, Tampa, FL 33611",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "5759 W Sea Grape Ln, Tampa, FL 33611",
+     "href": null
+    }
+   ],
+   "Status": "Prep",
+   "List Price": 679000,
+   "Beds": 4,
+   "Baths": 2.5,
+   "Garage Spaces": 4,
+   "Heated SqFt": null,
+   "Year Built": 2004,
+   "Roof Year": 2021,
+   "Impact Windows": true,
+   "Open House": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Sat Oct 31, 2-4 PM",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Sat Oct 31, 2-4 PM",
+     "href": null
+    }
+   ],
+   "Public Remarks": [],
+   "Seller": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Joanne and Martin Ellery",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Joanne and Martin Ellery",
+     "href": null
+    }
+   ]
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-01-12T15:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-20T23:40:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "cc93a734-74dd-50ef-8b2a-794e7068efb8",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "database_id",
+   "database_id": "1bfc17da-1eb8-59af-8635-db201cbe87d7"
+  },
+  "properties": {
+   "Address": [
+    {
+     "type": "text",
+     "text": {
+      "content": "1014 E Frierson Ave, Tampa, FL 33603",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "1014 E Frierson Ave, Tampa, FL 33603",
+     "href": null
+    }
+   ],
+   "Status": "Active",
+   "List Price": 389000,
+   "Beds": 3,
+   "Baths": 2,
+   "Garage Spaces": 1,
+   "Heated SqFt": 1540,
+   "Year Built": 1948,
+   "Roof Year": 2019,
+   "Impact Windows": false,
+   "Open House": [],
+   "Public Remarks": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Seminole Heights bungalow with original hardwood floors, a craftsman front porch and an updated kitchen. Three bedrooms, two baths, 1,540 heated square feet, a fenced backyard under mature oaks and a detached one-car garage.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Seminole Heights bungalow with original hardwood floors, a craftsman front porch and an updated kitchen. Three bedrooms, two baths, 1,540 heated square feet, a fenced backyard under mature oaks and a detached one-car garage.",
+     "href": null
+    }
+   ],
+   "Seller": []
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-01-12T15:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-16T15:10:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "63d24922-a974-50c0-9e91-a5ee6f123f20",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "database_id",
+   "database_id": "1bfc17da-1eb8-59af-8635-db201cbe87d7"
+  },
+  "properties": {
+   "Address": [
+    {
+     "type": "text",
+     "text": {
+      "content": "12508 Westchester Estates Dr, Tampa, FL 33626",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "12508 Westchester Estates Dr, Tampa, FL 33626",
+     "href": null
+    }
+   ],
+   "Status": "Active",
+   "List Price": 525000,
+   "Beds": 4,
+   "Baths": 3,
+   "Garage Spaces": 3,
+   "Heated SqFt": 2760,
+   "Year Built": 2007,
+   "Roof Year": 2020,
+   "Impact Windows": false,
+   "Open House": [],
+   "Public Remarks": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Move-in ready Westchase pool home on a quiet street, zoned for top-rated Westchase schools. Four bedrooms and three baths across 2,760 heated square feet, a quartz island kitchen that seats four, a primary suite with a soaking tub and dual vanities, and a screened pool with a paver lanai. Three-car tandem garage. Minutes from the Veterans Expressway.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Move-in ready Westchase pool home on a quiet street, zoned for top-rated Westchase schools. Four bedrooms and three baths across 2,760 heated square feet, a quartz island kitchen that seats four, a primary suite with a soaking tub and dual vanities, and a screened pool with a paver lanai. Three-car tandem garage. Minutes from the Veterans Expressway.",
+     "href": null
+    }
+   ],
+   "Seller": []
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-01-12T15:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-18T13:00:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "7fb9b028-fe9f-5a07-8c72-ae84398ff0ed",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "database_id",
+   "database_id": "1bfc17da-1eb8-59af-8635-db201cbe87d7"
+  },
+  "properties": {
+   "Address": [
+    {
+     "type": "text",
+     "text": {
+      "content": "1120 E Kennedy Blvd, Unit 814, Tampa, FL 33602",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "1120 E Kennedy Blvd, Unit 814, Tampa, FL 33602",
+     "href": null
+    }
+   ],
+   "Status": "Active",
+   "List Price": 285000,
+   "Beds": 2,
+   "Baths": 2,
+   "Garage Spaces": 0,
+   "Heated SqFt": 1180,
+   "Year Built": 2007,
+   "Roof Year": null,
+   "Impact Windows": false,
+   "Open House": [],
+   "Public Remarks": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Channelside condo with a water view from the balcony: two bedrooms, two baths, 1,180 square feet, a deeded parking space and a building gym and rooftop pool, a short walk to Channelside dining.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Channelside condo with a water view from the balcony: two bedrooms, two baths, 1,180 square feet, a deeded parking space and a building gym and rooftop pool, a short walk to Channelside dining.",
+     "href": null
+    }
+   ],
+   "Seller": []
+  },
+  "icon": null,
+  "cover": null,
+  "archived": false,
+  "created_time": "2026-01-12T15:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-18T21:30:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ },
+ {
+  "id": "699bef8d-7f09-5182-8aa5-bfb0d609ad88",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "properties": {
+   "title": [
+    {
+     "type": "text",
+     "text": {
+      "content": "SunCoast office bulletin",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "SunCoast office bulletin",
+     "href": null
+    }
+   ]
+  },
+  "icon": {
+   "type": "emoji",
+   "emoji": "📣"
+  },
+  "cover": null,
+  "archived": false,
+  "created_time": "2024-02-05T15:00:00.000Z",
+  "created_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "last_edited_time": "2026-10-01T13:20:00.000Z",
+  "last_edited_by": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a"
+ }
+]

@@ -1,0 +1,4756 @@
+[
+  {
+    "id": "011a24fe-c8f6-4f7a-9991-d15bb7a53649",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 0,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Goal",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Goal",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "364e001d-42bc-484a-beae-2f92ec14c602",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 1,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Move order, payment and webhook events from the legacy queue to the partitioned event bus without dropping or reordering a message.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Move order, payment and webhook events from the legacy queue to the partitioned event bus without dropping or reordering a message.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "fe66f0c3-69d7-4462-9b48-ab539434f4d6",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 2,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Open decision",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Open decision",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "46ade22f-df96-4cdf-bcaa-116d92f48e8f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 3,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Partition key: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Partition key: ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "tenant id (even load, no ordering across a tenant's orders) or order id (strict per-order ordering, hot partitions for the largest tenants). Decided at the architecture review on October 6.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "tenant id (even load, no ordering across a tenant's orders) or order id (strict per-order ordering, hot partitions for the largest tenants). Decided at the architecture review on October 6.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "a7863a6e-39e5-441c-9a3b-2cb9cb9850fe",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 4,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Milestones",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Milestones",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "05db8dfc-f74d-47e4-bc48-812994f8dae0",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 5,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dual writes from payments-api",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dual writes from payments-api",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "869188f8-8d72-4ff8-a637-93244bac28a6",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 6,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Shadow consumers for webhooks",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Shadow consumers for webhooks",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "a949af77-b29a-4b8e-b83f-9cd7c9268a4f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 7,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cut over checkout events",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cut over checkout events",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "4bbf78fd-0cee-49df-9f49-5b99cb1a2a75",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+    },
+    "position": 8,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Retire the legacy queue",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Retire the legacy queue",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "dcec87b8-4166-4f2a-96aa-8f3b391327d6",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e25bed12-ba0f-44d0-9d8b-00e11504c3c5"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Follow-up to the September 30 retry storm: cap client retries, add jitter, and shed load at the gateway before payments-api saturates.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Follow-up to the September 30 retry storm: cap client retries, add jitter, and shed load at the gateway before payments-api saturates.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T23:12:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T23:12:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "8a6f3f7f-f5e9-4b31-aa7d-2d7b278dd96d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e25bed12-ba0f-44d0-9d8b-00e11504c3c5"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Exponential backoff with jitter in the client SDKs",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Exponential backoff with jitter in the client SDKs",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T23:12:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T23:12:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "b6773e61-c429-4e06-b5c4-ebe50161ef9d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e25bed12-ba0f-44d0-9d8b-00e11504c3c5"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A retry budget per tenant",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A retry budget per tenant",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T23:12:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T23:12:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "f16a4926-73a8-40e6-947c-85ade2ed3934",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e25bed12-ba0f-44d0-9d8b-00e11504c3c5"
+    },
+    "position": 3,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Gateway load shedding at 85 percent CPU",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Gateway load shedding at 85 percent CPU",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T23:12:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T23:12:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "22e8a4c4-1072-42af-86e7-ab7b04e2f016",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8d7b2c50-4723-49e2-8695-d14d4eac0f22"
+    },
+    "position": 0,
+    "type": "callout",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Blocked: Vandelay's identity provider signing certificate expired on September 29 and the new one has not been published. Escalation call with Grace and Omar Haddad on October 13.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Blocked: Vandelay's identity provider signing certificate expired on September 29 and the new one has not been published. Escalation call with Grace and Omar Haddad on October 13.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "⚠️"
+      },
+      "color": "gray_background"
+    },
+    "archived": false,
+    "created_time": "2026-09-30T20:41:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-30T20:41:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "60325fa7-f2a0-461b-82ae-97152c02208d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "8d7b2c50-4723-49e2-8695-d14d4eac0f22"
+    },
+    "position": 1,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "SAML and OIDC sign-in for partner tenants, starting with Vandelay Industries.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "SAML and OIDC sign-in for partner tenants, starting with Vandelay Industries.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-30T20:41:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-30T20:41:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "a073e012-fc61-46ca-97da-59178eadd94e",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "251f6168-10f9-4ab8-972d-218447826192"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Customers download 13 months of audit events as JSON Lines; Vandelay has it on its renewal checklist.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Customers download 13 months of audit events as JSON Lines; Vandelay has it on its renewal checklist.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-29T21:15:00.000Z",
+    "created_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+    "last_edited_time": "2026-09-29T21:15:00.000Z",
+    "last_edited_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb"
+  },
+  {
+    "id": "08567ba4-ada7-42b4-b7f1-dde3d86165a5",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "251f6168-10f9-4ab8-972d-218447826192"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Export API behind a feature flag",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Export API behind a feature flag",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-09-29T21:15:00.000Z",
+    "created_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+    "last_edited_time": "2026-09-29T21:15:00.000Z",
+    "last_edited_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb"
+  },
+  {
+    "id": "6e465aa0-9a38-43e9-992f-9575c82899ef",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "251f6168-10f9-4ab8-972d-218447826192"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Signed download links",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Signed download links",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-29T21:15:00.000Z",
+    "created_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+    "last_edited_time": "2026-09-29T21:15:00.000Z",
+    "last_edited_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb"
+  },
+  {
+    "id": "5a3e8235-ed02-4e36-a9be-7e92d98216fc",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "251f6168-10f9-4ab8-972d-218447826192"
+    },
+    "position": 3,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Docs and changelog",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Docs and changelog",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-29T21:15:00.000Z",
+    "created_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+    "last_edited_time": "2026-09-29T21:15:00.000Z",
+    "last_edited_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb"
+  },
+  {
+    "id": "8725cd3f-0d8e-4053-8925-afaf08ff0725",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "43a513d7-76c7-4736-9cf9-2f3d7f0f3d44"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Shortlist: Fabrikam and Litware. Fabrikam's demo on October 8 was canceled; Rosa Delgado is sending new times.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Shortlist: Fabrikam and Litware. Fabrikam's demo on October 8 was canceled; Rosa Delgado is sending new times.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T16:25:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T16:25:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "f6b5ff6f-2486-49bc-9fe2-51a2db330843",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "43a513d7-76c7-4736-9cf9-2f3d7f0f3d44"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Litware trial",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Litware trial",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T16:25:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T16:25:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "8a333d12-94f6-4310-b035-983aba65d506",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "43a513d7-76c7-4736-9cf9-2f3d7f0f3d44"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fabrikam demo",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fabrikam demo",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T16:25:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T16:25:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "c266a6d7-c1f7-41ce-9ca6-4a9257c3ea9a",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "fbca1995-06f9-4f37-8452-477cf0f4d738"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Northwind Traders demo on November 4 with Kenji Watanabe.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Northwind Traders demo on November 4 with Kenji Watanabe.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-21T18:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-09-21T18:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "79b187a9-3d88-4a3d-be99-4b682235905d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 0,
+    "type": "heading_3",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Timeline (Pacific)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Timeline (Pacific)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "c1940aac-adc3-4d03-b5ae-e574ec600520",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "07:12 Error rate on payments-api passes 8 percent; Ravi is paged",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "07:12 Error rate on payments-api passes 8 percent; Ravi is paged",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "8b391406-1a7f-467f-8923-e93fdf2e29c4",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 2,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "07:31 Retry traffic from three client SDKs saturates the connection pool",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "07:31 Retry traffic from three client SDKs saturates the connection pool",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "08e238eb-f1a2-4dba-a225-2876c68214a3",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 3,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "08:05 Gateway rate limit lowered; errors fall under 1 percent",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "08:05 Gateway rate limit lowered; errors fall under 1 percent",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "a1c1c5ac-d3f5-487c-a48e-969f55b44bca",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 4,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "09:40 Mitigated. Review on October 5 at 14:00 Pacific",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "09:40 Mitigated. Review on October 5 at 14:00 Pacific",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "beb07534-1ae3-431c-add6-d601bdd9b393",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 5,
+    "type": "heading_3",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Follow-ups",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Follow-ups",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "416a6835-e335-4f5d-b254-10a0421d080f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 6,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A retry budget per tenant (Payments retry hardening)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A retry budget per tenant (Payments retry hardening)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "0a8725d0-57dd-435a-8a64-0b2083c8e56e",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98"
+    },
+    "position": 7,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Alert on the retry-to-request ratio",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alert on the retry-to-request ratio",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:40:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "5f0f9419-43c6-47d1-ae21-974637d5a336",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "63d1a49e-34f2-4379-96d2-6bd45103f7ef"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay users intermittently fail SAML sign-in: their identity provider's signing certificate expired on September 29 and the replacement has not been published. Grace is coordinating with Omar Haddad; escalation call on October 13.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay users intermittently fail SAML sign-in: their identity provider's signing certificate expired on September 29 and the replacement has not been published. Grace is coordinating with Omar Haddad; escalation call on October 13.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T19:10:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T19:10:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "400e9209-86c8-4b25-8fe0-bc159725f2b9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "574431c4-8d65-48db-a147-629c4976be4f"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "p95 checkout latency rose from 420 ms to 2.8 s for 46 minutes after a cache configuration change. Reviewed on September 9.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "p95 checkout latency rose from 420 ms to 2.8 s for 46 minutes after a cache configuration change. Reviewed on September 9.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-09T23:10:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-09T23:10:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "eb02db1a-110e-41f1-bf83-09b923be434d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e8b2537d-c697-452d-908a-57ac4d3a2b60"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Q3 bets: rate limiter v2, billing webhook retries, the checkout latency budget",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Q3 bets: rate limiter v2, billing webhook retries, the checkout latency budget",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-05-18T23:20:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-05-18T23:20:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "0d75961a-f3cc-4928-a162-073b5bdde68e",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e8b2537d-c697-452d-908a-57ac4d3a2b60"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Partner SSO moves to Q4, behind Vandelay's identity provider work",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Partner SSO moves to Q4, behind Vandelay's identity provider work",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-05-18T23:20:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-05-18T23:20:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "40070ad9-4d13-41fe-8720-ff7a1abfa2b3",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e8b2537d-c697-452d-908a-57ac4d3a2b60"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Alex: staff the event bus migration",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alex: staff the event bus migration",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-05-18T23:20:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-05-18T23:20:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "49469802-3008-445b-986c-aa531723d33d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e3e498ee-6185-488e-a3c8-c725b55d377b"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Omar Haddad asked for SSO by the end of Q4",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Omar Haddad asked for SSO by the end of Q4",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-07-16T19:05:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-07-16T19:05:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "6299243d-8c65-4099-acfe-60dcd2e549c0",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e3e498ee-6185-488e-a3c8-c725b55d377b"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Audit log export is on their renewal checklist",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Audit log export is on their renewal checklist",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-07-16T19:05:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-07-16T19:05:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "64a71bb7-08d8-4cd3-a890-16a4f1e94466",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "e3e498ee-6185-488e-a3c8-c725b55d377b"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Grace: send the SSO timeline",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Grace: send the SSO timeline",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-07-16T19:05:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-07-16T19:05:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "c0d6c9b6-17e5-4412-9de0-d6e801d4918d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "98000d08-083f-4c2a-bf39-1fd28fb93618"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Root cause: a cache TTL change shipped outside the deploy window",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Root cause: a cache TTL change shipped outside the deploy window",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-09T22:10:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-09T22:10:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "43d1254b-860f-4b7e-ac0e-28029e3e623f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "98000d08-083f-4c2a-bf39-1fd28fb93618"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mei: a latency budget per checkout step",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mei: a latency budget per checkout step",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-09-09T22:10:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-09T22:10:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "5ce77101-6f47-4d18-bc9b-0ac4874a2998",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "98000d08-083f-4c2a-bf39-1fd28fb93618"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Diego: block deploys outside the window",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Diego: block deploys outside the window",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-09-09T22:10:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-09T22:10:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "cda066a6-9246-49c8-8d96-7958f4a3c7e5",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ab987df7-2a00-4097-b972-47420f47bfbe"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Committed: billing webhook retries, checkout latency budget, event bus dual writes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Committed: billing webhook retries, checkout latency budget, event bus dual writes",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:30:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-14T18:30:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "c2349285-4c8b-4eb2-91b3-e19a456c3aec",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ab987df7-2a00-4097-b972-47420f47bfbe"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Noah and Aisha start today; onboarding course from September 17",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Noah and Aisha start today; onboarding course from September 17",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:30:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-14T18:30:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "bad8a20b-6f91-45f3-9e0b-60b867e5c025",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2305a670-2f89-4b5d-a443-397b6f973c77"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Staff Engineer: two candidates move to the final loop",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Staff Engineer: two candidates move to the final loop",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-22T23:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-22T23:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "91fdeff2-5e22-472d-8fda-9175f962bc57",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2305a670-2f89-4b5d-a443-397b6f973c77"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Site Reliability Engineer: reopened; Jordan Ellis to source more candidates",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Site Reliability Engineer: reopened; Jordan Ellis to source more candidates",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-22T23:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-22T23:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "41e468bd-4538-4970-a83e-c4936c189d8e",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d196668b-1a47-4f0d-8de0-ba242de787c8"
+    },
+    "position": 0,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Ravi: the retry budget per tenant",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Ravi: the retry budget per tenant",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T18:20:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-28T18:20:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "0b5e90de-e4c4-4379-b771-3c08f36deb3d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d196668b-1a47-4f0d-8de0-ba242de787c8"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Diego: shadow consumers for webhooks",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Diego: shadow consumers for webhooks",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T18:20:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-28T18:20:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "0ea35b01-c20a-4f3f-8e3c-b878c38e7697",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d196668b-1a47-4f0d-8de0-ba242de787c8"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Aisha: the audit log export API",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Aisha: the audit log export API",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T18:20:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-28T18:20:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "c8a06cc1-4540-4a8f-aeb8-0017719734c9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d196668b-1a47-4f0d-8de0-ba242de787c8"
+    },
+    "position": 3,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mei: Release 26.10 notes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mei: Release 26.10 notes",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T18:20:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-28T18:20:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "05a112f2-3606-425d-ab34-d29fc3ffe5ac",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690835ca-2dc8-4199-ab8f-181583453682"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Priya covers the on-call handoff during the offsite",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Priya covers the on-call handoff during the offsite",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-29T18:40:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-29T18:40:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "603f2eac-5172-479c-9795-b2b8799a0682",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "690835ca-2dc8-4199-ab8f-181583453682"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Partner SSO: decide by October 13 whether the November 13 date slips",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Partner SSO: decide by October 13 whether the November 13 date slips",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-29T18:40:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-29T18:40:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "1f85590f-a1bd-4ff6-9583-5d76fa6e1851",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1b28bfbc-5eb6-4fd4-9414-4538d363b09d"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Q4 offsite agenda locked: October 14 to 15 at Seacliff Lodge",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Q4 offsite agenda locked: October 14 to 15 at Seacliff Lodge",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-30T21:05:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-09-30T21:05:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "1a16b38f-a667-4e4a-934b-7084d8ab2342",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1b28bfbc-5eb6-4fd4-9414-4538d363b09d"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay renewal check-in on October 7",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay renewal check-in on October 7",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-30T21:05:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-09-30T21:05:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "4eabaa33-9a0c-48aa-804d-37665d1dfd0c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1b28bfbc-5eb6-4fd4-9414-4538d363b09d"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Alex: draft the platform roadmap readout by October 27",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alex: draft the platform roadmap readout by October 27",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-30T21:05:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-09-30T21:05:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "f84ad743-a855-4887-91ab-fae0a1142604",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "665780df-2e5c-4f9f-94b2-dbbfbbef7297"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Request flow from checkout-web through payments-api to the ledger",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Request flow from checkout-web through payments-api to the ledger",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:15:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:15:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "0a8eb603-b43b-4828-a551-7a0be3b8fff0",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "665780df-2e5c-4f9f-94b2-dbbfbbef7297"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Where retries happen today, and why the September 30 storm happened",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Where retries happen today, and why the September 30 storm happened",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:15:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:15:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "55c98faf-4006-4fe5-96e9-d505798bdf72",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ca640172-b805-4769-94b9-283e90b04a9b"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pre-read: the Payments retry storm entry in Incidents.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pre-read: the Payments retry storm entry in Incidents.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:45:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:45:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "fc823efc-1247-4763-8a6c-aa42f0a8a4e9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "ca640172-b805-4769-94b9-283e90b04a9b"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Ravi: confirm the retry budget numbers",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Ravi: confirm the retry budget numbers",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T16:45:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:45:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "2f0426de-a854-4fc6-a862-bb0b9bfdc284",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9f0f628a-9caf-45b2-97ba-2d68a385488c"
+    },
+    "position": 0,
+    "type": "heading_3",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Agenda",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Agenda",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:15:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:15:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "19804eb1-d6d8-4a66-93c9-2f9d3c6d7154",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9f0f628a-9caf-45b2-97ba-2d68a385488c"
+    },
+    "position": 1,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Where the dual writes stand",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Where the dual writes stand",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:15:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:15:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "9efe7a8e-8cb7-4383-be0d-61379e8b445c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9f0f628a-9caf-45b2-97ba-2d68a385488c"
+    },
+    "position": 2,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The partition key",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The partition key",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:15:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:15:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "7d772e22-9a38-455d-ab99-ad6f594dab95",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9f0f628a-9caf-45b2-97ba-2d68a385488c"
+    },
+    "position": 3,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The cutover plan for checkout events",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The cutover plan for checkout events",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:15:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:15:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "30b1c217-bbee-4e45-8007-7aef42f5e765",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "9f0f628a-9caf-45b2-97ba-2d68a385488c"
+    },
+    "position": 4,
+    "type": "callout",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Decision needed: tenant id or order id as the partition key.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Decision needed: tenant id or order id as the partition key.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🗳️"
+      },
+      "color": "gray_background"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T22:15:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:15:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "6611ac75-cb1e-4f4f-9838-36d4f75060f6",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1900ddb4-ba46-43da-a288-4ece4581b031"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Renewal terms",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Renewal terms",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T17:30:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-10-01T17:30:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "545a6063-c388-4a4f-8c19-2c8a120ad7a8",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1900ddb4-ba46-43da-a288-4ece4581b031"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The SSO roadmap question from Omar",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The SSO roadmap question from Omar",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T17:30:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-10-01T17:30:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "c44304e4-adce-45b4-82e8-79541521fccd",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "1900ddb4-ba46-43da-a288-4ece4581b031"
+    },
+    "position": 2,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Audit log export timing",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Audit log export timing",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T17:30:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-10-01T17:30:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "999fd142-0e54-4392-85d2-bdadad8bde9a",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 0,
+    "type": "callout",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Page the incident commander first, then open an entry in Incidents.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Page the incident commander first, then open an entry in Incidents.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🚨"
+      },
+      "color": "gray_background"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "340e51cc-29b3-4296-952b-e0a62e68897c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 1,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The first fifteen minutes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The first fifteen minutes",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "bf3354a0-d9df-41d1-bfc9-809e934142d3",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 2,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Acknowledge the page within five minutes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Acknowledge the page within five minutes",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "73c67119-cf86-4b61-8e53-060cf4d8e5f8",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 3,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Check the payments-api and auth-gateway dashboards",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Check the payments-api and auth-gateway dashboards",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "753e07be-ad54-4d87-b928-5c6f7764b164",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 4,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Open an entry in Incidents with a severity and a commander",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Open an entry in Incidents with a severity and a commander",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "faf59003-97ef-4d0a-825c-3a5391ef15a4",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 5,
+    "type": "numbered_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Post in #platform-incidents every 30 minutes until mitigated",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Post in #platform-incidents every 30 minutes until mitigated",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "187cf5c0-228e-4263-bf9b-8195b6343988",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 6,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rollback",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rollback",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "fb269ba2-cc5a-4a42-a0cf-76504e7eea42",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 7,
+    "type": "code",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "kubectl rollout undo deployment/payments-api -n payments",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "kubectl rollout undo deployment/payments-api -n payments",
+          "href": null
+        }
+      ],
+      "caption": [],
+      "language": "shell"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "2713aa04-0f14-4ca4-bfcd-dfaa40cade17",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 8,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rotation",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rotation",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "e6d2e44a-1764-46f1-b723-96d8bc74b21a",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "a79a8976-409b-4145-9efa-80192c28b160"
+    },
+    "position": 9,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On call rotates every Monday at 00:00 Pacific: Priya, Diego, Mei, Ravi, Alex. Swaps go on the Platform Team calendar.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On call rotates every Monday at 00:00 Pacific: Priya, Diego, Mei, Ravi, Alex. Swaps go on the Platform Team calendar.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-07T17:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "7d9bd332-6949-4986-92e4-e97014d7da79",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "One release a month: code freeze on a Friday, a go/no-go at 08:45 Pacific each morning of ship week, and the ship on that Thursday.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "One release a month: code freeze on a Friday, a go/no-go at 08:45 Pacific each morning of ship week, and the ship on that Thursday.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "cba3cf6d-d9b0-4006-a567-2300e9cc1b90",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 1,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Release 26.10",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Release 26.10",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "498d3d43-f0c7-4b62-bba9-b804baaef6fa",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Code freeze on October 16",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Code freeze on October 16",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "91872db2-46ce-49a3-8fe3-c22c65025e4c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 3,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Go/no-go October 19 to 23 at 08:45",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Go/no-go October 19 to 23 at 08:45",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "b6287c95-b7ee-4424-bb56-8b1ecca919f6",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 4,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Ship on October 22",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Ship on October 22",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "650ee995-f961-4624-bdd8-7eed94f04e82",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 5,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Deploy windows",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Deploy windows",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "454dd175-403a-4942-b21d-51f698842284",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574"
+    },
+    "position": 6,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tuesdays and Thursdays, 15:00 to 16:00 Pacific. No deploy outside the window without an incident.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tuesdays and Thursdays, 15:00 to 16:00 Pacific. No deploy outside the window without an incident.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-28T19:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "7d41aaa9-817a-421f-881c-9a05c7cd1b62",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Six Thursday sessions at 10:00 Pacific for the September hires, one subsystem each.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Six Thursday sessions at 10:00 Pacific for the September hires, one subsystem each.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "6a5a0e52-da78-4ee9-a2d5-e4780c429450",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "1. The request path and the API gateway (September 17)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "1. The request path and the API gateway (September 17)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "7eec0576-c9f4-46fe-96fb-6092809cdf37",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "2. The event bus (September 24)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2. The event bus (September 24)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "1923e8cb-5a1e-4568-8690-907c30950371",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 3,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "3. The payments service (October 1)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "3. The payments service (October 1)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "8d8fd399-ae1f-4cbe-9726-badf84f407d9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 4,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "4. Data stores and retention (October 8)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "4. Data stores and retention (October 8)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "be88ec6e-7242-489f-877f-2593c666e952",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 5,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "5. Observability (October 15)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "5. Observability (October 15)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "f7d865e5-a016-4d0b-8dd3-491b3375341e",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0"
+    },
+    "position": 6,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "6. Releases and on-call (October 22)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "6. Releases and on-call (October 22)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "923d9945-9ab1-40f6-ad92-304bf08af80f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "cc7f95a9-ad31-4ce4-af00-6107bb1ea2eb"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Superseded by the Platform Team page in May 2026.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Superseded by the Platform Team page in May 2026.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-05-20T16:00:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-05-20T16:00:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "498aa53d-815c-473e-bb9e-5a5bd9bfa903",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 0,
+    "type": "callout",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Start here: projects, incidents and meeting notes live in the databases below; the runbooks are the pages under Runbooks.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Start here: projects, incidents and meeting notes live in the databases below; the runbooks are the pages under Runbooks.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "📌"
+      },
+      "color": "gray_background"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "dce53924-bb71-4680-8acb-ce6b98ab0d79",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 1,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Team",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Team",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "4e6db5e8-1df1-49ad-a106-b4333103a18b",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 2,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Alex Carter, Director of Platform Engineering (since May 2026)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alex Carter, Director of Platform Engineering (since May 2026)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "e037a03b-4df7-4840-946e-059db856badc",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 3,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Priya Nair, Engineering Manager",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Priya Nair, Engineering Manager",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "78eae877-43bd-4078-84c5-9e6540ae2629",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 4,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Diego Santos, Senior Engineer",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Diego Santos, Senior Engineer",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "2fa4f1ff-0349-4703-8203-d3b09dbb134f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 5,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mei Tanaka, Software Engineer",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mei Tanaka, Software Engineer",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "ddf4bf1a-d4e9-42f2-a17a-d5e2da89a703",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 6,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Ravi Menon, Site Reliability Engineer",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Ravi Menon, Site Reliability Engineer",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "594f8152-25a8-43d6-a6d2-4ef7fc24e9dc",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 7,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Noah Bennett and Aisha Karimi, Platform Engineers (since September 14)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Noah Bennett and Aisha Karimi, Platform Engineers (since September 14)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "738b71e6-98fd-44b2-a7ed-ec1ae2d5f7fb",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 8,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rituals",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rituals",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "f8ce9354-1700-4f86-b34b-86450739bb3c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 9,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Standup on weekdays, 9:30 to 9:45 Pacific",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Standup on weekdays, 9:30 to 9:45 Pacific",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "73db3736-6bf0-45b9-b8ad-bbae72b36a68",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 10,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sprint planning every other Monday at 10:00 Pacific",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sprint planning every other Monday at 10:00 Pacific",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "30fcf766-439f-430d-9572-74717b6be7d2",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 11,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Deploys on Tuesdays and Thursdays, 15:00 to 16:00 Pacific",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Deploys on Tuesdays and Thursdays, 15:00 to 16:00 Pacific",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "36bc3f72-a312-4e60-81cc-dd2b67885025",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 12,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On call rotates every Monday: Priya, Diego, Mei, Ravi, Alex",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On call rotates every Monday: Priya, Diego, Mei, Ravi, Alex",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "0d94aecb-8d66-41bc-bbb9-bd49a1f8f9e2",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 13,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Databases",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Databases",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 14,
+    "type": "child_database",
+    "payload": {},
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "e0331173-33c8-4c64-92de-b9f6a5cba246",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 15,
+    "type": "child_database",
+    "payload": {},
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 16,
+    "type": "child_database",
+    "payload": {},
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "759a7250-aed0-4fc3-9a33-feef51685a19",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 17,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Runbooks",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Runbooks",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "a79a8976-409b-4145-9efa-80192c28b160",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 18,
+    "type": "child_page",
+    "payload": {},
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 19,
+    "type": "child_page",
+    "payload": {},
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 20,
+    "type": "child_page",
+    "payload": {},
+    "archived": false,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "cc7f95a9-ad31-4ce4-af00-6107bb1ea2eb",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "position": 21,
+    "type": "child_page",
+    "payload": {},
+    "archived": true,
+    "created_time": "2026-09-14T18:05:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "5ad0bf93-9ff6-43d4-a9c9-48fc9b6603b3",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 0,
+    "type": "paragraph",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "October 14 to 15 at Seacliff Lodge, Half Moon Bay. Twelve rooms are held with Marisol Ibarra, and dinner is on the 14th.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "October 14 to 15 at Seacliff Lodge, Half Moon Bay. Twelve rooms are held with Marisol Ibarra, and dinner is on the 14th.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "4aec8dc9-6c9f-45cd-9483-9f4a954ba3e9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 1,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Agenda",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Agenda",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "7a2b0181-0caf-444e-86db-c7b6fce6059b",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 2,
+    "type": "toggle",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Day 1: 2027 priorities",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Day 1: 2027 priorities",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "02d1c4ff-e7e8-4b62-beda-04614f4db538",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "block_id",
+      "block_id": "7a2b0181-0caf-444e-86db-c7b6fce6059b"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Platform asks for 2027 (Alex)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Platform asks for 2027 (Alex)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "e09053cc-cada-460e-a28e-8869215356b3",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "block_id",
+      "block_id": "7a2b0181-0caf-444e-86db-c7b6fce6059b"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Product bets (Lena and Sam)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Product bets (Lena and Sam)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "9a37b4b7-4867-4b6f-b515-5c6835287864",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 3,
+    "type": "toggle",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Day 2: staffing and budget",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Day 2: staffing and budget",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "1310640f-db69-41b8-a60f-a58ebc73053d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "block_id",
+      "block_id": "9a37b4b7-4867-4b6f-b515-5c6835287864"
+    },
+    "position": 0,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Headcount for the platform and payments teams",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Headcount for the platform and payments teams",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "8e98e734-b63e-40fb-892a-efd9842852f7",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "block_id",
+      "block_id": "9a37b4b7-4867-4b6f-b515-5c6835287864"
+    },
+    "position": 1,
+    "type": "bulleted_list_item",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vendor spend: observability and feature flags",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vendor spend: observability and feature flags",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "55f2a31c-e7a4-4ec9-aaa7-25a426bdc037",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 4,
+    "type": "heading_2",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Prep",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Prep",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "is_toggleable": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "619054eb-77c2-4edb-b267-2ebfe8db3fd4",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 5,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Draft the 2027 platform asks (Alex)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Draft the 2027 platform asks (Alex)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "c492c141-0e6c-492c-bfbe-91a5c88affaa",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 6,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Book the rooms (Lena)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Book the rooms (Lena)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "44ecf115-deff-4ae2-a2b9-11b27ac4a85d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "02399092-cca6-447d-ac14-25da517ef82e"
+    },
+    "position": 7,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Collect customer themes from Vandelay and Fabrikam (Grace)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Collect customer themes from Vandelay and Fabrikam (Grace)",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-01T20:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "87925e34-da29-48a7-a392-22bc38be6862",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d97d1090-c18f-455a-8a04-3fa0311a1d86"
+    },
+    "position": 0,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Answer Diego about the partition key before October 6",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Answer Diego about the partition key before October 6",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T15:10:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-02T15:10:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "ffd8b610-0005-40e1-8f82-d2ec81af80b7",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d97d1090-c18f-455a-8a04-3fa0311a1d86"
+    },
+    "position": 1,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Read the retry storm timeline before the review",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Read the retry storm timeline before the review",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T15:10:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-02T15:10:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "3ff699d5-10f1-44b2-b566-2e4cfc0e3363",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d97d1090-c18f-455a-8a04-3fa0311a1d86"
+    },
+    "position": 2,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Draft the platform roadmap readout for October 29",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Draft the platform roadmap readout for October 29",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": false
+    },
+    "archived": false,
+    "created_time": "2026-10-02T15:10:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-02T15:10:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "806090c7-44da-48d4-8a3f-afdb522b3c45",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "d97d1090-c18f-455a-8a04-3fa0311a1d86"
+    },
+    "position": 3,
+    "type": "to_do",
+    "payload": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Send Lena the offsite pre-read",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Send Lena the offsite pre-read",
+          "href": null
+        }
+      ],
+      "color": "default",
+      "checked": true
+    },
+    "archived": false,
+    "created_time": "2026-10-02T15:10:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-02T15:10:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  }
+]

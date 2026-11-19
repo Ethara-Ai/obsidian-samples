@@ -1,0 +1,18 @@
+[
+  {
+    "board_id": "board-101",
+    "workspace_id": "ws-1",
+    "name": "Curriculum Mapping",
+    "description": "Shop curriculum by course and semester",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-102",
+    "workspace_id": "ws-1",
+    "name": "Cross-Class Projects",
+    "description": "Projects shared between the shop classes",
+    "state": "active",
+    "board_kind": "public"
+  }
+]

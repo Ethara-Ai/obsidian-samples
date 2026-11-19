@@ -1,0 +1,27 @@
+{
+  "info": {
+    "name": "Health Records API Mock v1",
+    "description": "Mock normalized health-records API. Base URL: http://localhost:8104. In docker-compose: http://health-api:8104. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [{"key": "baseUrl", "value": "http://localhost:8104"}, {"key": "token", "value": ""}],
+  "item": [
+    {"name": "health", "request": {"method": "GET", "url": "{{baseUrl}}/health"}},
+    {"name": "token (default scope: measurements)", "request": {"method": "POST", "url": "{{baseUrl}}/oauth/token",
+      "header": [{"key": "Content-Type", "value": "application/x-www-form-urlencoded"}],
+      "body": {"mode": "raw", "raw": "grant_type=client_credentials&client_id=health-connector-app&client_secret=hlcs_7c3a52e8b91d4f06"}}},
+    {"name": "token with all read scopes", "request": {"method": "POST", "url": "{{baseUrl}}/oauth/token",
+      "header": [{"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"health-connector-app\", \"client_secret\": \"hlcs_7c3a52e8b91d4f06\", \"scope\": \"health.measurements.read health.nutrition.read health.sleep.read health.workouts.read\"}"}}},
+    {"name": "tokeninfo", "request": {"method": "GET", "url": "{{baseUrl}}/oauth/tokeninfo", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "daily steps, last week of data", "request": {"method": "GET", "url": "{{baseUrl}}/v1/measurements?type=steps", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "weekly step totals", "request": {"method": "GET", "url": "{{baseUrl}}/v1/measurements?type=steps&start=2026-08-03&end=2026-09-27&aggregate=week", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "weight readings", "request": {"method": "GET", "url": "{{baseUrl}}/v1/measurements?type=weight_kg&start=2026-08-02&end=2026-09-30", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "blood pressure", "request": {"method": "GET", "url": "{{baseUrl}}/v1/measurements?type=blood_pressure&start=2026-09-01&end=2026-09-30", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "nutrition for a week", "request": {"method": "GET", "url": "{{baseUrl}}/v1/nutrition?start=2026-09-21&end=2026-09-27", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "dinners in September", "request": {"method": "GET", "url": "{{baseUrl}}/v1/nutrition?start=2026-09-01&end=2026-09-30&meal=dinner", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "sleep for a week", "request": {"method": "GET", "url": "{{baseUrl}}/v1/sleep?start=2026-09-24&end=2026-09-30", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "all workouts", "request": {"method": "GET", "url": "{{baseUrl}}/v1/workouts?start=2026-08-02&end=2026-09-30", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "runs only", "request": {"method": "GET", "url": "{{baseUrl}}/v1/workouts?start=2026-08-02&end=2026-09-30&type=running", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}}
+  ]
+}

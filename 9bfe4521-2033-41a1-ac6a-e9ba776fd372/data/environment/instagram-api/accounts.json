@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17841400000000101",
+    "owner_account_id": "acct-maya-okafor",
+    "username": "smokering.bbq",
+    "name": "Smoke Ring BBQ",
+    "account_type": "BUSINESS",
+    "category": "Food & beverage",
+    "biography": "Memphis competition BBQ. Brisket, ribs, house rub and sauce.",
+    "website": "",
+    "profile_picture_url": "https://cdn.mock-instagram.example/p/smokering.jpg",
+    "connected_at": "2026-06-02T15:20:00+0000"
+  },
+  {
+    "id": "17841400000000102",
+    "owner_account_id": "acct-maya-okafor",
+    "username": "ridgeway.shop.projects",
+    "name": "Ridgeway Shop Projects",
+    "account_type": "CREATOR",
+    "category": "Education",
+    "biography": "Student shop projects from the Ridgeway Regional industrial arts wing.",
+    "website": "",
+    "profile_picture_url": "https://cdn.mock-instagram.example/p/ridgewayshop.jpg",
+    "connected_at": "2026-06-02T15:21:00+0000"
+  }
+]

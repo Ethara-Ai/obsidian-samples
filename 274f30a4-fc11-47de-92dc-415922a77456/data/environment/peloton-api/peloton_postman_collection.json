@@ -1,0 +1,164 @@
+{
+  "info": {
+    "name": "Peloton API Mock member API",
+    "description": "Mock Peloton API member API. Base URL: http://localhost:8134. In docker-compose: http://peloton-api:8134. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8134"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=peloton-connector-app&client_secret=pelotoncs_5e0c8a71d43b296f"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"peloton-connector-app\", \"client_secret\": \"pelotoncs_5e0c8a71d43b296f\", \"scope\": \"profile.read workouts.read classes.read\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get the profile",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/me",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list workouts with the class and instructor",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/user/6ae247c76119f68517105ccd97ea568f/workouts?joins=ride,ride.instructor&limit=20&page=0",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list last week's workouts",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/user/6ae247c76119f68517105ccd97ea568f/workouts?start_date=2026-09-28&end_date=2026-10-04&limit=50",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get one workout",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/workout/1818368faeb888a4c6f3dbe68ea0aa26?joins=ride,ride.instructor",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a workout's performance summary",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/workout/1818368faeb888a4c6f3dbe68ea0aa26/performance_graph?every_n=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list 20 and 30 minute cycling classes",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/ride/archived?browse_category=cycling&duration=1200,1800&limit=18&page=0",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list an instructor's yoga classes",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/ride/archived?browse_category=yoga&instructor_id=1939b0172c97bfa571ad04cf4be4be01",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

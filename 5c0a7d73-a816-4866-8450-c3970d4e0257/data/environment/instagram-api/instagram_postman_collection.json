@@ -1,0 +1,35 @@
+{
+  "info": {
+    "name": "Instagram Graph API Mock v21.0",
+    "description": "Mock Instagram Graph API v21.0. Base URL: http://localhost:8102. In docker-compose: http://instagram-api:8102. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [{"key": "baseUrl", "value": "http://localhost:8102"}, {"key": "token", "value": ""}],
+  "item": [
+    {"name": "health", "request": {"method": "GET", "url": "{{baseUrl}}/health"}},
+    {"name": "token (default read scopes)", "request": {"method": "POST", "url": "{{baseUrl}}/oauth/token",
+      "header": [{"key": "Content-Type", "value": "application/x-www-form-urlencoded"}],
+      "body": {"mode": "raw", "raw": "grant_type=client_credentials&client_id=ig-connector-app&client_secret=igcs_4b7e19d2a6f04c83"}}},
+    {"name": "token with publish scope", "request": {"method": "POST", "url": "{{baseUrl}}/oauth/token",
+      "header": [{"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"ig-connector-app\", \"client_secret\": \"igcs_4b7e19d2a6f04c83\", \"scope\": \"instagram_basic instagram_content_publish\"}"}}},
+    {"name": "tokeninfo", "request": {"method": "GET", "url": "{{baseUrl}}/oauth/tokeninfo", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "connected accounts", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/me/accounts", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "business profile", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/17841400000000101", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "account posts", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/17841400000000101/media?limit=5", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "create feed container", "request": {"method": "POST", "url": "{{baseUrl}}/v21.0/17841400000000101/media",
+      "header": [{"key": "Authorization", "value": "Bearer {{token}}"}, {"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"image_url\": \"https://cdn.mock-instagram.example/m/new_glaze.jpg\", \"caption\": \"Fog Line restock is live. #handmadeceramics\"}"}}},
+    {"name": "create story container", "request": {"method": "POST", "url": "{{baseUrl}}/v21.0/17841400000000101/media",
+      "header": [{"key": "Authorization", "value": "Bearer {{token}}"}, {"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"media_type\": \"STORIES\", \"image_url\": \"https://cdn.mock-instagram.example/s/restock_story.jpg\"}"}}},
+    {"name": "publish container", "request": {"method": "POST", "url": "{{baseUrl}}/v21.0/17841400000000101/media_publish",
+      "header": [{"key": "Authorization", "value": "Bearer {{token}}"}, {"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"creation_id\": \"<container id>\"}"}}},
+    {"name": "weekly reach and new followers", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/17841400000000101/insights?metric=reach,follower_count&period=week", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "saved posts", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/17841400000000101/saved_media", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "post comments", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/18050100000000001/comments", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "followers", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/17841400000000101/followers", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}},
+    {"name": "following", "request": {"method": "GET", "url": "{{baseUrl}}/v21.0/17841400000000101/following", "header": [{"key": "Authorization", "value": "Bearer {{token}}"}]}}
+  ]
+}

@@ -1,0 +1,15 @@
+# Locked start: the agent's only way to the web is the text browser.
+#
+#   docker compose -f docker-compose.yaml -f docker-compose.locked.yaml up
+#
+# See NETWORK.md. Without this file every service, the agent's
+# container included, has normal internet access.
+networks:
+  default:
+    internal: true
+  tools-egress: {}
+services:
+  tools-gateway:
+    networks:
+      - default
+      - tools-egress

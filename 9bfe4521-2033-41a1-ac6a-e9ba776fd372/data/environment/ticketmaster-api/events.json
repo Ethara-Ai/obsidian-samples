@@ -1,0 +1,98 @@
+[
+ {
+  "id": "evt-gz1218",
+  "name": "Memphis Grizzlies vs. Dallas Mavericks",
+  "classification_id": "cls-nba",
+  "venue_id": "ven-fedex",
+  "attraction_id": "att-grizzlies",
+  "start_datetime": "2026-12-19T01:00:00Z",
+  "status": "onsale",
+  "price_min": "48.00",
+  "price_max": "260.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-gz1226",
+  "name": "Memphis Grizzlies vs. Los Angeles Lakers",
+  "classification_id": "cls-nba",
+  "venue_id": "ven-fedex",
+  "attraction_id": "att-grizzlies",
+  "start_datetime": "2026-12-26T23:00:00Z",
+  "status": "onsale",
+  "price_min": "86.00",
+  "price_max": "395.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-gz0102",
+  "name": "Memphis Grizzlies vs. Golden State Warriors",
+  "classification_id": "cls-nba",
+  "venue_id": "ven-fedex",
+  "attraction_id": "att-grizzlies",
+  "start_datetime": "2027-01-03T01:00:00Z",
+  "status": "onsale",
+  "price_min": "72.00",
+  "price_max": "340.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-la0120",
+  "name": "Los Angeles Lakers vs. Memphis Grizzlies",
+  "classification_id": "cls-nba",
+  "venue_id": "ven-cryptocom",
+  "attraction_id": "att-grizzlies",
+  "start_datetime": "2027-01-21T03:30:00Z",
+  "status": "onsale",
+  "price_min": "112.00",
+  "price_max": "520.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-ut1219",
+  "name": "Memphis Tigers vs. Ole Miss Rebels",
+  "classification_id": "cls-ncaa",
+  "venue_id": "ven-fedex",
+  "attraction_id": "att-tigers",
+  "start_datetime": "2026-12-19T20:00:00Z",
+  "status": "onsale",
+  "price_min": "35.00",
+  "price_max": "120.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-ut1230",
+  "name": "Memphis Tigers vs. Tulane Green Wave",
+  "classification_id": "cls-ncaa",
+  "venue_id": "ven-fedex",
+  "attraction_id": "att-tigers",
+  "start_datetime": "2026-12-31T00:00:00Z",
+  "status": "onsale",
+  "price_min": "28.00",
+  "price_max": "95.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-nut1218",
+  "name": "Ballet Memphis: The Nutcracker",
+  "classification_id": "cls-ballet",
+  "venue_id": "ven-orpheum",
+  "attraction_id": "att-ballet",
+  "start_datetime": "2026-12-19T00:30:00Z",
+  "status": "onsale",
+  "price_min": "45.00",
+  "price_max": "135.00",
+  "currency": "USD"
+ },
+ {
+  "id": "evt-revue1212",
+  "name": "Beale Street Soul Revue",
+  "classification_id": "cls-soul",
+  "venue_id": "ven-minglewood",
+  "attraction_id": "att-revue",
+  "start_datetime": "2026-12-13T02:00:00Z",
+  "status": "onsale",
+  "price_min": "32.00",
+  "price_max": "64.00",
+  "currency": "USD"
+ }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "asset-hero-1",
+    "created_at": "2026-09-14T14:00:00.000Z",
+    "updated_at": "2026-09-14T14:00:00.000Z",
+    "published_version": "1",
+    "title": "Smoker at dawn",
+    "description": "Reverse-flow smoker lit before a cook",
+    "file_url": "https://assets.example.com/smoker-dawn.png",
+    "content_type": "image/png",
+    "file_name": "smoker-dawn.png",
+    "size": "204800"
+  }
+]

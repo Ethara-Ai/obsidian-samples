@@ -1,0 +1,2531 @@
+[
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:0",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Lakeshore Design Studio Handbook 2026",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:1",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 1,
+    "style": "SUBTITLE",
+    "text": "Working agreements, office hours and tool conventions",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:2",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 2,
+    "style": "HEADING_1",
+    "text": "Office hours",
+    "list_id": "",
+    "heading_id": "h.tkszky5teuto"
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:3",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "The studio at 1840 N Milwaukee Ave is open 8:30 to 6:00, Monday through Friday. Client-facing meetings are booked between 9:30 and 5:00 so nobody has to stay late for a call.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:4",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Fridays are heads-down days: no internal meetings before 1:00 unless a deadline requires one.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:5",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 5,
+    "style": "HEADING_1",
+    "text": "Tools and file conventions",
+    "list_id": "",
+    "heading_id": "h.i9v9w1w9fbn3"
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:6",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Project files live in Google Drive under Clients, one folder per client and project. Do not keep working files on your laptop desktop.",
+    "list_id": "kix.2rn1kz2txav7",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:7",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Name files as YYYY-MM-DD_client_project_description_v01, and never overwrite a version that has been sent to a client.",
+    "list_id": "kix.2rn1kz2txav7",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:8",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Renders are exported at 3840 px on the long edge as JPG, quality 90.",
+    "list_id": "kix.2rn1kz2txav7",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:9",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Time is logged in Harvest by the end of each day against the project code.",
+    "list_id": "kix.2rn1kz2txav7",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:10",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 10,
+    "style": "HEADING_1",
+    "text": "Kitchen cleanup rota",
+    "list_id": "",
+    "heading_id": "h.rhxcvt0qyv53"
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:11",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Each person owns the kitchen for one week at a time: dishwasher, the Friday fridge purge, and the coffee bean reorder.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:12",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 12,
+    "style": "NORMAL_TEXT",
+    "text": "Week 1: Hannah Brooks",
+    "list_id": "kix.au0u1s0fvsds",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:13",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "Week 2: Tomas Lindqvist",
+    "list_id": "kix.au0u1s0fvsds",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:14",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 14,
+    "style": "NORMAL_TEXT",
+    "text": "Week 3: Hannah Brooks",
+    "list_id": "kix.au0u1s0fvsds",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:15",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 15,
+    "style": "NORMAL_TEXT",
+    "text": "Week 4: Sofia Marchetti",
+    "list_id": "kix.au0u1s0fvsds",
+    "heading_id": ""
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:16",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 16,
+    "style": "HEADING_1",
+    "text": "Visitors and deliveries",
+    "list_id": "",
+    "heading_id": "h.7i9n083wp4jb"
+  },
+  {
+    "id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd:17",
+    "document_id": "17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd",
+    "position": 17,
+    "style": "NORMAL_TEXT",
+    "text": "Sign visitors in on the front desk iPad. Deliveries for client projects go to the materials shelf and are logged in the Equipment Inventory sheet within one working day.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:0",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Q3 All-Hands Agenda",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:1",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Thursday, September 17, 2026, 3:00 to 4:30 pm, main studio, with a video link for remote staff.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:2",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Welcome and studio news (Dana Whitfield, 10 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:3",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Q2 results and Q3 outlook (Dana Whitfield, 15 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:4",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Brightwell lobby refresh status (Marcus Oyelaran, 15 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:5",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Harbor Street Cafe launch recap (Priya Raman, 10 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:6",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Hiring update: junior designer and studio coordinator (Leah Novak, 10 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:7",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Studio move and desk reshuffle plan (Ben Hartigan, 10 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:8",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Open questions (15 min)",
+    "list_id": "kix.sbjg1csdzdia",
+    "heading_id": ""
+  },
+  {
+    "id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c:9",
+    "document_id": "1pcgwPua9Un0gtzrfnZh6OWLGvzyHXNc8c",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Send questions for the open session to Dana by September 15.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:0",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Client Onboarding Checklist",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:1",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Use this list from the moment a proposal is signed until the kickoff meeting. The account owner is responsible for every step unless noted.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:2",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "Contract and billing",
+    "list_id": "",
+    "heading_id": "h.6etq08p8f41n"
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:3",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Countersigned proposal and MSA saved to the client folder",
+    "list_id": "kix.q5gbqswclfuc",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:4",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Client added to the Client Roster 2026 sheet with contract value and account owner",
+    "list_id": "kix.q5gbqswclfuc",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:5",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Deposit invoice issued for 30 percent of the design fee, Net 15",
+    "list_id": "kix.q5gbqswclfuc",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:6",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Billing contact and purchase order requirements confirmed",
+    "list_id": "kix.q5gbqswclfuc",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:7",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 7,
+    "style": "HEADING_2",
+    "text": "Project setup",
+    "list_id": "",
+    "heading_id": "h.hvwoiez4jyw0"
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:8",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Client folder created from the template structure in Drive",
+    "list_id": "kix.rzaa7jw9tkwj",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:9",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Project code created in Harvest",
+    "list_id": "kix.rzaa7jw9tkwj",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:10",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Intake questionnaire sent to the client and returned",
+    "list_id": "kix.rzaa7jw9tkwj",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:11",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 11,
+    "style": "HEADING_2",
+    "text": "Kickoff",
+    "list_id": "",
+    "heading_id": "h.xfhqcwdoo8k0"
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:12",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 12,
+    "style": "NORMAL_TEXT",
+    "text": "Kickoff meeting scheduled within ten business days of signature",
+    "list_id": "kix.ey9odtbwuqsr",
+    "heading_id": ""
+  },
+  {
+    "id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy:13",
+    "document_id": "1fo7z6JvPT6m4VVGD9YhgW1c7nT50RXHdy",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "Kickoff deck shared with the client 24 hours before the meeting",
+    "list_id": "kix.ey9odtbwuqsr",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:0",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 0,
+    "style": "TITLE",
+    "text": "New Client Intake Questionnaire",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:1",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Please answer what you can before our scoping call. Short answers are fine.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:2",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "About your business",
+    "list_id": "",
+    "heading_id": "h.p1zfmussa8ej"
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:3",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "What does your business do, and who are your customers?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:4",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Who will be our day-to-day contact, and who approves the final design?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:5",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 5,
+    "style": "HEADING_2",
+    "text": "The project",
+    "list_id": "",
+    "heading_id": "h.yghj5aa1mm4o"
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:6",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "What problem should this project solve?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:7",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Are there spaces, brands or competitors whose design you admire?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:8",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "What is your target budget range, including furniture and fixtures?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:9",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Is there a hard deadline, such as an opening date or an event?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:10",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 10,
+    "style": "HEADING_2",
+    "text": "Logistics",
+    "list_id": "",
+    "heading_id": "h.0o5vov1b67jk"
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:11",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Which sites are included, and when can we visit them?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H:12",
+    "document_id": "19or_nTVCedXfSjrznlmfR1gBGHDCSMF3H",
+    "position": 12,
+    "style": "NORMAL_TEXT",
+    "text": "Do you have existing drawings, brand guidelines or photography we can use?",
+    "list_id": "kix.65gk1368dvit",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:0",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Brightwell Hospitality Lobby Refresh",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:1",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 1,
+    "style": "SUBTITLE",
+    "text": "Project brief, version 3",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:2",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 2,
+    "style": "HEADING_1",
+    "text": "Goals",
+    "list_id": "",
+    "heading_id": "h.ya1j44mv1rge"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:3",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Refresh the arrival experience in three Brightwell hotel lobbies so they read as one brand while keeping a local character at each property. Guests should find the reception desk within ten seconds of entering.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:4",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 4,
+    "style": "HEADING_1",
+    "text": "Properties",
+    "list_id": "",
+    "heading_id": "h.jxuh3kmc4xlm"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:5",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Brightwell River North, 412 N Clark St (148 rooms)",
+    "list_id": "kix.olds0pdvr6xh",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:6",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Brightwell Midway, 5600 S Cicero Ave (96 rooms)",
+    "list_id": "kix.olds0pdvr6xh",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:7",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Brightwell Lakefront, 1200 S Lake Shore Dr (210 rooms, reopening in November)",
+    "list_id": "kix.olds0pdvr6xh",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:8",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 8,
+    "style": "HEADING_1",
+    "text": "Audience",
+    "list_id": "",
+    "heading_id": "h.nszk451k66fy"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:9",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Business travelers on weekdays, families and event guests on weekends. Lakefront also hosts conference groups of up to 300 people.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:10",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 10,
+    "style": "HEADING_1",
+    "text": "Budget",
+    "list_id": "",
+    "heading_id": "h.avw3m8r06x15"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:11",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Design fees and furniture, fixtures and equipment for all three lobbies are budgeted at $1,260,000 to $1,450,000, excluding construction.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:12",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 12,
+    "style": "HEADING_1",
+    "text": "Order of work",
+    "list_id": "",
+    "heading_id": "h.h8qxv0k6vnb9"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:13",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "River North: design development in July, install in October",
+    "list_id": "kix.6lyz1wkv423g",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:14",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 14,
+    "style": "NORMAL_TEXT",
+    "text": "Midway: design development in August, install in December",
+    "list_id": "kix.6lyz1wkv423g",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:15",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 15,
+    "style": "NORMAL_TEXT",
+    "text": "Lakefront: design development in September, install in January",
+    "list_id": "kix.6lyz1wkv423g",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:16",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 16,
+    "style": "HEADING_1",
+    "text": "Milestones",
+    "list_id": "",
+    "heading_id": "h.zo2f2htb9mnm"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:17",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 17,
+    "style": "NORMAL_TEXT",
+    "text": "July 28: concept presentation to Alicia Brandt and the Brightwell leadership team",
+    "list_id": "kix.tbg2xkgas76l",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:18",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 18,
+    "style": "NORMAL_TEXT",
+    "text": "August 21: design development sign-off for River North",
+    "list_id": "kix.tbg2xkgas76l",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:19",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 19,
+    "style": "NORMAL_TEXT",
+    "text": "September 30: material selections locked for all three properties",
+    "list_id": "kix.tbg2xkgas76l",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:20",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 20,
+    "style": "NORMAL_TEXT",
+    "text": "October 19 to 30: River North install",
+    "list_id": "kix.tbg2xkgas76l",
+    "heading_id": ""
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:21",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 21,
+    "style": "HEADING_1",
+    "text": "Constraints",
+    "list_id": "",
+    "heading_id": "h.8ks729jaxf3l"
+  },
+  {
+    "id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa:22",
+    "document_id": "1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+    "position": 22,
+    "style": "NORMAL_TEXT",
+    "text": "Lobbies stay open to guests throughout the work. Loud work is limited to 9:00 to 4:00, and each install phase keeps a clear path from the entrance to the elevators.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:0",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Brightwell Kickoff Meeting Notes",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:1",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "June 9, 2026, Brightwell corporate office, 300 W Adams St. Attendees: Alicia Brandt (VP Operations, Brightwell), Raj Patel (Director of Engineering, Brightwell), Dana Whitfield, Marcus Oyelaran, Priya Raman.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:2",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "Decisions",
+    "list_id": "",
+    "heading_id": "h.b0ty1qcutzwm"
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:3",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Lakeshore Design leads design for all three lobbies under one MSA.",
+    "list_id": "kix.m0ut4e5m65ce",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:4",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Alicia Brandt approves designs; Raj Patel approves anything that touches building systems.",
+    "list_id": "kix.m0ut4e5m65ce",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:5",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Weekly check-in on Tuesdays at 10:00 by video.",
+    "list_id": "kix.m0ut4e5m65ce",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:6",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Open questions",
+    "list_id": "",
+    "heading_id": "h.32csm8js6enw"
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:7",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Can the reception desks reuse the existing millwork bases?",
+    "list_id": "kix.p62fo1k0zdjr",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:8",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Who supplies signage: Brightwell's brand vendor or Lakeshore Design?",
+    "list_id": "kix.p62fo1k0zdjr",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:9",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 9,
+    "style": "HEADING_2",
+    "text": "Action items",
+    "list_id": "",
+    "heading_id": "h.avhvjaiab3ca"
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:10",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Marcus: send site visit dates for all three properties by June 12.",
+    "list_id": "kix.30ttcfl4s2f3",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:11",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Priya: draft the mood boards for the concept presentation.",
+    "list_id": "kix.30ttcfl4s2f3",
+    "heading_id": ""
+  },
+  {
+    "id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf:12",
+    "document_id": "1hxs0y3rk2ufAbZhp1s5j6hQ5KbIdNahyf",
+    "position": 12,
+    "style": "NORMAL_TEXT",
+    "text": "Alicia: share the brand guidelines and the latest lobby survey results.",
+    "list_id": "kix.30ttcfl4s2f3",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:0",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Harbor Street Cafe Menu Redesign",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:1",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 1,
+    "style": "SUBTITLE",
+    "text": "Brief for the menu and table cards",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:2",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 2,
+    "style": "HEADING_1",
+    "text": "Background",
+    "list_id": "",
+    "heading_id": "h.3ini3ybeiko3"
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:3",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Harbor Street Cafe, 2217 W Chicago Ave, is a 40-seat neighborhood cafe owned by Omar Haddad. The current menu is a laminated sheet that has not changed since 2021.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:4",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 4,
+    "style": "HEADING_1",
+    "text": "Deliverables",
+    "list_id": "",
+    "heading_id": "h.7gqdbdpx89yx"
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:5",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Folded menu, 11 x 17 in, printed on uncoated 100 lb cover stock",
+    "list_id": "kix.uvtot8h2gn6l",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:6",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Table cards for daily specials, 4 x 6 in, 50 copies",
+    "list_id": "kix.uvtot8h2gn6l",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:7",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Chalkboard lettering guide for the counter",
+    "list_id": "kix.uvtot8h2gn6l",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:8",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 8,
+    "style": "HEADING_1",
+    "text": "Direction",
+    "list_id": "",
+    "heading_id": "h.rgxq9k3ck6gj"
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:9",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Warm, hand-drawn and a little irreverent. Keep the coffee cup illustration on the front cover, redrawn so it prints cleanly at small sizes.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:10",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 10,
+    "style": "HEADING_1",
+    "text": "Schedule",
+    "list_id": "",
+    "heading_id": "h.2n63e51jr9gj"
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:11",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Round 1 concepts: April 10",
+    "list_id": "kix.gvez7a4dyan1",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:12",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 12,
+    "style": "NORMAL_TEXT",
+    "text": "Round 2 revisions: May 1",
+    "list_id": "kix.gvez7a4dyan1",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:13",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "Final files to Pressworks Chicago: June 5",
+    "list_id": "kix.gvez7a4dyan1",
+    "heading_id": ""
+  },
+  {
+    "id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd:14",
+    "document_id": "1CsC3c1zuck8bgAO4sy3aEnqAnYbZjBGBd",
+    "position": 14,
+    "style": "NORMAL_TEXT",
+    "text": "Menu copy and prices come from Omar. Copy is not final until he signs off in writing.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:0",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Harbor Street Feedback Round 2",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:1",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Consolidated from Omar Haddad's email and the call on May 4.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:2",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Cover: likes the redrawn cup, wants the steam lines thinner.",
+    "list_id": "kix.a9e92dv43mgn",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:3",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Breakfast section: move the shakshuka to the top and drop the granola bowl.",
+    "list_id": "kix.a9e92dv43mgn",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:4",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Prices: espresso goes from $3.25 to $3.50, and oat milk is now free.",
+    "list_id": "kix.a9e92dv43mgn",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:5",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Typography: the item names feel too small on the table cards; go up one size.",
+    "list_id": "kix.a9e92dv43mgn",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:6",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Back panel: add the Instagram handle and the Sunday hours, 9:00 to 3:00.",
+    "list_id": "kix.a9e92dv43mgn",
+    "heading_id": ""
+  },
+  {
+    "id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd:7",
+    "document_id": "165b6pzQ8ncnx3XJBL8M3n8caQ12ksPKLd",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Omar wants a printed proof before approving the run of 500 menus.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:0",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Weekly Ops Meeting Notes",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:1",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Mondays at 9:30 in the main studio. Newest meeting first.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:2",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "September 21, 2026",
+    "list_id": "",
+    "heading_id": "h.vz8w5raye8fe"
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:3",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Staffing: Leah is interviewing two studio coordinator candidates this week.",
+    "list_id": "kix.nx1pkua318p3",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:4",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Vendors: Pressworks raises digital print prices by 6 percent from October 1.",
+    "list_id": "kix.nx1pkua318p3",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:5",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Facilities: the plotter is back from repair and printing again.",
+    "list_id": "kix.nx1pkua318p3",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:6",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "September 14, 2026",
+    "list_id": "",
+    "heading_id": "h.uxompw0emohk"
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:7",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Order a second monitor for the new junior designer.",
+    "list_id": "kix.nkem0muulgrh",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:8",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Renew the Adobe team licenses before September 30.",
+    "list_id": "kix.nkem0muulgrh",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:9",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Book the building's fire drill walkthrough.",
+    "list_id": "kix.nkem0muulgrh",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:10",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "The action items above have no owners yet.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:11",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 11,
+    "style": "HEADING_2",
+    "text": "September 8, 2026",
+    "list_id": "",
+    "heading_id": "h.m3dk3msn32jj"
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:12",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 12,
+    "style": "NORMAL_TEXT",
+    "text": "Staffing: Tomas is out September 9 to 13.",
+    "list_id": "kix.wopjwon75c6m",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:13",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "Vendors: switch the coffee bean order to Dark Matter, monthly.",
+    "list_id": "kix.wopjwon75c6m",
+    "heading_id": ""
+  },
+  {
+    "id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb:14",
+    "document_id": "1BXmjVU2beHu6h-yQ_diihKz9QrPx92hAb",
+    "position": 14,
+    "style": "NORMAL_TEXT",
+    "text": "Facilities: the fire drill is scheduled for October 7 at 11:00.",
+    "list_id": "kix.wopjwon75c6m",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:0",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Studio Move Checklist",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:1",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "The desk reshuffle is on Saturday, November 14. Everyone packs their own desk on Friday the 13th.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:2",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "Before the move",
+    "list_id": "",
+    "heading_id": "h.llcgbmw1qnq8"
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:3",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Label every monitor, dock and chair with your name.",
+    "list_id": "kix.wscq7tlg9obe",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:4",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Back up your laptop to Drive and confirm with Ben.",
+    "list_id": "kix.wscq7tlg9obe",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:5",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Empty the materials shelf into crates, one crate per project.",
+    "list_id": "kix.wscq7tlg9obe",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:6",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Move day",
+    "list_id": "",
+    "heading_id": "h.7d8qc23i8c3y"
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:7",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Movers arrive at 8:00; Ben Hartigan has the keys.",
+    "list_id": "kix.dhuqckadhndv",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:8",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "IT reconnects the plotter and the printer on the north wall.",
+    "list_id": "kix.dhuqckadhndv",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:9",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 9,
+    "style": "HEADING_2",
+    "text": "After the move",
+    "list_id": "",
+    "heading_id": "h.xqwo66t5h1y3"
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:10",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Update the seating chart in the Studio Handbook.",
+    "list_id": "kix.nu0ae5y3mx7c",
+    "heading_id": ""
+  },
+  {
+    "id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_:11",
+    "document_id": "1MSVfbQzlB-xmLjZpDE1plu7BTZerdIvH_",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Check that every desk has power and a working network drop.",
+    "list_id": "kix.nu0ae5y3mx7c",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:0",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Preferred Vendor Terms",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:1",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Terms negotiated for 2026. Payment terms count from the invoice date.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:2",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "Pressworks Chicago (printing)",
+    "list_id": "",
+    "heading_id": "h.0n6lkdxk35cj"
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:3",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Net 30, with a 2 percent discount if paid within 10 days.",
+    "list_id": "kix.oqznxhifdct4",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:4",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Rush jobs under 48 hours carry a 25 percent surcharge.",
+    "list_id": "kix.oqznxhifdct4",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:5",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 5,
+    "style": "HEADING_2",
+    "text": "North Branch Millwork (custom furniture)",
+    "list_id": "",
+    "heading_id": "h.8hu0ufpsfeqn"
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:6",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "50 percent deposit with the order, balance Net 15 after delivery.",
+    "list_id": "kix.v0f3yqf8vh8g",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:7",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Lead time 8 to 10 weeks; change orders after shop drawings are billed at cost plus 15 percent.",
+    "list_id": "kix.v0f3yqf8vh8g",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:8",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 8,
+    "style": "HEADING_2",
+    "text": "Fieldstone Tile & Stone (finishes)",
+    "list_id": "",
+    "heading_id": "h.0s85dw26ca82"
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:9",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Net 45 for orders over $10,000.",
+    "list_id": "kix.6z15cumuno1n",
+    "heading_id": ""
+  },
+  {
+    "id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4:10",
+    "document_id": "1oVAbBktAxiVg9fzzs6Lj2Op5NGtPUtMp4",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Samples are free up to five per project.",
+    "list_id": "kix.6z15cumuno1n",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:0",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Studio Lease Summary",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:1",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "1840 N Milwaukee Ave, Suite 300, Chicago, IL 60647. Landlord: Milwaukee Avenue Partners LLC.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:2",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Term: April 1, 2022 to March 31, 2027.",
+    "list_id": "kix.o5sgxzd8nmk5",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:3",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Base rent: $9,850 per month, rising 3 percent each April.",
+    "list_id": "kix.o5sgxzd8nmk5",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:4",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Renewal option: one five-year term; written notice is due by September 30, 2026.",
+    "list_id": "kix.o5sgxzd8nmk5",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:5",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Termination notice: six months, in writing, sent by certified mail.",
+    "list_id": "kix.o5sgxzd8nmk5",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:6",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Parking: four permits at $95 per month each, billed separately from rent.",
+    "list_id": "kix.o5sgxzd8nmk5",
+    "heading_id": ""
+  },
+  {
+    "id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC:7",
+    "document_id": "1nRZD5AdxacXutMDYt0sVUgrtKIE_aaonC",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Security deposit of $19,700 is held by the landlord and returned within 30 days of move-out.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:0",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Year-End Review: Document Checklist",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:1",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "For Ken Alvarado at Alvarado Tax. Upload everything to the Finance folder by January 15, 2027.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:2",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Bank statements for every account, January to December",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:3",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Invoice Tracker 2026 export with payment dates",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:4",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Profit and loss statements for each quarter",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:5",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Payroll reports and the year-end W-2 and 1099 summaries",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:6",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Fixed asset additions over $2,500, with receipts",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:7",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Lease agreement and any amendments",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo:8",
+    "document_id": "1eYnq6Vep2eKiCBDL9cFNtWxzCCQ10WVQo",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Software subscriptions list with annual cost",
+    "list_id": "kix.3x2sg0e0i55k",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:0",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 0,
+    "style": "TITLE",
+    "text": "INVOICE",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:1",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Lakeshore Design Studio LLC, 1840 N Milwaukee Ave, Suite 300, Chicago, IL 60647",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:2",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Invoice number: {{INVOICE_NUMBER}}    Date: {{INVOICE_DATE}}",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:3",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Bill to: {{CLIENT_NAME}}, {{CLIENT_ADDRESS}}",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:4",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Project: {{PROJECT_NAME}}",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:5",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Amount due: {{AMOUNT_DUE}}    Due date: {{DUE_DATE}}",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:6",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Payment terms",
+    "list_id": "",
+    "heading_id": "h.fe7u69cvtqsy"
+  },
+  {
+    "id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7:7",
+    "document_id": "11Ghkpq7Ezu59E2pbjdz7BIbLUHtbo7Dr7",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Net 30. A late fee of 1.5 percent per month applies to balances more than 30 days overdue. Pay by ACH to the account on file or by check payable to Lakeshore Design Studio LLC.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:0",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Employee Handbook",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:1",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 1,
+    "style": "SUBTITLE",
+    "text": "Lakeshore Design Studio, revised March 2026",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:2",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 2,
+    "style": "HEADING_1",
+    "text": "Time off",
+    "list_id": "",
+    "heading_id": "h.gggxx23wnrtl"
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:3",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Paid time off accrues each pay period and can be used once earned. Unused PTO up to 40 hours carries over into the next year.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:4",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Less than 2 years of service: 15 days per year",
+    "list_id": "kix.9u22xzo20w6b",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:5",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "2 to 4 years of service: 18 days per year",
+    "list_id": "kix.9u22xzo20w6b",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:6",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "The studio closes from December 24 to January 1; those days do not count against PTO.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:7",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 7,
+    "style": "HEADING_1",
+    "text": "Benefits",
+    "list_id": "",
+    "heading_id": "h.ki8m6homcgkr"
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:8",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Health, dental and vision coverage start on the first of the month after your start date. The studio pays 80 percent of employee premiums and 50 percent for dependents.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:9",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "401(k) with a 4 percent match, vested immediately.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:10",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 10,
+    "style": "HEADING_1",
+    "text": "Dress code",
+    "list_id": "",
+    "heading_id": "h.0dvq0pfaysec"
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:11",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Business casual on client days, anything comfortable otherwise. Closed-toe shoes are required in the materials room.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:12",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 12,
+    "style": "HEADING_1",
+    "text": "Conduct",
+    "list_id": "",
+    "heading_id": "h.nxzy30cax4mn"
+  },
+  {
+    "id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT:13",
+    "document_id": "1AxFq9qQz2Do0eonYCGsWVvPxYTf6_ScvT",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "Treat clients, vendors and each other with respect. Report concerns to Dana Whitfield or, if the concern involves Dana, to Leah Novak.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:0",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Remote and Hybrid Work Policy",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:1",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Effective October 1, 2026.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:2",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Everyone works from the studio Tuesday through Thursday.",
+    "list_id": "kix.amed6u5umgdc",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:3",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Monday and Friday may be remote, subject to client meetings and site visits.",
+    "list_id": "kix.amed6u5umgdc",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:4",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Core hours are 10:00 to 4:00 Central on every working day, remote or not.",
+    "list_id": "kix.amed6u5umgdc",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:5",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Remote days need a reliable connection and a working camera for client calls.",
+    "list_id": "kix.amed6u5umgdc",
+    "heading_id": ""
+  },
+  {
+    "id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR:6",
+    "document_id": "1_BD-Mc2RCqN00t-cljCr6f5duoMmfmuAR",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Exceptions are approved by Dana Whitfield in writing.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:0",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 0,
+    "style": "TITLE",
+    "text": "New Designer Onboarding",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:1",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 1,
+    "style": "HEADING_2",
+    "text": "Day one",
+    "list_id": "",
+    "heading_id": "h.qdyitr8vk9d0"
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:2",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Laptop, monitor and building badge from Ben Hartigan",
+    "list_id": "kix.vb2qy4zugbnn",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:3",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Accounts: Google Workspace, Adobe Creative Cloud, Harvest and Slack",
+    "list_id": "kix.vb2qy4zugbnn",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:4",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Read the Studio Handbook and the Employee Handbook",
+    "list_id": "kix.vb2qy4zugbnn",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:5",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 5,
+    "style": "HEADING_2",
+    "text": "First week",
+    "list_id": "",
+    "heading_id": "h.4m9rf757mlyk"
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:6",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Shadow Marcus on a Brightwell site visit",
+    "list_id": "kix.guo4n1982p75",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:7",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Set up the project folder template in Drive",
+    "list_id": "kix.guo4n1982p75",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:8",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 8,
+    "style": "HEADING_2",
+    "text": "First thirty days",
+    "list_id": "",
+    "heading_id": "h.2h20xzty5d3c"
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:9",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Own one deliverable end to end with a senior designer reviewing",
+    "list_id": "kix.73t4ky5z8sn3",
+    "heading_id": ""
+  },
+  {
+    "id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW:10",
+    "document_id": "1YwT1WcozqDCQ8AaA88vFY0dwUlNgFBrBW",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Thirty-day check-in with Dana",
+    "list_id": "kix.73t4ky5z8sn3",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:0",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Semiannual Performance Review",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:1",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Employee: {{NAME}}    Reviewer: {{REVIEWER}}    Period: {{PERIOD}}",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:2",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "Highlights",
+    "list_id": "",
+    "heading_id": "h.vtrelgaz1cex"
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:3",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "What went well this period? Name two or three projects.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:4",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 4,
+    "style": "HEADING_2",
+    "text": "Growth areas",
+    "list_id": "",
+    "heading_id": "h.j3vhjcf8k9iq"
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:5",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Where should the employee focus next period?",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:6",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Goals for next period",
+    "list_id": "",
+    "heading_id": "h.jha78ohuowv3"
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:7",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Goal one, with a measure of success",
+    "list_id": "kix.dqod826s4lc2",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:8",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Goal two, with a measure of success",
+    "list_id": "kix.dqod826s4lc2",
+    "heading_id": ""
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:9",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 9,
+    "style": "HEADING_2",
+    "text": "Rating",
+    "list_id": "",
+    "heading_id": "h.hbngkkfirel9"
+  },
+  {
+    "id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-:10",
+    "document_id": "1XUs90n035QRLFGd-EVAYnSLKXD9Y7SEs-",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Exceeds, Meets or Developing, with one sentence explaining the rating.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:0",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Holiday Party Planning",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:1",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Update, July 10: the evening party is cancelled. We are doing a team lunch instead on Friday, December 18.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:2",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "Lunch options",
+    "list_id": "",
+    "heading_id": "h.12c0z97u3sja"
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:3",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Marrow & Vine, West Loop: private room for 12",
+    "list_id": "kix.y6uot4f8eqli",
+    "heading_id": ""
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:4",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Lantern House, Logan Square: the patio closes in November",
+    "list_id": "kix.y6uot4f8eqli",
+    "heading_id": ""
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:5",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Copper Fern, River North: group menu at $48 per person",
+    "list_id": "kix.y6uot4f8eqli",
+    "heading_id": ""
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:6",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Budget",
+    "list_id": "",
+    "heading_id": "h.cqco65sojbp9"
+  },
+  {
+    "id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu:7",
+    "document_id": "1H4m2VZeZzyJ6qcQCeEyHuN4CCEOBcaumu",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "$75 per person including tax and tip, for 11 people.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH:0",
+    "document_id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Equipment Borrowing Policy",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH:1",
+    "document_id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Studio cameras, the portable projector and the laser measure can be borrowed for client work.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH:2",
+    "document_id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Sign the item out in the Equipment Inventory sheet with your name and return date.",
+    "list_id": "kix.3q9huic2uavu",
+    "heading_id": ""
+  },
+  {
+    "id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH:3",
+    "document_id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Return items by 10:00 the next working day unless Ben approves a longer loan.",
+    "list_id": "kix.3q9huic2uavu",
+    "heading_id": ""
+  },
+  {
+    "id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH:4",
+    "document_id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Report damage the same day. You will not be charged for accidents reported promptly.",
+    "list_id": "kix.3q9huic2uavu",
+    "heading_id": ""
+  },
+  {
+    "id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH:5",
+    "document_id": "1Ea8vVbc96f69ZA1JOutYvqnbhP1zXosEH",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Laptops and monitors assigned to you may go home with you; keep them locked when unattended.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:0",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Marketing Plan 2026",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:1",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 1,
+    "style": "HEADING_1",
+    "text": "Positioning",
+    "list_id": "",
+    "heading_id": "h.0ve7chglc5wb"
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:2",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Lakeshore Design is the studio hospitality brands call when a space has to work for guests and staff alike. We lead with finished work, not process.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:3",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 3,
+    "style": "HEADING_1",
+    "text": "Channels",
+    "list_id": "",
+    "heading_id": "h.iuorun20snaa"
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:4",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Instagram: two posts a week, project reveals and studio life",
+    "list_id": "kix.7tp3nj8ok9am",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:5",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Newsletter: quarterly, to past clients and partners",
+    "list_id": "kix.7tp3nj8ok9am",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:6",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Industry awards: submit Brightwell River North to two awards",
+    "list_id": "kix.7tp3nj8ok9am",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:7",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 7,
+    "style": "HEADING_1",
+    "text": "Quarterly goals",
+    "list_id": "",
+    "heading_id": "h.zxcwwu52h649"
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:8",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Q1: refresh the website case studies",
+    "list_id": "kix.zahc2x9a01i4",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:9",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 9,
+    "style": "NORMAL_TEXT",
+    "text": "Q2: publish the Harbor Street case study",
+    "list_id": "kix.zahc2x9a01i4",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:10",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 10,
+    "style": "NORMAL_TEXT",
+    "text": "Q3: speak at one local design event",
+    "list_id": "kix.zahc2x9a01i4",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:11",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 11,
+    "style": "NORMAL_TEXT",
+    "text": "Q4: grow the newsletter list to 600 subscribers",
+    "list_id": "kix.zahc2x9a01i4",
+    "heading_id": ""
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:12",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 12,
+    "style": "HEADING_1",
+    "text": "Budget",
+    "list_id": "",
+    "heading_id": "h.a0mmad2bqus7"
+  },
+  {
+    "id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V:13",
+    "document_id": "1CmVs982coyFR7TsUS-kbClbm8-4VVtu5V",
+    "position": 13,
+    "style": "NORMAL_TEXT",
+    "text": "$18,000 for the year, mostly photography and award entry fees. No paid social budget is allocated.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:0",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Autumn Newsletter (draft)",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:1",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Hello from Milwaukee Avenue! It has been a busy summer at the studio.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:2",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "What we have been working on",
+    "list_id": "",
+    "heading_id": "h.6jm9juozi5k2"
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:3",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Brightwell River North is in its final design stage, and the first lobby install starts in October.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:4",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Harbor Street Cafe's new menus are on the tables. Stop in for the shakshuka.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:5",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 5,
+    "style": "HEADING_2",
+    "text": "Studio news",
+    "list_id": "",
+    "heading_id": "h.zydhdotjy86m"
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:6",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "We are hiring a studio coordinator. Know someone great? Send them our way.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm:7",
+    "document_id": "1ccKutnU_cNXa-OVRrLwHRGgA-IUj74CBm",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Draft paused in August. Do not send.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:0",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Brand Photography Shot List",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:1",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Photo day: March 19, 2026, with photographer Elise Moreno, at the studio and two client sites.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:2",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 2,
+    "style": "NORMAL_TEXT",
+    "text": "Team portrait on the studio stairs, morning light",
+    "list_id": "kix.32pg8u9qpudc",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:3",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "Individual headshots against the plaster wall",
+    "list_id": "kix.32pg8u9qpudc",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:4",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 4,
+    "style": "NORMAL_TEXT",
+    "text": "Materials shelf detail shots, three angles",
+    "list_id": "kix.32pg8u9qpudc",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:5",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "Dana and Marcus reviewing drawings at the big table",
+    "list_id": "kix.32pg8u9qpudc",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:6",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 6,
+    "style": "NORMAL_TEXT",
+    "text": "Harbor Street Cafe counter with the new menus",
+    "list_id": "kix.32pg8u9qpudc",
+    "heading_id": ""
+  },
+  {
+    "id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4:7",
+    "document_id": "1225wc6j9bh5ZYLL_y_t9dDOTHoMb2E8J4",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Exterior signage at the studio entrance",
+    "list_id": "kix.32pg8u9qpudc",
+    "heading_id": ""
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:0",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Case Study: Brightwell Hospitality",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:1",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Brightwell Hospitality operates three hotels across Chicago, each with a lobby renovated at a different time by a different designer. Guests told Brightwell the properties felt like three unrelated brands. In 2026 Brightwell asked Lakeshore Design to bring the lobbies together without erasing what made each property feel local. We started with the arrival sequence, timing how long guests took to find the reception desk. The result is a shared system of materials, lighting and signage, adapted to each building.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:2",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "The challenge",
+    "list_id": "",
+    "heading_id": "h.kxjts9hpvwsz"
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:3",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "All three lobbies had to stay open during the work, and the Lakefront property was reopening on a fixed date.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:4",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 4,
+    "style": "HEADING_2",
+    "text": "Our approach",
+    "list_id": "",
+    "heading_id": "h.nkfm86znucqz"
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:5",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "A kit of parts: one reception desk design in three sizes, a common palette of oak, terrazzo and brass, and local art commissioned for each lobby.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:6",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Results",
+    "list_id": "",
+    "heading_id": "h.cuueh4tsonky"
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:7",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Time to find reception fell from 24 seconds to 9 at River North in the first month after install.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU:8",
+    "document_id": "1J1XU9BxNPXPGMFn71HksuPT4ZdUzajGpU",
+    "position": 8,
+    "style": "NORMAL_TEXT",
+    "text": "Render images are pending client approval and are not included in this draft.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:0",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 0,
+    "style": "TITLE",
+    "text": "Case Study: Harbor Street Cafe",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:1",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 1,
+    "style": "NORMAL_TEXT",
+    "text": "Harbor Street Cafe had a menu that customers loved to talk about and hated to read.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:2",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 2,
+    "style": "HEADING_2",
+    "text": "The brief",
+    "list_id": "",
+    "heading_id": "h.w1yu4lbjyc2x"
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:3",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 3,
+    "style": "NORMAL_TEXT",
+    "text": "A new folded menu, table cards and a chalkboard system the staff could update without us.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:4",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 4,
+    "style": "HEADING_2",
+    "text": "What we made",
+    "list_id": "",
+    "heading_id": "h.gj3lo2f0kii3"
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:5",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 5,
+    "style": "NORMAL_TEXT",
+    "text": "A hand-drawn identity built around the cafe's coffee cup, a menu grid that fits 40 items without crowding, and a lettering guide for the counter chalkboard.",
+    "list_id": "",
+    "heading_id": ""
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:6",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 6,
+    "style": "HEADING_2",
+    "text": "Outcome",
+    "list_id": "",
+    "heading_id": "h.t4hx7swbpopy"
+  },
+  {
+    "id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD:7",
+    "document_id": "1ZlvLz4JNsJ_8HfdWF8YZwwqY8KWqd1GrD",
+    "position": 7,
+    "style": "NORMAL_TEXT",
+    "text": "Omar reports that breakfast orders include a drink 20 percent more often since the redesign.",
+    "list_id": "",
+    "heading_id": ""
+  }
+]

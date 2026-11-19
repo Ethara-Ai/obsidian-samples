@@ -1,0 +1,29 @@
+[
+  {
+    "sys_id": "usr-reggie",
+    "user_name": "rclayton",
+    "name": "Reggie Clayton",
+    "email": "rclayton@mcs.k12.tn.us",
+    "title": "Industrial Arts Teacher",
+    "department": "Ridgeway Regional High School",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-helpdesk",
+    "user_name": "mcs.servicedesk",
+    "name": "MCS Service Desk",
+    "email": "servicedesk@mcs.k12.tn.us",
+    "title": "Support Queue",
+    "department": "District IT",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-denise",
+    "user_name": "dpatterson",
+    "name": "Denise Patterson",
+    "email": "dpatterson@gmail.com",
+    "title": "Principal",
+    "department": "Ridgeway Regional High School",
+    "active": "true"
+  }
+]

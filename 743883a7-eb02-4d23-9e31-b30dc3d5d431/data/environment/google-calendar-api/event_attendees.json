@@ -1,0 +1,58 @@
+[
+ {
+  "event_id": "evt-bm-staging-5759",
+  "email": "carlos.staging@gmail.com",
+  "display_name": "Carlos Menendez",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ },
+ {
+  "event_id": "evt-bm-gabi-5759",
+  "email": "gabi@gabisantos.com",
+  "display_name": "Gabriela Santos",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ },
+ {
+  "event_id": "evt-bm-petersons",
+  "email": "james.peterson@outlook.com",
+  "display_name": "James Peterson",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ },
+ {
+  "event_id": "evt-bm-nguyens",
+  "email": "nguyen.family.tampa@gmail.com",
+  "display_name": "The Nguyens",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ },
+ {
+  "event_id": "evt-bm-ramirez",
+  "email": "dr.ramirez.tampa@gmail.com",
+  "display_name": "Dr. Ramirez",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ },
+ {
+  "event_id": "evt-bm-disclosure",
+  "email": "joanne.ellery@gmail.com",
+  "display_name": "Joanne Ellery",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ },
+ {
+  "event_id": "evt-bm-carlos-1029",
+  "email": "carlos.staging@gmail.com",
+  "display_name": "Carlos Menendez",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ }
+]

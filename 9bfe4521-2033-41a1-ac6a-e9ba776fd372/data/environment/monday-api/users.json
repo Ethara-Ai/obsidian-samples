@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "usr-1",
+    "name": "Reggie Clayton",
+    "email": "reggie.clayton@finthesiss.ai",
+    "title": "Industrial Arts Teacher",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2",
+    "name": "Jerome Simmons",
+    "email": "jerome.simmons@example.com",
+    "title": "Auto Shop Teacher",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-3",
+    "name": "Denise Patterson",
+    "email": "dpatterson@gmail.com",
+    "title": "Principal",
+    "is_admin": "false"
+  }
+]

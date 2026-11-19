@@ -1,0 +1,46 @@
+[
+  {
+    "id": "AAMkAGcal0000001",
+    "name": "Calendar",
+    "color": "auto",
+    "hex_color": "",
+    "is_default": true,
+    "can_edit": true,
+    "owner_account_id": "acct-alex-carter",
+    "owner_name": "Alex Carter",
+    "owner_address": "alex.carter@contoso.com"
+  },
+  {
+    "id": "AAMkAGcal0000002",
+    "name": "Platform Team",
+    "color": "lightTeal",
+    "hex_color": "#4bc6b9",
+    "is_default": false,
+    "can_edit": true,
+    "owner_account_id": "acct-alex-carter",
+    "owner_name": "Alex Carter",
+    "owner_address": "alex.carter@contoso.com"
+  },
+  {
+    "id": "AAMkAGcal0000003",
+    "name": "United States holidays",
+    "color": "lightGreen",
+    "hex_color": "#87d28e",
+    "is_default": false,
+    "can_edit": false,
+    "owner_account_id": "acct-alex-carter",
+    "owner_name": "Alex Carter",
+    "owner_address": "alex.carter@contoso.com"
+  },
+  {
+    "id": "AAMkAGcal0000004",
+    "name": "Birthdays",
+    "color": "lightPink",
+    "hex_color": "#f1a7c4",
+    "is_default": false,
+    "can_edit": false,
+    "owner_account_id": "acct-alex-carter",
+    "owner_name": "Alex Carter",
+    "owner_address": "alex.carter@contoso.com"
+  }
+]

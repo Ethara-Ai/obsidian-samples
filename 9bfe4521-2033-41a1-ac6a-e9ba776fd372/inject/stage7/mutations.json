@@ -1,0 +1,80 @@
+{
+  "stage": 7,
+  "stage_name": "price_send",
+  "description": "Friday 13:20: Darnell Washington emails Reggie, in a new thread, a photo of the Smoke Ring chalkboard as revised: the brisket plate's 16 chalked out and 18 written under it. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Friday 12:40: Calvin Reed asks whether he can leave his spring travel deposit with him instead of Coach Banks, in a WhatsApp message to Reggie (unannounced).",
+  "applies_between_turns": [
+    "T14",
+    "T15"
+  ],
+  "applied_at_local_time": "2026-12-11T13:20:00-06:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_hd_attachment",
+        "action": "copy",
+        "src": "files/IMG_3107.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/F20D778A-CEDF-52DF-894B-0B5471EB84EA/INBOX.mbox/225A10D3-D120-5216-881C-102FA5723F0C/Data/4/1/Attachments/48226/2/IMG_3107.jpg",
+        "description": "The attachment of Darnell Washington's mail, in the Mail app's attachment store. Darnell's chalkboard with the brisket plate up to $18.",
+        "fires_at_turn": "T15"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_hd_mail",
+        "service": "gmail-api",
+        "description": "Darnell Washington emails Reggie a picture. Darnell's chalkboard with the brisket plate up to $18.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-8e873af28a",
+            "thread_id": "thr-029f7736",
+            "from_addr": "darnell.washington@gmail.com",
+            "to_addr": "reggie.clayton@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_3107.jpg",
+            "snippet": "IMG_3107.jpg D",
+            "body": "IMG_3107.jpg\n\nD",
+            "date": "2026-12-11T13:20:00-06:00",
+            "internal_date": 1797016800000,
+            "size_estimate": 192015,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T15"
+      },
+      {
+        "id": "sil_wa_calvin3",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Calvin Reed.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.a8939e481ef72a433610",
+            "conversation_id": "conv-rc-calvin",
+            "direction": "inbound",
+            "from_wa_id": "19015550412",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Can I leave the spring travel deposit with you instead of Coach?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-11T18:40:00Z"
+          }
+        },
+        "fires_at_turn": "T15"
+      }
+    ]
+  }
+}

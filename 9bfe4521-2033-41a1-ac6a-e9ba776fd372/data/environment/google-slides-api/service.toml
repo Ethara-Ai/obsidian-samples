@@ -1,0 +1,5 @@
+[service]
+name = "google-slides-api"
+port = 8118
+env_var_name = "GOOGLE_SLIDES_API_URL"
+healthcheck_path = "/health"

@@ -1,0 +1,180 @@
+{
+  "info": {
+    "name": "Phone API Mock v1",
+    "description": "Mock Phone API v1. Base URL: http://localhost:8129. In docker-compose: http://phone-api:8129. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8129"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=phone-connector-app&client_secret=phcs_2a7d5e91c3f08b46"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"phone-connector-app\", \"client_secret\": \"phcs_2a7d5e91c3f08b46\", \"scope\": \"calls.read calls.write messages.read messages.send\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list recent calls",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/calls?limit=20",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list missed incoming calls this week",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/calls?direction=incoming&status=missed&since=2026-09-28",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "place a call",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/calls",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"to\": \"+13125550143\"}"
+        }
+      }
+    },
+    {
+      "name": "list text conversations",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/conversations",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list unread text conversations",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/conversations?unread_only=true",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the messages in a conversation",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/conversations/conv_6b0af93724ab489e/messages?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "send a text message",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/messages",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"to\": \"+13125550140\", \"body\": \"Change order 03 is in your inbox now.\"}"
+        }
+      }
+    }
+  ]
+}

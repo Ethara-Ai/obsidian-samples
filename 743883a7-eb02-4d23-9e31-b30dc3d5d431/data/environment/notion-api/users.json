@@ -1,0 +1,26 @@
+[
+ {
+  "id": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "account_id": "acct-brittany-morales",
+  "name": "Brittany Morales",
+  "email": "brittany.morales@greenridertech.co",
+  "avatar_url": "",
+  "type": "person"
+ },
+ {
+  "id": "daf1ad92-1ba1-5ce0-b616-b6407fb2318a",
+  "account_id": "acct-brittany-morales",
+  "name": "Tom Henderson",
+  "email": "thenderson@suncoastrealty.com",
+  "avatar_url": "",
+  "type": "person"
+ },
+ {
+  "id": "0c70fdb9-2ea4-5d21-b877-535ee5aa5114",
+  "account_id": "acct-brittany-morales",
+  "name": "SunCoast Assistant",
+  "email": "",
+  "avatar_url": "",
+  "type": "bot"
+ }
+]

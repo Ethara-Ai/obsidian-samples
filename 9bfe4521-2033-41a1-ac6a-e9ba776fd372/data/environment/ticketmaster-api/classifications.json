@@ -1,0 +1,26 @@
+[
+ {
+  "id": "cls-nba",
+  "segment": "Sports",
+  "genre": "Basketball",
+  "subgenre": "NBA"
+ },
+ {
+  "id": "cls-ncaa",
+  "segment": "Sports",
+  "genre": "Basketball",
+  "subgenre": "College"
+ },
+ {
+  "id": "cls-ballet",
+  "segment": "Arts & Theatre",
+  "genre": "Dance",
+  "subgenre": "Ballet"
+ },
+ {
+  "id": "cls-soul",
+  "segment": "Music",
+  "genre": "R&B",
+  "subgenre": "Soul"
+ }
+]

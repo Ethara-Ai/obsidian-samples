@@ -1,0 +1,101 @@
+{
+  "stage": 1,
+  "stage_name": "camp_agreement",
+  "description": "Wednesday 09:15: Monica Fields of Memphis City Schools Summer Enrichment sends Reggie the 2027 welding camp instructor agreement through DocuSign, with its stipend schedule (the request that follows names it).",
+  "applies_between_turns": [
+    "T7",
+    "T8"
+  ],
+  "applied_at_local_time": "2026-12-09T09:15:00-06:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [
+      {
+        "id": "loud_ds_envelope",
+        "service": "docusign-api",
+        "description": "MCS Summer Enrichment sends the 2027 camp agreement.",
+        "method": "POST",
+        "path": "/restapi/v2.1/accounts/acct-reggie-clayton/envelopes",
+        "admin": {
+          "op": "upsert",
+          "table": "envelopes",
+          "row": {
+            "envelope_id": "be363cb0-83d5-58c0-a86d-c5cd625742d2",
+            "status": "sent",
+            "email_subject": "MCS Summer Enrichment 2027: Welding Camp Instructor Agreement",
+            "sender_name": "Monica Fields",
+            "sender_email": "summer.enrichment@mcs-district.example",
+            "created_time": "2026-12-09T15:15:00Z",
+            "sent_time": "2026-12-09T15:15:00Z",
+            "completed_time": "",
+            "template_id": ""
+          }
+        },
+        "fires_at_turn": "T8"
+      },
+      {
+        "id": "loud_ds_signer",
+        "service": "docusign-api",
+        "description": "Reggie as the 2027 camp agreement's signer.",
+        "method": "POST",
+        "path": "/restapi/v2.1/accounts/acct-reggie-clayton/envelopes",
+        "admin": {
+          "op": "upsert",
+          "table": "recipients",
+          "row": {
+            "recipient_id": "31",
+            "envelope_id": "be363cb0-83d5-58c0-a86d-c5cd625742d2",
+            "name": "Reggie Clayton",
+            "email": "reggie.clayton@finthesiss.ai",
+            "recipient_type": "signer",
+            "status": "sent",
+            "routing_order": 1,
+            "signed_time": ""
+          }
+        },
+        "fires_at_turn": "T8"
+      },
+      {
+        "id": "loud_ds_agreement",
+        "service": "docusign-api",
+        "description": "The 2027 camp agreement's instructor agreement document.",
+        "method": "POST",
+        "path": "/restapi/v2.1/accounts/acct-reggie-clayton/envelopes",
+        "admin": {
+          "op": "upsert",
+          "table": "documents",
+          "row": {
+            "document_id": "31",
+            "envelope_id": "be363cb0-83d5-58c0-a86d-c5cd625742d2",
+            "name": "Welding Camp 2027 Instructor Agreement (June 14 - July 1, 2027).pdf",
+            "document_type": "content",
+            "page_count": 4,
+            "order": 1
+          }
+        },
+        "fires_at_turn": "T8"
+      },
+      {
+        "id": "loud_ds_stipend",
+        "service": "docusign-api",
+        "description": "The 2027 camp agreement's stipend schedule.",
+        "method": "POST",
+        "path": "/restapi/v2.1/accounts/acct-reggie-clayton/envelopes",
+        "admin": {
+          "op": "upsert",
+          "table": "documents",
+          "row": {
+            "document_id": "32",
+            "envelope_id": "be363cb0-83d5-58c0-a86d-c5cd625742d2",
+            "name": "Summer Enrichment 2027 stipend schedule.pdf",
+            "document_type": "content",
+            "page_count": 1,
+            "order": 2
+          }
+        },
+        "fires_at_turn": "T8"
+      }
+    ],
+    "silent": []
+  }
+}

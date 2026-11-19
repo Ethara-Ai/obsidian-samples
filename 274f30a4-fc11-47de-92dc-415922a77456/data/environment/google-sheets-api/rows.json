@@ -1,0 +1,614 @@
+[
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:1",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 1,
+  "values": [
+   {
+    "v": "ID"
+   },
+   {
+    "v": "Participant"
+   },
+   {
+    "v": "Email"
+   },
+   {
+    "v": "Phone"
+   },
+   {
+    "v": "Track"
+   },
+   {
+    "v": "Status"
+   },
+   {
+    "v": "On track (as of 11/18)"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:2",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 2,
+  "values": [
+   {
+    "v": "P01"
+   },
+   {
+    "v": "Alicia Freeman"
+   },
+   {
+    "v": "alicia.freeman84@gmail.com"
+   },
+   {
+    "v": "(410) 555-3101"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:3",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 3,
+  "values": [
+   {
+    "v": "P02"
+   },
+   {
+    "v": "Brandon Hughes"
+   },
+   {
+    "v": "bhughes.balt@gmail.com"
+   },
+   {
+    "v": "(443) 555-3102"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:4",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 4,
+  "values": [
+   {
+    "v": "P03"
+   },
+   {
+    "v": "Carmen Delgado"
+   },
+   {
+    "v": "carmen.delgado.md@gmail.com"
+   },
+   {
+    "v": "(410) 555-3103"
+   },
+   {
+    "v": "kinship"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:5",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 5,
+  "values": [
+   {
+    "v": "P04"
+   },
+   {
+    "v": "DeShawn Wallace"
+   },
+   {
+    "v": "deshawn.wallace@gmail.com"
+   },
+   {
+    "v": "(443) 555-3104"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:6",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 6,
+  "values": [
+   {
+    "v": "P05"
+   },
+   {
+    "v": "Elena Petrova"
+   },
+   {
+    "v": "elena.petrova.bmore@gmail.com"
+   },
+   {
+    "v": "(410) 555-3105"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "no"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:7",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 7,
+  "values": [
+   {
+    "v": "P06"
+   },
+   {
+    "v": "Frank Mancuso"
+   },
+   {
+    "v": "frank.mancuso61@gmail.com"
+   },
+   {
+    "v": "(410) 555-3106"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:8",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 8,
+  "values": [
+   {
+    "v": "P07"
+   },
+   {
+    "v": "Gloria Banks"
+   },
+   {
+    "v": "gloria.banks.home@gmail.com"
+   },
+   {
+    "v": "(443) 555-3107"
+   },
+   {
+    "v": "kinship"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:9",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 9,
+  "values": [
+   {
+    "v": "P08"
+   },
+   {
+    "v": "Hector Salinas"
+   },
+   {
+    "v": "hector.salinas@gmail.com"
+   },
+   {
+    "v": "(410) 555-3108"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:10",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 10,
+  "values": [
+   {
+    "v": "P09"
+   },
+   {
+    "v": "Imani Okafor"
+   },
+   {
+    "v": "imani.okafor@gmail.com"
+   },
+   {
+    "v": "(443) 555-3109"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:11",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 11,
+  "values": [
+   {
+    "v": "P10"
+   },
+   {
+    "v": "Jerome Tate"
+   },
+   {
+    "v": "jerome.tate.md@gmail.com"
+   },
+   {
+    "v": "(410) 555-3110"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:12",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 12,
+  "values": [
+   {
+    "v": "P11"
+   },
+   {
+    "v": "Kendra Lyles"
+   },
+   {
+    "v": "kendra.lyles@gmail.com"
+   },
+   {
+    "v": "(443) 555-3111"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:13",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 13,
+  "values": [
+   {
+    "v": "P12"
+   },
+   {
+    "v": "Louis Brennan"
+   },
+   {
+    "v": "louis.brennan@gmail.com"
+   },
+   {
+    "v": "(410) 555-3112"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "no"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:14",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 14,
+  "values": [
+   {
+    "v": "P13"
+   },
+   {
+    "v": "Monique Daley"
+   },
+   {
+    "v": "monique.daley@gmail.com"
+   },
+   {
+    "v": "(443) 555-3113"
+   },
+   {
+    "v": "kinship"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:15",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 15,
+  "values": [
+   {
+    "v": "P14"
+   },
+   {
+    "v": "Nathan Cho"
+   },
+   {
+    "v": "nathan.cho.balt@gmail.com"
+   },
+   {
+    "v": "(410) 555-3114"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:16",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 16,
+  "values": [
+   {
+    "v": "P15"
+   },
+   {
+    "v": "Olivia Sutton"
+   },
+   {
+    "v": "olivia.sutton@gmail.com"
+   },
+   {
+    "v": "(443) 555-3115"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "withdrew 10/27"
+   },
+   {
+    "v": "-"
+   }
+  ]
+ },
+ {
+  "id": "1prideFall2026RosterxRMitchell:0:17",
+  "spreadsheet_id": "1prideFall2026RosterxRMitchell",
+  "sheet_id": 0,
+  "row": 17,
+  "values": [
+   {
+    "v": "P16"
+   },
+   {
+    "v": "Patrick Nwosu"
+   },
+   {
+    "v": "patrick.nwosu@gmail.com"
+   },
+   {
+    "v": "(410) 555-3116"
+   },
+   {
+    "v": "general"
+   },
+   {
+    "v": "enrolled"
+   },
+   {
+    "v": "yes"
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:1",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 1,
+  "values": [
+   {
+    "v": "Line"
+   },
+   {
+    "v": "Monthly"
+   },
+   {
+    "v": "Note"
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:2",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 2,
+  "values": [
+   {
+    "v": "Mortgage"
+   },
+   {
+    "v": "1,600"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:3",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 3,
+  "values": [
+   {
+    "v": "Daycare (Little Explorers)"
+   },
+   {
+    "v": "1,100"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:4",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 4,
+  "values": [
+   {
+    "v": "Groceries"
+   },
+   {
+    "v": "750"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:5",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 5,
+  "values": [
+   {
+    "v": "Utilities"
+   },
+   {
+    "v": "280"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:6",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 6,
+  "values": [
+   {
+    "v": "Tithing"
+   },
+   {
+    "v": "250"
+   },
+   {
+    "v": ""
+   }
+  ]
+ },
+ {
+  "id": "1mitchellHousehold2026xBudget:0:7",
+  "spreadsheet_id": "1mitchellHousehold2026xBudget",
+  "sheet_id": 0,
+  "row": 7,
+  "values": [
+   {
+    "v": "Gifts (December)"
+   },
+   {
+    "v": "400"
+   },
+   {
+    "v": ""
+   }
+  ]
+ }
+]

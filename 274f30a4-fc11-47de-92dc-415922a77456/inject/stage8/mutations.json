@@ -1,0 +1,56 @@
+{
+  "stage": 8,
+  "stage_name": "singalong_send",
+  "description": "Friday 07:12: Renee Holt, Fiona's teacher, emails Ryan, in a new thread, a photo of the Toddler Room notice photographed again: the family sing-along's 10:30 AM struck, 9:45 written in, \"moved up 12/11 - RH\". The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it.",
+  "applies_between_turns": [
+    "T14",
+    "T15"
+  ],
+  "applied_at_local_time": "2026-12-11T07:12:00-05:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_h10_attachment",
+        "action": "copy",
+        "src": "files/IMG_0518.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/2C3687E2-06B4-5A4C-A5C4-84AC2B1D4D79/INBOX.mbox/59ABE8D1-3F62-5922-9940-09E5C9B99414/Data/7/2/Attachments/52339/2/IMG_0518.jpg",
+        "description": "The attachment of Renee Holt (Fiona's teacher, Little Explorers)'s mail, in the Mail app's attachment store. Little Explorers moves the party-day sing-along to 9:45 AM.",
+        "fires_at_turn": "T15"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_h10_mail",
+        "service": "gmail-api",
+        "description": "Renee Holt (Fiona's teacher, Little Explorers) emails Ryan a photo. Little Explorers moves the party-day sing-along to 9:45 AM.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-cac89c829a",
+            "thread_id": "thr-778306e9",
+            "from_addr": "reneeholt.lex@gmail.com",
+            "to_addr": "ryan.mitchell@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "IMG_0518.jpg",
+            "snippet": "IMG_0518.jpg Renee",
+            "body": "IMG_0518.jpg\n\nRenee",
+            "date": "2026-12-11T07:12:00-05:00",
+            "internal_date": 1796991120000,
+            "size_estimate": 184019,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T15"
+      }
+    ]
+  }
+}

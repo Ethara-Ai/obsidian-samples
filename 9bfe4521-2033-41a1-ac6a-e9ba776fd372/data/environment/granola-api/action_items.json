@@ -1,0 +1,29 @@
+[
+  {
+    "id": "act_1480e81ea8419e2c",
+    "note_id": "829ab920-a008-4bc4-a397-128ac77c5c57",
+    "position": 0,
+    "text": "Bring the grievance file to the December union meeting",
+    "assignee_id": "per_f187cebb22cb0444",
+    "due_date": "2026-12-03",
+    "completed": false
+  },
+  {
+    "id": "act_da5808701e35b311",
+    "note_id": "829ab920-a008-4bc4-a397-128ac77c5c57",
+    "position": 1,
+    "text": "Share survey reminders with her building",
+    "assignee_id": "per_c5fd961c9f737a95",
+    "due_date": "2026-11-20",
+    "completed": false
+  },
+  {
+    "id": "act_f2258f5e668d2a70",
+    "note_id": "f154ca93-f893-48a8-a00e-045fe45b03cc",
+    "position": 0,
+    "text": "Send the placement record to Denise",
+    "assignee_id": "per_f187cebb22cb0444",
+    "due_date": "2026-10-29",
+    "completed": true
+  }
+]

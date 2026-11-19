@@ -1,0 +1,5 @@
+[service]
+name = "google-contacts-api"
+port = 8116
+env_var_name = "GOOGLE_CONTACTS_API_URL"
+healthcheck_path = "/health"

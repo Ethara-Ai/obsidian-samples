@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17841400000000101",
+    "owner_account_id": "acct-maya-okafor",
+    "username": "saltmarsh.ceramics",
+    "name": "Saltmarsh Ceramics",
+    "account_type": "BUSINESS",
+    "category": "Shopping & retail",
+    "biography": "Small-batch stoneware thrown in Portland, Maine. Studio sales first Saturday of the month. Wholesale: hello@saltmarshceramics.com",
+    "website": "https://saltmarshceramics.com",
+    "profile_picture_url": "https://cdn.mock-instagram.example/p/saltmarsh_avatar.jpg",
+    "connected_at": "2026-03-02T15:20:00+0000"
+  },
+  {
+    "id": "17841400000000102",
+    "owner_account_id": "acct-maya-okafor",
+    "username": "mayamakes",
+    "name": "Maya Okafor",
+    "account_type": "CREATOR",
+    "category": "Artist",
+    "biography": "Potter, glaze nerd, slow mornings. Studio account @saltmarsh.ceramics",
+    "website": "",
+    "profile_picture_url": "https://cdn.mock-instagram.example/p/mayamakes_avatar.jpg",
+    "connected_at": "2026-03-02T15:21:00+0000"
+  }
+]

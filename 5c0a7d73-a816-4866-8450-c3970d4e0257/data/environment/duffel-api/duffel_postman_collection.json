@@ -1,0 +1,222 @@
+{
+  "info": {
+    "name": "Duffel API Mock v2",
+    "description": "Mock Duffel API v2. Base URL: http://localhost:8105. In docker-compose: http://duffel-api:8105. Get a token from POST /oauth/token first; each operation checks its own scope. Replace the <...> placeholders with ids returned by the previous step.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8105"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scope air.offers.read)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=duffel-connector-app&client_secret=dfcs_7a3e5c91b2d84f06"
+        }
+      }
+    },
+    {
+      "name": "token with every scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"duffel-connector-app\", \"client_secret\": \"dfcs_7a3e5c91b2d84f06\", \"scope\": \"air.offers.read air.orders.read air.orders.write air.orders.cancel stays.read\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search flight offers (.search)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/air/offer_requests",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"data\": {\"slices\": [{\"origin\": \"JFK\", \"destination\": \"LHR\", \"departure_date\": \"2026-11-10\"}], \"passengers\": [{\"type\": \"adult\"}, {\"age\": 7}], \"cabin_class\": \"premium_economy\"}}"
+        }
+      }
+    },
+    {
+      "name": "seat options (.seat-options)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/air/seat_maps?offer_id=<offer id>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "validate booking (.validate-booking)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/air/offers/<offer id>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create booking (.book)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/air/orders",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"data\": {\"selected_offers\": [\"<offer id>\"], \"passengers\": [{\"id\": \"<passenger id from the offer request>\", \"title\": \"ms\", \"given_name\": \"Ines\", \"family_name\": \"Calder\", \"born_on\": \"1988-04-12\", \"gender\": \"f\", \"email\": \"ines.calder@example.com\", \"phone_number\": \"+14155550142\"}], \"payments\": [{\"type\": \"balance\", \"amount\": \"<offer total + seat services>\", \"currency\": \"EUR\"}], \"services\": [{\"id\": \"<seat service id from the seat map>\", \"quantity\": 1}]}}"
+        }
+      }
+    },
+    {
+      "name": "booking status (.booking-status)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/air/orders/<order id>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cancellation quote (.cancellation-quote)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/air/order_cancellations",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"data\": {\"order_id\": \"<order id>\"}}"
+        }
+      }
+    },
+    {
+      "name": "confirm cancellation (.cancel-booking)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/air/order_cancellations/<cancellation id>/actions/confirm",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search accommodation (.stays-search)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/stays/search",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"data\": {\"location\": {\"radius\": 10, \"geographic_coordinates\": {\"latitude\": 48.8566, \"longitude\": 2.3522}}, \"check_in_date\": \"2026-11-10\", \"check_out_date\": \"2026-11-13\", \"rooms\": 1, \"guests\": [{\"type\": \"adult\"}, {\"type\": \"adult\"}]}}"
+        }
+      }
+    },
+    {
+      "name": "accommodation rates (.stays-fetch-rates)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/stays/search_results/<search result id>/actions/fetch_all_rates",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

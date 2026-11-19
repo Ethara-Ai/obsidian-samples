@@ -1,0 +1,476 @@
+[
+  {
+    "id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "title": "Projects",
+    "description": "",
+    "icon": {
+      "type": "emoji",
+      "emoji": "🗂️"
+    },
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": {}
+      },
+      "Status": {
+        "id": "uTqG",
+        "type": "status",
+        "status": {
+          "options": [
+            {
+              "id": "u6ZW",
+              "name": "Not started",
+              "color": "gray"
+            },
+            {
+              "id": "L7bX",
+              "name": "In progress",
+              "color": "blue"
+            },
+            {
+              "id": "w1oK",
+              "name": "Blocked",
+              "color": "blue"
+            },
+            {
+              "id": "MmnC",
+              "name": "Done",
+              "color": "green"
+            }
+          ],
+          "groups": [
+            {
+              "id": "K06P",
+              "name": "To-do",
+              "color": "gray",
+              "option_ids": [
+                "u6ZW"
+              ]
+            },
+            {
+              "id": "0Ua5",
+              "name": "In progress",
+              "color": "blue",
+              "option_ids": [
+                "L7bX",
+                "w1oK"
+              ]
+            },
+            {
+              "id": "iSED",
+              "name": "Complete",
+              "color": "green",
+              "option_ids": [
+                "MmnC"
+              ]
+            }
+          ]
+        }
+      },
+      "Owner": {
+        "id": "YxJG",
+        "type": "people",
+        "people": {}
+      },
+      "Priority": {
+        "id": "rTL4",
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "t3bO",
+              "name": "P0",
+              "color": "red"
+            },
+            {
+              "id": "TfPZ",
+              "name": "P1",
+              "color": "orange"
+            },
+            {
+              "id": "DXwi",
+              "name": "P2",
+              "color": "yellow"
+            }
+          ]
+        }
+      },
+      "Quarter": {
+        "id": "4N2P",
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "3xFt",
+              "name": "Q3 2026",
+              "color": "gray"
+            },
+            {
+              "id": "fbXo",
+              "name": "Q4 2026",
+              "color": "blue"
+            },
+            {
+              "id": "fUtg",
+              "name": "Q1 2027",
+              "color": "purple"
+            }
+          ]
+        }
+      },
+      "Target date": {
+        "id": "azx4",
+        "type": "date",
+        "date": {}
+      },
+      "Tags": {
+        "id": "TcdB",
+        "type": "multi_select",
+        "multi_select": {
+          "options": [
+            {
+              "id": "iw1L",
+              "name": "Payments",
+              "color": "green"
+            },
+            {
+              "id": "EbIZ",
+              "name": "Reliability",
+              "color": "red"
+            },
+            {
+              "id": "pFXk",
+              "name": "Developer Experience",
+              "color": "blue"
+            },
+            {
+              "id": "5Vbc",
+              "name": "Security",
+              "color": "purple"
+            },
+            {
+              "id": "dAJ8",
+              "name": "Data",
+              "color": "brown"
+            },
+            {
+              "id": "yJl7",
+              "name": "Customer",
+              "color": "pink"
+            }
+          ]
+        }
+      },
+      "Progress": {
+        "id": "OFqL",
+        "type": "number",
+        "number": {
+          "format": "percent"
+        }
+      },
+      "Customer": {
+        "id": "wsrW",
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Design doc": {
+        "id": "ze9t",
+        "type": "url",
+        "url": {}
+      },
+      "Created": {
+        "id": "8Nzx",
+        "type": "created_time",
+        "created_time": {}
+      },
+      "Last edited": {
+        "id": "IMDZ",
+        "type": "last_edited_time",
+        "last_edited_time": {}
+      }
+    },
+    "is_inline": true,
+    "archived": false,
+    "created_time": "2025-11-03T17:31:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2025-11-03T17:31:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "e0331173-33c8-4c64-92de-b9f6a5cba246",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "title": "Incidents",
+    "description": "",
+    "icon": {
+      "type": "emoji",
+      "emoji": "🚨"
+    },
+    "properties": {
+      "Incident": {
+        "id": "title",
+        "type": "title",
+        "title": {}
+      },
+      "Severity": {
+        "id": "PNV3",
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "eXcb",
+              "name": "SEV1",
+              "color": "red"
+            },
+            {
+              "id": "w4OA",
+              "name": "SEV2",
+              "color": "orange"
+            },
+            {
+              "id": "cLWN",
+              "name": "SEV3",
+              "color": "yellow"
+            }
+          ]
+        }
+      },
+      "Status": {
+        "id": "kKBq",
+        "type": "status",
+        "status": {
+          "options": [
+            {
+              "id": "UIry",
+              "name": "Investigating",
+              "color": "red"
+            },
+            {
+              "id": "Ul8g",
+              "name": "Mitigated",
+              "color": "yellow"
+            },
+            {
+              "id": "9ZTc",
+              "name": "Resolved",
+              "color": "green"
+            },
+            {
+              "id": "KHyt",
+              "name": "Postmortem complete",
+              "color": "green"
+            }
+          ],
+          "groups": [
+            {
+              "id": "n0lA",
+              "name": "To-do",
+              "color": "red",
+              "option_ids": [
+                "UIry"
+              ]
+            },
+            {
+              "id": "mHbH",
+              "name": "In progress",
+              "color": "yellow",
+              "option_ids": [
+                "Ul8g"
+              ]
+            },
+            {
+              "id": "Mpdo",
+              "name": "Complete",
+              "color": "green",
+              "option_ids": [
+                "9ZTc",
+                "KHyt"
+              ]
+            }
+          ]
+        }
+      },
+      "Started": {
+        "id": "EGiw",
+        "type": "date",
+        "date": {}
+      },
+      "Incident commander": {
+        "id": "2R7w",
+        "type": "people",
+        "people": {}
+      },
+      "Services": {
+        "id": "mhmQ",
+        "type": "multi_select",
+        "multi_select": {
+          "options": [
+            {
+              "id": "coXw",
+              "name": "payments-api",
+              "color": "green"
+            },
+            {
+              "id": "83Wt",
+              "name": "checkout-web",
+              "color": "blue"
+            },
+            {
+              "id": "GIXD",
+              "name": "event-bus",
+              "color": "brown"
+            },
+            {
+              "id": "74Bi",
+              "name": "auth-gateway",
+              "color": "purple"
+            },
+            {
+              "id": "vZZT",
+              "name": "webhooks",
+              "color": "orange"
+            },
+            {
+              "id": "cVd7",
+              "name": "search",
+              "color": "gray"
+            },
+            {
+              "id": "tWAK",
+              "name": "deploy-pipeline",
+              "color": "default"
+            }
+          ]
+        }
+      },
+      "Customer impact": {
+        "id": "Heqa",
+        "type": "checkbox",
+        "checkbox": {}
+      },
+      "Related project": {
+        "id": "ixBX",
+        "type": "relation",
+        "relation": {
+          "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Created": {
+        "id": "rSW6",
+        "type": "created_time",
+        "created_time": {}
+      }
+    },
+    "is_inline": true,
+    "archived": false,
+    "created_time": "2025-11-10T18:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2025-11-10T18:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "title": "Meeting Notes",
+    "description": "",
+    "icon": {
+      "type": "emoji",
+      "emoji": "📝"
+    },
+    "properties": {
+      "Meeting": {
+        "id": "title",
+        "type": "title",
+        "title": {}
+      },
+      "Date": {
+        "id": "NuTS",
+        "type": "date",
+        "date": {}
+      },
+      "Type": {
+        "id": "bnvs",
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "1E8Z",
+              "name": "1:1",
+              "color": "gray"
+            },
+            {
+              "id": "C5uo",
+              "name": "Planning",
+              "color": "blue"
+            },
+            {
+              "id": "gv1j",
+              "name": "Review",
+              "color": "purple"
+            },
+            {
+              "id": "uFhN",
+              "name": "Incident review",
+              "color": "red"
+            },
+            {
+              "id": "Rt5b",
+              "name": "Customer",
+              "color": "pink"
+            },
+            {
+              "id": "iDAG",
+              "name": "Leads",
+              "color": "green"
+            },
+            {
+              "id": "HsXQ",
+              "name": "Onboarding",
+              "color": "yellow"
+            }
+          ]
+        }
+      },
+      "Attendees": {
+        "id": "cTwH",
+        "type": "people",
+        "people": {}
+      },
+      "Project": {
+        "id": "8gAG",
+        "type": "relation",
+        "relation": {
+          "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Created": {
+        "id": "v6hA",
+        "type": "created_time",
+        "created_time": {}
+      }
+    },
+    "is_inline": true,
+    "archived": false,
+    "created_time": "2025-11-04T17:00:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2025-11-04T17:00:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  }
+]

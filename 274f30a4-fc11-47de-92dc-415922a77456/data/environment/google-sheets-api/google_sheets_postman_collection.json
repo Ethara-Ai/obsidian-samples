@@ -1,0 +1,214 @@
+{
+  "info": {
+    "name": "Google Sheets API Mock v4",
+    "description": "Mock Google Sheets API v4. Base URL: http://localhost:8111. In docker-compose: http://google-sheets-api:8111. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8111"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=gsheets-connector-app&client_secret=gscs_57608fd5632ed258"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"gsheets-connector-app\", \"client_secret\": \"gscs_57608fd5632ed258\", \"scope\": \"spreadsheets.readonly spreadsheets\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a spreadsheet",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v4/spreadsheets/17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get one range with grid data",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v4/spreadsheets/17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv?ranges=Summary!A1:B8&includeGridData=true",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read values",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v4/spreadsheets/17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv/values/Invoices!A1:I46",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read a sheet-less range",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v4/spreadsheets/17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv/values/A40:I46",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read unformatted values",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v4/spreadsheets/17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv/values/Summary!A1:B8?valueRenderOption=UNFORMATTED_VALUE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read formulas",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v4/spreadsheets/17MhG1mZB-ymy5rKz_r69BAEGny1KAOziv/values/Summary!B2:B8?valueRenderOption=FORMULA",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "update values",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/v4/spreadsheets/1jfS2U8B39Y8cOH-59aYLRx4Emxj1LVdZu/values/Budget!E14?valueInputOption=USER_ENTERED",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"values\": [[\"$312.40\"]]}"
+        }
+      }
+    },
+    {
+      "name": "append rows",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v4/spreadsheets/1xUAPAtugHP9RVrxlkgq5mKeAW2Wc348ms/values/Expenses!A1:G1:append?valueInputOption=USER_ENTERED",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"values\": [[\"10/2/2026\", \"Uber to Brightwell HQ\", \"Travel\", \"BRW-2026\", \"$23.18\", \"TRUE\", \"FALSE\"]]}"
+        }
+      }
+    },
+    {
+      "name": "create a spreadsheet",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v4/spreadsheets",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"properties\": {\"title\": \"Q4 Mileage\"}, \"sheets\": [{\"properties\": {\"title\": \"Log\"}}]}"
+        }
+      }
+    }
+  ]
+}

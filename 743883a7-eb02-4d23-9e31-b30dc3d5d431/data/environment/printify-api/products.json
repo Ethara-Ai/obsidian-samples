@@ -1,0 +1,2716 @@
+[
+  {
+    "id": "868423a2dd55fe3e67f13e7a",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Fog Line Wave Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt",
+      "pottery",
+      "fog line"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17394,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17400,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17402,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17407,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17409,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17414,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17417,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17419,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17421,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17429,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17430,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17434,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17436,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17439,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17442,
+        "price": 3100,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17454,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17460,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17468,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17394,
+          17400,
+          17402,
+          17407,
+          17409,
+          17414,
+          17417,
+          17419,
+          17421,
+          17429,
+          17430,
+          17434,
+          17436,
+          17439,
+          17442,
+          17454,
+          17460,
+          17468
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "4a2f1368b089143145adcb09",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.68,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1474394438",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1474394438"
+    },
+    "created_at": "2026-03-05 17:06:00+00:00",
+    "updated_at": "2026-03-09 02:11:00+00:00"
+  },
+  {
+    "id": "d8567a0544fc106c708bbade",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Tide Pool Rings Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt",
+      "pottery",
+      "tide pool"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17394,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17400,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17402,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17407,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17409,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17414,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17417,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17419,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17421,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17429,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17430,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17434,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17436,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17439,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17442,
+        "price": 3100,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17454,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17460,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17394,
+          17400,
+          17402,
+          17407,
+          17409,
+          17414,
+          17417,
+          17419,
+          17421,
+          17429,
+          17430,
+          17434,
+          17436,
+          17439,
+          17442,
+          17454,
+          17460
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "0158723c49ec5611b38ce549",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.73,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1449461262",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1449461262"
+    },
+    "created_at": "2026-03-10 22:58:00+00:00",
+    "updated_at": "2026-03-26 13:51:00+00:00"
+  },
+  {
+    "id": "ccf57883bda9b2756c280eb3",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Kiln Gods Badge Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt",
+      "kiln",
+      "humor"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "variants": [
+      {
+        "id": 17472,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17473,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17479,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17484,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17485,
+        "price": 3200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17489,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17490,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17491,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17493,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17494,
+        "price": 3200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17495,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17496,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17497,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17505,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17507,
+        "price": 3200,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17513,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17519,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17520,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17521,
+        "price": 3200,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17472,
+          17473,
+          17479,
+          17484,
+          17485,
+          17489,
+          17490,
+          17491,
+          17493,
+          17494,
+          17495,
+          17496,
+          17497,
+          17505,
+          17507,
+          17513,
+          17519,
+          17520,
+          17521
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "d9f63517f5a793369c860ed7",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.86,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "back",
+            "images": [
+              {
+                "id": "c90f55cc0c3dd66b3893ca1d",
+                "x": 0.5,
+                "y": 0.3,
+                "scale": 0.85,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1472626622",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1472626622"
+    },
+    "created_at": "2026-03-14 22:49:00+00:00",
+    "updated_at": "2026-03-29 23:26:00+00:00"
+  },
+  {
+    "id": "be66a9a66106c630937cbd9c",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Throw It Again Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt",
+      "potter gift"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "variants": [
+      {
+        "id": 17472,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17473,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17479,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17484,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17485,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17489,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17490,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17491,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17493,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17494,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17495,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17496,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17497,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17505,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17507,
+        "price": 3000,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17512,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17519,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17521,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17472,
+          17473,
+          17479,
+          17484,
+          17485,
+          17489,
+          17490,
+          17491,
+          17493,
+          17494,
+          17495,
+          17496,
+          17497,
+          17505,
+          17507,
+          17512,
+          17519,
+          17521
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "31e6818d6cf5c2dfd68fe5fe",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.8,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1463561773",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1463561773"
+    },
+    "created_at": "2026-03-23 16:37:00+00:00",
+    "updated_at": "2026-03-25 02:36:00+00:00"
+  },
+  {
+    "id": "49fa6370fdf8a1c82c645396",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Saltmarsh Wordmark Hoodie",
+    "description": "Heavy blend hoodie for cold studio mornings, printed with Saltmarsh artwork.",
+    "tags": [
+      "hoodie",
+      "saltmarsh"
+    ],
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "variants": [
+      {
+        "id": 17529,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17533,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17540,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17547,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17550,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17554,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17561,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17564,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17566,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17572,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17573,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17581,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17586,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17592,
+        "price": 5200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17600,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17529,
+          17533,
+          17540,
+          17547,
+          17550,
+          17554,
+          17561,
+          17564,
+          17566,
+          17572,
+          17573,
+          17581,
+          17586,
+          17592,
+          17600
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "c90f55cc0c3dd66b3893ca1d",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.8,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1498949401",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1498949401"
+    },
+    "created_at": "2026-03-27 14:41:00+00:00",
+    "updated_at": "2026-03-29 02:01:00+00:00"
+  },
+  {
+    "id": "0a54eea95976079db1e23652",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Stoneware Club Hoodie",
+    "description": "Heavy blend hoodie for cold studio mornings, printed with Saltmarsh artwork.",
+    "tags": [
+      "hoodie",
+      "pottery club"
+    ],
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "variants": [
+      {
+        "id": 17529,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17533,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17540,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17547,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17550,
+        "price": 5700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17554,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17561,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17564,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17566,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17572,
+        "price": 5700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17573,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17581,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17592,
+        "price": 5400,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17600,
+        "price": 5700,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17529,
+          17533,
+          17540,
+          17547,
+          17550,
+          17554,
+          17561,
+          17564,
+          17566,
+          17572,
+          17573,
+          17581,
+          17592,
+          17600
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "a1ccc192977169b130010686",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.82,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "back",
+            "images": [
+              {
+                "id": "c90f55cc0c3dd66b3893ca1d",
+                "x": 0.5,
+                "y": 0.3,
+                "scale": 0.93,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1421938374",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1421938374"
+    },
+    "created_at": "2026-04-03 15:17:00+00:00",
+    "updated_at": "2026-04-20 17:20:00+00:00"
+  },
+  {
+    "id": "4de0cda3237a9cf74058e372",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Coffee and Clay Mug 11oz",
+    "description": "11oz ceramic mug printed with Saltmarsh artwork. Yes, we know we make mugs too.",
+    "tags": [
+      "mug",
+      "coffee"
+    ],
+    "blueprint_id": 68,
+    "print_provider_id": 63,
+    "variants": [
+      {
+        "id": 17601,
+        "price": 1700,
+        "is_enabled": true,
+        "is_default": true
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17601
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "f0d518d52dcf3d6493ca5151",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.8,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1421505732",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1421505732"
+    },
+    "created_at": "2026-04-11 19:04:00+00:00",
+    "updated_at": "2026-04-27 05:45:00+00:00"
+  },
+  {
+    "id": "d22767bd8dcfd171cd6f913f",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Make Bowls Not Walls Mug",
+    "description": "11oz ceramic mug printed with Saltmarsh artwork. Yes, we know we make mugs too.",
+    "tags": [
+      "mug",
+      "pottery humor"
+    ],
+    "blueprint_id": 68,
+    "print_provider_id": 63,
+    "variants": [
+      {
+        "id": 17601,
+        "price": 1700,
+        "is_enabled": true,
+        "is_default": true
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17601
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "c228763b6e6fd3ddba94dde3",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.67,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1426284367",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1426284367"
+    },
+    "created_at": "2026-04-15 21:33:00+00:00",
+    "updated_at": "2026-04-29 03:27:00+00:00"
+  },
+  {
+    "id": "83c8620a291e2f6a9d07d723",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Kiln Day Countdown Mug 15oz",
+    "description": "15oz ceramic mug printed with Saltmarsh artwork, dishwasher safe.",
+    "tags": [
+      "mug",
+      "kiln"
+    ],
+    "blueprint_id": 425,
+    "print_provider_id": 63,
+    "variants": [
+      {
+        "id": 17614,
+        "price": 1950,
+        "is_enabled": true,
+        "is_default": true
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17614
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "3d7536fe6170deaeb64aa68a",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.84,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1423482101",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1423482101"
+    },
+    "created_at": "2026-04-19 22:18:00+00:00",
+    "updated_at": "2026-04-22 03:18:00+00:00"
+  },
+  {
+    "id": "b7c28ba242dfb6d3168882f5",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Fog Line Tote",
+    "description": "Heavy cotton tote for the farmers market and the studio sale.",
+    "tags": [
+      "tote",
+      "market bag"
+    ],
+    "blueprint_id": 553,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17620,
+        "price": 2400,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17624,
+        "price": 2400,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17620,
+          17624
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "4a2f1368b089143145adcb09",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.64,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1449164326",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1449164326"
+    },
+    "created_at": "2026-04-28 22:12:00+00:00",
+    "updated_at": "2026-05-09 22:56:00+00:00"
+  },
+  {
+    "id": "a63bd284df11b6e9e138ba7d",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Low Tide Map Poster",
+    "description": "Matte poster printed on archival paper, shipped rolled.",
+    "tags": [
+      "poster",
+      "maine",
+      "coast"
+    ],
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "variants": [
+      {
+        "id": 17632,
+        "price": 2200,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17640,
+        "price": 2500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17644,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17649,
+        "price": 3400,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17632,
+          17640,
+          17644,
+          17649
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "5c178427a2bf7620deb43680",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.91,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1443019699",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1443019699"
+    },
+    "created_at": "2026-05-03 20:42:00+00:00",
+    "updated_at": "2026-05-11 01:27:00+00:00"
+  },
+  {
+    "id": "57998a2b416adbf0a807bf62",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Glaze Test Grid Poster",
+    "description": "Matte poster printed on archival paper, shipped rolled.",
+    "tags": [
+      "poster",
+      "glaze"
+    ],
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "variants": [
+      {
+        "id": 17632,
+        "price": 2400,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17640,
+        "price": 2700,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17644,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17649,
+        "price": 3600,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17632,
+          17640,
+          17644,
+          17649
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "4dc53bc5920ebc1070cdeb2c",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.75,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1417242011",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1417242011"
+    },
+    "created_at": "2026-05-11 22:29:00+00:00",
+    "updated_at": "2026-05-16 23:31:00+00:00"
+  },
+  {
+    "id": "3802e31192ef1ddfbfe18bb9",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Tide Pool Sticker",
+    "description": "Kiss-cut vinyl sticker, weatherproof, for water bottles and wedging tables.",
+    "tags": [
+      "sticker"
+    ],
+    "blueprint_id": 400,
+    "print_provider_id": 105,
+    "variants": [
+      {
+        "id": 17656,
+        "price": 450,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17663,
+        "price": 500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17665,
+        "price": 550,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17656,
+          17663,
+          17665
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "51551baea3d8e627c9e25db3",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.62,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1417864711",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1417864711"
+    },
+    "created_at": "2026-05-16 17:06:00+00:00",
+    "updated_at": "2026-05-24 05:32:00+00:00"
+  },
+  {
+    "id": "8bad837e23c260b2c0277f2b",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Casco Bay Gull Sticker",
+    "description": "Kiss-cut vinyl sticker, weatherproof, for water bottles and wedging tables.",
+    "tags": [
+      "sticker",
+      "maine"
+    ],
+    "blueprint_id": 400,
+    "print_provider_id": 105,
+    "variants": [
+      {
+        "id": 17656,
+        "price": 450,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17663,
+        "price": 500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17665,
+        "price": 550,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17656,
+          17663,
+          17665
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "88b810ef7701a65d2d3cbd24",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.76,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1466318100",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1466318100"
+    },
+    "created_at": "2026-05-22 17:43:00+00:00",
+    "updated_at": "2026-06-08 23:23:00+00:00"
+  },
+  {
+    "id": "0602c19f6796d6f951514c7e",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Studio Apron",
+    "description": "Jersey apron with a front pocket, made for the wheel.",
+    "tags": [
+      "apron",
+      "studio"
+    ],
+    "blueprint_id": 1098,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17672,
+        "price": 3600,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17673,
+        "price": 3600,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17672,
+          17673
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "9ec4bbce96b8b696a2f3c2b1",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.82,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "1461606509",
+      "handle": "https://saltmarshceramicsmerch.etsy.example/listing/1461606509"
+    },
+    "created_at": "2026-05-29 22:31:00+00:00",
+    "updated_at": "2026-06-05 02:19:00+00:00"
+  },
+  {
+    "id": "927e1de85fd5d8293e5d778d",
+    "shop_id": 8312447,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Rockweed Sprig Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt",
+      "botanical"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17394,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17400,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17402,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17407,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17409,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17414,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17417,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17419,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17421,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17429,
+        "price": 3100,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17430,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17434,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17436,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17439,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17442,
+        "price": 3100,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17444,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17450,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17454,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17460,
+        "price": 2800,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17394,
+          17400,
+          17402,
+          17407,
+          17409,
+          17414,
+          17417,
+          17419,
+          17421,
+          17429,
+          17430,
+          17434,
+          17436,
+          17439,
+          17442,
+          17444,
+          17450,
+          17454,
+          17460
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "791e20668cd8bfcb48e24b65",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.89,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": false,
+    "is_locked": false,
+    "external": null,
+    "created_at": "2026-06-02 14:45:00+00:00",
+    "updated_at": "2026-06-18 20:36:00+00:00"
+  },
+  {
+    "id": "a04c6a51dca58ab9fc48211d",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Saltmarsh Horizon Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17394,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17400,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17402,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17407,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17409,
+        "price": 3300,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17414,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17417,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17419,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17421,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17429,
+        "price": 3300,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17430,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17434,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17436,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17439,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17442,
+        "price": 3300,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17444,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17450,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17454,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17460,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17394,
+          17400,
+          17402,
+          17407,
+          17409,
+          17414,
+          17417,
+          17419,
+          17421,
+          17429,
+          17430,
+          17434,
+          17436,
+          17439,
+          17442,
+          17444,
+          17450,
+          17454,
+          17460
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "e1f240f9957f5090960c86a5",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.9,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300069184483",
+      "handle": "https://shop.saltmarshceramics.example/products/saltmarsh-horizon-tee"
+    },
+    "created_at": "2026-06-09 16:00:00+00:00",
+    "updated_at": "2026-06-17 02:42:00+00:00"
+  },
+  {
+    "id": "f28e5d1e37189c7ffb9af2d1",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Wheel and Hands Tee",
+    "description": "Soft jersey tee printed with artwork from Maya Okafor's studio in Portland, Maine.",
+    "tags": [
+      "t-shirt",
+      "pottery"
+    ],
+    "blueprint_id": 12,
+    "print_provider_id": 41,
+    "variants": [
+      {
+        "id": 17472,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17473,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17479,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17484,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17485,
+        "price": 3300,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17489,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17490,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17491,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17493,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17494,
+        "price": 3300,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17495,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17496,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17497,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17505,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17507,
+        "price": 3300,
+        "is_enabled": false,
+        "is_default": false
+      },
+      {
+        "id": 17512,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17513,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17519,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17520,
+        "price": 3000,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17521,
+        "price": 3300,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17472,
+          17473,
+          17479,
+          17484,
+          17485,
+          17489,
+          17490,
+          17491,
+          17493,
+          17494,
+          17495,
+          17496,
+          17497,
+          17505,
+          17507,
+          17512,
+          17513,
+          17519,
+          17520,
+          17521
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "f9e714cdd41fd9c23c587382",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.88,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "back",
+            "images": [
+              {
+                "id": "c90f55cc0c3dd66b3893ca1d",
+                "x": 0.5,
+                "y": 0.3,
+                "scale": 0.79,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300038670151",
+      "handle": "https://shop.saltmarshceramics.example/products/wheel-and-hands-tee"
+    },
+    "created_at": "2026-06-15 18:59:00+00:00",
+    "updated_at": "2026-06-29 03:39:00+00:00"
+  },
+  {
+    "id": "4c9fe4774f084acbc7ad1f49",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Saltmarsh Wordmark Hoodie",
+    "description": "Heavy blend hoodie for cold studio mornings, printed with Saltmarsh artwork.",
+    "tags": [
+      "hoodie"
+    ],
+    "blueprint_id": 77,
+    "print_provider_id": 41,
+    "variants": [
+      {
+        "id": 17529,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17533,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17540,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17547,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17550,
+        "price": 5800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17554,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17561,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17564,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17566,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17572,
+        "price": 5800,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17573,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17581,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17586,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17592,
+        "price": 5500,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17600,
+        "price": 5800,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17529,
+          17533,
+          17540,
+          17547,
+          17550,
+          17554,
+          17561,
+          17564,
+          17566,
+          17572,
+          17573,
+          17581,
+          17586,
+          17592,
+          17600
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "c90f55cc0c3dd66b3893ca1d",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.86,
+                "angle": 0
+              }
+            ]
+          },
+          {
+            "position": "back",
+            "images": [
+              {
+                "id": "c90f55cc0c3dd66b3893ca1d",
+                "x": 0.5,
+                "y": 0.3,
+                "scale": 0.79,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300013179821",
+      "handle": "https://shop.saltmarshceramics.example/products/saltmarsh-wordmark-hoodie"
+    },
+    "created_at": "2026-06-22 15:58:00+00:00",
+    "updated_at": "2026-06-30 01:22:00+00:00"
+  },
+  {
+    "id": "5e687d6a1bda345f5cda25d5",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Coffee and Clay Mug 11oz",
+    "description": "11oz ceramic mug printed with Saltmarsh artwork. Yes, we know we make mugs too.",
+    "tags": [
+      "mug"
+    ],
+    "blueprint_id": 68,
+    "print_provider_id": 105,
+    "variants": [
+      {
+        "id": 17608,
+        "price": 1800,
+        "is_enabled": true,
+        "is_default": true
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17608
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "f0d518d52dcf3d6493ca5151",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.67,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300041441257",
+      "handle": "https://shop.saltmarshceramics.example/products/coffee-and-clay-mug-11oz"
+    },
+    "created_at": "2026-06-27 18:28:00+00:00",
+    "updated_at": "2026-07-10 22:05:00+00:00"
+  },
+  {
+    "id": "4c800b6470b2232cb2b18ada",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Fog Line Logo Mug 15oz",
+    "description": "15oz ceramic mug printed with Saltmarsh artwork, dishwasher safe.",
+    "tags": [
+      "mug",
+      "fog line"
+    ],
+    "blueprint_id": 425,
+    "print_provider_id": 63,
+    "variants": [
+      {
+        "id": 17614,
+        "price": 2100,
+        "is_enabled": true,
+        "is_default": true
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17614
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "ebfd1d1bbe24e71de55e6efb",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.77,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300039854905",
+      "handle": "https://shop.saltmarshceramics.example/products/fog-line-logo-mug-15oz"
+    },
+    "created_at": "2026-07-03 19:46:00+00:00",
+    "updated_at": "2026-07-08 06:02:00+00:00"
+  },
+  {
+    "id": "80fe828df7dd7b2bf8307433",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Studio Sale 2026 Poster",
+    "description": "Matte poster printed on archival paper, shipped rolled.",
+    "tags": [
+      "poster",
+      "studio sale"
+    ],
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "variants": [
+      {
+        "id": 17632,
+        "price": 2000,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17640,
+        "price": 2300,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17644,
+        "price": 2600,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17649,
+        "price": 3200,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17632,
+          17640,
+          17644,
+          17649
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "8b327ac6a500e0bf85c0c10c",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.85,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300082775729",
+      "handle": "https://shop.saltmarshceramics.example/products/studio-sale-2026-poster"
+    },
+    "created_at": "2026-07-09 17:09:00+00:00",
+    "updated_at": "2026-07-14 07:41:00+00:00"
+  },
+  {
+    "id": "0e6d0f1ca3454710886c50e2",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Seaglass Palette Poster",
+    "description": "Matte poster printed on archival paper, shipped rolled.",
+    "tags": [
+      "poster"
+    ],
+    "blueprint_id": 282,
+    "print_provider_id": 88,
+    "variants": [
+      {
+        "id": 17632,
+        "price": 2600,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17640,
+        "price": 2900,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17644,
+        "price": 3200,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17649,
+        "price": 3800,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17632,
+          17640,
+          17644,
+          17649
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "23dea07e516dddc0c6bf0715",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.85,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300032160202",
+      "handle": "https://shop.saltmarshceramics.example/products/seaglass-palette-poster"
+    },
+    "created_at": "2026-07-12 20:40:00+00:00",
+    "updated_at": "2026-07-13 21:07:00+00:00"
+  },
+  {
+    "id": "1c7b259993db9dc83fcf0197",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Trimming Tools Tote",
+    "description": "Heavy cotton tote for the farmers market and the studio sale.",
+    "tags": [
+      "tote"
+    ],
+    "blueprint_id": 553,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17620,
+        "price": 2600,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17624,
+        "price": 2600,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17620,
+          17624
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "057937fc30dc774f1ba61ae7",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.84,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300058105272",
+      "handle": "https://shop.saltmarshceramics.example/products/trimming-tools-tote"
+    },
+    "created_at": "2026-07-19 19:37:00+00:00",
+    "updated_at": "2026-07-22 19:44:00+00:00"
+  },
+  {
+    "id": "3b4c9af0666ecdf8aaa67276",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Saltmarsh Monogram Sticker",
+    "description": "Kiss-cut vinyl sticker, weatherproof, for water bottles and wedging tables.",
+    "tags": [
+      "sticker"
+    ],
+    "blueprint_id": 400,
+    "print_provider_id": 105,
+    "variants": [
+      {
+        "id": 17656,
+        "price": 500,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17663,
+        "price": 550,
+        "is_enabled": true,
+        "is_default": false
+      },
+      {
+        "id": 17665,
+        "price": 600,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17656,
+          17663,
+          17665
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "9ec4bbce96b8b696a2f3c2b1",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.67,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": true,
+    "is_locked": false,
+    "external": {
+      "id": "7300030816816",
+      "handle": "https://shop.saltmarshceramics.example/products/saltmarsh-monogram-sticker"
+    },
+    "created_at": "2026-07-25 14:58:00+00:00",
+    "updated_at": "2026-08-13 04:49:00+00:00"
+  },
+  {
+    "id": "8c1718fc7ea930118921c06e",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Studio Apron",
+    "description": "Jersey apron with a front pocket, made for the wheel.",
+    "tags": [
+      "apron"
+    ],
+    "blueprint_id": 1098,
+    "print_provider_id": 27,
+    "variants": [
+      {
+        "id": 17672,
+        "price": 3800,
+        "is_enabled": true,
+        "is_default": true
+      },
+      {
+        "id": 17673,
+        "price": 3800,
+        "is_enabled": true,
+        "is_default": false
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17672,
+          17673
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "9ec4bbce96b8b696a2f3c2b1",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.68,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": false,
+    "is_locked": false,
+    "external": null,
+    "created_at": "2026-07-31 19:04:00+00:00",
+    "updated_at": "2026-08-08 23:20:00+00:00"
+  },
+  {
+    "id": "16efd36293b408b06b68bb63",
+    "shop_id": 8312490,
+    "owner_account_id": "acct-maya-okafor",
+    "title": "Kiln Gods Badge Mug",
+    "description": "11oz ceramic mug printed with Saltmarsh artwork. Yes, we know we make mugs too.",
+    "tags": [
+      "mug",
+      "kiln"
+    ],
+    "blueprint_id": 68,
+    "print_provider_id": 63,
+    "variants": [
+      {
+        "id": 17601,
+        "price": 1800,
+        "is_enabled": true,
+        "is_default": true
+      }
+    ],
+    "print_areas": [
+      {
+        "variant_ids": [
+          17601
+        ],
+        "placeholders": [
+          {
+            "position": "front",
+            "images": [
+              {
+                "id": "d9f63517f5a793369c860ed7",
+                "x": 0.5,
+                "y": 0.42,
+                "scale": 0.89,
+                "angle": 0
+              }
+            ]
+          }
+        ],
+        "background": "#ffffff"
+      }
+    ],
+    "visible": false,
+    "is_locked": false,
+    "external": null,
+    "created_at": "2026-08-09 23:08:00+00:00",
+    "updated_at": "2026-08-23 09:59:00+00:00"
+  }
+]

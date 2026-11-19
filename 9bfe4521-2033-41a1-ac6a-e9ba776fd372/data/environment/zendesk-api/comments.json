@@ -1,0 +1,50 @@
+[
+ {
+  "id": "901",
+  "ticket_id": "311",
+  "author_id": "711",
+  "body": "Ordered Garlic Pepper and got Sweet Heat. Can I get the right one?",
+  "public": "true",
+  "created_at": "2026-08-19T14:10:00Z"
+ },
+ {
+  "id": "902",
+  "ticket_id": "311",
+  "author_id": "701",
+  "body": "Sorry about that. A Garlic Pepper jar ships today, and keep the Sweet Heat on us. Reggie",
+  "public": "true",
+  "created_at": "2026-08-19T23:30:00Z"
+ },
+ {
+  "id": "903",
+  "ticket_id": "314",
+  "author_id": "712",
+  "body": "My box came with the two rubs but no sauce bottle.",
+  "public": "true",
+  "created_at": "2026-10-02T16:45:00Z"
+ },
+ {
+  "id": "904",
+  "ticket_id": "314",
+  "author_id": "701",
+  "body": "We refunded the sauce bottle to the card you paid with. Sorry for the trouble. Reggie",
+  "public": "true",
+  "created_at": "2026-10-03T00:20:00Z"
+ },
+ {
+  "id": "905",
+  "ticket_id": "316",
+  "author_id": "713",
+  "body": "Do you ship rubs to Toronto?",
+  "public": "true",
+  "created_at": "2026-11-12T18:30:00Z"
+ },
+ {
+  "id": "906",
+  "ticket_id": "316",
+  "author_id": "702",
+  "body": "Not yet, US only for now. D.",
+  "public": "true",
+  "created_at": "2026-11-12T22:05:00Z"
+ }
+]

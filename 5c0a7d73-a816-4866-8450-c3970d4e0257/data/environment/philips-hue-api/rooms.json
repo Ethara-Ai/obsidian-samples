@@ -1,0 +1,246 @@
+[
+  {
+    "id": "9ee8fac9-590f-43eb-b54a-a63a9a9f05be",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/1",
+    "children": [
+      {
+        "rid": "8fd7fa69-0b0b-4cf8-b897-127c005d3def",
+        "rtype": "device"
+      },
+      {
+        "rid": "8e69b948-3adc-4689-abb9-3ad60cdb9329",
+        "rtype": "device"
+      },
+      {
+        "rid": "bc579609-1d57-4d09-affc-201a50d6c424",
+        "rtype": "device"
+      },
+      {
+        "rid": "7370ae32-a732-4fec-b55d-fb0c933d0452",
+        "rtype": "device"
+      },
+      {
+        "rid": "57fe50a5-096e-4609-b5fe-9f556642d66e",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "80210fb4-08bd-476a-93a5-d30b7e246ad2",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Living Room",
+      "archetype": "living_room"
+    },
+    "type": "room"
+  },
+  {
+    "id": "a4421970-5c88-4d62-a706-d3a8907b09e8",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/2",
+    "children": [
+      {
+        "rid": "de3130af-8c80-49fb-b52f-8a3ad489069e",
+        "rtype": "device"
+      },
+      {
+        "rid": "523bc5e0-67c5-458c-a064-6937bd120c4b",
+        "rtype": "device"
+      },
+      {
+        "rid": "0a55dc94-806f-469f-94d3-cfc44b3b9c14",
+        "rtype": "device"
+      },
+      {
+        "rid": "050c7be1-77d0-475f-9968-c9943b792fd7",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "03ac1d40-b0b4-454c-96dd-53c03654aae8",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Kitchen",
+      "archetype": "kitchen"
+    },
+    "type": "room"
+  },
+  {
+    "id": "0431eb98-8f1f-4fdb-a93e-0ec35f255146",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/3",
+    "children": [
+      {
+        "rid": "d31636fe-3182-4c3f-910f-efb339acf377",
+        "rtype": "device"
+      },
+      {
+        "rid": "edfc0e1a-2b84-4d71-8135-ccd09a0990c8",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "71701b6a-832e-4dae-bb7f-dd4c472991af",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Dining Room",
+      "archetype": "dining"
+    },
+    "type": "room"
+  },
+  {
+    "id": "fa9a10cf-f9d4-4d90-8e4b-d652b32ad309",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/4",
+    "children": [
+      {
+        "rid": "de5391fb-57f6-4605-af5e-72327a609323",
+        "rtype": "device"
+      },
+      {
+        "rid": "163ebec5-6263-461c-94c6-27709ab84619",
+        "rtype": "device"
+      },
+      {
+        "rid": "d93a5857-2b95-4271-aec1-190ce799ad58",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "c06d9eaa-29e1-46ef-899a-dc61565d7322",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Office",
+      "archetype": "office"
+    },
+    "type": "room"
+  },
+  {
+    "id": "20542a44-fc0d-43cd-92f2-a6a05602f01e",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/5",
+    "children": [
+      {
+        "rid": "7423c848-7896-4014-83cb-cefc2429f02a",
+        "rtype": "device"
+      },
+      {
+        "rid": "033bf885-944d-4a24-b644-90d207ff9eec",
+        "rtype": "device"
+      },
+      {
+        "rid": "32e99d06-f52f-426c-a2ee-38da04210404",
+        "rtype": "device"
+      },
+      {
+        "rid": "1942ccb5-ad8f-405a-a12c-0db7dc123bb6",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "8e96825a-e1e6-49ba-be36-c7add745c624",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Bedroom",
+      "archetype": "bedroom"
+    },
+    "type": "room"
+  },
+  {
+    "id": "3c9f2c33-1fb2-42e8-8719-2e86d29632f7",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/6",
+    "children": [
+      {
+        "rid": "4f7a5149-97af-4b8f-8cca-49809ddaf212",
+        "rtype": "device"
+      },
+      {
+        "rid": "e292a1a0-5e02-4d42-80a7-95c96d32b199",
+        "rtype": "device"
+      },
+      {
+        "rid": "808a1410-1dcc-4af4-be5d-986cbe70e2e0",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "0552a64b-fb96-4b4c-9a1f-05f8acd3374c",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Hallway",
+      "archetype": "lounge"
+    },
+    "type": "room"
+  },
+  {
+    "id": "48cbadea-2800-4298-9d62-4cbfa5620674",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/7",
+    "children": [
+      {
+        "rid": "940db10c-040e-462f-8ab7-027933178dbd",
+        "rtype": "device"
+      },
+      {
+        "rid": "3f3a7190-17b0-4a5d-9932-15f931d207cd",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "3bfd7e01-d154-4655-b6f8-2cc26d802de0",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Front Porch",
+      "archetype": "porch"
+    },
+    "type": "room"
+  },
+  {
+    "id": "d0cf7095-9add-4dee-8315-8e81147fed26",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/groups/8",
+    "children": [
+      {
+        "rid": "68cbda93-bf7d-4418-9273-4dab531522f3",
+        "rtype": "device"
+      },
+      {
+        "rid": "66897d5b-c17a-41eb-955a-34806695d27d",
+        "rtype": "device"
+      }
+    ],
+    "services": [
+      {
+        "rid": "a0964d5d-4e7f-4e3d-85e3-91e09b390282",
+        "rtype": "grouped_light"
+      }
+    ],
+    "metadata": {
+      "name": "Garage",
+      "archetype": "garage"
+    },
+    "type": "room"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "6ae247c76119f68517105ccd97ea568f",
+    "owner_account_id": "acct-dana-whitfield",
+    "username": "LarkmoorDana",
+    "first_name": "Dana",
+    "last_name": "Whitfield",
+    "email": "dana.whitfield@lakeshoredesign.example",
+    "location": "Evanston, IL",
+    "image_url": "https://images.mock-peloton.example/members/larkmoordana.jpg",
+    "is_profile_private": false,
+    "created_at": 1780015320,
+    "birthday": 545788800,
+    "height": 66,
+    "weight": 142,
+    "gender": "female",
+    "total_workouts": 133,
+    "total_pedaling_metric_workouts": 48,
+    "total_non_pedaling_metric_workouts": 85,
+    "workout_counts": [
+      {
+        "name": "Cycling",
+        "slug": "cycling",
+        "count": 48
+      },
+      {
+        "name": "Strength",
+        "slug": "strength",
+        "count": 18
+      },
+      {
+        "name": "Yoga",
+        "slug": "yoga",
+        "count": 17
+      },
+      {
+        "name": "Stretching",
+        "slug": "stretching",
+        "count": 20
+      },
+      {
+        "name": "Meditation",
+        "slug": "meditation",
+        "count": 23
+      },
+      {
+        "name": "Running",
+        "slug": "running",
+        "count": 4
+      },
+      {
+        "name": "Walking",
+        "slug": "walking",
+        "count": 3
+      }
+    ],
+    "streaks": {
+      "current_weekly": 19,
+      "best_weekly": 19,
+      "current_daily": 1,
+      "start_date_of_current_weekly": 1780290000,
+      "start_date_of_current_daily": 1791176400
+    },
+    "cycling_ftp": 172,
+    "cycling_workout_ftp": 172,
+    "cycling_ftp_source": "ftp_workout_source",
+    "cycling_ftp_workout_id": "1818368faeb888a4c6f3dbe68ea0aa26",
+    "estimated_cycling_ftp": 176,
+    "default_max_heart_rate": 181,
+    "customized_max_heart_rate": null,
+    "total_followers": 12,
+    "total_following": 19,
+    "has_active_device_subscription": true,
+    "has_active_digital_subscription": false
+  }
+]

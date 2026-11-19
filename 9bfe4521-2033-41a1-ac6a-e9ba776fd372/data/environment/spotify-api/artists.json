@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a4cac82164ef67d9d07d37",
+    "name": "Marvin Gaye",
+    "genres": "soul;motown",
+    "popularity": "80",
+    "followers": "9800000"
+  },
+  {
+    "id": "bc74f4f071a5a33f00ab88",
+    "name": "Al Green",
+    "genres": "soul;memphis soul",
+    "popularity": "74",
+    "followers": "5100000"
+  },
+  {
+    "id": "eda91b38e63bc56017dc77",
+    "name": "Curtis Mayfield",
+    "genres": "soul;funk",
+    "popularity": "68",
+    "followers": "2300000"
+  },
+  {
+    "id": "6c5f67bf440a284c2c93be",
+    "name": "Mahalia Jackson",
+    "genres": "gospel",
+    "popularity": "60",
+    "followers": "1100000"
+  },
+  {
+    "id": "f3d8047a2161c9b4f11f65",
+    "name": "The Staple Singers",
+    "genres": "gospel;soul",
+    "popularity": "66",
+    "followers": "1900000"
+  },
+  {
+    "id": "ceb2d734d5f3dc1b5a5c6b",
+    "name": "B.B. King",
+    "genres": "blues",
+    "popularity": "75",
+    "followers": "4200000"
+  },
+  {
+    "id": "a3cb738850fa39be667c4d",
+    "name": "Howlin' Wolf",
+    "genres": "blues;memphis blues",
+    "popularity": "62",
+    "followers": "1700000"
+  }
+]

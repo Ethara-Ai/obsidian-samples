@@ -1,0 +1,873 @@
+[
+  {
+    "id": "total-cholesterol",
+    "name": "Total Cholesterol",
+    "category": "Heart",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": null,
+      "high": 199,
+      "text": "<=199"
+    },
+    "description": "All cholesterol carried in the blood.",
+    "digits": 0
+  },
+  {
+    "id": "ldl-cholesterol",
+    "name": "LDL Cholesterol",
+    "category": "Heart",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": null,
+      "high": 99,
+      "text": "<=99"
+    },
+    "description": "Low-density lipoprotein cholesterol.",
+    "digits": 0
+  },
+  {
+    "id": "hdl-cholesterol",
+    "name": "HDL Cholesterol",
+    "category": "Heart",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 50,
+      "high": null,
+      "text": ">=50"
+    },
+    "description": "High-density lipoprotein cholesterol.",
+    "digits": 0
+  },
+  {
+    "id": "triglycerides",
+    "name": "Triglycerides",
+    "category": "Heart",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": null,
+      "high": 149,
+      "text": "<=149"
+    },
+    "description": "Fat carried in the blood after meals.",
+    "digits": 0
+  },
+  {
+    "id": "apob",
+    "name": "Apolipoprotein B",
+    "category": "Heart",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": null,
+      "high": 89,
+      "text": "<=89"
+    },
+    "description": "The protein on every LDL and VLDL particle.",
+    "digits": 0
+  },
+  {
+    "id": "lipoprotein-a",
+    "name": "Lipoprotein(a)",
+    "category": "Heart",
+    "unit": "nmol/L",
+    "reference_range": {
+      "low": null,
+      "high": 74,
+      "text": "<=74"
+    },
+    "description": "An inherited LDL-like particle.",
+    "digits": 0
+  },
+  {
+    "id": "hs-crp",
+    "name": "hs-CRP",
+    "category": "Heart",
+    "unit": "mg/L",
+    "reference_range": {
+      "low": null,
+      "high": 2.9,
+      "text": "<=2.9"
+    },
+    "description": "High-sensitivity C-reactive protein, a marker of inflammation.",
+    "digits": 1
+  },
+  {
+    "id": "homocysteine",
+    "name": "Homocysteine",
+    "category": "Heart",
+    "unit": "umol/L",
+    "reference_range": {
+      "low": null,
+      "high": 10.3,
+      "text": "<=10.3"
+    },
+    "description": "An amino acid linked to B-vitamin status.",
+    "digits": 1
+  },
+  {
+    "id": "glucose",
+    "name": "Glucose",
+    "category": "Metabolic",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 65,
+      "high": 99,
+      "text": "65-99"
+    },
+    "description": "Fasting blood sugar.",
+    "digits": 0
+  },
+  {
+    "id": "hba1c",
+    "name": "Hemoglobin A1c",
+    "category": "Metabolic",
+    "unit": "%",
+    "reference_range": {
+      "low": null,
+      "high": 5.6,
+      "text": "<=5.6"
+    },
+    "description": "Average blood sugar over about three months.",
+    "digits": 1
+  },
+  {
+    "id": "insulin",
+    "name": "Insulin",
+    "category": "Metabolic",
+    "unit": "uIU/mL",
+    "reference_range": {
+      "low": 2.0,
+      "high": 19.6,
+      "text": "2.0-19.6"
+    },
+    "description": "Fasting insulin.",
+    "digits": 1
+  },
+  {
+    "id": "uric-acid",
+    "name": "Uric Acid",
+    "category": "Metabolic",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 2.5,
+      "high": 7.0,
+      "text": "2.5-7.0"
+    },
+    "description": "A breakdown product of purines.",
+    "digits": 1
+  },
+  {
+    "id": "creatinine",
+    "name": "Creatinine",
+    "category": "Kidney",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 0.5,
+      "high": 0.97,
+      "text": "0.5-0.97"
+    },
+    "description": "A waste product filtered by the kidneys.",
+    "digits": 2
+  },
+  {
+    "id": "egfr",
+    "name": "eGFR",
+    "category": "Kidney",
+    "unit": "mL/min/1.73m2",
+    "reference_range": {
+      "low": 60,
+      "high": null,
+      "text": ">=60"
+    },
+    "description": "Estimated glomerular filtration rate.",
+    "digits": 0
+  },
+  {
+    "id": "bun",
+    "name": "Blood Urea Nitrogen",
+    "category": "Kidney",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 7,
+      "high": 25,
+      "text": "7-25"
+    },
+    "description": "Urea nitrogen in the blood.",
+    "digits": 0
+  },
+  {
+    "id": "cystatin-c",
+    "name": "Cystatin C",
+    "category": "Kidney",
+    "unit": "mg/L",
+    "reference_range": {
+      "low": 0.52,
+      "high": 1.08,
+      "text": "0.52-1.08"
+    },
+    "description": "A second marker of kidney filtration.",
+    "digits": 2
+  },
+  {
+    "id": "alt",
+    "name": "ALT",
+    "category": "Liver",
+    "unit": "U/L",
+    "reference_range": {
+      "low": 6,
+      "high": 29,
+      "text": "6-29"
+    },
+    "description": "Alanine aminotransferase, a liver enzyme.",
+    "digits": 0
+  },
+  {
+    "id": "ast",
+    "name": "AST",
+    "category": "Liver",
+    "unit": "U/L",
+    "reference_range": {
+      "low": 10,
+      "high": 30,
+      "text": "10-30"
+    },
+    "description": "Aspartate aminotransferase, a liver enzyme.",
+    "digits": 0
+  },
+  {
+    "id": "alkaline-phosphatase",
+    "name": "Alkaline Phosphatase",
+    "category": "Liver",
+    "unit": "U/L",
+    "reference_range": {
+      "low": 37,
+      "high": 153,
+      "text": "37-153"
+    },
+    "description": "An enzyme from liver and bone.",
+    "digits": 0
+  },
+  {
+    "id": "ggt",
+    "name": "GGT",
+    "category": "Liver",
+    "unit": "U/L",
+    "reference_range": {
+      "low": 3,
+      "high": 55,
+      "text": "3-55"
+    },
+    "description": "Gamma-glutamyl transferase, a liver enzyme.",
+    "digits": 0
+  },
+  {
+    "id": "albumin",
+    "name": "Albumin",
+    "category": "Liver",
+    "unit": "g/dL",
+    "reference_range": {
+      "low": 3.6,
+      "high": 5.1,
+      "text": "3.6-5.1"
+    },
+    "description": "The main protein made by the liver.",
+    "digits": 1
+  },
+  {
+    "id": "total-bilirubin",
+    "name": "Total Bilirubin",
+    "category": "Liver",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 0.2,
+      "high": 1.2,
+      "text": "0.2-1.2"
+    },
+    "description": "A breakdown product of red blood cells.",
+    "digits": 1
+  },
+  {
+    "id": "total-protein",
+    "name": "Total Protein",
+    "category": "Liver",
+    "unit": "g/dL",
+    "reference_range": {
+      "low": 6.1,
+      "high": 8.1,
+      "text": "6.1-8.1"
+    },
+    "description": "Albumin and globulins together.",
+    "digits": 1
+  },
+  {
+    "id": "tsh",
+    "name": "TSH",
+    "category": "Thyroid",
+    "unit": "mIU/L",
+    "reference_range": {
+      "low": 0.4,
+      "high": 4.5,
+      "text": "0.4-4.5"
+    },
+    "description": "Thyroid-stimulating hormone.",
+    "digits": 2
+  },
+  {
+    "id": "free-t4",
+    "name": "Free T4",
+    "category": "Thyroid",
+    "unit": "ng/dL",
+    "reference_range": {
+      "low": 0.8,
+      "high": 1.8,
+      "text": "0.8-1.8"
+    },
+    "description": "Unbound thyroxine.",
+    "digits": 1
+  },
+  {
+    "id": "free-t3",
+    "name": "Free T3",
+    "category": "Thyroid",
+    "unit": "pg/mL",
+    "reference_range": {
+      "low": 2.3,
+      "high": 4.2,
+      "text": "2.3-4.2"
+    },
+    "description": "Unbound triiodothyronine.",
+    "digits": 1
+  },
+  {
+    "id": "tpo-antibodies",
+    "name": "TPO Antibodies",
+    "category": "Thyroid",
+    "unit": "IU/mL",
+    "reference_range": {
+      "low": null,
+      "high": 8,
+      "text": "<=8"
+    },
+    "description": "Antibodies against thyroid peroxidase.",
+    "digits": 0
+  },
+  {
+    "id": "vitamin-d",
+    "name": "Vitamin D, 25-Hydroxy",
+    "category": "Nutrients",
+    "unit": "ng/mL",
+    "reference_range": {
+      "low": 30,
+      "high": 100,
+      "text": "30-100"
+    },
+    "description": "The storage form of vitamin D.",
+    "digits": 0
+  },
+  {
+    "id": "vitamin-b12",
+    "name": "Vitamin B12",
+    "category": "Nutrients",
+    "unit": "pg/mL",
+    "reference_range": {
+      "low": 200,
+      "high": 1100,
+      "text": "200-1100"
+    },
+    "description": "Cobalamin.",
+    "digits": 0
+  },
+  {
+    "id": "folate",
+    "name": "Folate",
+    "category": "Nutrients",
+    "unit": "ng/mL",
+    "reference_range": {
+      "low": 5.4,
+      "high": null,
+      "text": ">=5.4"
+    },
+    "description": "Serum folate.",
+    "digits": 1
+  },
+  {
+    "id": "ferritin",
+    "name": "Ferritin",
+    "category": "Nutrients",
+    "unit": "ng/mL",
+    "reference_range": {
+      "low": 16,
+      "high": 154,
+      "text": "16-154"
+    },
+    "description": "The body's iron stores.",
+    "digits": 0
+  },
+  {
+    "id": "iron",
+    "name": "Iron",
+    "category": "Nutrients",
+    "unit": "ug/dL",
+    "reference_range": {
+      "low": 40,
+      "high": 190,
+      "text": "40-190"
+    },
+    "description": "Serum iron.",
+    "digits": 0
+  },
+  {
+    "id": "tibc",
+    "name": "Total Iron-Binding Capacity",
+    "category": "Nutrients",
+    "unit": "ug/dL",
+    "reference_range": {
+      "low": 250,
+      "high": 450,
+      "text": "250-450"
+    },
+    "description": "Capacity of the blood to carry iron.",
+    "digits": 0
+  },
+  {
+    "id": "iron-saturation",
+    "name": "Iron Saturation",
+    "category": "Nutrients",
+    "unit": "%",
+    "reference_range": {
+      "low": 16,
+      "high": 45,
+      "text": "16-45"
+    },
+    "description": "Share of transferrin carrying iron.",
+    "digits": 0
+  },
+  {
+    "id": "magnesium-rbc",
+    "name": "Magnesium, RBC",
+    "category": "Nutrients",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 4.0,
+      "high": 6.4,
+      "text": "4.0-6.4"
+    },
+    "description": "Magnesium inside red blood cells.",
+    "digits": 1
+  },
+  {
+    "id": "zinc",
+    "name": "Zinc",
+    "category": "Nutrients",
+    "unit": "ug/dL",
+    "reference_range": {
+      "low": 60,
+      "high": 130,
+      "text": "60-130"
+    },
+    "description": "Serum zinc.",
+    "digits": 0
+  },
+  {
+    "id": "omega-3-index",
+    "name": "Omega-3 Index",
+    "category": "Nutrients",
+    "unit": "%",
+    "reference_range": {
+      "low": 5.4,
+      "high": null,
+      "text": ">=5.4"
+    },
+    "description": "EPA and DHA as a share of red-cell fatty acids.",
+    "digits": 1
+  },
+  {
+    "id": "hemoglobin",
+    "name": "Hemoglobin",
+    "category": "Blood",
+    "unit": "g/dL",
+    "reference_range": {
+      "low": 11.7,
+      "high": 15.5,
+      "text": "11.7-15.5"
+    },
+    "description": "The oxygen-carrying protein in red cells.",
+    "digits": 1
+  },
+  {
+    "id": "hematocrit",
+    "name": "Hematocrit",
+    "category": "Blood",
+    "unit": "%",
+    "reference_range": {
+      "low": 35.0,
+      "high": 45.0,
+      "text": "35.0-45.0"
+    },
+    "description": "Share of blood volume that is red cells.",
+    "digits": 1
+  },
+  {
+    "id": "rbc",
+    "name": "Red Blood Cells",
+    "category": "Blood",
+    "unit": "M/uL",
+    "reference_range": {
+      "low": 3.8,
+      "high": 5.1,
+      "text": "3.8-5.1"
+    },
+    "description": "Red blood cell count.",
+    "digits": 2
+  },
+  {
+    "id": "wbc",
+    "name": "White Blood Cells",
+    "category": "Blood",
+    "unit": "K/uL",
+    "reference_range": {
+      "low": 3.8,
+      "high": 10.8,
+      "text": "3.8-10.8"
+    },
+    "description": "White blood cell count.",
+    "digits": 1
+  },
+  {
+    "id": "platelets",
+    "name": "Platelets",
+    "category": "Blood",
+    "unit": "K/uL",
+    "reference_range": {
+      "low": 140,
+      "high": 400,
+      "text": "140-400"
+    },
+    "description": "Platelet count.",
+    "digits": 0
+  },
+  {
+    "id": "mcv",
+    "name": "MCV",
+    "category": "Blood",
+    "unit": "fL",
+    "reference_range": {
+      "low": 80,
+      "high": 100,
+      "text": "80-100"
+    },
+    "description": "Mean corpuscular volume, the average red cell size.",
+    "digits": 0
+  },
+  {
+    "id": "mch",
+    "name": "MCH",
+    "category": "Blood",
+    "unit": "pg",
+    "reference_range": {
+      "low": 27.0,
+      "high": 33.0,
+      "text": "27.0-33.0"
+    },
+    "description": "Mean corpuscular hemoglobin.",
+    "digits": 1
+  },
+  {
+    "id": "rdw",
+    "name": "RDW",
+    "category": "Blood",
+    "unit": "%",
+    "reference_range": {
+      "low": 11.0,
+      "high": 15.0,
+      "text": "11.0-15.0"
+    },
+    "description": "Red cell distribution width.",
+    "digits": 1
+  },
+  {
+    "id": "neutrophils",
+    "name": "Neutrophils",
+    "category": "Blood",
+    "unit": "cells/uL",
+    "reference_range": {
+      "low": 1500,
+      "high": 7800,
+      "text": "1500-7800"
+    },
+    "description": "Absolute neutrophil count.",
+    "digits": 0
+  },
+  {
+    "id": "lymphocytes",
+    "name": "Lymphocytes",
+    "category": "Blood",
+    "unit": "cells/uL",
+    "reference_range": {
+      "low": 850,
+      "high": 3900,
+      "text": "850-3900"
+    },
+    "description": "Absolute lymphocyte count.",
+    "digits": 0
+  },
+  {
+    "id": "sodium",
+    "name": "Sodium",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "reference_range": {
+      "low": 135,
+      "high": 146,
+      "text": "135-146"
+    },
+    "description": "Serum sodium.",
+    "digits": 0
+  },
+  {
+    "id": "potassium",
+    "name": "Potassium",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "reference_range": {
+      "low": 3.5,
+      "high": 5.3,
+      "text": "3.5-5.3"
+    },
+    "description": "Serum potassium.",
+    "digits": 1
+  },
+  {
+    "id": "chloride",
+    "name": "Chloride",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "reference_range": {
+      "low": 98,
+      "high": 110,
+      "text": "98-110"
+    },
+    "description": "Serum chloride.",
+    "digits": 0
+  },
+  {
+    "id": "calcium",
+    "name": "Calcium",
+    "category": "Electrolytes",
+    "unit": "mg/dL",
+    "reference_range": {
+      "low": 8.6,
+      "high": 10.4,
+      "text": "8.6-10.4"
+    },
+    "description": "Serum calcium.",
+    "digits": 1
+  },
+  {
+    "id": "carbon-dioxide",
+    "name": "Carbon Dioxide",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "reference_range": {
+      "low": 20,
+      "high": 32,
+      "text": "20-32"
+    },
+    "description": "Bicarbonate.",
+    "digits": 0
+  },
+  {
+    "id": "cortisol",
+    "name": "Cortisol, Morning",
+    "category": "Hormones",
+    "unit": "ug/dL",
+    "reference_range": {
+      "low": 4.6,
+      "high": 20.6,
+      "text": "4.6-20.6"
+    },
+    "description": "Morning stress hormone.",
+    "digits": 1
+  },
+  {
+    "id": "dhea-s",
+    "name": "DHEA-S",
+    "category": "Hormones",
+    "unit": "ug/dL",
+    "reference_range": {
+      "low": 60,
+      "high": 255,
+      "text": "60-255"
+    },
+    "description": "An adrenal hormone.",
+    "digits": 0
+  },
+  {
+    "id": "testosterone-total",
+    "name": "Testosterone, Total",
+    "category": "Hormones",
+    "unit": "ng/dL",
+    "reference_range": {
+      "low": 2,
+      "high": 45,
+      "text": "2-45"
+    },
+    "description": "Total testosterone.",
+    "digits": 0
+  },
+  {
+    "id": "shbg",
+    "name": "SHBG",
+    "category": "Hormones",
+    "unit": "nmol/L",
+    "reference_range": {
+      "low": 17,
+      "high": 124,
+      "text": "17-124"
+    },
+    "description": "Sex hormone-binding globulin.",
+    "digits": 0
+  },
+  {
+    "id": "prolactin",
+    "name": "Prolactin",
+    "category": "Hormones",
+    "unit": "ng/mL",
+    "reference_range": {
+      "low": 3.0,
+      "high": 30.0,
+      "text": "3.0-30.0"
+    },
+    "description": "A pituitary hormone.",
+    "digits": 1
+  },
+  {
+    "id": "esr",
+    "name": "Sed Rate",
+    "category": "Immune",
+    "unit": "mm/h",
+    "reference_range": {
+      "low": null,
+      "high": 20,
+      "text": "<=20"
+    },
+    "description": "Erythrocyte sedimentation rate.",
+    "digits": 0
+  },
+  {
+    "id": "ana-screen",
+    "name": "ANA Screen",
+    "category": "Immune",
+    "unit": null,
+    "reference_range": {
+      "low": null,
+      "high": null,
+      "text": "Negative"
+    },
+    "description": "Antinuclear antibody screen.",
+    "digits": null
+  },
+  {
+    "id": "amylase",
+    "name": "Amylase",
+    "category": "Pancreas",
+    "unit": "U/L",
+    "reference_range": {
+      "low": 21,
+      "high": 101,
+      "text": "21-101"
+    },
+    "description": "A digestive enzyme.",
+    "digits": 0
+  },
+  {
+    "id": "lipase",
+    "name": "Lipase",
+    "category": "Pancreas",
+    "unit": "U/L",
+    "reference_range": {
+      "low": 7,
+      "high": 60,
+      "text": "7-60"
+    },
+    "description": "A digestive enzyme.",
+    "digits": 0
+  },
+  {
+    "id": "lead",
+    "name": "Lead",
+    "category": "Toxins",
+    "unit": "ug/dL",
+    "reference_range": {
+      "low": null,
+      "high": 3.4,
+      "text": "<=3.4"
+    },
+    "description": "Blood lead.",
+    "digits": 1
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "category": "Toxins",
+    "unit": "ug/L",
+    "reference_range": {
+      "low": null,
+      "high": 10.0,
+      "text": "<=10.0"
+    },
+    "description": "Blood mercury.",
+    "digits": 1
+  },
+  {
+    "id": "urine-ph",
+    "name": "Urine pH",
+    "category": "Urine",
+    "unit": null,
+    "reference_range": {
+      "low": 5.0,
+      "high": 8.0,
+      "text": "5.0-8.0"
+    },
+    "description": "Acidity of the urine.",
+    "digits": 1
+  },
+  {
+    "id": "urine-specific-gravity",
+    "name": "Urine Specific Gravity",
+    "category": "Urine",
+    "unit": null,
+    "reference_range": {
+      "low": 1.001,
+      "high": 1.035,
+      "text": "1.001-1.035"
+    },
+    "description": "Concentration of the urine.",
+    "digits": 3
+  },
+  {
+    "id": "urine-protein",
+    "name": "Urine Protein",
+    "category": "Urine",
+    "unit": null,
+    "reference_range": {
+      "low": null,
+      "high": null,
+      "text": "Negative"
+    },
+    "description": "Protein in the urine.",
+    "digits": null
+  },
+  {
+    "id": "urine-glucose",
+    "name": "Urine Glucose",
+    "category": "Urine",
+    "unit": null,
+    "reference_range": {
+      "low": null,
+      "high": null,
+      "text": "Negative"
+    },
+    "description": "Glucose in the urine.",
+    "digits": null
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "42NTS4KYNC3YWW5R",
+    "org_uuid": "0HEBCQM01P53BWFF",
+    "name": "Reggie Clayton",
+    "slug": "reggie-clayton",
+    "email": "reggie.clayton@finthesiss.ai",
+    "timezone": "America/Chicago",
+    "role": "owner",
+    "created_at": "2026-06-05T15:00:00.000000Z",
+    "updated_at": "2026-09-01T14:02:11.000000Z"
+  }
+]

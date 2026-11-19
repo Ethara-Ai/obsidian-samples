@@ -1,0 +1,57 @@
+[
+ {
+  "id": "call_8bc59ecf13937189",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "direction": "outgoing",
+  "number": "+19015550142",
+  "status": "answered",
+  "duration_seconds": 1260,
+  "voicemail_left": false,
+  "started_at": "2026-11-29T15:10:00-06:00"
+ },
+ {
+  "id": "call_33ce9edaf5bccf24",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "direction": "incoming",
+  "number": "+19015550153",
+  "status": "answered",
+  "duration_seconds": 420,
+  "voicemail_left": false,
+  "started_at": "2026-12-01T18:40:00-06:00"
+ },
+ {
+  "id": "call_3f57c40492ffd76d",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "direction": "outgoing",
+  "number": "+14045550198",
+  "status": "answered",
+  "duration_seconds": 840,
+  "voicemail_left": false,
+  "started_at": "2026-12-03T19:05:00-06:00"
+ },
+ {
+  "id": "call_78157470773b2991",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "direction": "incoming",
+  "number": "+19015550176",
+  "status": "missed",
+  "duration_seconds": 0,
+  "voicemail_left": false,
+  "started_at": "2026-12-04T21:15:00-06:00"
+ },
+ {
+  "id": "call_d5a233693af82736",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "direction": "outgoing",
+  "number": "+19015550142",
+  "status": "answered",
+  "duration_seconds": 1140,
+  "voicemail_left": false,
+  "started_at": "2026-12-06T15:20:00-06:00"
+ }
+]

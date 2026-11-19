@@ -1,0 +1,282 @@
+{
+  "info": {
+    "name": "Notion API Mock 2022-06-28",
+    "description": "Mock Notion API (Notion-Version 2022-06-28). Base URL: http://localhost:8122. In docker-compose: http://notion-api:8122. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8122"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=notion-connector-app&client_secret=secret_jpoJdGtIBYntWX9SgB8p3DI5"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"notion-connector-app\", \"client_secret\": \"secret_jpoJdGtIBYntWX9SgB8p3DI5\", \"scope\": \"read_content insert_content update_content\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search pages and databases",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/search",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"query\": \"event bus\", \"page_size\": 10}"
+        }
+      }
+    },
+    {
+      "name": "find the Projects database",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/search",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"query\": \"Projects\", \"filter\": {\"property\": \"object\", \"value\": \"database\"}}"
+        }
+      }
+    },
+    {
+      "name": "query in-progress P0 projects by target date",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/databases/bedf2fbe-3c66-4f6b-9564-8e96e2905a34/query",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"filter\": {\"and\": [{\"property\": \"Status\", \"status\": {\"equals\": \"In progress\"}}, {\"property\": \"Priority\", \"select\": {\"equals\": \"P0\"}}]}, \"sorts\": [{\"property\": \"Target date\", \"direction\": \"ascending\"}]}"
+        }
+      }
+    },
+    {
+      "name": "get a page",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/pages/a1ad8528-557a-4ea8-8ec1-12ce66fb40e5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a page's blocks",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/blocks/a1ad8528-557a-4ea8-8ec1-12ce66fb40e5/children?page_size=50",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a page in a database",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/pages",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"parent\": {\"database_id\": \"bedf2fbe-3c66-4f6b-9564-8e96e2905a34\"}, \"properties\": {\"Name\": {\"title\": [{\"text\": {\"content\": \"Retry budget rollout\"}}]}, \"Status\": {\"status\": {\"name\": \"Not started\"}}, \"Priority\": {\"select\": {\"name\": \"P1\"}}}, \"children\": [{\"paragraph\": {\"rich_text\": [{\"text\": {\"content\": \"Ship the per-tenant retry budget.\"}}]}}]}"
+        }
+      }
+    },
+    {
+      "name": "create a page under a page",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/pages",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"parent\": {\"page_id\": \"885aad43-ad3f-4e36-9599-2570ee986bc6\"}, \"properties\": {\"title\": {\"title\": [{\"text\": {\"content\": \"Offsite readout\"}}]}}}"
+        }
+      }
+    },
+    {
+      "name": "update page properties",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/v1/pages/a1ad8528-557a-4ea8-8ec1-12ce66fb40e5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"properties\": {\"Progress\": {\"number\": 0.5}}}"
+        }
+      }
+    },
+    {
+      "name": "append blocks to a page",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/v1/blocks/a1ad8528-557a-4ea8-8ec1-12ce66fb40e5/children",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Notion-Version",
+            "value": "2022-06-28"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"children\": [{\"heading_2\": {\"rich_text\": [{\"text\": {\"content\": \"Review outcome\"}}]}}, {\"bulleted_list_item\": {\"rich_text\": [{\"text\": {\"content\": \"Partition by tenant id\"}}]}}]}"
+        }
+      }
+    }
+  ]
+}

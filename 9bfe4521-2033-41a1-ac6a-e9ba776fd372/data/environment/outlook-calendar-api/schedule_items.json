@@ -1,0 +1,38 @@
+[
+  {
+    "id": "AAMkAGsch0000001",
+    "address": "dpatterson@gmail.com",
+    "status": "busy",
+    "subject": "Faculty meeting",
+    "location": "Ridgeway library",
+    "start": "2026-11-16T21:15:00Z",
+    "end": "2026-11-16T22:15:00Z"
+  },
+  {
+    "id": "AAMkAGsch0000002",
+    "address": "jerome.simmons@example.com",
+    "status": "busy",
+    "subject": "Faculty meeting",
+    "location": "Ridgeway library",
+    "start": "2026-11-16T21:15:00Z",
+    "end": "2026-11-16T22:15:00Z"
+  },
+  {
+    "id": "AAMkAGsch0000003",
+    "address": "reggie.clayton@finthesiss.ai",
+    "status": "busy",
+    "subject": "Local 780 monthly meeting",
+    "location": "Local 780 union hall",
+    "start": "2026-12-03T22:30:00Z",
+    "end": "2026-12-03T23:30:00Z"
+  },
+  {
+    "id": "AAMkAGsch0000004",
+    "address": "keisha.robinson@gmail.com",
+    "status": "tentative",
+    "subject": "Local 780 monthly meeting",
+    "location": "Local 780 union hall",
+    "start": "2026-12-03T22:30:00Z",
+    "end": "2026-12-03T23:30:00Z"
+  }
+]

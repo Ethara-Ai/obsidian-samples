@@ -1,0 +1,232 @@
+{
+  "info": {
+    "name": "Facebook Messenger Mock v21.0",
+    "description": "Mock Facebook Messenger inbox (Graph API v21.0, /me prefix). Base URL: http://localhost:8107. In docker-compose: http://messenger-api:8107. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8107"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scope)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=msgr-connector-app&client_secret=mgcs_5c80e3b1d79a42f6"
+        }
+      }
+    },
+    {
+      "name": "token with all scopes",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"msgr-connector-app\", \"client_secret\": \"mgcs_5c80e3b1d79a42f6\", \"scope\": \"messenger.read messenger.contacts messenger.send\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list threads",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/conversations?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "retrieve thread",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/conversations/t_100060000000001",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "thread messages",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/conversations/t_100060000000001/messages?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "check unread",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/unread",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sync (last 48 hours)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/sync",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sync from cursor",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/sync?cursor=<cursor from the previous sync>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/search?q=sparkler",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "contacts",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/contacts?limit=30",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "send to a contact",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v21.0/me/messages",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"recipient\": {\"id\": \"100060000000002\"}, \"message\": {\"text\": \"Draft timeline is attached to the shared folder.\"}}"
+        }
+      }
+    },
+    {
+      "name": "send to a thread",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v21.0/me/messages",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"recipient\": {\"thread_id\": \"t_100060000000001\"}, \"message\": {\"text\": \"Following up on the timeline.\"}}"
+        }
+      }
+    },
+    {
+      "name": "unsend a message",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/v21.0/me/messages/<message_id from send>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

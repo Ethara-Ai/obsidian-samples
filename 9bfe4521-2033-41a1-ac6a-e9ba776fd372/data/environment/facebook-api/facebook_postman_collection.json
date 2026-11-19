@@ -1,0 +1,237 @@
+{
+  "info": {
+    "name": "Facebook Graph API Mock v21.0",
+    "description": "Mock Facebook Graph API v21.0. Base URL: http://localhost:8103. In docker-compose: http://facebook-api:8103. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8103"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scope)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=fb-connector-app&client_secret=fbcs_9d31c7a05e2b48f6"
+        }
+      }
+    },
+    {
+      "name": "token with all scopes",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"fb-connector-app\", \"client_secret\": \"fbcs_9d31c7a05e2b48f6\", \"scope\": \"public_profile user_posts publish_actions user_feed groups_access_member_info user_saved marketplace_listings\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "me (name and profile id)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "timeline",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/feed?limit=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create post",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v21.0/me/feed",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"message\": \"New in the garage: a walnut bookshelf, 90 dollars.\", \"link\": \"https://www.example.com/walnut-bookshelf\", \"privacy\": \"EVERYONE\"}"
+        }
+      }
+    },
+    {
+      "name": "news feed",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/home?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "my groups",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/groups",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "group feed",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/280100000000001/feed?limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "saved items",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/me/saved",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "marketplace search",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/marketplace_listings?q=lamp&location=Austin&max_price=100",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "marketplace listing",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/marketplace_listings/3500100000000001",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "post by link",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/posts?link=https://www.facebook.com/100090000000001/posts/12218930551286975",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "post by id",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/100090000000001_12218930551286975",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "profile",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v21.0/100090000000004",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

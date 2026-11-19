@@ -1,0 +1,7383 @@
+[
+  {
+    "grpid": 6120774787,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 2,
+    "date": 1780150560,
+    "created": 1780150592,
+    "modified": 1780150592,
+    "category": 1,
+    "deviceid": null,
+    "hash_deviceid": null,
+    "measures": [
+      {
+        "value": 1676,
+        "type": 4,
+        "unit": -3,
+        "algo": 0,
+        "fm": 0
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6120979896,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 2,
+    "date": 1780363860,
+    "created": 1780363912,
+    "modified": 1780363912,
+    "category": 2,
+    "deviceid": null,
+    "hash_deviceid": null,
+    "measures": [
+      {
+        "value": 62500,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 0,
+        "position": 1
+      }
+    ],
+    "comment": "Goal: 62.5 kg by the end of the year",
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6121141071,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1782903755,
+    "created": 1782903761,
+    "modified": 1782903761,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65370,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2811,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18376,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46994,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44551,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2359,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33836,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6121386759,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1782962949,
+    "created": 1782963031,
+    "modified": 1782963031,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 74,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 119,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 62,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6121765938,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1782993266,
+    "created": 1782993337,
+    "modified": 1782993337,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65010,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2824,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18359,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46651,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44225,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2352,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33589,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6121973240,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783076174,
+    "created": 1783076236,
+    "modified": 1783076236,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65010,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2816,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18307,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46703,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44275,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2364,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33626,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122049822,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783131700,
+    "created": 1783131740,
+    "modified": 1783131740,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 73,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 122,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 66,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122184769,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783166889,
+    "created": 1783166937,
+    "modified": 1783166937,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65390,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2837,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18550,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46840,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44404,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2361,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33725,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122283369,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783391094,
+    "created": 1783391148,
+    "modified": 1783391148,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 69,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 114,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 57,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122600985,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783424804,
+    "created": 1783424851,
+    "modified": 1783424851,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65220,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2787,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18179,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47041,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44594,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2361,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33869,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122645146,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783508447,
+    "created": 1783508535,
+    "modified": 1783508535,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65110,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2806,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18272,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46838,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44402,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2364,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33723,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122783390,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783565329,
+    "created": 1783565368,
+    "modified": 1783565368,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 79,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 124,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 64,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6122896022,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783597806,
+    "created": 1783597814,
+    "modified": 1783597814,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65310,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2833,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18499,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46811,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44377,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2357,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33704,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6123001465,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783680696,
+    "created": 1783680747,
+    "modified": 1783680747,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64900,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2830,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18368,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46532,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44112,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2358,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33503,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6123375796,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783737519,
+    "created": 1783737593,
+    "modified": 1783737593,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 73,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 121,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 60,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6123756320,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783771320,
+    "created": 1783771336,
+    "modified": 1783771336,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65240,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2799,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18258,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46982,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44538,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2348,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33827,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6123944725,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783943336,
+    "created": 1783943369,
+    "modified": 1783943369,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65510,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2818,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18463,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47047,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44600,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2363,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33874,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6124264324,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1783996242,
+    "created": 1783996325,
+    "modified": 1783996325,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 70,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 119,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 55,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6124498643,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784026608,
+    "created": 1784026664,
+    "modified": 1784026664,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64870,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2771,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17973,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46897,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44458,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2356,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33766,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6124755597,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784113080,
+    "created": 1784113139,
+    "modified": 1784113139,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65220,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2820,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18389,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46831,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44396,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2374,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33718,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6124968523,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784167945,
+    "created": 1784167957,
+    "modified": 1784167957,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 75,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 120,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 61,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6125234231,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784202622,
+    "created": 1784202656,
+    "modified": 1784202656,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65270,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2776,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18122,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47148,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44697,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2356,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33947,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6125312012,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784345076,
+    "created": 1784345081,
+    "modified": 1784345081,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 72,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 122,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 59,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6125491160,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784377889,
+    "created": 1784377933,
+    "modified": 1784377933,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65030,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2832,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18419,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46611,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44187,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2349,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33560,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6125751157,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784464468,
+    "created": 1784464522,
+    "modified": 1784464522,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65110,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2772,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18047,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47063,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44615,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2355,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33885,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6125847240,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784544865,
+    "created": 1784544950,
+    "modified": 1784544950,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64780,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2763,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17899,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46881,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44444,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2368,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33755,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6126122388,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784600313,
+    "created": 1784600329,
+    "modified": 1784600329,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 69,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 112,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 58,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6126144517,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784688046,
+    "created": 1784688069,
+    "modified": 1784688069,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 72,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 71,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6126445617,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784717294,
+    "created": 1784717358,
+    "modified": 1784717358,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65410,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2831,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18520,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46890,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44452,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2360,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33761,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6126680400,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784777316,
+    "created": 1784777384,
+    "modified": 1784777384,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 71,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 118,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 69,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6126907364,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784807346,
+    "created": 1784807407,
+    "modified": 1784807407,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64850,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2810,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18226,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46624,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44200,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2352,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33569,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6127186734,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784946436,
+    "created": 1784946495,
+    "modified": 1784946495,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 75,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 114,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 56,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6127561726,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1784983035,
+    "created": 1784983109,
+    "modified": 1784983109,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64700,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2812,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18197,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46503,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44085,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2365,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33482,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6127764815,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785122288,
+    "created": 1785122334,
+    "modified": 1785122334,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 76,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 68,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6128040664,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785148976,
+    "created": 1785149005,
+    "modified": 1785149005,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65200,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2802,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18266,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46934,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44494,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2354,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33793,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6128323607,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785205007,
+    "created": 1785205048,
+    "modified": 1785205048,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 76,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 118,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 67,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6128396510,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785239663,
+    "created": 1785239726,
+    "modified": 1785239726,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65340,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2747,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17950,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47390,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44926,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2366,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 34121,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6128709283,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785296005,
+    "created": 1785296018,
+    "modified": 1785296018,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 74,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 116,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 65,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6128898456,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785325900,
+    "created": 1785325953,
+    "modified": 1785325953,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64950,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2758,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17912,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47038,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44592,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2372,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33867,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6129293690,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785381958,
+    "created": 1785382014,
+    "modified": 1785382014,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 71,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 119,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 63,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6129636265,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785412341,
+    "created": 1785412412,
+    "modified": 1785412412,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64710,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2815,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18214,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46496,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44078,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2366,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33477,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6129895469,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785498596,
+    "created": 1785498676,
+    "modified": 1785498676,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65190,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2795,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18220,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46970,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44527,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2351,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33818,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6130086676,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785550564,
+    "created": 1785550616,
+    "modified": 1785550616,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 78,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 114,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 60,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6130092081,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785585702,
+    "created": 1785585746,
+    "modified": 1785585746,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64900,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2771,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17983,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46917,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44477,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2370,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33780,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6130237934,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785671474,
+    "created": 1785671547,
+    "modified": 1785671547,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65220,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2807,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18309,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46911,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44471,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2371,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33776,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6130541307,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785754608,
+    "created": 1785754682,
+    "modified": 1785754682,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64920,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2798,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18164,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46756,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44325,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2355,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33664,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6130866908,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785810341,
+    "created": 1785810375,
+    "modified": 1785810375,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 77,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 61,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6130940971,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785927509,
+    "created": 1785927572,
+    "modified": 1785927572,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64580,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2751,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17766,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46814,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44379,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2363,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33706,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6131249174,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1785983944,
+    "created": 1785983990,
+    "modified": 1785983990,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 82,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 112,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 66,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6131353573,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786017019,
+    "created": 1786017087,
+    "modified": 1786017087,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65180,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2757,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17972,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47208,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44753,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2359,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33990,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6131551651,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786099904,
+    "created": 1786099978,
+    "modified": 1786099978,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64970,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2775,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18028,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46942,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44501,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2357,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33798,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6131841007,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786155521,
+    "created": 1786155527,
+    "modified": 1786155527,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 76,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 123,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 64,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6132226710,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786193189,
+    "created": 1786193245,
+    "modified": 1786193245,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64640,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2763,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17862,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46778,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44346,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2353,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33680,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6132597255,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786359013,
+    "created": 1786359060,
+    "modified": 1786359060,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64550,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2804,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18097,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46453,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44037,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2367,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33446,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6132695807,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786415103,
+    "created": 1786415125,
+    "modified": 1786415125,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 77,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 114,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 69,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6132951403,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786449232,
+    "created": 1786449250,
+    "modified": 1786449250,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64780,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2734,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17712,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47068,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44621,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2373,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33889,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6133238413,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786591930,
+    "created": 1786591991,
+    "modified": 1786591991,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 77,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 114,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 65,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6133362247,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 1,
+    "date": 1786621637,
+    "created": 1786621670,
+    "modified": 1786798070,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64580,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2780,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17952,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46628,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44203,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2348,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33572,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6133393752,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786762693,
+    "created": 1786762779,
+    "modified": 1786762779,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 74,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 120,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 65,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6133478206,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786797352,
+    "created": 1786797425,
+    "modified": 1786797425,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64990,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2731,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17750,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47240,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44783,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2369,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 34013,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6133804344,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786881154,
+    "created": 1786881192,
+    "modified": 1786881192,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65090,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2768,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18016,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47074,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44626,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2368,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33893,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6134119610,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1786964137,
+    "created": 1786964226,
+    "modified": 1786964226,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65080,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2745,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17862,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47218,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44762,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2373,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33997,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6134297384,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787019860,
+    "created": 1787019868,
+    "modified": 1787019868,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 84,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 115,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 63,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6134523474,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787053784,
+    "created": 1787053851,
+    "modified": 1787053851,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64790,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2729,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17680,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47110,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44660,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2349,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33919,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6134837660,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787137195,
+    "created": 1787137266,
+    "modified": 1787137266,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64950,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2789,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18114,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46836,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44401,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2349,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33722,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6134887394,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787192453,
+    "created": 1787192521,
+    "modified": 1787192521,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 77,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 58,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6135281792,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787226907,
+    "created": 1787226912,
+    "modified": 1787226912,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64450,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2784,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17945,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46505,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44087,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2351,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33483,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6135288501,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787309831,
+    "created": 1787309913,
+    "modified": 1787309913,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64830,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2720,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17636,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47194,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44740,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2356,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33980,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6135449497,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787364831,
+    "created": 1787364839,
+    "modified": 1787364839,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 73,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 60,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6135492483,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787541965,
+    "created": 1787542024,
+    "modified": 1787542024,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 74,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 125,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 63,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6135644530,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787572208,
+    "created": 1787572244,
+    "modified": 1787572244,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64370,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2731,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17581,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46789,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44356,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2350,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33688,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6135940768,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787628116,
+    "created": 1787628168,
+    "modified": 1787628168,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 79,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 51,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6136035193,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787658993,
+    "created": 1787659023,
+    "modified": 1787659023,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64460,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2740,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17661,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46799,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44365,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2356,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33695,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6136145231,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787745374,
+    "created": 1787745388,
+    "modified": 1787745388,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 65010,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2766,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17979,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47031,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44585,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2351,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33862,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6136349798,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787797992,
+    "created": 1787798060,
+    "modified": 1787798060,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 72,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 119,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 67,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6136725662,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787831512,
+    "created": 1787831543,
+    "modified": 1787831543,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64860,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2782,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 18041,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46819,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44385,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2353,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33710,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6137086336,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787917904,
+    "created": 1787917970,
+    "modified": 1787917970,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64480,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2769,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17852,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46628,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44203,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2366,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33572,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6137130607,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1787970879,
+    "created": 1787970945,
+    "modified": 1787970945,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 77,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 64,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6137163947,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788005120,
+    "created": 1788005183,
+    "modified": 1788005183,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64500,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2749,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17733,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46767,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44335,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2369,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33672,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6137453290,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788057200,
+    "created": 1788057263,
+    "modified": 1788057263,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 75,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 119,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 64,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6137814198,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788173623,
+    "created": 1788173698,
+    "modified": 1788173698,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64650,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2741,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17723,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46927,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44487,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2359,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33787,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6138023021,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788231259,
+    "created": 1788231286,
+    "modified": 1788231286,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 76,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 113,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 65,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6138358701,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788263385,
+    "created": 1788263462,
+    "modified": 1788263462,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64580,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2696,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17413,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47167,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44714,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2357,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33960,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6138407159,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788403226,
+    "created": 1788403233,
+    "modified": 1788403233,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 72,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 116,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 64,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6138652161,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788436454,
+    "created": 1788436517,
+    "modified": 1788436517,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64490,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2739,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17666,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46824,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44389,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2362,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33713,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6138910381,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788522839,
+    "created": 1788522911,
+    "modified": 1788522911,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64520,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2764,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17834,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46686,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44258,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2358,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33614,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6138996945,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788574571,
+    "created": 1788574611,
+    "modified": 1788574611,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 73,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 115,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 60,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6139176188,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788609553,
+    "created": 1788609578,
+    "modified": 1788609578,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64500,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2728,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17593,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46907,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44468,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2346,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33773,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6139491561,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788778537,
+    "created": 1788778611,
+    "modified": 1788778611,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64500,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2743,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17695,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46805,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44371,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2357,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33700,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6139533802,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788834805,
+    "created": 1788834872,
+    "modified": 1788834872,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 79,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 110,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 61,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6139863160,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788868640,
+    "created": 1788868655,
+    "modified": 1788868655,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64350,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2758,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17749,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46601,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44178,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2353,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33553,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6139881970,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1788951533,
+    "created": 1788951605,
+    "modified": 1788951605,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64230,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2713,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17426,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46804,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44371,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2352,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33699,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6140047237,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789006359,
+    "created": 1789006399,
+    "modified": 1789006399,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 78,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 118,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 57,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6140440558,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789041408,
+    "created": 1789041413,
+    "modified": 1789041413,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64530,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2690,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17361,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47169,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44716,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2351,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33961,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6140652365,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789123592,
+    "created": 1789123620,
+    "modified": 1789123620,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64240,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2692,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17292,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46948,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44507,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2373,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33803,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6140844201,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789183322,
+    "created": 1789183355,
+    "modified": 1789183355,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 78,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 65,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6141097071,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789216288,
+    "created": 1789216329,
+    "modified": 1789216329,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64750,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2726,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17651,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47099,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44650,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2356,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33911,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6141123990,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789300019,
+    "created": 1789300087,
+    "modified": 1789300087,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64380,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2690,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17319,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47061,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44613,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2354,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33884,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6141406876,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789386439,
+    "created": 1789386459,
+    "modified": 1789386459,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64440,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2724,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17556,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46884,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44446,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2357,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33756,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6141423627,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789439972,
+    "created": 1789440047,
+    "modified": 1789440047,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 76,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 116,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 68,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6141822029,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789473559,
+    "created": 1789473576,
+    "modified": 1789473576,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64700,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2733,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17685,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47015,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44570,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2359,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33851,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6141858796,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789556089,
+    "created": 1789556150,
+    "modified": 1789556150,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64720,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2729,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17663,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47057,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44610,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2352,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33881,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6142248900,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789612701,
+    "created": 1789612767,
+    "modified": 1789612767,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 78,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 115,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 61,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6142379027,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789645697,
+    "created": 1789645706,
+    "modified": 1789645706,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64340,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2742,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17640,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46700,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44272,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2352,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33624,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6142421373,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789732369,
+    "created": 1789732406,
+    "modified": 1789732406,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64130,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2677,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17167,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46963,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44521,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2368,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33813,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6142529144,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789785657,
+    "created": 1789785731,
+    "modified": 1789785731,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 70,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 65,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6142597089,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789820003,
+    "created": 1789820031,
+    "modified": 1789820031,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64190,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2683,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17220,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46970,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44527,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2372,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33818,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6142828727,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789904357,
+    "created": 1789904401,
+    "modified": 1789904401,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64370,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2744,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17661,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46709,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44280,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2368,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33631,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6143007981,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1789988574,
+    "created": 1789988594,
+    "modified": 1789988594,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64430,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2722,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17539,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46891,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44452,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2348,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33761,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6143063688,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790045309,
+    "created": 1790045376,
+    "modified": 1790045376,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 85,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 128,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 69,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6143345766,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790078056,
+    "created": 1790078134,
+    "modified": 1790078134,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64450,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2701,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17409,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47041,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44594,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2374,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33869,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6143542206,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790164844,
+    "created": 1790164859,
+    "modified": 1790164859,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64110,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2722,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17453,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46657,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44231,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2352,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33593,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6143692117,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790217956,
+    "created": 1790217968,
+    "modified": 1790217968,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 80,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 133,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 70,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6143999888,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790250742,
+    "created": 1790250799,
+    "modified": 1790250799,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64140,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2699,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17313,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46827,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44392,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2369,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33715,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6144228252,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790332957,
+    "created": 1790333037,
+    "modified": 1790333037,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64090,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2738,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17545,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46545,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44125,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2374,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33512,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6144600719,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790393239,
+    "created": 1790393309,
+    "modified": 1790393309,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 84,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 127,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 74,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6144757444,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790424016,
+    "created": 1790424077,
+    "modified": 1790424077,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64330,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2713,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17450,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46880,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44442,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2362,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33753,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6145149723,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790512684,
+    "created": 1790512752,
+    "modified": 1790512752,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64670,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2666,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17243,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47427,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44961,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2356,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 34148,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6145313262,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790596141,
+    "created": 1790596201,
+    "modified": 1790596201,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64380,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2661,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17133,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 47247,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44790,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2361,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 34018,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6145611604,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790649458,
+    "created": 1790649465,
+    "modified": 1790649465,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 76,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 121,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 61,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6145651086,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790682632,
+    "created": 1790682681,
+    "modified": 1790682681,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64060,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2674,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17130,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46930,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44490,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2363,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33790,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6145970026,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790766026,
+    "created": 1790766047,
+    "modified": 1790766047,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64030,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2703,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17309,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46721,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44291,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2359,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33639,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6146080726,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790825106,
+    "created": 1790825148,
+    "modified": 1790825148,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 74,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 117,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 62,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6146445556,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790855732,
+    "created": 1790855760,
+    "modified": 1790855760,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64000,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2701,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17289,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46711,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44282,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2347,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33632,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6146746985,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790938228,
+    "created": 1790938305,
+    "modified": 1790938305,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64420,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2718,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17506,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46914,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44474,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2366,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33778,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6147072632,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1790993476,
+    "created": 1790993528,
+    "modified": 1790993528,
+    "category": 1,
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "measures": [
+      {
+        "value": 72,
+        "type": 9,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 118,
+        "type": 10,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      },
+      {
+        "value": 60,
+        "type": 11,
+        "unit": 0,
+        "algo": 0,
+        "fm": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6147231316,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1791116112,
+    "created": 1791116174,
+    "modified": 1791116174,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 63930,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2664,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17030,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46900,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44461,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2349,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33768,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  },
+  {
+    "grpid": 6147507505,
+    "owner_account_id": "acct-dana-whitfield",
+    "attrib": 0,
+    "date": 1791198028,
+    "created": 1791198105,
+    "modified": 1791198105,
+    "category": 1,
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "measures": [
+      {
+        "value": 64200,
+        "type": 1,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2724,
+        "type": 6,
+        "unit": -2,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 17486,
+        "type": 8,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 46714,
+        "type": 5,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 44285,
+        "type": 76,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 2354,
+        "type": 88,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      },
+      {
+        "value": 33634,
+        "type": 77,
+        "unit": -3,
+        "algo": 0,
+        "fm": 1,
+        "position": 1
+      }
+    ],
+    "comment": null,
+    "timezone": "America/Chicago"
+  }
+]

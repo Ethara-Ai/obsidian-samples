@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "Outlook Contacts API Mock v1.0",
+    "description": "Mock Microsoft Graph v1.0 contacts API (Outlook Contacts). Base URL: http://localhost:8121. In docker-compose: http://outlook-contacts-api:8121. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8121"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=ocon-connector-app&client_secret=ocon_930ce9e18bce2a86"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"ocon-connector-app\", \"client_secret\": \"ocon_930ce9e18bce2a86\", \"scope\": \"Contacts.Read Contacts.ReadWrite\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list contacts",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/contacts",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "find contacts by name",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/contacts?$filter=startswith(displayName,'Diego')&$select=displayName,emailAddresses,mobilePhone",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "find a contact by email",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/contacts?$filter=emailAddresses/any(a:a/address%20eq%20'priya.nair@contoso.com')",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list Fabrikam customer contacts by surname",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/contacts?$filter=categories/any(c:c%20eq%20'Customer')%20and%20companyName%20eq%20'Fabrikam'&$orderby=surname&$select=displayName,jobTitle,emailAddresses",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a contact",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1.0/me/contacts/AAMkAGcnt0000001",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a contact",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1.0/me/contacts",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"givenName\": \"Hollis\", \"surname\": \"Grant\", \"companyName\": \"Tailspin Toys\", \"jobTitle\": \"Platform Lead\", \"emailAddresses\": [{\"address\": \"hollis.grant@tailspintoys.com\", \"name\": \"Hollis Grant\"}], \"businessPhones\": [\"+1-512-555-0142\"]}"
+        }
+      }
+    },
+    {
+      "name": "update a contact",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/v1.0/me/contacts/AAMkAGcnt0000002",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"mobilePhone\": \"+1-415-555-0177\"}"
+        }
+      }
+    },
+    {
+      "name": "delete a contact",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/v1.0/me/contacts/<contact_id>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

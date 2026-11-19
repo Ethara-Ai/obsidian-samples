@@ -1,0 +1,26 @@
+[
+ {
+  "conversation_id": "conv-claire",
+  "wa_id": "12025550387",
+  "started_at": "2026-10-14T14:05:00Z",
+  "last_message_at": "2026-10-24T23:05:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "false"
+ },
+ {
+  "conversation_id": "conv-priya",
+  "wa_id": "12025550256",
+  "started_at": "2026-10-23T20:45:00Z",
+  "last_message_at": "2026-10-23T21:02:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "false"
+ },
+ {
+  "conversation_id": "conv-daniel",
+  "wa_id": "12025550299",
+  "started_at": "2026-10-20T12:10:00Z",
+  "last_message_at": "2026-10-20T12:10:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "false"
+ }
+]

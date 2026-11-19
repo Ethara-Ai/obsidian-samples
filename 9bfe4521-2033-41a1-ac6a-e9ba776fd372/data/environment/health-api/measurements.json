@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ms-weight_kg-2026-09-06",
+    "person_id": "per-reggie-clayton",
+    "type": "weight_kg",
+    "date": "2026-09-06",
+    "timestamp": "2026-09-06T06:10:00-05:00",
+    "value": "97.9",
+    "value_secondary": ""
+  },
+  {
+    "id": "ms-weight_kg-2026-09-20",
+    "person_id": "per-reggie-clayton",
+    "type": "weight_kg",
+    "date": "2026-09-20",
+    "timestamp": "2026-09-20T06:10:00-05:00",
+    "value": "97.6",
+    "value_secondary": ""
+  },
+  {
+    "id": "ms-weight_kg-2026-10-04",
+    "person_id": "per-reggie-clayton",
+    "type": "weight_kg",
+    "date": "2026-10-04",
+    "timestamp": "2026-10-04T06:10:00-05:00",
+    "value": "97.4",
+    "value_secondary": ""
+  },
+  {
+    "id": "ms-weight_kg-2026-10-18",
+    "person_id": "per-reggie-clayton",
+    "type": "weight_kg",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T06:10:00-05:00",
+    "value": "97.3",
+    "value_secondary": ""
+  },
+  {
+    "id": "ms-steps-2026-10-17",
+    "person_id": "per-reggie-clayton",
+    "type": "steps",
+    "date": "2026-10-17",
+    "timestamp": "",
+    "value": "9420",
+    "value_secondary": ""
+  },
+  {
+    "id": "ms-steps-2026-10-24",
+    "person_id": "per-reggie-clayton",
+    "type": "steps",
+    "date": "2026-10-24",
+    "timestamp": "",
+    "value": "11235",
+    "value_secondary": ""
+  },
+  {
+    "id": "ms-steps-2026-11-07",
+    "person_id": "per-reggie-clayton",
+    "type": "steps",
+    "date": "2026-11-07",
+    "timestamp": "",
+    "value": "10310",
+    "value_secondary": ""
+  }
+]

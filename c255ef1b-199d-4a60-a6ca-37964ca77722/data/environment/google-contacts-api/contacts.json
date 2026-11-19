@@ -1,0 +1,502 @@
+[
+ {
+  "id": "c4161252214459302875",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "James",
+  "family_name": "Murphy",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "james.murphy.sound@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 87 642 9183",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Partner. Sound designer.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E0e9518c5030d59f4c6de7a8a"
+ },
+ {
+  "id": "c0940302775306963921",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Dorothy",
+  "family_name": "Edwards",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "dorothy.edwards.books@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 91 524 678",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Mother.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E38a0380a451a4c6f8c735220"
+ },
+ {
+  "id": "c6009403550767897001",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Richard",
+  "family_name": "Edwards",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "richard.edwards.law@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 87 215 4906",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Father.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E3d3199c13e3b66413e90febe"
+ },
+ {
+  "id": "c2644161164337021355",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Thomas",
+  "family_name": "Edwards",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "thomas.edwards.arch@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 87 308 6291",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Brother.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Edcc741fe11f42585f6d5565a"
+ },
+ {
+  "id": "c6283212019394088375",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Sarah",
+  "family_name": "Edwards",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "sarah.brennan.teach@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 86 754 1235",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Sister-in-law.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Edf3e47346aa1441f1577d5ca"
+ },
+ {
+  "id": "c6852829512169395614",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Lucy",
+  "family_name": "Edwards",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "lucy.edwards.policy@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 85 217 5640",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Sister.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Ec63539f5521c45a3771d310e"
+ },
+ {
+  "id": "c5155078637856452116",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Claire",
+  "family_name": "Nicholson",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "claire.nicholson.dp@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 86 491 3027",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Cinematographer, Lamplighter Films co-founder.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Ee37c3174fef200256283d9ae"
+ },
+ {
+  "id": "c6321063732850504933",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "David",
+  "family_name": "Thornton",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "david.thornton.films@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 1 478 6920",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Mentor.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Eb53c5132b5faf49aa5b8ac22"
+ },
+ {
+  "id": "c4075060948903304790",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Helen",
+  "family_name": "Brennan",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "helen.brennan@channel4.co.uk",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+44 7700 900 412",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Commissioning editor, Channel 4. Still Waters.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Ecd6c6e8af90a3a8539a45fa9"
+ },
+ {
+  "id": "c2329805231124287762",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Fiona",
+  "family_name": "Walsh",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "fiona.walsh@ucd.ie",
+    "type": "home"
+   }
+  ],
+  "phones": [
+   {
+    "value": "+353 1 716 8265",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "UCD School of Film.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Eb5ff75a062b65e03da73a780"
+ },
+ {
+  "id": "c6012954497827761908",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Niamh",
+  "family_name": "Gallagher",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "niamh.gallagher.edit@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Editor.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Eff219cfee240d749669ba619"
+ },
+ {
+  "id": "c4883559839916183111",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Cian",
+  "family_name": "Doyle",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "cian.doyle.pa@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Production manager.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E3e4b60a975b6ffc04b982b9d"
+ },
+ {
+  "id": "c6961893992133379700",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Eoin",
+  "family_name": "Devlin",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "eoin.devlin.colour@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Colourist.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Ee119b0fbcfdd9430bca8c391"
+ },
+ {
+  "id": "c5968168795697967939",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Mette",
+  "family_name": "Sorensen",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "mette.sorensen@nordlysfilm.dk",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "Nordlys Film, North Atlantic co-production.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E20e918346b8afd9999875ab0"
+ },
+ {
+  "id": "c6957049741217403833",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Aisling",
+  "family_name": "Casey",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "aisling.casey.toronto@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "The Leaving, Toronto strand. Contributor.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E3715d81027576ca585a3c113"
+ },
+ {
+  "id": "c6270907975345564143",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Eileen",
+  "family_name": "Dolan",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "eileen.dolan.boston@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "The Leaving, Boston strand. Contributor.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E6c88d320d1d8e3b76e828616"
+ },
+ {
+  "id": "c0695162378613466039",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Tom",
+  "family_name": "Dolan",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [
+   {
+    "value": "tom.dolan.boston@gmail.com",
+    "type": "home"
+   }
+  ],
+  "phones": [],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "The Leaving, Boston strand. Contributor.",
+  "urls": [],
+  "starred": false,
+  "etag": "%E075184855bd83fc5251ed514"
+ },
+ {
+  "id": "c3245899421917711435",
+  "owner_account_id": "acct-margaret-edwards",
+  "created_time": "2025-07-14T09:00:00.000Z",
+  "update_time": "2026-09-02T09:00:00.000Z",
+  "given_name": "Bridie",
+  "family_name": "Mannion",
+  "middle_name": "",
+  "honorific_prefix": "",
+  "nicknames": [],
+  "emails": [],
+  "phones": [
+   {
+    "value": "+353 95 555 0142",
+    "type": "mobile"
+   }
+  ],
+  "organizations": [],
+  "addresses": [],
+  "birthday": null,
+  "biography": "The Leaving, Clifden strand. Contributor. Phone only.",
+  "urls": [],
+  "starred": false,
+  "etag": "%Efb0f14a1a4e1dd0291ac6350"
+ }
+]

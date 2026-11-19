@@ -1,0 +1,112 @@
+[
+  {
+    "id": "28e91f3f5364839a584e91",
+    "name": "What's Going On",
+    "album_id": "08f3ebdbf9b96a306bbfb0",
+    "artist_ids": "a4cac82164ef67d9d07d37",
+    "track_number": "1",
+    "disc_number": "1",
+    "duration_ms": "231000",
+    "explicit": "false",
+    "popularity": "86"
+  },
+  {
+    "id": "cd4e71e83cbd68224cea60",
+    "name": "Mercy Mercy Me (The Ecology)",
+    "album_id": "08f3ebdbf9b96a306bbfb0",
+    "artist_ids": "a4cac82164ef67d9d07d37",
+    "track_number": "4",
+    "disc_number": "1",
+    "duration_ms": "195000",
+    "explicit": "false",
+    "popularity": "78"
+  },
+  {
+    "id": "7817b3f36e00430d1a4087",
+    "name": "Let's Stay Together",
+    "album_id": "dc07fdd080f66e874af41e",
+    "artist_ids": "bc74f4f071a5a33f00ab88",
+    "track_number": "1",
+    "disc_number": "1",
+    "duration_ms": "198000",
+    "explicit": "false",
+    "popularity": "82"
+  },
+  {
+    "id": "e5074e00f65cb079189da1",
+    "name": "Love and Happiness",
+    "album_id": "dc07fdd080f66e874af41e",
+    "artist_ids": "bc74f4f071a5a33f00ab88",
+    "track_number": "5",
+    "disc_number": "1",
+    "duration_ms": "313000",
+    "explicit": "false",
+    "popularity": "70"
+  },
+  {
+    "id": "12c502206d369733590ac0",
+    "name": "Move On Up",
+    "album_id": "65f02b821dfe66260cb589",
+    "artist_ids": "eda91b38e63bc56017dc77",
+    "track_number": "5",
+    "disc_number": "1",
+    "duration_ms": "520000",
+    "explicit": "false",
+    "popularity": "72"
+  },
+  {
+    "id": "7ae64cada55f441546fea6",
+    "name": "Move On Up a Little Higher",
+    "album_id": "3a93635eb90de7fb14d62f",
+    "artist_ids": "6c5f67bf440a284c2c93be",
+    "track_number": "1",
+    "disc_number": "1",
+    "duration_ms": "188000",
+    "explicit": "false",
+    "popularity": "55"
+  },
+  {
+    "id": "174d599c7ea2a4587f8428",
+    "name": "I'll Take You There",
+    "album_id": "7aeff088d17796a6efbaef",
+    "artist_ids": "f3d8047a2161c9b4f11f65",
+    "track_number": "1",
+    "disc_number": "1",
+    "duration_ms": "205000",
+    "explicit": "false",
+    "popularity": "76"
+  },
+  {
+    "id": "e3b9461f292c3746961871",
+    "name": "Respect Yourself",
+    "album_id": "7aeff088d17796a6efbaef",
+    "artist_ids": "f3d8047a2161c9b4f11f65",
+    "track_number": "2",
+    "disc_number": "1",
+    "duration_ms": "210000",
+    "explicit": "false",
+    "popularity": "74"
+  },
+  {
+    "id": "a77bb68ebc39ad9a43a618",
+    "name": "Sweet Little Angel",
+    "album_id": "2d185baed0dd0e4c0b1bd1",
+    "artist_ids": "ceb2d734d5f3dc1b5a5c6b",
+    "track_number": "1",
+    "disc_number": "1",
+    "duration_ms": "220000",
+    "explicit": "false",
+    "popularity": "58"
+  },
+  {
+    "id": "02cd6e1ca8526705a12a0f",
+    "name": "Smokestack Lightnin'",
+    "album_id": "ace531a215e1ef78965c4c",
+    "artist_ids": "a3cb738850fa39be667c4d",
+    "track_number": "1",
+    "disc_number": "1",
+    "duration_ms": "185000",
+    "explicit": "false",
+    "popularity": "63"
+  }
+]

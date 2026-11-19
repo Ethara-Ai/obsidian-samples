@@ -1,0 +1,352 @@
+[
+  {
+    "id": "g890d38514ba1_0_64",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": "Open with the Harbor Street Cafe before-and-after photos."
+  },
+  {
+    "id": "gec4f1cbce9ee_0_79",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 1,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "ge3dea75476ed_0_71",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 2,
+    "layout": "TITLE_AND_TWO_COLUMNS",
+    "notes": ""
+  },
+  {
+    "id": "g9f515cd4a938_0_24",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 3,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g8816da06dda7_0_41",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 4,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g0c0d178def16_0_42",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 5,
+    "layout": "SECTION_HEADER",
+    "notes": ""
+  },
+  {
+    "id": "gc99f4ba022e9_0_41",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 6,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g712ba0161c8a_0_91",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 7,
+    "layout": "TITLE_ONLY",
+    "notes": ""
+  },
+  {
+    "id": "g90ce305aacc3_0_59",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 8,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "gcec022f558b0_0_79",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 9,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g9a0bb736db27_0_40",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 10,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g21ae9e3affb8_0_27",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 11,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g131f2f7cc964_0_75",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 12,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "gf601912d8698_0_24",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 13,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "gbe4b707a80fc_0_93",
+    "presentation_id": "1wN4DSCDCrw1DeGQVhD7JTDJuUVLBaMV5H",
+    "position": 14,
+    "layout": "MAIN_POINT",
+    "notes": ""
+  },
+  {
+    "id": "g01f273b05cc3_0_69",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": "Replace every {{PLACEHOLDER}} before sending. Delete the slides that do not apply."
+  },
+  {
+    "id": "g95f78d3034eb_0_43",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 1,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "gf30eb8fc6765_0_63",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 2,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "geebe0a55f8a8_0_40",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 3,
+    "layout": "TITLE_AND_TWO_COLUMNS",
+    "notes": ""
+  },
+  {
+    "id": "g6ca6736608ac_0_78",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 4,
+    "layout": "BIG_NUMBER",
+    "notes": ""
+  },
+  {
+    "id": "g4fe67629bef3_0_73",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 5,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g0d8d035b2d70_0_48",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 6,
+    "layout": "TITLE_ONLY",
+    "notes": ""
+  },
+  {
+    "id": "g72023386ba76_0_19",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 7,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g7ec99f4867ea_0_88",
+    "presentation_id": "1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v",
+    "position": 8,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g68028b222d8b_0_77",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": "Alicia asked for the budget slide first next month."
+  },
+  {
+    "id": "g5e8d02766e71_0_34",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 1,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g6e0cea4c8e76_0_58",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 2,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g2acacd5cc61c_0_77",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 3,
+    "layout": "TITLE_AND_BODY",
+    "notes": "Alicia's CFO wants these in a table."
+  },
+  {
+    "id": "g10ca8028673b_0_66",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 4,
+    "layout": "TITLE_AND_TWO_COLUMNS",
+    "notes": ""
+  },
+  {
+    "id": "gab30edfaebc5_0_55",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 5,
+    "layout": "TITLE_ONLY",
+    "notes": "Marcus: swap the second render for option A once the vote closes."
+  },
+  {
+    "id": "g7fcf75366b47_0_79",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 6,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g30597dadf8ef_0_85",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 7,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g5b2454c68246_0_79",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 8,
+    "layout": "SECTION_HEADER",
+    "notes": ""
+  },
+  {
+    "id": "g8bd3d3dfec70_0_84",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 9,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "g4bc14c6a70b4_0_60",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 10,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "ga57ab681e61c_0_43",
+    "presentation_id": "1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+    "position": 11,
+    "layout": "TITLE_AND_TWO_COLUMNS",
+    "notes": ""
+  },
+  {
+    "id": "g4758588e46bc_0_94",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": ""
+  },
+  {
+    "id": "gcb718dfeb3e9_0_70",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 1,
+    "layout": "TITLE_ONLY",
+    "notes": ""
+  },
+  {
+    "id": "g5f96ede0afb3_0_65",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 2,
+    "layout": "TITLE_ONLY",
+    "notes": "Priya: the brass finish reads too yellow here; try brushed champagne."
+  },
+  {
+    "id": "g36c333252c18_0_52",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 3,
+    "layout": "TITLE_ONLY",
+    "notes": "Alicia loves the plaster texture; it stays on the north wall."
+  },
+  {
+    "id": "ge9d05efa9d40_0_25",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 4,
+    "layout": "TITLE_AND_TWO_COLUMNS",
+    "notes": ""
+  },
+  {
+    "id": "g34f1ddbaa264_0_74",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 5,
+    "layout": "BLANK",
+    "notes": ""
+  },
+  {
+    "id": "g398001b86f8b_0_21",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 6,
+    "layout": "TITLE_ONLY",
+    "notes": ""
+  },
+  {
+    "id": "gda5e9fc2a7d5_0_91",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 7,
+    "layout": "TITLE_ONLY",
+    "notes": ""
+  },
+  {
+    "id": "g301a4345245d_0_34",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 8,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "gb8291d6ecc68_0_74",
+    "presentation_id": "1bLmJym2Kygd_lu8Of8LVS3gCD7IoUAOjl",
+    "position": 9,
+    "layout": "CAPTION_ONLY",
+    "notes": ""
+  },
+  {
+    "id": "gd467b636ce4a_0_94",
+    "presentation_id": "14txEGIxuXkZCjUQQh7lhgqK0Rq__NNO-Z",
+    "position": 0,
+    "layout": "TITLE",
+    "notes": ""
+  },
+  {
+    "id": "g97e64bb420c0_0_48",
+    "presentation_id": "14txEGIxuXkZCjUQQh7lhgqK0Rq__NNO-Z",
+    "position": 1,
+    "layout": "BLANK",
+    "notes": ""
+  },
+  {
+    "id": "g6828792db46b_0_22",
+    "presentation_id": "14txEGIxuXkZCjUQQh7lhgqK0Rq__NNO-Z",
+    "position": 2,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  },
+  {
+    "id": "ge99bf92f714c_0_88",
+    "presentation_id": "14txEGIxuXkZCjUQQh7lhgqK0Rq__NNO-Z",
+    "position": 3,
+    "layout": "TITLE_AND_BODY",
+    "notes": ""
+  }
+]

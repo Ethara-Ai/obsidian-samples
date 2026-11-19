@@ -1,0 +1,45 @@
+{
+  "stage": 8,
+  "stage_name": "stage8_termite_inspection",
+  "description": "Tuesday 18:30: Martin books a termite (WDO) inspection at the house for Saturday 14:30-16:00 on the Ellery family calendar. Nothing announces it.",
+  "applies_between_turns": [
+    "T11",
+    "T12"
+  ],
+  "applied_at_local_time": "2026-10-27T18:30:00-04:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_spine_wdo",
+        "service": "google-calendar-api",
+        "description": "Martin books the WDO inspection at the house on Saturday afternoon.",
+        "method": "POST",
+        "path": "/calendar/v3/calendars/joanne.ellery@gmail.com/events",
+        "admin": {
+          "op": "upsert",
+          "table": "events",
+          "row": {
+            "id": "evt-je-wdo",
+            "calendar_id": "joanne.ellery@gmail.com",
+            "summary": "Sunshine State Termite: WDO inspection",
+            "description": "Pre-listing termite inspection, Martin booked it. They let themselves in with the lockbox code.",
+            "location": "5759 W Sea Grape Ln, Tampa, FL 33611",
+            "start": "2026-10-31T14:30:00-04:00",
+            "end": "2026-10-31T16:00:00-04:00",
+            "all_day": false,
+            "status": "confirmed",
+            "creator": "joanne.ellery@gmail.com",
+            "organizer": "joanne.ellery@gmail.com",
+            "recurrence": "",
+            "visibility": "default",
+            "created": "2026-10-27T22:30:00.000Z",
+            "updated": "2026-10-27T22:30:00.000Z"
+          }
+        },
+        "fires_at_turn": "T12"
+      }
+    ]
+  }
+}

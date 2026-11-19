@@ -1,0 +1,117 @@
+[
+ {
+  "id": "d84bf8c1-4c98-5532-9fab-7a53d2b9c1ac",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "c327a8ab-8d1d-5689-8792-d4a627b1e174"
+  },
+  "title": "Living room order list",
+  "description": "Pemberton front living room. Priya keeps prices current from the vendors' trade portals.",
+  "icon": {
+   "type": "emoji",
+   "emoji": "🛋️"
+  },
+  "properties": {
+   "Item": {
+    "id": "title",
+    "type": "title",
+    "title": {}
+   },
+   "Vendor": {
+    "id": "vNd1",
+    "type": "select",
+    "select": {
+     "options": [
+      {
+       "id": "9948",
+       "name": "Maison Verde Trade",
+       "color": "gray"
+      },
+      {
+       "id": "f591",
+       "name": "Loom and Field Textiles",
+       "color": "blue"
+      }
+     ]
+    }
+   },
+   "Spec": {
+    "id": "sPc1",
+    "type": "rich_text",
+    "rich_text": {}
+   },
+   "Qty": {
+    "id": "qTy1",
+    "type": "number",
+    "number": {
+     "format": "number"
+    }
+   },
+   "Unit": {
+    "id": "uNt1",
+    "type": "select",
+    "select": {
+     "options": [
+      {
+       "id": "4fa5",
+       "name": "ea",
+       "color": "gray"
+      },
+      {
+       "id": "23b4",
+       "name": "yd",
+       "color": "blue"
+      }
+     ]
+    }
+   },
+   "Unit price": {
+    "id": "pRc1",
+    "type": "number",
+    "number": {
+     "format": "dollar"
+    }
+   },
+   "Status": {
+    "id": "sTa1",
+    "type": "select",
+    "select": {
+     "options": [
+      {
+       "id": "d4d3",
+       "name": "Draft",
+       "color": "gray"
+      },
+      {
+       "id": "30cd",
+       "name": "Approved",
+       "color": "blue"
+      },
+      {
+       "id": "b046",
+       "name": "Ordered",
+       "color": "green"
+      },
+      {
+       "id": "e26b",
+       "name": "Received",
+       "color": "orange"
+      }
+     ]
+    }
+   },
+   "Notes": {
+    "id": "nOt1",
+    "type": "rich_text",
+    "rich_text": {}
+   }
+  },
+  "is_inline": false,
+  "archived": false,
+  "created_time": "2026-10-16T19:00:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-20T15:42:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ }
+]

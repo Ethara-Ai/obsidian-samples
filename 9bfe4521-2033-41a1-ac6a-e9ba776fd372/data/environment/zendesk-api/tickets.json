@@ -1,0 +1,44 @@
+[
+ {
+  "id": "311",
+  "subject": "Wrong rub in my box",
+  "description": "Ordered Garlic Pepper and got Sweet Heat. Can I get the right one?",
+  "status": "solved",
+  "priority": "normal",
+  "type": "problem",
+  "requester_id": "711",
+  "assignee_id": "701",
+  "organization_id": "",
+  "tags": "storefront;wrong-item",
+  "created_at": "2026-08-19T14:10:00Z",
+  "updated_at": "2026-08-19T23:30:00Z"
+ },
+ {
+  "id": "314",
+  "subject": "Sauce bottle missing",
+  "description": "My box came with the two rubs but no sauce bottle.",
+  "status": "solved",
+  "priority": "normal",
+  "type": "problem",
+  "requester_id": "712",
+  "assignee_id": "701",
+  "organization_id": "",
+  "tags": "storefront;missing-item",
+  "created_at": "2026-10-02T16:45:00Z",
+  "updated_at": "2026-10-03T00:20:00Z"
+ },
+ {
+  "id": "316",
+  "subject": "Shipping to Canada?",
+  "description": "Do you ship rubs to Toronto?",
+  "status": "solved",
+  "priority": "normal",
+  "type": "question",
+  "requester_id": "713",
+  "assignee_id": "702",
+  "organization_id": "",
+  "tags": "storefront;shipping",
+  "created_at": "2026-11-12T18:30:00Z",
+  "updated_at": "2026-11-12T22:05:00Z"
+ }
+]

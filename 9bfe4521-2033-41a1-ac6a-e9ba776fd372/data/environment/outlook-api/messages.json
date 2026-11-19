@@ -1,0 +1,54 @@
+[
+  {
+    "id": "AAMkAGmsg0000001",
+    "subject": "CTE budget meeting prep",
+    "from_name": "Denise Patterson",
+    "from_address": "dpatterson@gmail.com",
+    "to_name": "Reggie Clayton",
+    "to_address": "reggie.clayton@finthesiss.ai",
+    "body_preview": "Bring the placement record and the maintenance schedule for the Thursday meeting.",
+    "content_type": "html",
+    "is_read": "true",
+    "importance": "high",
+    "received_date": "2026-10-19T13:30:00Z"
+  },
+  {
+    "id": "AAMkAGmsg0000002",
+    "subject": "November Local 780 meeting",
+    "from_name": "Local 780 Union Hall",
+    "from_address": "local780@gmail.com",
+    "to_name": "Reggie Clayton",
+    "to_address": "reggie.clayton@finthesiss.ai",
+    "body_preview": "Monthly meeting is Thursday at 4:30 PM at the union hall. Bring open items.",
+    "content_type": "html",
+    "is_read": "false",
+    "importance": "normal",
+    "received_date": "2026-11-02T15:00:00Z"
+  },
+  {
+    "id": "AAMkAGmsg0000003",
+    "subject": "Faculty meeting agenda",
+    "from_name": "Denise Patterson",
+    "from_address": "dpatterson@gmail.com",
+    "to_name": "Reggie Clayton",
+    "to_address": "reggie.clayton@finthesiss.ai",
+    "body_preview": "Agenda for Monday's faculty meeting is attached.",
+    "content_type": "html",
+    "is_read": "false",
+    "importance": "normal",
+    "received_date": "2026-11-12T14:20:00Z"
+  },
+  {
+    "id": "AAMkAGmsg0000004",
+    "subject": "Shop wing walkthrough",
+    "from_name": "Jerome Simmons",
+    "from_address": "jerome.simmons@example.com",
+    "to_name": "Reggie Clayton",
+    "to_address": "reggie.clayton@finthesiss.ai",
+    "body_preview": "Lunch Friday? Also want to compare notes on the wing walkthrough.",
+    "content_type": "html",
+    "is_read": "true",
+    "importance": "normal",
+    "received_date": "2026-11-11T16:45:00Z"
+  }
+]

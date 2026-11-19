@@ -1,0 +1,248 @@
+[
+  {
+    "scene_entity_id": "scene.good_morning",
+    "owner_account_id": "acct-dana-whitfield",
+    "targets": {
+      "cover.living_room_shades": {
+        "state": "open",
+        "attributes": {
+          "current_position": 100
+        }
+      },
+      "light.kitchen_pendant_1": {
+        "state": "on",
+        "attributes": {
+          "brightness": 230,
+          "color_temp_kelvin": 4000
+        }
+      },
+      "light.kitchen_pendant_2": {
+        "state": "on",
+        "attributes": {
+          "brightness": 230,
+          "color_temp_kelvin": 4000
+        }
+      },
+      "switch.coffee_maker": {
+        "state": "on",
+        "attributes": {}
+      }
+    }
+  },
+  {
+    "scene_entity_id": "scene.movie_night",
+    "owner_account_id": "acct-dana-whitfield",
+    "targets": {
+      "cover.living_room_shades": {
+        "state": "closed",
+        "attributes": {
+          "current_position": 0
+        }
+      },
+      "light.living_room_ceiling_1": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.living_room_ceiling_2": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.living_room_floor_lamp": {
+        "state": "on",
+        "attributes": {
+          "brightness": 51,
+          "color_temp_kelvin": 2202
+        }
+      },
+      "light.living_room_tv_strip": {
+        "state": "on",
+        "attributes": {
+          "brightness": 102,
+          "color_temp_kelvin": 2700
+        }
+      },
+      "media_player.living_room_tv": {
+        "state": "on",
+        "attributes": {}
+      }
+    }
+  },
+  {
+    "scene_entity_id": "scene.dinner",
+    "owner_account_id": "acct-dana-whitfield",
+    "targets": {
+      "light.dining_chandelier": {
+        "state": "on",
+        "attributes": {
+          "brightness": 153
+        }
+      },
+      "light.kitchen_pendant_1": {
+        "state": "on",
+        "attributes": {
+          "brightness": 128,
+          "color_temp_kelvin": 2700
+        }
+      },
+      "light.kitchen_pendant_2": {
+        "state": "on",
+        "attributes": {
+          "brightness": 128,
+          "color_temp_kelvin": 2700
+        }
+      },
+      "light.kitchen_under_cabinet": {
+        "state": "on",
+        "attributes": {
+          "brightness": 102,
+          "color_temp_kelvin": 2700
+        }
+      }
+    }
+  },
+  {
+    "scene_entity_id": "scene.bedtime",
+    "owner_account_id": "acct-dana-whitfield",
+    "targets": {
+      "climate.main_floor": {
+        "state": "heat",
+        "attributes": {
+          "temperature": 62
+        }
+      },
+      "light.bedroom_ceiling": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.bedroom_left_lamp": {
+        "state": "on",
+        "attributes": {
+          "brightness": 26,
+          "color_temp_kelvin": 2202
+        }
+      },
+      "light.bedroom_right_lamp": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.hallway_1": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.hallway_2": {
+        "state": "off",
+        "attributes": {}
+      },
+      "lock.back_door": {
+        "state": "locked",
+        "attributes": {}
+      },
+      "lock.front_door": {
+        "state": "locked",
+        "attributes": {}
+      }
+    }
+  },
+  {
+    "scene_entity_id": "scene.away",
+    "owner_account_id": "acct-dana-whitfield",
+    "targets": {
+      "climate.main_floor": {
+        "state": "heat",
+        "attributes": {
+          "temperature": 60
+        }
+      },
+      "climate.upstairs": {
+        "state": "heat",
+        "attributes": {
+          "temperature": 58
+        }
+      },
+      "cover.garage_door": {
+        "state": "closed",
+        "attributes": {}
+      },
+      "light.bedroom_ceiling": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.bedroom_left_lamp": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.bedroom_right_lamp": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.dining_chandelier": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.garage_bulb": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.hallway_1": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.hallway_2": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.kitchen_pendant_1": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.kitchen_pendant_2": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.kitchen_under_cabinet": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.living_room_ceiling_1": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.living_room_ceiling_2": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.living_room_floor_lamp": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.living_room_tv_strip": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.office_ceiling": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.office_desk_lamp": {
+        "state": "off",
+        "attributes": {}
+      },
+      "light.porch_light": {
+        "state": "off",
+        "attributes": {}
+      },
+      "lock.back_door": {
+        "state": "locked",
+        "attributes": {}
+      },
+      "lock.front_door": {
+        "state": "locked",
+        "attributes": {}
+      },
+      "lock.garage_entry": {
+        "state": "locked",
+        "attributes": {}
+      }
+    }
+  }
+]

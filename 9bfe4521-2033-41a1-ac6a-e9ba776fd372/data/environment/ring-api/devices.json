@@ -1,0 +1,52 @@
+[
+  {
+    "id": 589148202,
+    "owner_account_id": "acct-dana-whitfield",
+    "location_id": "932bb586-3180-481f-b506-e90a9c3ebbb0",
+    "kind": "doorbot",
+    "description": "Front Door",
+    "device_id": "f3d172073746",
+    "model": "Video Doorbell Pro 2",
+    "firmware_version": "Up to Date",
+    "time_zone": "America/Chicago",
+    "address": "Dorothy's house, Whitehaven",
+    "battery_life": null,
+    "wired": true,
+    "subscribed": true,
+    "subscribed_motions": true,
+    "features": {
+      "motions_enabled": true,
+      "show_recordings": true,
+      "advanced_motion_enabled": true
+    },
+    "settings": {
+      "motion_detection_enabled": true,
+      "chime_settings": {
+        "enable": true,
+        "type": 0
+      },
+      "doorbell_volume": 6,
+      "motion_zones": {
+        "zone1": {
+          "name": "Porch",
+          "state": 2
+        }
+      }
+    },
+    "health": {
+      "wifi_name": "Holloway-Home",
+      "latest_signal_strength": -58,
+      "average_signal_strength": -59,
+      "firmware": "Up to Date",
+      "battery_percentage": null,
+      "battery_voltage": null,
+      "ac_power": 1,
+      "transformer_voltage": 19,
+      "packet_loss_category": "good",
+      "packet_loss_strength": 2,
+      "tx_rate": 36.0,
+      "rx_rate": 24.0,
+      "updated_at": "2026-11-12T12:50:00.000Z"
+    }
+  }
+]

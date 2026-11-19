@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1001",
+    "first_name": "Darnell",
+    "last_name": "Washington",
+    "email": "darnell.washington@gmail.com",
+    "company": "Smoke Ring BBQ",
+    "phone": "(901) 555-0176",
+    "customer_group_id": "1",
+    "date_created": "2026-06-08T15:10:00Z"
+  },
+  {
+    "id": "1002",
+    "first_name": "Vernon",
+    "last_name": "Holloway",
+    "email": "vernon.holloway@example.com",
+    "company": "",
+    "phone": "(901) 555-0153",
+    "customer_group_id": "1",
+    "date_created": "2026-07-19T17:42:00Z"
+  },
+  {
+    "id": "1003",
+    "first_name": "Keisha",
+    "last_name": "Robinson",
+    "email": "keisha.robinson@gmail.com",
+    "company": "Ridgeway Regional",
+    "phone": "(901) 555-0264",
+    "customer_group_id": "1",
+    "date_created": "2026-09-02T13:05:00Z"
+  },
+  {
+    "id": "1004",
+    "first_name": "Terrence",
+    "last_name": "Banks",
+    "email": "terrence.banks@example.com",
+    "company": "Orange Mound Tigers",
+    "phone": "(901) 555-0291",
+    "customer_group_id": "1",
+    "date_created": "2026-10-10T20:30:00Z"
+  },
+  {
+    "id": "1005",
+    "first_name": "Lorna",
+    "last_name": "Kessler",
+    "email": "lorna.kessler@gmail.com",
+    "company": "",
+    "phone": "(615) 555-0148",
+    "customer_group_id": "1",
+    "date_created": "2026-11-30T19:12:00Z"
+  }
+]

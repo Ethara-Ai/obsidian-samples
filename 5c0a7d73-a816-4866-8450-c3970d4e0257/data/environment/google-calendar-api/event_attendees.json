@@ -1,0 +1,18 @@
+[
+ {
+  "event_id": "evt-jw-pemberton-presentation",
+  "email": "claire.pemberton.dc@gmail.com",
+  "display_name": "Claire Pemberton",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "true"
+ },
+ {
+  "event_id": "evt-jw-pemberton-presentation",
+  "email": "jessica.wright@finthesiss.ai",
+  "display_name": "Jessica Wright",
+  "response_status": "accepted",
+  "optional": "false",
+  "organizer": "false"
+ }
+]

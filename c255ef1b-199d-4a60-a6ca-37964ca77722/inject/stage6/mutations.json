@@ -1,0 +1,32 @@
+{
+  "stage": 6,
+  "stage_name": "landlord_notes_land",
+  "description": "Wednesday 19:30: the notes of Tuesday's call with the studio landlord gain a line: the building closes a day earlier and an hour earlier for the Christmas break. Nothing announces it.",
+  "applies_between_turns": [
+    "T10",
+    "T11"
+  ],
+  "applied_at_local_time": "2026-12-02T19:30:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_notes_landlord_closing",
+        "service": "google-calendar-api",
+        "description": "The landlord's note: the Christmas closing moves earlier.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-c7046df3fdcb3d1f",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-c7046df3fdcb3d1f",
+          "set": {
+            "description": "Post-call: building closes Thu 17 Dec, 17:00 for the Christmas break. Keys back to the front desk."
+          }
+        },
+        "fires_at_turn": "T11"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Reggie Clayton"
+        ],
+        "emails": [
+          {
+            "data": "reggie.clayton@finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+19015550100",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "Orange Mound rowhouse",
+              "city": "Memphis",
+              "region": "TN",
+              "postal_code": "38114",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Reggie Clayton"
+        ],
+        "emails": [
+          {
+            "data": "reggie.clayton@finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+19015550100",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "Orange Mound rowhouse",
+              "city": "Memphis",
+              "region": "TN",
+              "postal_code": "38114",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

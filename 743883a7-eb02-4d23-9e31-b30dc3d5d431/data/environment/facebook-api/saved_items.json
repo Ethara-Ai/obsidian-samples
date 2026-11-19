@@ -1,0 +1,122 @@
+[
+  {
+    "id": "saved-001",
+    "user_id": "100090000000001",
+    "item_type": "post",
+    "title": "Austin Estate Sales Weekly: 12 estate sales this weekend",
+    "url": "https://www.facebook.com/110090000000001/posts/12210455030615881",
+    "target_id": "110090000000001_12210455030615881",
+    "collection_name": "Sourcing leads",
+    "saved_at": "2026-08-30T09:12:00+0000"
+  },
+  {
+    "id": "saved-002",
+    "user_id": "100090000000001",
+    "item_type": "post",
+    "title": "Lena Okafor on sourcing vintage lighting",
+    "url": "https://www.facebook.com/100090000000005/posts/12213903997254634",
+    "target_id": "100090000000005_12213903997254634",
+    "collection_name": "Inspiration",
+    "saved_at": "2026-09-12T17:40:00+0000"
+  },
+  {
+    "id": "saved-003",
+    "user_id": "100090000000001",
+    "item_type": "post",
+    "title": "Corinne Fabre pop-up at the Domain",
+    "url": "https://www.facebook.com/100090000000009/posts/12212161699640463",
+    "target_id": "100090000000009_12212161699640463",
+    "collection_name": "Sourcing leads",
+    "saved_at": "2026-08-02T13:05:00+0000"
+  },
+  {
+    "id": "saved-004",
+    "user_id": "100090000000001",
+    "item_type": "post",
+    "title": "Hill Country Reclaimed Wood new barn wood load",
+    "url": "https://www.facebook.com/110090000000004/posts/12217823205846950",
+    "target_id": "110090000000004_12217823205846950",
+    "collection_name": "Furniture to flip",
+    "saved_at": "2026-07-21T08:30:00+0000"
+  },
+  {
+    "id": "saved-005",
+    "user_id": "100090000000001",
+    "item_type": "post",
+    "title": "Beth Calloway on cleaning glassware",
+    "url": "https://www.facebook.com/100090000000007/posts/12216334974417599",
+    "target_id": "100090000000007_12216334974417599",
+    "collection_name": "Read later",
+    "saved_at": "2026-09-22T19:55:00+0000"
+  },
+  {
+    "id": "saved-006",
+    "user_id": "100090000000001",
+    "item_type": "link",
+    "title": "How to photograph furniture for resale",
+    "url": "https://www.resaleguide.example/photograph-furniture",
+    "target_id": "",
+    "collection_name": "Read later",
+    "saved_at": "2026-07-08T11:20:00+0000"
+  },
+  {
+    "id": "saved-007",
+    "user_id": "100090000000001",
+    "item_type": "link",
+    "title": "Estate sale etiquette basics",
+    "url": "https://www.texasestates.example/etiquette-basics",
+    "target_id": "",
+    "collection_name": "Read later",
+    "saved_at": "2026-08-14T10:00:00+0000"
+  },
+  {
+    "id": "saved-008",
+    "user_id": "100090000000001",
+    "item_type": "link",
+    "title": "Texas pottery marks identification chart",
+    "url": "https://www.potterymarks.example/texas",
+    "target_id": "",
+    "collection_name": "Inspiration",
+    "saved_at": "2026-06-25T15:45:00+0000"
+  },
+  {
+    "id": "saved-009",
+    "user_id": "100090000000001",
+    "item_type": "marketplace_listing",
+    "title": "Mid-century walnut sideboard",
+    "url": "https://www.facebook.com/marketplace/item/3500100000000002/",
+    "target_id": "3500100000000002",
+    "collection_name": "Furniture to flip",
+    "saved_at": "2026-09-13T14:18:00+0000"
+  },
+  {
+    "id": "saved-010",
+    "user_id": "100090000000001",
+    "item_type": "marketplace_listing",
+    "title": "Persian wool rug 8x10",
+    "url": "https://www.facebook.com/marketplace/item/3500100000000020/",
+    "target_id": "3500100000000020",
+    "collection_name": "Furniture to flip",
+    "saved_at": "2026-09-14T14:19:00+0000"
+  },
+  {
+    "id": "saved-011",
+    "user_id": "100090000000001",
+    "item_type": "marketplace_listing",
+    "title": "Teak outdoor bench",
+    "url": "https://www.facebook.com/marketplace/item/3500100000000029/",
+    "target_id": "3500100000000029",
+    "collection_name": "Furniture to flip",
+    "saved_at": "2026-09-15T14:20:00+0000"
+  },
+  {
+    "id": "saved-012",
+    "user_id": "100090000000001",
+    "item_type": "marketplace_listing",
+    "title": "Industrial pendant light",
+    "url": "https://www.facebook.com/marketplace/item/3500100000000016/",
+    "target_id": "3500100000000016",
+    "collection_name": "Furniture to flip",
+    "saved_at": "2026-09-16T14:21:00+0000"
+  }
+]

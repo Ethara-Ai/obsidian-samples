@@ -1,0 +1,155 @@
+[
+  {
+    "address": "alex.carter@contoso.com",
+    "name": "Alex Carter",
+    "time_zone": "Pacific Standard Time",
+    "work_start": "09:00",
+    "work_end": "17:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "priya.nair@contoso.com",
+    "name": "Priya Nair",
+    "time_zone": "Pacific Standard Time",
+    "work_start": "08:00",
+    "work_end": "16:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "diego.santos@contoso.com",
+    "name": "Diego Santos",
+    "time_zone": "Mountain Standard Time",
+    "work_start": "08:00",
+    "work_end": "17:00",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "mei.tanaka@contoso.com",
+    "name": "Mei Tanaka",
+    "time_zone": "Pacific Standard Time",
+    "work_start": "10:00",
+    "work_end": "18:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "sam.okoro@contoso.com",
+    "name": "Sam Okoro",
+    "time_zone": "Central Standard Time",
+    "work_start": "08:00",
+    "work_end": "17:00",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "lena.fischer@contoso.com",
+    "name": "Lena Fischer",
+    "time_zone": "Eastern Standard Time",
+    "work_start": "08:30",
+    "work_end": "17:00",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "grace.lee@contoso.com",
+    "name": "Grace Lee",
+    "time_zone": "Pacific Standard Time",
+    "work_start": "08:00",
+    "work_end": "17:00",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "ravi.menon@contoso.com",
+    "name": "Ravi Menon",
+    "time_zone": "US Mountain Standard Time",
+    "work_start": "06:00",
+    "work_end": "16:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday"
+    ]
+  },
+  {
+    "address": "jordan.ellis@contoso.com",
+    "name": "Jordan Ellis",
+    "time_zone": "Pacific Standard Time",
+    "work_start": "08:30",
+    "work_end": "17:00",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "noah.bennett@contoso.com",
+    "name": "Noah Bennett",
+    "time_zone": "Pacific Standard Time",
+    "work_start": "09:00",
+    "work_end": "17:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "address": "aisha.karimi@contoso.com",
+    "name": "Aisha Karimi",
+    "time_zone": "Eastern Standard Time",
+    "work_start": "09:00",
+    "work_end": "17:30",
+    "work_days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  }
+]

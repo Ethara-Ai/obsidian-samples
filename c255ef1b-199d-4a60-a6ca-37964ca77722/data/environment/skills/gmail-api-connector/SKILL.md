@@ -1,0 +1,70 @@
+---
+name: gmail-api-connector
+description: >
+  Gmail API (Mock) mock HTTP API. Base URL is provided via the
+  `GMAIL_API_URL` environment variable. 18 endpoint(s) across DELETE, GET, POST, PUT.
+metadata: {"clawdbot":{"emoji":"🔌"}}
+---
+
+# Gmail API (Mock)
+
+Mock HTTP API. **All requests go to the base URL in `$GMAIL_API_URL`.** Auth headers
+are mocked (any token is accepted). Responses are deterministic fixtures.
+
+## Base URL
+
+| Variable | Purpose |
+|----------|---------|
+| `GMAIL_API_URL` | Base URL for all requests (e.g. `http://gmail-api:8017`) |
+
+## Endpoints
+
+| Method | Path |
+|--------|------|
+| GET | `/gmail/v1/users/me/profile` |
+| GET | `/gmail/v1/users/me/labels` |
+| GET | `/gmail/v1/users/me/labels/{label_id}` |
+| POST | `/gmail/v1/users/me/labels` |
+| GET | `/gmail/v1/users/me/messages` |
+| GET | `/gmail/v1/users/me/messages/{message_id}` |
+| POST | `/gmail/v1/users/me/messages/send` |
+| POST | `/gmail/v1/users/me/messages/{message_id}/modify` |
+| POST | `/gmail/v1/users/me/messages/{message_id}/trash` |
+| DELETE | `/gmail/v1/users/me/messages/{message_id}` |
+| GET | `/gmail/v1/users/me/threads` |
+| GET | `/gmail/v1/users/me/threads/{thread_id}` |
+| GET | `/gmail/v1/users/me/drafts` |
+| GET | `/gmail/v1/users/me/drafts/{draft_id}` |
+| POST | `/gmail/v1/users/me/drafts` |
+| PUT | `/gmail/v1/users/me/drafts/{draft_id}` |
+| POST | `/gmail/v1/users/me/drafts/{draft_id}/send` |
+| DELETE | `/gmail/v1/users/me/drafts/{draft_id}` |
+
+## Usage
+
+```bash
+# GET example
+curl -s "$GMAIL_API_URL/gmail/v1/users/me/profile"
+```
+
+## Sending mail (`POST /gmail/v1/users/me/messages/send`)
+
+What a message may carry, which is less than Gmail takes:
+
+- The body is JSON with `to`, `subject` and `body` (all required), and optionally `cc`, `threadId` (the
+  thread to reply in) and `fromAddress` (the account's own address by default). Any other field is a `422`.
+- `to` is a single address, as a string. A list of addresses is a `422`; to reach several people, send
+  one message per address.
+- Attachments are not supported: there is no field for them, and a message carrying `attachments` (or a
+  `raw` MIME message) is a `422`.
+- `POST /gmail/v1/users/me/drafts` and `PUT /gmail/v1/users/me/drafts/{draft_id}` take the same fields
+  except `fromAddress`; `POST /gmail/v1/users/me/drafts/{draft_id}/send` sends a draft and takes no body.
+
+```bash
+curl -s -X POST "$GMAIL_API_URL/gmail/v1/users/me/messages/send" -H 'Content-Type: application/json' \
+  -d '{"to": "jonas@orbit-labs.com", "subject": "Dual-write shim", "body": "Can we ship the shim on Thursday?"}'
+```
+
+## Paging
+
+- `GET /gmail/v1/users/me/messages` returns at most 25 by default (`maxResults`, up to 500); there is no next page, so ask for a larger `maxResults` (`resultSizeEstimate` counts every match).

@@ -1,0 +1,6434 @@
+[
+  {
+    "id": "h00157",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 68,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-02T11:00:13.000000+00:00",
+    "last_updated": "2026-10-02T11:00:13.000000+00:00"
+  },
+  {
+    "id": "h00169",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 66,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-02T11:00:16.000000+00:00",
+    "last_updated": "2026-10-02T11:00:16.000000+00:00"
+  },
+  {
+    "id": "h00289",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-02T12:40:02.000000+00:00",
+    "last_updated": "2026-10-02T12:40:02.000000+00:00"
+  },
+  {
+    "id": "h00290",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-02T12:41:36.000000+00:00",
+    "last_updated": "2026-10-02T12:41:36.000000+00:00"
+  },
+  {
+    "id": "h00181",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.7",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T13:07:00.000000+00:00",
+    "last_updated": "2026-10-02T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00199",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.1",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T13:07:00.000000+00:00",
+    "last_updated": "2026-10-02T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00217",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.2",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T13:07:00.000000+00:00",
+    "last_updated": "2026-10-02T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00235",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "61.6",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T13:07:00.000000+00:00",
+    "last_updated": "2026-10-02T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00253",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.1",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T13:07:00.000000+00:00",
+    "last_updated": "2026-10-02T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00271",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "43.4",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T13:07:00.000000+00:00",
+    "last_updated": "2026-10-02T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00139",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-02T13:10:10.000000+00:00",
+    "last_updated": "2026-10-02T13:10:10.000000+00:00"
+  },
+  {
+    "id": "h00140",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "closed",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-02T13:13:19.000000+00:00",
+    "last_updated": "2026-10-02T13:13:19.000000+00:00"
+  },
+  {
+    "id": "h00307",
+    "entity_id": "person.dana_whitfield",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "not_home",
+    "attributes": {
+      "friendly_name": "Dana Whitfield"
+    },
+    "last_changed": "2026-10-02T13:22:54.000000+00:00",
+    "last_updated": "2026-10-02T13:22:54.000000+00:00"
+  },
+  {
+    "id": "h00313",
+    "entity_id": "person.jordan_ellis",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "not_home",
+    "attributes": {
+      "friendly_name": "Jordan Ellis"
+    },
+    "last_changed": "2026-10-02T13:24:45.000000+00:00",
+    "last_updated": "2026-10-02T13:24:45.000000+00:00"
+  },
+  {
+    "id": "h00158",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 64,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-02T13:30:28.000000+00:00",
+    "last_updated": "2026-10-02T13:30:28.000000+00:00"
+  },
+  {
+    "id": "h00170",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 62,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-02T13:30:32.000000+00:00",
+    "last_updated": "2026-10-02T13:30:32.000000+00:00"
+  },
+  {
+    "id": "h00182",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.4",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T17:07:00.000000+00:00",
+    "last_updated": "2026-10-02T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00200",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "64.9",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T17:07:00.000000+00:00",
+    "last_updated": "2026-10-02T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00218",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.3",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T17:07:00.000000+00:00",
+    "last_updated": "2026-10-02T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00236",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "61.7",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T17:07:00.000000+00:00",
+    "last_updated": "2026-10-02T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00254",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.0",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T17:07:00.000000+00:00",
+    "last_updated": "2026-10-02T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00272",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "43.0",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T17:07:00.000000+00:00",
+    "last_updated": "2026-10-02T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00183",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.8",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T21:07:00.000000+00:00",
+    "last_updated": "2026-10-02T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00201",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.5",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T21:07:00.000000+00:00",
+    "last_updated": "2026-10-02T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00219",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.7",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T21:07:00.000000+00:00",
+    "last_updated": "2026-10-02T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00237",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.7",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T21:07:00.000000+00:00",
+    "last_updated": "2026-10-02T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00255",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "55.6",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T21:07:00.000000+00:00",
+    "last_updated": "2026-10-02T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00273",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.0",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-02T21:07:00.000000+00:00",
+    "last_updated": "2026-10-02T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00171",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 66,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-02T22:00:33.000000+00:00",
+    "last_updated": "2026-10-02T22:00:33.000000+00:00"
+  },
+  {
+    "id": "h00159",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 68,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-02T22:00:38.000000+00:00",
+    "last_updated": "2026-10-02T22:00:38.000000+00:00"
+  },
+  {
+    "id": "h00308",
+    "entity_id": "person.dana_whitfield",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Dana Whitfield"
+    },
+    "last_changed": "2026-10-02T22:45:42.000000+00:00",
+    "last_updated": "2026-10-02T22:45:42.000000+00:00"
+  },
+  {
+    "id": "h00314",
+    "entity_id": "person.jordan_ellis",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Jordan Ellis"
+    },
+    "last_changed": "2026-10-02T22:46:35.000000+00:00",
+    "last_updated": "2026-10-02T22:46:35.000000+00:00"
+  },
+  {
+    "id": "h00291",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-02T22:55:10.000000+00:00",
+    "last_updated": "2026-10-02T22:55:10.000000+00:00"
+  },
+  {
+    "id": "h00151",
+    "entity_id": "lock.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "unlocked",
+    "attributes": {
+      "friendly_name": "Front Door"
+    },
+    "last_changed": "2026-10-02T22:55:22.000000+00:00",
+    "last_updated": "2026-10-02T22:55:22.000000+00:00"
+  },
+  {
+    "id": "h00292",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-02T22:56:35.000000+00:00",
+    "last_updated": "2026-10-02T22:56:35.000000+00:00"
+  },
+  {
+    "id": "h00100",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:01:59.000000+00:00",
+    "last_updated": "2026-10-02T23:01:59.000000+00:00"
+  },
+  {
+    "id": "h00001",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:03:02.000000+00:00",
+    "last_updated": "2026-10-02T23:03:02.000000+00:00"
+  },
+  {
+    "id": "h00019",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:04:55.000000+00:00",
+    "last_updated": "2026-10-02T23:04:55.000000+00:00"
+  },
+  {
+    "id": "h00141",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-02T23:05:48.000000+00:00",
+    "last_updated": "2026-10-02T23:05:48.000000+00:00"
+  },
+  {
+    "id": "h00010",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:09:12.000000+00:00",
+    "last_updated": "2026-10-02T23:09:12.000000+00:00"
+  },
+  {
+    "id": "h00142",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "closed",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-02T23:09:14.000000+00:00",
+    "last_updated": "2026-10-02T23:09:14.000000+00:00"
+  },
+  {
+    "id": "h00046",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:09:52.000000+00:00",
+    "last_updated": "2026-10-02T23:09:52.000000+00:00"
+  },
+  {
+    "id": "h00091",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:11:17.000000+00:00",
+    "last_updated": "2026-10-02T23:11:17.000000+00:00"
+  },
+  {
+    "id": "h00064",
+    "entity_id": "light.dining_chandelier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Dining chandelier",
+      "supported_features": 40,
+      "color_mode": "brightness",
+      "brightness": 191
+    },
+    "last_changed": "2026-10-02T23:13:42.000000+00:00",
+    "last_updated": "2026-10-02T23:13:42.000000+00:00"
+  },
+  {
+    "id": "h00028",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:19:18.000000+00:00",
+    "last_updated": "2026-10-02T23:19:18.000000+00:00"
+  },
+  {
+    "id": "h00115",
+    "entity_id": "light.hallway_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:25:09.000000+00:00",
+    "last_updated": "2026-10-02T23:25:09.000000+00:00"
+  },
+  {
+    "id": "h00121",
+    "entity_id": "light.porch_light",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Porch light",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:27:22.000000+00:00",
+    "last_updated": "2026-10-02T23:27:22.000000+00:00"
+  },
+  {
+    "id": "h00076",
+    "entity_id": "light.office_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Office ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:34:04.000000+00:00",
+    "last_updated": "2026-10-02T23:34:04.000000+00:00"
+  },
+  {
+    "id": "h00109",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:34:17.000000+00:00",
+    "last_updated": "2026-10-02T23:34:17.000000+00:00"
+  },
+  {
+    "id": "h00082",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:34:36.000000+00:00",
+    "last_updated": "2026-10-02T23:34:36.000000+00:00"
+  },
+  {
+    "id": "h00070",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:37:49.000000+00:00",
+    "last_updated": "2026-10-02T23:37:49.000000+00:00"
+  },
+  {
+    "id": "h00127",
+    "entity_id": "light.garage_bulb",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Garage bulb",
+      "supported_features": 40,
+      "color_mode": "brightness",
+      "brightness": 191
+    },
+    "last_changed": "2026-10-02T23:43:54.000000+00:00",
+    "last_updated": "2026-10-02T23:43:54.000000+00:00"
+  },
+  {
+    "id": "h00037",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:47:48.000000+00:00",
+    "last_updated": "2026-10-02T23:47:48.000000+00:00"
+  },
+  {
+    "id": "h00055",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-02T23:48:32.000000+00:00",
+    "last_updated": "2026-10-02T23:48:32.000000+00:00"
+  },
+  {
+    "id": "h00293",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-03T00:20:06.000000+00:00",
+    "last_updated": "2026-10-03T00:20:06.000000+00:00"
+  },
+  {
+    "id": "h00294",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-03T00:21:57.000000+00:00",
+    "last_updated": "2026-10-03T00:21:57.000000+00:00"
+  },
+  {
+    "id": "h00184",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.4",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T01:07:00.000000+00:00",
+    "last_updated": "2026-10-03T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00202",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.1",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T01:07:00.000000+00:00",
+    "last_updated": "2026-10-03T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00220",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.4",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T01:07:00.000000+00:00",
+    "last_updated": "2026-10-03T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00238",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.9",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T01:07:00.000000+00:00",
+    "last_updated": "2026-10-03T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00256",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.7",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T01:07:00.000000+00:00",
+    "last_updated": "2026-10-03T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00274",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.7",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T01:07:00.000000+00:00",
+    "last_updated": "2026-10-03T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00056",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:13:06.000000+00:00",
+    "last_updated": "2026-10-03T02:13:06.000000+00:00"
+  },
+  {
+    "id": "h00101",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:18:21.000000+00:00",
+    "last_updated": "2026-10-03T02:18:21.000000+00:00"
+  },
+  {
+    "id": "h00020",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:21:21.000000+00:00",
+    "last_updated": "2026-10-03T02:21:21.000000+00:00"
+  },
+  {
+    "id": "h00047",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:28:48.000000+00:00",
+    "last_updated": "2026-10-03T02:28:48.000000+00:00"
+  },
+  {
+    "id": "h00002",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:30:02.000000+00:00",
+    "last_updated": "2026-10-03T02:30:02.000000+00:00"
+  },
+  {
+    "id": "h00038",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:35:17.000000+00:00",
+    "last_updated": "2026-10-03T02:35:17.000000+00:00"
+  },
+  {
+    "id": "h00029",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:35:20.000000+00:00",
+    "last_updated": "2026-10-03T02:35:20.000000+00:00"
+  },
+  {
+    "id": "h00092",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:36:36.000000+00:00",
+    "last_updated": "2026-10-03T02:36:36.000000+00:00"
+  },
+  {
+    "id": "h00083",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:39:55.000000+00:00",
+    "last_updated": "2026-10-03T02:39:55.000000+00:00"
+  },
+  {
+    "id": "h00011",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-03T02:45:29.000000+00:00",
+    "last_updated": "2026-10-03T02:45:29.000000+00:00"
+  },
+  {
+    "id": "h00152",
+    "entity_id": "lock.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "locked",
+    "attributes": {
+      "friendly_name": "Front Door"
+    },
+    "last_changed": "2026-10-03T03:15:49.000000+00:00",
+    "last_updated": "2026-10-03T03:15:49.000000+00:00"
+  },
+  {
+    "id": "h00160",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 62,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T03:30:09.000000+00:00",
+    "last_updated": "2026-10-03T03:30:09.000000+00:00"
+  },
+  {
+    "id": "h00172",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 60,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T03:30:25.000000+00:00",
+    "last_updated": "2026-10-03T03:30:25.000000+00:00"
+  },
+  {
+    "id": "h00093",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:30:32.000000+00:00",
+    "last_updated": "2026-10-03T03:30:32.000000+00:00"
+  },
+  {
+    "id": "h00122",
+    "entity_id": "light.porch_light",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Porch light",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:37:01.000000+00:00",
+    "last_updated": "2026-10-03T03:37:01.000000+00:00"
+  },
+  {
+    "id": "h00084",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:37:56.000000+00:00",
+    "last_updated": "2026-10-03T03:37:56.000000+00:00"
+  },
+  {
+    "id": "h00048",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:41:00.000000+00:00",
+    "last_updated": "2026-10-03T03:41:00.000000+00:00"
+  },
+  {
+    "id": "h00021",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:41:18.000000+00:00",
+    "last_updated": "2026-10-03T03:41:18.000000+00:00"
+  },
+  {
+    "id": "h00128",
+    "entity_id": "light.garage_bulb",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Garage bulb",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:44:31.000000+00:00",
+    "last_updated": "2026-10-03T03:44:31.000000+00:00"
+  },
+  {
+    "id": "h00102",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:44:40.000000+00:00",
+    "last_updated": "2026-10-03T03:44:40.000000+00:00"
+  },
+  {
+    "id": "h00065",
+    "entity_id": "light.dining_chandelier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Dining chandelier",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:45:56.000000+00:00",
+    "last_updated": "2026-10-03T03:45:56.000000+00:00"
+  },
+  {
+    "id": "h00057",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:46:32.000000+00:00",
+    "last_updated": "2026-10-03T03:46:32.000000+00:00"
+  },
+  {
+    "id": "h00077",
+    "entity_id": "light.office_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Office ceiling",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:46:41.000000+00:00",
+    "last_updated": "2026-10-03T03:46:41.000000+00:00"
+  },
+  {
+    "id": "h00012",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:49:18.000000+00:00",
+    "last_updated": "2026-10-03T03:49:18.000000+00:00"
+  },
+  {
+    "id": "h00116",
+    "entity_id": "light.hallway_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:49:47.000000+00:00",
+    "last_updated": "2026-10-03T03:49:47.000000+00:00"
+  },
+  {
+    "id": "h00003",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:52:00.000000+00:00",
+    "last_updated": "2026-10-03T03:52:00.000000+00:00"
+  },
+  {
+    "id": "h00039",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:52:11.000000+00:00",
+    "last_updated": "2026-10-03T03:52:11.000000+00:00"
+  },
+  {
+    "id": "h00110",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:52:52.000000+00:00",
+    "last_updated": "2026-10-03T03:52:52.000000+00:00"
+  },
+  {
+    "id": "h00071",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:54:48.000000+00:00",
+    "last_updated": "2026-10-03T03:54:48.000000+00:00"
+  },
+  {
+    "id": "h00030",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-03T03:55:13.000000+00:00",
+    "last_updated": "2026-10-03T03:55:13.000000+00:00"
+  },
+  {
+    "id": "h00185",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.4",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T05:07:00.000000+00:00",
+    "last_updated": "2026-10-03T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00203",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.1",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T05:07:00.000000+00:00",
+    "last_updated": "2026-10-03T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00221",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.3",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T05:07:00.000000+00:00",
+    "last_updated": "2026-10-03T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00239",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "62.9",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T05:07:00.000000+00:00",
+    "last_updated": "2026-10-03T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00257",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "55.0",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T05:07:00.000000+00:00",
+    "last_updated": "2026-10-03T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00275",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "48.9",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T05:07:00.000000+00:00",
+    "last_updated": "2026-10-03T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00186",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.0",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T09:07:00.000000+00:00",
+    "last_updated": "2026-10-03T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00204",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.7",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T09:07:00.000000+00:00",
+    "last_updated": "2026-10-03T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00222",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.3",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T09:07:00.000000+00:00",
+    "last_updated": "2026-10-03T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00240",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "62.9",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T09:07:00.000000+00:00",
+    "last_updated": "2026-10-03T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00258",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "55.4",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T09:07:00.000000+00:00",
+    "last_updated": "2026-10-03T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00276",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.0",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T09:07:00.000000+00:00",
+    "last_updated": "2026-10-03T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00161",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 68,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T11:00:39.000000+00:00",
+    "last_updated": "2026-10-03T11:00:39.000000+00:00"
+  },
+  {
+    "id": "h00173",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 66,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T11:00:53.000000+00:00",
+    "last_updated": "2026-10-03T11:00:53.000000+00:00"
+  },
+  {
+    "id": "h00133",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-03T11:30:36.000000+00:00",
+    "last_updated": "2026-10-03T11:30:36.000000+00:00"
+  },
+  {
+    "id": "h00295",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-03T12:40:06.000000+00:00",
+    "last_updated": "2026-10-03T12:40:06.000000+00:00"
+  },
+  {
+    "id": "h00296",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-03T12:41:33.000000+00:00",
+    "last_updated": "2026-10-03T12:41:33.000000+00:00"
+  },
+  {
+    "id": "h00187",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.5",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T13:07:00.000000+00:00",
+    "last_updated": "2026-10-03T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00205",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "64.3",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T13:07:00.000000+00:00",
+    "last_updated": "2026-10-03T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00223",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "67.0",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T13:07:00.000000+00:00",
+    "last_updated": "2026-10-03T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00241",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "61.4",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T13:07:00.000000+00:00",
+    "last_updated": "2026-10-03T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00259",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "53.8",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T13:07:00.000000+00:00",
+    "last_updated": "2026-10-03T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00277",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "43.8",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T13:07:00.000000+00:00",
+    "last_updated": "2026-10-03T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00143",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-03T13:10:56.000000+00:00",
+    "last_updated": "2026-10-03T13:10:56.000000+00:00"
+  },
+  {
+    "id": "h00144",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "closed",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-03T13:13:00.000000+00:00",
+    "last_updated": "2026-10-03T13:13:00.000000+00:00"
+  },
+  {
+    "id": "h00315",
+    "entity_id": "person.jordan_ellis",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "not_home",
+    "attributes": {
+      "friendly_name": "Jordan Ellis"
+    },
+    "last_changed": "2026-10-03T13:23:59.000000+00:00",
+    "last_updated": "2026-10-03T13:23:59.000000+00:00"
+  },
+  {
+    "id": "h00162",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 64,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T13:30:24.000000+00:00",
+    "last_updated": "2026-10-03T13:30:24.000000+00:00"
+  },
+  {
+    "id": "h00174",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 62,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T13:30:51.000000+00:00",
+    "last_updated": "2026-10-03T13:30:51.000000+00:00"
+  },
+  {
+    "id": "h00309",
+    "entity_id": "person.dana_whitfield",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "not_home",
+    "attributes": {
+      "friendly_name": "Dana Whitfield"
+    },
+    "last_changed": "2026-10-03T13:38:27.000000+00:00",
+    "last_updated": "2026-10-03T13:38:27.000000+00:00"
+  },
+  {
+    "id": "h00134",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-03T14:00:44.000000+00:00",
+    "last_updated": "2026-10-03T14:00:44.000000+00:00"
+  },
+  {
+    "id": "h00188",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.8",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T17:07:00.000000+00:00",
+    "last_updated": "2026-10-03T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00206",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.2",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T17:07:00.000000+00:00",
+    "last_updated": "2026-10-03T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00224",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "67.0",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T17:07:00.000000+00:00",
+    "last_updated": "2026-10-03T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00242",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "62.0",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T17:07:00.000000+00:00",
+    "last_updated": "2026-10-03T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00260",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "52.6",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T17:07:00.000000+00:00",
+    "last_updated": "2026-10-03T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00278",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "43.3",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T17:07:00.000000+00:00",
+    "last_updated": "2026-10-03T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00189",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.1",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T21:07:00.000000+00:00",
+    "last_updated": "2026-10-03T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00207",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.6",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T21:07:00.000000+00:00",
+    "last_updated": "2026-10-03T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00225",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.7",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T21:07:00.000000+00:00",
+    "last_updated": "2026-10-03T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00243",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.8",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T21:07:00.000000+00:00",
+    "last_updated": "2026-10-03T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00261",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.5",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T21:07:00.000000+00:00",
+    "last_updated": "2026-10-03T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00279",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.8",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-03T21:07:00.000000+00:00",
+    "last_updated": "2026-10-03T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00175",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 66,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T22:00:07.000000+00:00",
+    "last_updated": "2026-10-03T22:00:07.000000+00:00"
+  },
+  {
+    "id": "h00163",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 68,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-03T22:00:17.000000+00:00",
+    "last_updated": "2026-10-03T22:00:17.000000+00:00"
+  },
+  {
+    "id": "h00316",
+    "entity_id": "person.jordan_ellis",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Jordan Ellis"
+    },
+    "last_changed": "2026-10-03T22:44:37.000000+00:00",
+    "last_updated": "2026-10-03T22:44:37.000000+00:00"
+  },
+  {
+    "id": "h00310",
+    "entity_id": "person.dana_whitfield",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Dana Whitfield"
+    },
+    "last_changed": "2026-10-03T22:51:58.000000+00:00",
+    "last_updated": "2026-10-03T22:51:58.000000+00:00"
+  },
+  {
+    "id": "h00297",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-03T22:55:15.000000+00:00",
+    "last_updated": "2026-10-03T22:55:15.000000+00:00"
+  },
+  {
+    "id": "h00153",
+    "entity_id": "lock.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "unlocked",
+    "attributes": {
+      "friendly_name": "Front Door"
+    },
+    "last_changed": "2026-10-03T22:55:32.000000+00:00",
+    "last_updated": "2026-10-03T22:55:32.000000+00:00"
+  },
+  {
+    "id": "h00298",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-03T22:56:10.000000+00:00",
+    "last_updated": "2026-10-03T22:56:10.000000+00:00"
+  },
+  {
+    "id": "h00129",
+    "entity_id": "light.garage_bulb",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Garage bulb",
+      "supported_features": 40,
+      "color_mode": "brightness",
+      "brightness": 254
+    },
+    "last_changed": "2026-10-03T23:00:53.000000+00:00",
+    "last_updated": "2026-10-03T23:00:53.000000+00:00"
+  },
+  {
+    "id": "h00013",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:01:08.000000+00:00",
+    "last_updated": "2026-10-03T23:01:08.000000+00:00"
+  },
+  {
+    "id": "h00117",
+    "entity_id": "light.hallway_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:03:59.000000+00:00",
+    "last_updated": "2026-10-03T23:03:59.000000+00:00"
+  },
+  {
+    "id": "h00145",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-03T23:05:41.000000+00:00",
+    "last_updated": "2026-10-03T23:05:41.000000+00:00"
+  },
+  {
+    "id": "h00022",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:20:29.000000+00:00",
+    "last_updated": "2026-10-03T23:20:29.000000+00:00"
+  },
+  {
+    "id": "h00066",
+    "entity_id": "light.dining_chandelier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Dining chandelier",
+      "supported_features": 40,
+      "color_mode": "brightness",
+      "brightness": 254
+    },
+    "last_changed": "2026-10-03T23:23:01.000000+00:00",
+    "last_updated": "2026-10-03T23:23:01.000000+00:00"
+  },
+  {
+    "id": "h00049",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:25:47.000000+00:00",
+    "last_updated": "2026-10-03T23:25:47.000000+00:00"
+  },
+  {
+    "id": "h00058",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:28:46.000000+00:00",
+    "last_updated": "2026-10-03T23:28:46.000000+00:00"
+  },
+  {
+    "id": "h00123",
+    "entity_id": "light.porch_light",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Porch light",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:31:37.000000+00:00",
+    "last_updated": "2026-10-03T23:31:37.000000+00:00"
+  },
+  {
+    "id": "h00111",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:32:20.000000+00:00",
+    "last_updated": "2026-10-03T23:32:20.000000+00:00"
+  },
+  {
+    "id": "h00040",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:38:29.000000+00:00",
+    "last_updated": "2026-10-03T23:38:29.000000+00:00"
+  },
+  {
+    "id": "h00094",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:38:38.000000+00:00",
+    "last_updated": "2026-10-03T23:38:38.000000+00:00"
+  },
+  {
+    "id": "h00072",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:39:51.000000+00:00",
+    "last_updated": "2026-10-03T23:39:51.000000+00:00"
+  },
+  {
+    "id": "h00031",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:41:25.000000+00:00",
+    "last_updated": "2026-10-03T23:41:25.000000+00:00"
+  },
+  {
+    "id": "h00103",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:44:29.000000+00:00",
+    "last_updated": "2026-10-03T23:44:29.000000+00:00"
+  },
+  {
+    "id": "h00004",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:45:55.000000+00:00",
+    "last_updated": "2026-10-03T23:45:55.000000+00:00"
+  },
+  {
+    "id": "h00085",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:47:33.000000+00:00",
+    "last_updated": "2026-10-03T23:47:33.000000+00:00"
+  },
+  {
+    "id": "h00078",
+    "entity_id": "light.office_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Office ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-03T23:49:25.000000+00:00",
+    "last_updated": "2026-10-03T23:49:25.000000+00:00"
+  },
+  {
+    "id": "h00299",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-04T00:20:31.000000+00:00",
+    "last_updated": "2026-10-04T00:20:31.000000+00:00"
+  },
+  {
+    "id": "h00300",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-04T00:21:36.000000+00:00",
+    "last_updated": "2026-10-04T00:21:36.000000+00:00"
+  },
+  {
+    "id": "h00190",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.1",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T01:07:00.000000+00:00",
+    "last_updated": "2026-10-04T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00208",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.3",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T01:07:00.000000+00:00",
+    "last_updated": "2026-10-04T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00226",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.0",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T01:07:00.000000+00:00",
+    "last_updated": "2026-10-04T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00244",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.4",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T01:07:00.000000+00:00",
+    "last_updated": "2026-10-04T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00262",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.3",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T01:07:00.000000+00:00",
+    "last_updated": "2026-10-04T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00280",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.4",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T01:07:00.000000+00:00",
+    "last_updated": "2026-10-04T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00005",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:22:13.000000+00:00",
+    "last_updated": "2026-10-04T02:22:13.000000+00:00"
+  },
+  {
+    "id": "h00032",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:23:26.000000+00:00",
+    "last_updated": "2026-10-04T02:23:26.000000+00:00"
+  },
+  {
+    "id": "h00014",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:26:44.000000+00:00",
+    "last_updated": "2026-10-04T02:26:44.000000+00:00"
+  },
+  {
+    "id": "h00050",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:28:19.000000+00:00",
+    "last_updated": "2026-10-04T02:28:19.000000+00:00"
+  },
+  {
+    "id": "h00086",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:30:54.000000+00:00",
+    "last_updated": "2026-10-04T02:30:54.000000+00:00"
+  },
+  {
+    "id": "h00095",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:36:34.000000+00:00",
+    "last_updated": "2026-10-04T02:36:34.000000+00:00"
+  },
+  {
+    "id": "h00059",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:37:17.000000+00:00",
+    "last_updated": "2026-10-04T02:37:17.000000+00:00"
+  },
+  {
+    "id": "h00104",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:38:34.000000+00:00",
+    "last_updated": "2026-10-04T02:38:34.000000+00:00"
+  },
+  {
+    "id": "h00023",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:46:14.000000+00:00",
+    "last_updated": "2026-10-04T02:46:14.000000+00:00"
+  },
+  {
+    "id": "h00146",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "closed",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-04T02:47:08.000000+00:00",
+    "last_updated": "2026-10-04T02:47:08.000000+00:00"
+  },
+  {
+    "id": "h00041",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-04T02:47:53.000000+00:00",
+    "last_updated": "2026-10-04T02:47:53.000000+00:00"
+  },
+  {
+    "id": "h00154",
+    "entity_id": "lock.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "locked",
+    "attributes": {
+      "friendly_name": "Front Door"
+    },
+    "last_changed": "2026-10-04T03:15:08.000000+00:00",
+    "last_updated": "2026-10-04T03:15:08.000000+00:00"
+  },
+  {
+    "id": "h00087",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:30:10.000000+00:00",
+    "last_updated": "2026-10-04T03:30:10.000000+00:00"
+  },
+  {
+    "id": "h00176",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 60,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T03:30:41.000000+00:00",
+    "last_updated": "2026-10-04T03:30:41.000000+00:00"
+  },
+  {
+    "id": "h00164",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 62,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T03:30:59.000000+00:00",
+    "last_updated": "2026-10-04T03:30:59.000000+00:00"
+  },
+  {
+    "id": "h00024",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:31:07.000000+00:00",
+    "last_updated": "2026-10-04T03:31:07.000000+00:00"
+  },
+  {
+    "id": "h00060",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:31:42.000000+00:00",
+    "last_updated": "2026-10-04T03:31:42.000000+00:00"
+  },
+  {
+    "id": "h00073",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:34:42.000000+00:00",
+    "last_updated": "2026-10-04T03:34:42.000000+00:00"
+  },
+  {
+    "id": "h00067",
+    "entity_id": "light.dining_chandelier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Dining chandelier",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:39:20.000000+00:00",
+    "last_updated": "2026-10-04T03:39:20.000000+00:00"
+  },
+  {
+    "id": "h00051",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:39:48.000000+00:00",
+    "last_updated": "2026-10-04T03:39:48.000000+00:00"
+  },
+  {
+    "id": "h00015",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:41:49.000000+00:00",
+    "last_updated": "2026-10-04T03:41:49.000000+00:00"
+  },
+  {
+    "id": "h00112",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:44:45.000000+00:00",
+    "last_updated": "2026-10-04T03:44:45.000000+00:00"
+  },
+  {
+    "id": "h00079",
+    "entity_id": "light.office_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Office ceiling",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:46:41.000000+00:00",
+    "last_updated": "2026-10-04T03:46:41.000000+00:00"
+  },
+  {
+    "id": "h00118",
+    "entity_id": "light.hallway_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:47:16.000000+00:00",
+    "last_updated": "2026-10-04T03:47:16.000000+00:00"
+  },
+  {
+    "id": "h00130",
+    "entity_id": "light.garage_bulb",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Garage bulb",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:48:22.000000+00:00",
+    "last_updated": "2026-10-04T03:48:22.000000+00:00"
+  },
+  {
+    "id": "h00033",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:48:46.000000+00:00",
+    "last_updated": "2026-10-04T03:48:46.000000+00:00"
+  },
+  {
+    "id": "h00042",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:49:26.000000+00:00",
+    "last_updated": "2026-10-04T03:49:26.000000+00:00"
+  },
+  {
+    "id": "h00124",
+    "entity_id": "light.porch_light",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Porch light",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:50:01.000000+00:00",
+    "last_updated": "2026-10-04T03:50:01.000000+00:00"
+  },
+  {
+    "id": "h00006",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:51:38.000000+00:00",
+    "last_updated": "2026-10-04T03:51:38.000000+00:00"
+  },
+  {
+    "id": "h00096",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:52:21.000000+00:00",
+    "last_updated": "2026-10-04T03:52:21.000000+00:00"
+  },
+  {
+    "id": "h00105",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-04T03:52:42.000000+00:00",
+    "last_updated": "2026-10-04T03:52:42.000000+00:00"
+  },
+  {
+    "id": "h00191",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.9",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T05:07:00.000000+00:00",
+    "last_updated": "2026-10-04T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00209",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.8",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T05:07:00.000000+00:00",
+    "last_updated": "2026-10-04T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00227",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.8",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T05:07:00.000000+00:00",
+    "last_updated": "2026-10-04T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00245",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.4",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T05:07:00.000000+00:00",
+    "last_updated": "2026-10-04T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00263",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.7",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T05:07:00.000000+00:00",
+    "last_updated": "2026-10-04T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00281",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "50.4",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T05:07:00.000000+00:00",
+    "last_updated": "2026-10-04T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00192",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.4",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T09:07:00.000000+00:00",
+    "last_updated": "2026-10-04T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00210",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.8",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T09:07:00.000000+00:00",
+    "last_updated": "2026-10-04T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00228",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.7",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T09:07:00.000000+00:00",
+    "last_updated": "2026-10-04T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00246",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.2",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T09:07:00.000000+00:00",
+    "last_updated": "2026-10-04T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00264",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.9",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T09:07:00.000000+00:00",
+    "last_updated": "2026-10-04T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00282",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "50.1",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T09:07:00.000000+00:00",
+    "last_updated": "2026-10-04T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00177",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 66,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T11:00:00.000000+00:00",
+    "last_updated": "2026-10-04T11:00:00.000000+00:00"
+  },
+  {
+    "id": "h00165",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 68,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T11:00:54.000000+00:00",
+    "last_updated": "2026-10-04T11:00:54.000000+00:00"
+  },
+  {
+    "id": "h00135",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-04T11:30:46.000000+00:00",
+    "last_updated": "2026-10-04T11:30:46.000000+00:00"
+  },
+  {
+    "id": "h00301",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-04T12:40:31.000000+00:00",
+    "last_updated": "2026-10-04T12:40:31.000000+00:00"
+  },
+  {
+    "id": "h00302",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-04T12:41:27.000000+00:00",
+    "last_updated": "2026-10-04T12:41:27.000000+00:00"
+  },
+  {
+    "id": "h00193",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.8",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T13:07:00.000000+00:00",
+    "last_updated": "2026-10-04T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00211",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.9",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T13:07:00.000000+00:00",
+    "last_updated": "2026-10-04T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00229",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.9",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T13:07:00.000000+00:00",
+    "last_updated": "2026-10-04T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00247",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "61.9",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T13:07:00.000000+00:00",
+    "last_updated": "2026-10-04T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00265",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.1",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T13:07:00.000000+00:00",
+    "last_updated": "2026-10-04T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00283",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "43.7",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T13:07:00.000000+00:00",
+    "last_updated": "2026-10-04T13:07:00.000000+00:00"
+  },
+  {
+    "id": "h00147",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-04T13:10:54.000000+00:00",
+    "last_updated": "2026-10-04T13:10:54.000000+00:00"
+  },
+  {
+    "id": "h00148",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "closed",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-04T13:13:48.000000+00:00",
+    "last_updated": "2026-10-04T13:13:48.000000+00:00"
+  },
+  {
+    "id": "h00311",
+    "entity_id": "person.dana_whitfield",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "not_home",
+    "attributes": {
+      "friendly_name": "Dana Whitfield"
+    },
+    "last_changed": "2026-10-04T13:20:36.000000+00:00",
+    "last_updated": "2026-10-04T13:20:36.000000+00:00"
+  },
+  {
+    "id": "h00317",
+    "entity_id": "person.jordan_ellis",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "not_home",
+    "attributes": {
+      "friendly_name": "Jordan Ellis"
+    },
+    "last_changed": "2026-10-04T13:26:08.000000+00:00",
+    "last_updated": "2026-10-04T13:26:08.000000+00:00"
+  },
+  {
+    "id": "h00166",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 64,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T13:30:30.000000+00:00",
+    "last_updated": "2026-10-04T13:30:30.000000+00:00"
+  },
+  {
+    "id": "h00178",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 62,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T13:30:39.000000+00:00",
+    "last_updated": "2026-10-04T13:30:39.000000+00:00"
+  },
+  {
+    "id": "h00136",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-04T14:00:44.000000+00:00",
+    "last_updated": "2026-10-04T14:00:44.000000+00:00"
+  },
+  {
+    "id": "h00194",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "67.5",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T17:07:00.000000+00:00",
+    "last_updated": "2026-10-04T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00212",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "64.2",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T17:07:00.000000+00:00",
+    "last_updated": "2026-10-04T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00230",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.8",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T17:07:00.000000+00:00",
+    "last_updated": "2026-10-04T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00248",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "61.0",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T17:07:00.000000+00:00",
+    "last_updated": "2026-10-04T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00266",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "53.9",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T17:07:00.000000+00:00",
+    "last_updated": "2026-10-04T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00284",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "44.1",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T17:07:00.000000+00:00",
+    "last_updated": "2026-10-04T17:07:00.000000+00:00"
+  },
+  {
+    "id": "h00195",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "67.7",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T21:07:00.000000+00:00",
+    "last_updated": "2026-10-04T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00213",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.2",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T21:07:00.000000+00:00",
+    "last_updated": "2026-10-04T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00231",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.3",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T21:07:00.000000+00:00",
+    "last_updated": "2026-10-04T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00249",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "62.5",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T21:07:00.000000+00:00",
+    "last_updated": "2026-10-04T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00267",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.2",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T21:07:00.000000+00:00",
+    "last_updated": "2026-10-04T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00285",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.5",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-04T21:07:00.000000+00:00",
+    "last_updated": "2026-10-04T21:07:00.000000+00:00"
+  },
+  {
+    "id": "h00179",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 66,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T22:00:29.000000+00:00",
+    "last_updated": "2026-10-04T22:00:29.000000+00:00"
+  },
+  {
+    "id": "h00167",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 68,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "heating",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-04T22:00:43.000000+00:00",
+    "last_updated": "2026-10-04T22:00:43.000000+00:00"
+  },
+  {
+    "id": "h00318",
+    "entity_id": "person.jordan_ellis",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Jordan Ellis"
+    },
+    "last_changed": "2026-10-04T22:48:04.000000+00:00",
+    "last_updated": "2026-10-04T22:48:04.000000+00:00"
+  },
+  {
+    "id": "h00312",
+    "entity_id": "person.dana_whitfield",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Dana Whitfield"
+    },
+    "last_changed": "2026-10-04T22:54:05.000000+00:00",
+    "last_updated": "2026-10-04T22:54:05.000000+00:00"
+  },
+  {
+    "id": "h00303",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-04T22:55:07.000000+00:00",
+    "last_updated": "2026-10-04T22:55:07.000000+00:00"
+  },
+  {
+    "id": "h00155",
+    "entity_id": "lock.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "unlocked",
+    "attributes": {
+      "friendly_name": "Front Door"
+    },
+    "last_changed": "2026-10-04T22:55:52.000000+00:00",
+    "last_updated": "2026-10-04T22:55:52.000000+00:00"
+  },
+  {
+    "id": "h00304",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-04T22:56:28.000000+00:00",
+    "last_updated": "2026-10-04T22:56:28.000000+00:00"
+  },
+  {
+    "id": "h00131",
+    "entity_id": "light.garage_bulb",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Garage bulb",
+      "supported_features": 40,
+      "color_mode": "brightness",
+      "brightness": 254
+    },
+    "last_changed": "2026-10-04T23:05:13.000000+00:00",
+    "last_updated": "2026-10-04T23:05:13.000000+00:00"
+  },
+  {
+    "id": "h00149",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-04T23:05:33.000000+00:00",
+    "last_updated": "2026-10-04T23:05:33.000000+00:00"
+  },
+  {
+    "id": "h00088",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:05:39.000000+00:00",
+    "last_updated": "2026-10-04T23:05:39.000000+00:00"
+  },
+  {
+    "id": "h00150",
+    "entity_id": "cover.garage_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "closed",
+    "attributes": {
+      "friendly_name": "Garage Door",
+      "device_class": "garage"
+    },
+    "last_changed": "2026-10-04T23:09:01.000000+00:00",
+    "last_updated": "2026-10-04T23:09:01.000000+00:00"
+  },
+  {
+    "id": "h00125",
+    "entity_id": "light.porch_light",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Porch light",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:09:20.000000+00:00",
+    "last_updated": "2026-10-04T23:09:20.000000+00:00"
+  },
+  {
+    "id": "h00097",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:13:05.000000+00:00",
+    "last_updated": "2026-10-04T23:13:05.000000+00:00"
+  },
+  {
+    "id": "h00113",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:13:16.000000+00:00",
+    "last_updated": "2026-10-04T23:13:16.000000+00:00"
+  },
+  {
+    "id": "h00034",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:16:06.000000+00:00",
+    "last_updated": "2026-10-04T23:16:06.000000+00:00"
+  },
+  {
+    "id": "h00068",
+    "entity_id": "light.dining_chandelier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Dining chandelier",
+      "supported_features": 40,
+      "color_mode": "brightness",
+      "brightness": 254
+    },
+    "last_changed": "2026-10-04T23:21:03.000000+00:00",
+    "last_updated": "2026-10-04T23:21:03.000000+00:00"
+  },
+  {
+    "id": "h00106",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:25:54.000000+00:00",
+    "last_updated": "2026-10-04T23:25:54.000000+00:00"
+  },
+  {
+    "id": "h00119",
+    "entity_id": "light.hallway_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:27:24.000000+00:00",
+    "last_updated": "2026-10-04T23:27:24.000000+00:00"
+  },
+  {
+    "id": "h00074",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:28:56.000000+00:00",
+    "last_updated": "2026-10-04T23:28:56.000000+00:00"
+  },
+  {
+    "id": "h00080",
+    "entity_id": "light.office_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Office ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:31:29.000000+00:00",
+    "last_updated": "2026-10-04T23:31:29.000000+00:00"
+  },
+  {
+    "id": "h00052",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:32:00.000000+00:00",
+    "last_updated": "2026-10-04T23:32:00.000000+00:00"
+  },
+  {
+    "id": "h00007",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:33:54.000000+00:00",
+    "last_updated": "2026-10-04T23:33:54.000000+00:00"
+  },
+  {
+    "id": "h00025",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:34:14.000000+00:00",
+    "last_updated": "2026-10-04T23:34:14.000000+00:00"
+  },
+  {
+    "id": "h00061",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:38:39.000000+00:00",
+    "last_updated": "2026-10-04T23:38:39.000000+00:00"
+  },
+  {
+    "id": "h00043",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:39:21.000000+00:00",
+    "last_updated": "2026-10-04T23:39:21.000000+00:00"
+  },
+  {
+    "id": "h00016",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 230,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-04T23:46:12.000000+00:00",
+    "last_updated": "2026-10-04T23:46:12.000000+00:00"
+  },
+  {
+    "id": "h00305",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-05T00:20:38.000000+00:00",
+    "last_updated": "2026-10-05T00:20:38.000000+00:00"
+  },
+  {
+    "id": "h00306",
+    "entity_id": "binary_sensor.front_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-05T00:21:09.000000+00:00",
+    "last_updated": "2026-10-05T00:21:09.000000+00:00"
+  },
+  {
+    "id": "h00196",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.0",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T01:07:00.000000+00:00",
+    "last_updated": "2026-10-05T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00214",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.7",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T01:07:00.000000+00:00",
+    "last_updated": "2026-10-05T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00232",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.4",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T01:07:00.000000+00:00",
+    "last_updated": "2026-10-05T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00250",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "62.5",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T01:07:00.000000+00:00",
+    "last_updated": "2026-10-05T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00268",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.6",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T01:07:00.000000+00:00",
+    "last_updated": "2026-10-05T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00286",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "48.9",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T01:07:00.000000+00:00",
+    "last_updated": "2026-10-05T01:07:00.000000+00:00"
+  },
+  {
+    "id": "h00089",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:11:46.000000+00:00",
+    "last_updated": "2026-10-05T02:11:46.000000+00:00"
+  },
+  {
+    "id": "h00062",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:13:19.000000+00:00",
+    "last_updated": "2026-10-05T02:13:19.000000+00:00"
+  },
+  {
+    "id": "h00017",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:14:54.000000+00:00",
+    "last_updated": "2026-10-05T02:14:54.000000+00:00"
+  },
+  {
+    "id": "h00098",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:17:13.000000+00:00",
+    "last_updated": "2026-10-05T02:17:13.000000+00:00"
+  },
+  {
+    "id": "h00008",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:30:58.000000+00:00",
+    "last_updated": "2026-10-05T02:30:58.000000+00:00"
+  },
+  {
+    "id": "h00107",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:33:38.000000+00:00",
+    "last_updated": "2026-10-05T02:33:38.000000+00:00"
+  },
+  {
+    "id": "h00053",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:38:50.000000+00:00",
+    "last_updated": "2026-10-05T02:38:50.000000+00:00"
+  },
+  {
+    "id": "h00035",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:39:22.000000+00:00",
+    "last_updated": "2026-10-05T02:39:22.000000+00:00"
+  },
+  {
+    "id": "h00026",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:39:32.000000+00:00",
+    "last_updated": "2026-10-05T02:39:32.000000+00:00"
+  },
+  {
+    "id": "h00044",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 102,
+      "color_temp_kelvin": 2700
+    },
+    "last_changed": "2026-10-05T02:49:12.000000+00:00",
+    "last_updated": "2026-10-05T02:49:12.000000+00:00"
+  },
+  {
+    "id": "h00156",
+    "entity_id": "lock.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "locked",
+    "attributes": {
+      "friendly_name": "Front Door"
+    },
+    "last_changed": "2026-10-05T03:15:25.000000+00:00",
+    "last_updated": "2026-10-05T03:15:25.000000+00:00"
+  },
+  {
+    "id": "h00009",
+    "entity_id": "light.living_room_floor_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room floor lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:30:00.000000+00:00",
+    "last_updated": "2026-10-05T03:30:00.000000+00:00"
+  },
+  {
+    "id": "h00168",
+    "entity_id": "climate.main_floor",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Main Floor",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 67.5,
+      "temperature": 62,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-05T03:30:38.000000+00:00",
+    "last_updated": "2026-10-05T03:30:38.000000+00:00"
+  },
+  {
+    "id": "h00180",
+    "entity_id": "climate.upstairs",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "heat",
+    "attributes": {
+      "friendly_name": "Upstairs",
+      "hvac_modes": [
+        "off",
+        "heat",
+        "cool",
+        "heat_cool"
+      ],
+      "min_temp": 45,
+      "max_temp": 92,
+      "current_temperature": 65.8,
+      "temperature": 60,
+      "target_temp_high": null,
+      "target_temp_low": null,
+      "current_humidity": 41,
+      "hvac_action": "idle",
+      "supported_features": 387
+    },
+    "last_changed": "2026-10-05T03:30:47.000000+00:00",
+    "last_updated": "2026-10-05T03:30:47.000000+00:00"
+  },
+  {
+    "id": "h00054",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:31:29.000000+00:00",
+    "last_updated": "2026-10-05T03:31:29.000000+00:00"
+  },
+  {
+    "id": "h00132",
+    "entity_id": "light.garage_bulb",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Garage bulb",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:31:53.000000+00:00",
+    "last_updated": "2026-10-05T03:31:53.000000+00:00"
+  },
+  {
+    "id": "h00075",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:34:36.000000+00:00",
+    "last_updated": "2026-10-05T03:34:36.000000+00:00"
+  },
+  {
+    "id": "h00099",
+    "entity_id": "light.bedroom_right_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom right lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:36:49.000000+00:00",
+    "last_updated": "2026-10-05T03:36:49.000000+00:00"
+  },
+  {
+    "id": "h00027",
+    "entity_id": "light.living_room_ceiling_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:37:25.000000+00:00",
+    "last_updated": "2026-10-05T03:37:25.000000+00:00"
+  },
+  {
+    "id": "h00090",
+    "entity_id": "light.bedroom_left_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Bedroom left lamp",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:38:52.000000+00:00",
+    "last_updated": "2026-10-05T03:38:52.000000+00:00"
+  },
+  {
+    "id": "h00120",
+    "entity_id": "light.hallway_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 2",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:39:18.000000+00:00",
+    "last_updated": "2026-10-05T03:39:18.000000+00:00"
+  },
+  {
+    "id": "h00081",
+    "entity_id": "light.office_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Office ceiling",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:40:10.000000+00:00",
+    "last_updated": "2026-10-05T03:40:10.000000+00:00"
+  },
+  {
+    "id": "h00018",
+    "entity_id": "light.living_room_ceiling_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Living room ceiling 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:41:32.000000+00:00",
+    "last_updated": "2026-10-05T03:41:32.000000+00:00"
+  },
+  {
+    "id": "h00069",
+    "entity_id": "light.dining_chandelier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "supported_color_modes": [
+        "brightness"
+      ],
+      "friendly_name": "Dining chandelier",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:41:55.000000+00:00",
+    "last_updated": "2026-10-05T03:41:55.000000+00:00"
+  },
+  {
+    "id": "h00114",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:43:02.000000+00:00",
+    "last_updated": "2026-10-05T03:43:02.000000+00:00"
+  },
+  {
+    "id": "h00036",
+    "entity_id": "light.living_room_tv_strip",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Living room TV strip",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:45:04.000000+00:00",
+    "last_updated": "2026-10-05T03:45:04.000000+00:00"
+  },
+  {
+    "id": "h00045",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:47:55.000000+00:00",
+    "last_updated": "2026-10-05T03:47:55.000000+00:00"
+  },
+  {
+    "id": "h00126",
+    "entity_id": "light.porch_light",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Porch light",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:49:02.000000+00:00",
+    "last_updated": "2026-10-05T03:49:02.000000+00:00"
+  },
+  {
+    "id": "h00108",
+    "entity_id": "light.bedroom_ceiling",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Bedroom ceiling",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:49:22.000000+00:00",
+    "last_updated": "2026-10-05T03:49:22.000000+00:00"
+  },
+  {
+    "id": "h00063",
+    "entity_id": "light.kitchen_under_cabinet",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Kitchen under cabinet",
+      "supported_features": 40,
+      "color_mode": null,
+      "brightness": null
+    },
+    "last_changed": "2026-10-05T03:55:46.000000+00:00",
+    "last_updated": "2026-10-05T03:55:46.000000+00:00"
+  },
+  {
+    "id": "h00197",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.0",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T05:07:00.000000+00:00",
+    "last_updated": "2026-10-05T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00215",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "65.8",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T05:07:00.000000+00:00",
+    "last_updated": "2026-10-05T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00233",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.1",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T05:07:00.000000+00:00",
+    "last_updated": "2026-10-05T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00251",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.2",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T05:07:00.000000+00:00",
+    "last_updated": "2026-10-05T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00269",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "55.2",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T05:07:00.000000+00:00",
+    "last_updated": "2026-10-05T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00287",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.8",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T05:07:00.000000+00:00",
+    "last_updated": "2026-10-05T05:07:00.000000+00:00"
+  },
+  {
+    "id": "h00198",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.2",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:07:00.000000+00:00",
+    "last_updated": "2026-10-05T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00216",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.0",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:07:00.000000+00:00",
+    "last_updated": "2026-10-05T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00234",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.3",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:07:00.000000+00:00",
+    "last_updated": "2026-10-05T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00252",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.0",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:07:00.000000+00:00",
+    "last_updated": "2026-10-05T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00270",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "55.4",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:07:00.000000+00:00",
+    "last_updated": "2026-10-05T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00288",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.5",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:07:00.000000+00:00",
+    "last_updated": "2026-10-05T09:07:00.000000+00:00"
+  },
+  {
+    "id": "h00336",
+    "entity_id": "media_player.kitchen_speaker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "playing",
+    "attributes": {
+      "friendly_name": "Kitchen Speaker",
+      "device_class": "speaker",
+      "supported_features": 152511,
+      "volume_level": 0.31,
+      "is_volume_muted": false,
+      "media_content_type": "music",
+      "media_title": "Morning Edition",
+      "media_artist": "WBEZ"
+    },
+    "last_changed": "2026-10-05T09:42:00.000000+00:00",
+    "last_updated": "2026-10-05T09:42:00.000000+00:00"
+  },
+  {
+    "id": "h00371",
+    "entity_id": "alarm_control_panel.ring_alarm",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "disarmed",
+    "attributes": {
+      "friendly_name": "Ring Alarm",
+      "code_format": null,
+      "changed_by": null,
+      "code_arm_required": false,
+      "supported_features": 3,
+      "attribution": "Data provided by Ring.com"
+    },
+    "last_changed": "2026-10-05T09:46:00.000000+00:00",
+    "last_updated": "2026-10-05T09:46:00.000000+00:00"
+  },
+  {
+    "id": "h00331",
+    "entity_id": "cover.living_room_shades",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Living Room Shades",
+      "device_class": "shade",
+      "current_position": 100,
+      "supported_features": 15
+    },
+    "last_changed": "2026-10-05T09:48:00.000000+00:00",
+    "last_updated": "2026-10-05T09:48:00.000000+00:00"
+  },
+  {
+    "id": "h00353",
+    "entity_id": "sensor.office_pm25",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "4.2",
+    "attributes": {
+      "friendly_name": "Office PM2.5",
+      "unit_of_measurement": "µg/m³",
+      "device_class": "pm25",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T09:48:00.000000+00:00",
+    "last_updated": "2026-10-05T09:48:00.000000+00:00"
+  },
+  {
+    "id": "h00382",
+    "entity_id": "automation.vacation_lights",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "id": "7907532138749",
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Vacation lights"
+    },
+    "last_changed": "2026-10-05T09:49:00.000000+00:00",
+    "last_updated": "2026-10-05T09:49:00.000000+00:00"
+  },
+  {
+    "id": "h00351",
+    "entity_id": "sensor.home_energy_today",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "6.84",
+    "attributes": {
+      "friendly_name": "Home Energy Today",
+      "unit_of_measurement": "kWh",
+      "device_class": "energy",
+      "state_class": "total_increasing"
+    },
+    "last_changed": "2026-10-05T09:50:00.000000+00:00",
+    "last_updated": "2026-10-05T09:50:00.000000+00:00"
+  },
+  {
+    "id": "h00325",
+    "entity_id": "switch.porch_string_lights",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Porch String Lights"
+    },
+    "last_changed": "2026-10-05T09:51:00.000000+00:00",
+    "last_updated": "2026-10-05T09:51:00.000000+00:00"
+  },
+  {
+    "id": "h00377",
+    "entity_id": "automation.porch_light_at_sunset",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "id": "5543749489725",
+      "last_triggered": "2026-10-04T23:00:31.000000+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Porch light at sunset"
+    },
+    "last_changed": "2026-10-05T09:53:00.000000+00:00",
+    "last_updated": "2026-10-05T09:53:00.000000+00:00"
+  },
+  {
+    "id": "h00363",
+    "entity_id": "binary_sensor.front_door_ding",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Ding",
+      "device_class": "occupancy"
+    },
+    "last_changed": "2026-10-05T09:54:00.000000+00:00",
+    "last_updated": "2026-10-05T09:54:00.000000+00:00"
+  },
+  {
+    "id": "h00359",
+    "entity_id": "binary_sensor.bedroom_window",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Bedroom Window",
+      "device_class": "window"
+    },
+    "last_changed": "2026-10-05T09:56:00.000000+00:00",
+    "last_updated": "2026-10-05T09:56:00.000000+00:00"
+  },
+  {
+    "id": "h00322",
+    "entity_id": "light.hallway_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Hallway 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-05T09:57:00.000000+00:00",
+    "last_updated": "2026-10-05T09:57:00.000000+00:00"
+  },
+  {
+    "id": "h00357",
+    "entity_id": "binary_sensor.back_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Back Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-05T09:58:00.000000+00:00",
+    "last_updated": "2026-10-05T09:58:00.000000+00:00"
+  },
+  {
+    "id": "h00330",
+    "entity_id": "fan.office_fan",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Office Fan",
+      "percentage": 33,
+      "percentage_step": 33.33,
+      "preset_modes": null,
+      "supported_features": 49
+    },
+    "last_changed": "2026-10-05T10:01:00.000000+00:00",
+    "last_updated": "2026-10-05T10:01:00.000000+00:00"
+  },
+  {
+    "id": "h00329",
+    "entity_id": "fan.bedroom_ceiling_fan",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Bedroom Ceiling Fan",
+      "percentage": 0,
+      "percentage_step": 33.33,
+      "preset_modes": null,
+      "supported_features": 49
+    },
+    "last_changed": "2026-10-05T10:12:00.000000+00:00",
+    "last_updated": "2026-10-05T10:12:00.000000+00:00"
+  },
+  {
+    "id": "h00333",
+    "entity_id": "lock.back_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "locked",
+    "attributes": {
+      "friendly_name": "Back Door",
+      "supported_features": 0
+    },
+    "last_changed": "2026-10-05T10:12:00.000000+00:00",
+    "last_updated": "2026-10-05T10:12:00.000000+00:00"
+  },
+  {
+    "id": "h00367",
+    "entity_id": "device_tracker.jordan_phone",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Jordan's phone",
+      "source_type": "gps",
+      "battery_level": 91,
+      "gps_accuracy": 37
+    },
+    "last_changed": "2026-10-05T10:13:00.000000+00:00",
+    "last_updated": "2026-10-05T10:13:00.000000+00:00"
+  },
+  {
+    "id": "h00383",
+    "entity_id": "script.goodnight",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "last_triggered": "2026-10-05T03:41:31.000000+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Goodnight"
+    },
+    "last_changed": "2026-10-05T10:14:00.000000+00:00",
+    "last_updated": "2026-10-05T10:14:00.000000+00:00"
+  },
+  {
+    "id": "h00343",
+    "entity_id": "sensor.bedroom_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "66.1",
+    "attributes": {
+      "friendly_name": "Bedroom Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T10:18:00.000000+00:00",
+    "last_updated": "2026-10-05T10:18:00.000000+00:00"
+  },
+  {
+    "id": "h00320",
+    "entity_id": "light.kitchen_pendant_2",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 2",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 153,
+      "color_temp_kelvin": 3000
+    },
+    "last_changed": "2026-10-05T10:20:00.000000+00:00",
+    "last_updated": "2026-10-05T10:20:00.000000+00:00"
+  },
+  {
+    "id": "h00339",
+    "entity_id": "input_boolean.guest_mode",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Guest Mode",
+      "editable": true,
+      "icon": "mdi:toggle-switch"
+    },
+    "last_changed": "2026-10-05T10:21:00.000000+00:00",
+    "last_updated": "2026-10-05T10:21:00.000000+00:00"
+  },
+  {
+    "id": "h00373",
+    "entity_id": "scene.movie_night",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "2026-10-04T02:00:00.000000+00:00",
+    "attributes": {
+      "entity_id": [
+        "cover.living_room_shades",
+        "light.living_room_ceiling_1",
+        "light.living_room_ceiling_2",
+        "light.living_room_floor_lamp",
+        "light.living_room_tv_strip",
+        "media_player.living_room_tv"
+      ],
+      "id": "8505437621339",
+      "friendly_name": "Movie Night"
+    },
+    "last_changed": "2026-10-05T10:21:00.000000+00:00",
+    "last_updated": "2026-10-05T10:21:00.000000+00:00"
+  },
+  {
+    "id": "h00374",
+    "entity_id": "scene.dinner",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "2026-10-02T02:00:00.000000+00:00",
+    "attributes": {
+      "entity_id": [
+        "light.dining_chandelier",
+        "light.kitchen_pendant_1",
+        "light.kitchen_pendant_2",
+        "light.kitchen_under_cabinet"
+      ],
+      "id": "7619630657598",
+      "friendly_name": "Dinner"
+    },
+    "last_changed": "2026-10-05T10:21:00.000000+00:00",
+    "last_updated": "2026-10-05T10:21:00.000000+00:00"
+  },
+  {
+    "id": "h00360",
+    "entity_id": "binary_sensor.basement_water_leak",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Basement Water Leak",
+      "device_class": "moisture"
+    },
+    "last_changed": "2026-10-05T10:27:00.000000+00:00",
+    "last_updated": "2026-10-05T10:27:00.000000+00:00"
+  },
+  {
+    "id": "h00378",
+    "entity_id": "automation.lock_doors_at_night",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "id": "7374030343066",
+      "last_triggered": "2026-10-05T04:00:54.000000+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Lock doors at night"
+    },
+    "last_changed": "2026-10-05T10:29:00.000000+00:00",
+    "last_updated": "2026-10-05T10:29:00.000000+00:00"
+  },
+  {
+    "id": "h00344",
+    "entity_id": "sensor.office_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "69.0",
+    "attributes": {
+      "friendly_name": "Office Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T10:34:00.000000+00:00",
+    "last_updated": "2026-10-05T10:34:00.000000+00:00"
+  },
+  {
+    "id": "h00350",
+    "entity_id": "sensor.basement_humidity",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "58",
+    "attributes": {
+      "friendly_name": "Basement Humidity",
+      "unit_of_measurement": "%",
+      "device_class": "humidity",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T10:35:00.000000+00:00",
+    "last_updated": "2026-10-05T10:35:00.000000+00:00"
+  },
+  {
+    "id": "h00369",
+    "entity_id": "camera.backyard",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "idle",
+    "attributes": {
+      "friendly_name": "Backyard",
+      "attribution": "Data provided by Ring.com",
+      "supported_features": 0,
+      "brand": "Ring"
+    },
+    "last_changed": "2026-10-05T10:41:00.000000+00:00",
+    "last_updated": "2026-10-05T10:41:00.000000+00:00"
+  },
+  {
+    "id": "h00365",
+    "entity_id": "binary_sensor.backyard_motion",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Backyard Motion",
+      "device_class": "motion"
+    },
+    "last_changed": "2026-10-05T10:48:00.000000+00:00",
+    "last_updated": "2026-10-05T10:48:00.000000+00:00"
+  },
+  {
+    "id": "h00349",
+    "entity_id": "sensor.bedroom_humidity",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "45",
+    "attributes": {
+      "friendly_name": "Bedroom Humidity",
+      "unit_of_measurement": "%",
+      "device_class": "humidity",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T10:57:00.000000+00:00",
+    "last_updated": "2026-10-05T10:57:00.000000+00:00"
+  },
+  {
+    "id": "h00354",
+    "entity_id": "sensor.washer_status",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "idle",
+    "attributes": {
+      "friendly_name": "Washer Status",
+      "options": [
+        "idle",
+        "washing",
+        "rinsing",
+        "spinning",
+        "done"
+      ]
+    },
+    "last_changed": "2026-10-05T10:57:00.000000+00:00",
+    "last_updated": "2026-10-05T10:57:00.000000+00:00"
+  },
+  {
+    "id": "h00321",
+    "entity_id": "light.office_desk_lamp",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp",
+        "xy"
+      ],
+      "friendly_name": "Office desk lamp",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 254,
+      "color_temp_kelvin": 3000,
+      "rgb_color": null
+    },
+    "last_changed": "2026-10-05T10:58:00.000000+00:00",
+    "last_updated": "2026-10-05T10:58:00.000000+00:00"
+  },
+  {
+    "id": "h00347",
+    "entity_id": "sensor.outdoor_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "49.6",
+    "attributes": {
+      "friendly_name": "Outdoor Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T11:03:00.000000+00:00",
+    "last_updated": "2026-10-05T11:03:00.000000+00:00"
+  },
+  {
+    "id": "h00358",
+    "entity_id": "binary_sensor.patio_door_contact",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Patio Door Contact",
+      "device_class": "door"
+    },
+    "last_changed": "2026-10-05T11:13:00.000000+00:00",
+    "last_updated": "2026-10-05T11:13:00.000000+00:00"
+  },
+  {
+    "id": "h00375",
+    "entity_id": "scene.bedtime",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "2026-09-29T06:00:00.000000+00:00",
+    "attributes": {
+      "entity_id": [
+        "climate.main_floor",
+        "light.bedroom_ceiling",
+        "light.bedroom_left_lamp",
+        "light.bedroom_right_lamp",
+        "light.hallway_1",
+        "light.hallway_2",
+        "lock.back_door",
+        "lock.front_door"
+      ],
+      "id": "7195072917845",
+      "friendly_name": "Bedtime"
+    },
+    "last_changed": "2026-10-05T11:13:00.000000+00:00",
+    "last_updated": "2026-10-05T11:13:00.000000+00:00"
+  },
+  {
+    "id": "h00368",
+    "entity_id": "camera.front_door",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "idle",
+    "attributes": {
+      "friendly_name": "Front Door",
+      "attribution": "Data provided by Ring.com",
+      "supported_features": 0,
+      "brand": "Ring"
+    },
+    "last_changed": "2026-10-05T11:22:00.000000+00:00",
+    "last_updated": "2026-10-05T11:22:00.000000+00:00"
+  },
+  {
+    "id": "h00326",
+    "entity_id": "switch.garage_heater",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Garage Heater"
+    },
+    "last_changed": "2026-10-05T11:26:00.000000+00:00",
+    "last_updated": "2026-10-05T11:26:00.000000+00:00"
+  },
+  {
+    "id": "h00355",
+    "entity_id": "sensor.front_door_battery",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "71",
+    "attributes": {
+      "friendly_name": "Front Door Battery",
+      "unit_of_measurement": "%",
+      "device_class": "battery"
+    },
+    "last_changed": "2026-10-05T11:28:00.000000+00:00",
+    "last_updated": "2026-10-05T11:28:00.000000+00:00"
+  },
+  {
+    "id": "h00137",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-05T11:30:27.000000+00:00",
+    "last_updated": "2026-10-05T11:30:27.000000+00:00"
+  },
+  {
+    "id": "h00380",
+    "entity_id": "automation.basement_leak_alert",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "id": "2062364153936",
+      "last_triggered": null,
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Basement leak alert"
+    },
+    "last_changed": "2026-10-05T11:34:00.000000+00:00",
+    "last_updated": "2026-10-05T11:34:00.000000+00:00"
+  },
+  {
+    "id": "h00362",
+    "entity_id": "binary_sensor.hallway_motion",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Hallway Motion",
+      "device_class": "motion"
+    },
+    "last_changed": "2026-10-05T11:37:00.000000+00:00",
+    "last_updated": "2026-10-05T11:37:00.000000+00:00"
+  },
+  {
+    "id": "h00385",
+    "entity_id": "zone.studio",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "0",
+    "attributes": {
+      "latitude": 41.89,
+      "longitude": -87.65,
+      "radius": 150,
+      "passive": false,
+      "persons": [],
+      "editable": true,
+      "icon": "mdi:briefcase",
+      "friendly_name": "Studio"
+    },
+    "last_changed": "2026-10-05T11:37:00.000000+00:00",
+    "last_updated": "2026-10-05T11:37:00.000000+00:00"
+  },
+  {
+    "id": "h00323",
+    "entity_id": "light.backyard_floodlight",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Backyard Floodlight",
+      "supported_color_modes": [
+        "onoff"
+      ],
+      "color_mode": null,
+      "supported_features": 0
+    },
+    "last_changed": "2026-10-05T11:38:00.000000+00:00",
+    "last_updated": "2026-10-05T11:38:00.000000+00:00"
+  },
+  {
+    "id": "h00364",
+    "entity_id": "binary_sensor.front_door_motion",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Front Door Motion",
+      "device_class": "motion"
+    },
+    "last_changed": "2026-10-05T11:38:00.000000+00:00",
+    "last_updated": "2026-10-05T11:38:00.000000+00:00"
+  },
+  {
+    "id": "h00348",
+    "entity_id": "sensor.living_room_humidity",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "42",
+    "attributes": {
+      "friendly_name": "Living Room Humidity",
+      "unit_of_measurement": "%",
+      "device_class": "humidity",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T11:44:00.000000+00:00",
+    "last_updated": "2026-10-05T11:44:00.000000+00:00"
+  },
+  {
+    "id": "h00352",
+    "entity_id": "sensor.home_power",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "1312",
+    "attributes": {
+      "friendly_name": "Home Power",
+      "unit_of_measurement": "W",
+      "device_class": "power",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T11:44:00.000000+00:00",
+    "last_updated": "2026-10-05T11:44:00.000000+00:00"
+  },
+  {
+    "id": "h00327",
+    "entity_id": "switch.basement_dehumidifier",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Basement Dehumidifier"
+    },
+    "last_changed": "2026-10-05T11:48:00.000000+00:00",
+    "last_updated": "2026-10-05T11:48:00.000000+00:00"
+  },
+  {
+    "id": "h00334",
+    "entity_id": "lock.garage_entry",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "unlocked",
+    "attributes": {
+      "friendly_name": "Garage Entry",
+      "supported_features": 0
+    },
+    "last_changed": "2026-10-05T11:49:00.000000+00:00",
+    "last_updated": "2026-10-05T11:49:00.000000+00:00"
+  },
+  {
+    "id": "h00335",
+    "entity_id": "media_player.living_room_tv",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Living Room TV",
+      "device_class": "tv",
+      "supported_features": 21437,
+      "volume_level": 0.24,
+      "is_volume_muted": false,
+      "source_list": [
+        "Live TV",
+        "Apple TV",
+        "HDMI 2"
+      ]
+    },
+    "last_changed": "2026-10-05T11:51:00.000000+00:00",
+    "last_updated": "2026-10-05T11:51:00.000000+00:00"
+  },
+  {
+    "id": "h00341",
+    "entity_id": "vacuum.downstairs_robot",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "docked",
+    "attributes": {
+      "friendly_name": "Downstairs Robot",
+      "battery_level": 100,
+      "fan_speed": "standard",
+      "fan_speed_list": [
+        "quiet",
+        "standard",
+        "max"
+      ],
+      "supported_features": 13436
+    },
+    "last_changed": "2026-10-05T11:52:00.000000+00:00",
+    "last_updated": "2026-10-05T11:52:00.000000+00:00"
+  },
+  {
+    "id": "h00340",
+    "entity_id": "input_boolean.quiet_hours",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Quiet Hours",
+      "editable": true,
+      "icon": "mdi:toggle-switch"
+    },
+    "last_changed": "2026-10-05T11:54:00.000000+00:00",
+    "last_updated": "2026-10-05T11:54:00.000000+00:00"
+  },
+  {
+    "id": "h00345",
+    "entity_id": "sensor.basement_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "63.2",
+    "attributes": {
+      "friendly_name": "Basement Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T11:54:00.000000+00:00",
+    "last_updated": "2026-10-05T11:54:00.000000+00:00"
+  },
+  {
+    "id": "h00338",
+    "entity_id": "input_boolean.vacation_mode",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Vacation Mode",
+      "editable": true,
+      "icon": "mdi:toggle-switch"
+    },
+    "last_changed": "2026-10-05T11:56:00.000000+00:00",
+    "last_updated": "2026-10-05T11:56:00.000000+00:00"
+  },
+  {
+    "id": "h00376",
+    "entity_id": "scene.away",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "2026-09-30T07:00:00.000000+00:00",
+    "attributes": {
+      "entity_id": [
+        "climate.main_floor",
+        "climate.upstairs",
+        "cover.garage_door",
+        "light.bedroom_ceiling",
+        "light.bedroom_left_lamp",
+        "light.bedroom_right_lamp",
+        "light.dining_chandelier",
+        "light.garage_bulb",
+        "light.hallway_1",
+        "light.hallway_2",
+        "light.kitchen_pendant_1",
+        "light.kitchen_pendant_2",
+        "light.kitchen_under_cabinet",
+        "light.living_room_ceiling_1",
+        "light.living_room_ceiling_2",
+        "light.living_room_floor_lamp",
+        "light.living_room_tv_strip",
+        "light.office_ceiling",
+        "light.office_desk_lamp",
+        "light.porch_light",
+        "lock.back_door",
+        "lock.front_door",
+        "lock.garage_entry"
+      ],
+      "id": "5591460378763",
+      "friendly_name": "Away"
+    },
+    "last_changed": "2026-10-05T12:04:00.000000+00:00",
+    "last_updated": "2026-10-05T12:04:00.000000+00:00"
+  },
+  {
+    "id": "h00370",
+    "entity_id": "camera.garage",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "idle",
+    "attributes": {
+      "friendly_name": "Garage",
+      "attribution": "Data provided by Ring.com",
+      "supported_features": 0,
+      "brand": "Ring"
+    },
+    "last_changed": "2026-10-05T12:09:00.000000+00:00",
+    "last_updated": "2026-10-05T12:09:00.000000+00:00"
+  },
+  {
+    "id": "h00386",
+    "entity_id": "weather.home",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "cloudy",
+    "attributes": {
+      "temperature": 49.6,
+      "apparent_temperature": 46.0,
+      "dew_point": 41.0,
+      "temperature_unit": "°F",
+      "humidity": 74,
+      "cloud_coverage": 80,
+      "pressure": 30.02,
+      "pressure_unit": "inHg",
+      "wind_bearing": 230,
+      "wind_speed": 9.2,
+      "wind_speed_unit": "mph",
+      "visibility_unit": "mi",
+      "precipitation_unit": "in",
+      "attribution": "Weather forecast from met.no",
+      "friendly_name": "Forecast Home",
+      "supported_features": 3
+    },
+    "last_changed": "2026-10-05T12:09:00.000000+00:00",
+    "last_updated": "2026-10-05T12:09:00.000000+00:00"
+  },
+  {
+    "id": "h00361",
+    "entity_id": "binary_sensor.living_room_motion",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Living Room Motion",
+      "device_class": "motion"
+    },
+    "last_changed": "2026-10-05T12:10:00.000000+00:00",
+    "last_updated": "2026-10-05T12:10:00.000000+00:00"
+  },
+  {
+    "id": "h00384",
+    "entity_id": "zone.home",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "2",
+    "attributes": {
+      "latitude": 42.04,
+      "longitude": -87.69,
+      "radius": 100,
+      "passive": false,
+      "persons": [
+        "person.dana_whitfield",
+        "person.jordan_ellis"
+      ],
+      "editable": false,
+      "icon": "mdi:home",
+      "friendly_name": "Home"
+    },
+    "last_changed": "2026-10-05T12:11:00.000000+00:00",
+    "last_updated": "2026-10-05T12:11:00.000000+00:00"
+  },
+  {
+    "id": "h00346",
+    "entity_id": "sensor.garage_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "54.8",
+    "attributes": {
+      "friendly_name": "Garage Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T12:12:00.000000+00:00",
+    "last_updated": "2026-10-05T12:12:00.000000+00:00"
+  },
+  {
+    "id": "h00319",
+    "entity_id": "light.kitchen_pendant_1",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "min_color_temp_kelvin": 2202,
+      "max_color_temp_kelvin": 6535,
+      "supported_color_modes": [
+        "color_temp"
+      ],
+      "friendly_name": "Kitchen pendant 1",
+      "supported_features": 40,
+      "color_mode": "color_temp",
+      "brightness": 191,
+      "color_temp_kelvin": 4000
+    },
+    "last_changed": "2026-10-05T12:13:00.000000+00:00",
+    "last_updated": "2026-10-05T12:13:00.000000+00:00"
+  },
+  {
+    "id": "h00356",
+    "entity_id": "sensor.garage_battery",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "38",
+    "attributes": {
+      "friendly_name": "Garage Battery",
+      "unit_of_measurement": "%",
+      "device_class": "battery"
+    },
+    "last_changed": "2026-10-05T12:15:00.000000+00:00",
+    "last_updated": "2026-10-05T12:15:00.000000+00:00"
+  },
+  {
+    "id": "h00387",
+    "entity_id": "sun.sun",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "above_horizon",
+    "attributes": {
+      "next_dawn": "2026-10-06T11:25:11.000000+00:00",
+      "next_dusk": "2026-10-05T23:59:46.000000+00:00",
+      "next_midnight": "2026-10-06T05:41:03+00:00",
+      "next_noon": "2026-10-05T17:41:12+00:00",
+      "next_rising": "2026-10-06T11:53:20.000000+00:00",
+      "next_setting": "2026-10-05T23:31:21.000000+00:00",
+      "elevation": 18.4,
+      "azimuth": 112.6,
+      "rising": true,
+      "friendly_name": "Sun"
+    },
+    "last_changed": "2026-10-05T12:20:00.000000+00:00",
+    "last_updated": "2026-10-05T12:20:00.000000+00:00"
+  },
+  {
+    "id": "h00328",
+    "entity_id": "switch.backyard_siren",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Backyard Siren"
+    },
+    "last_changed": "2026-10-05T12:24:00.000000+00:00",
+    "last_updated": "2026-10-05T12:24:00.000000+00:00"
+  },
+  {
+    "id": "h00342",
+    "entity_id": "sensor.living_room_temperature",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "68.4",
+    "attributes": {
+      "friendly_name": "Living Room Temperature",
+      "unit_of_measurement": "°F",
+      "device_class": "temperature",
+      "state_class": "measurement"
+    },
+    "last_changed": "2026-10-05T12:29:00.000000+00:00",
+    "last_updated": "2026-10-05T12:29:00.000000+00:00"
+  },
+  {
+    "id": "h00379",
+    "entity_id": "automation.morning_thermostat",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "id": "7205032772924",
+      "last_triggered": "2026-10-04T11:00:24.000000+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Morning thermostat"
+    },
+    "last_changed": "2026-10-05T12:29:00.000000+00:00",
+    "last_updated": "2026-10-05T12:29:00.000000+00:00"
+  },
+  {
+    "id": "h00381",
+    "entity_id": "automation.garage_door_left_open",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "id": "8849461452505",
+      "last_triggered": "2026-10-05T02:00:25.000000+00:00",
+      "mode": "single",
+      "current": 0,
+      "friendly_name": "Garage door left open"
+    },
+    "last_changed": "2026-10-05T12:31:00.000000+00:00",
+    "last_updated": "2026-10-05T12:31:00.000000+00:00"
+  },
+  {
+    "id": "h00366",
+    "entity_id": "device_tracker.dana_phone",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "home",
+    "attributes": {
+      "friendly_name": "Dana's phone",
+      "source_type": "gps",
+      "battery_level": 51,
+      "gps_accuracy": 39
+    },
+    "last_changed": "2026-10-05T12:33:00.000000+00:00",
+    "last_updated": "2026-10-05T12:33:00.000000+00:00"
+  },
+  {
+    "id": "h00372",
+    "entity_id": "scene.good_morning",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "2026-09-27T04:00:00.000000+00:00",
+    "attributes": {
+      "entity_id": [
+        "cover.living_room_shades",
+        "light.kitchen_pendant_1",
+        "light.kitchen_pendant_2",
+        "switch.coffee_maker"
+      ],
+      "id": "7719333614471",
+      "friendly_name": "Good Morning"
+    },
+    "last_changed": "2026-10-05T12:36:00.000000+00:00",
+    "last_updated": "2026-10-05T12:36:00.000000+00:00"
+  },
+  {
+    "id": "h00337",
+    "entity_id": "media_player.bedroom_speaker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "idle",
+    "attributes": {
+      "friendly_name": "Bedroom Speaker",
+      "device_class": "speaker",
+      "supported_features": 152511,
+      "volume_level": 0.18,
+      "is_volume_muted": false
+    },
+    "last_changed": "2026-10-05T12:38:00.000000+00:00",
+    "last_updated": "2026-10-05T12:38:00.000000+00:00"
+  },
+  {
+    "id": "h00332",
+    "entity_id": "cover.office_shade",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "open",
+    "attributes": {
+      "friendly_name": "Office Shade",
+      "device_class": "shade",
+      "current_position": 60,
+      "supported_features": 15
+    },
+    "last_changed": "2026-10-05T12:39:00.000000+00:00",
+    "last_updated": "2026-10-05T12:39:00.000000+00:00"
+  },
+  {
+    "id": "h00324",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "on",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-05T12:59:00.000000+00:00",
+    "last_updated": "2026-10-05T12:59:00.000000+00:00"
+  },
+  {
+    "id": "h00138",
+    "entity_id": "switch.coffee_maker",
+    "owner_account_id": "acct-dana-whitfield",
+    "state": "off",
+    "attributes": {
+      "friendly_name": "Coffee Maker"
+    },
+    "last_changed": "2026-10-05T14:00:23.000000+00:00",
+    "last_updated": "2026-10-05T14:00:23.000000+00:00"
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "Printify API Mock v1",
+    "description": "Mock Printify API v1. Base URL: http://localhost:8126. In docker-compose: http://printify-api:8126. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8126"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=printify-connector-app&client_secret=pfcs_3b9e61d04a7c25f8"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"printify-connector-app\", \"client_secret\": \"pfcs_3b9e61d04a7c25f8\", \"scope\": \"shops.read products.read products.write orders.read\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list shops",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/shops.json",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the Etsy shop's products",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/shops/8312447/products.json?page=1&limit=10",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a product",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/shops/8312447/products/927e1de85fd5d8293e5d778d.json",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a product from a catalog blueprint",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/shops/8312447/products.json",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\": \"Low Tide Map Tote\", \"description\": \"Heavy cotton tote printed with the Low Tide map of Casco Bay.\", \"blueprint_id\": 553, \"print_provider_id\": 27, \"tags\": [\"tote\", \"maine\"], \"variants\": [{\"id\": 17620, \"price\": 2600, \"is_enabled\": true}, {\"id\": 17624, \"price\": 2600, \"is_enabled\": true}], \"print_areas\": [{\"variant_ids\": [17620, 17624], \"placeholders\": [{\"position\": \"front\", \"images\": [{\"id\": \"5c178427a2bf7620deb43680\", \"x\": 0.5, \"y\": 0.45, \"scale\": 0.82, \"angle\": 0}]}]}]}"
+        }
+      }
+    },
+    {
+      "name": "publish a product",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/shops/8312447/products/927e1de85fd5d8293e5d778d/publish.json",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\": true, \"description\": true, \"images\": true, \"variants\": true, \"tags\": true, \"keyFeatures\": true, \"shipping_template\": true}"
+        }
+      }
+    },
+    {
+      "name": "list orders in production",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/shops/8312447/orders.json?status=in-production",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list orders for one SKU",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/shops/8312447/orders.json?sku=SMC-68-17601&limit=5",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get an order",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/shops/8312447/orders/baa1e45d229caed52c617b33.json",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

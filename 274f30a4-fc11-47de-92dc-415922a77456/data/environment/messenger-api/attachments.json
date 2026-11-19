@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a_0001",
+    "message_id": "m_290258164803013",
+    "type": "img",
+    "name": "rowan_moodboard.jpg",
+    "url": "https://cdn.mock-messenger.example/files/rowan_moodboard.jpg"
+  },
+  {
+    "id": "a_0002",
+    "message_id": "m_390021342848019",
+    "type": "file",
+    "name": "rowan_pierce_timeline_v1.pdf",
+    "url": "https://cdn.mock-messenger.example/files/rowan_pierce_timeline_v1.pdf"
+  },
+  {
+    "id": "a_0003",
+    "message_id": "m_933907407848039",
+    "type": "img",
+    "name": "olivia_outfit_options.jpg",
+    "url": "https://cdn.mock-messenger.example/files/olivia_outfit_options.jpg"
+  },
+  {
+    "id": "a_0004",
+    "message_id": "m_460819506342050",
+    "type": "file",
+    "name": "shah_mehta_quote_v2.pdf",
+    "url": "https://cdn.mock-messenger.example/files/shah_mehta_quote_v2.pdf"
+  },
+  {
+    "id": "a_0005",
+    "message_id": "m_619170549038086",
+    "type": "img",
+    "name": "rowan_flower_palette.jpg",
+    "url": "https://cdn.mock-messenger.example/files/rowan_flower_palette.jpg"
+  },
+  {
+    "id": "a_0006",
+    "message_id": "m_614894059006121",
+    "type": "file",
+    "name": "whitaker_album_proof.pdf",
+    "url": "https://cdn.mock-messenger.example/files/whitaker_album_proof.pdf"
+  },
+  {
+    "id": "a_0007",
+    "message_id": "m_315310503719204",
+    "type": "file",
+    "name": "elopement_sample_gallery.pdf",
+    "url": "https://cdn.mock-messenger.example/files/elopement_sample_gallery.pdf"
+  },
+  {
+    "id": "a_0008",
+    "message_id": "m_370258363302245",
+    "type": "file",
+    "name": "rowan_pierce_final_timeline.pdf",
+    "url": "https://cdn.mock-messenger.example/files/rowan_pierce_final_timeline.pdf"
+  }
+]

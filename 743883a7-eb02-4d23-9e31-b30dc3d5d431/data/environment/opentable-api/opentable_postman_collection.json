@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "OpenTable API Mock v2",
+    "description": "Mock OpenTable partner API v2. Base URL: http://localhost:8114. In docker-compose: http://opentable-api:8114. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8114"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=opentable-connector-app&client_secret=otcs_1a0d6cb4337ef60f"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"opentable-connector-app\", \"client_secret\": \"otcs_1a0d6cb4337ef60f\", \"scope\": \"directory.read availability.read reservations.read reservations.write\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search restaurants",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v2/directory/restaurants?city=Chicago&cuisine=Italian",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search by name",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v2/directory/restaurants?term=Marrow",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "availability",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v2/availability/104000?start_date_time=2026-10-16T19:00&party_size=2",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "availability on the patio",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v2/availability/104114?start_date_time=2026-10-15T18:00&party_size=4&require_attributes=outdoor",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lock a slot",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/booking/104000/slot_locks",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"party_size\": 2, \"date_time\": \"2026-10-15T19:00\", \"slot_hash\": \"<slot_hash from availability>\"}"
+        }
+      }
+    },
+    {
+      "name": "book the locked slot",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v2/booking/104000/reservations",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"reservation_token\": \"<reservation_token>\", \"special_request\": \"Window table\", \"occasion\": \"date_night\"}"
+        }
+      }
+    },
+    {
+      "name": "get a reservation",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v2/booking/104000/reservations/81431190",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cancel a reservation",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/v2/booking/104000/reservations/<confirmation_number>",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

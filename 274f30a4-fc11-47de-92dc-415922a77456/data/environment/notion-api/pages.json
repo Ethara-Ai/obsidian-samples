@@ -1,0 +1,2284 @@
+[
+  {
+    "id": "885aad43-ad3f-4e36-9599-2570ee986bc6",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Platform Team",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Platform Team",
+          "href": null
+        }
+      ]
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "🛠️"
+    },
+    "cover": null,
+    "archived": false,
+    "created_time": "2025-11-03T17:20:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-14T18:05:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Event bus migration",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Event bus migration",
+          "href": null
+        }
+      ],
+      "Status": "In progress",
+      "Owner": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d"
+      ],
+      "Priority": "P0",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-12-18",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Reliability",
+        "Data"
+      ],
+      "Progress": 0.45,
+      "Customer": [],
+      "Design doc": "https://docs.contoso.example/platform/event-bus-migration"
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-04-14T16:02:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "e25bed12-ba0f-44d0-9d8b-00e11504c3c5",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Payments retry hardening",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Payments retry hardening",
+          "href": null
+        }
+      ],
+      "Status": "In progress",
+      "Owner": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Priority": "P0",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-10-23",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Payments",
+        "Reliability"
+      ],
+      "Progress": 0.6,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-10-01T17:45:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T23:12:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "8d7b2c50-4723-49e2-8695-d14d4eac0f22",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Partner SSO",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Partner SSO",
+          "href": null
+        }
+      ],
+      "Status": "Blocked",
+      "Owner": [
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+      ],
+      "Priority": "P0",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-11-13",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Security",
+        "Customer"
+      ],
+      "Progress": 0.7,
+      "Customer": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay Industries",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay Industries",
+          "href": null
+        }
+      ],
+      "Design doc": "https://docs.contoso.example/platform/partner-sso"
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-06-02T18:30:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-30T20:41:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "251f6168-10f9-4ab8-972d-218447826192",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Audit log export",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Audit log export",
+          "href": null
+        }
+      ],
+      "Status": "In progress",
+      "Owner": [
+        "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-11-20",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Security",
+        "Customer"
+      ],
+      "Progress": 0.3,
+      "Customer": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay Industries, Fabrikam",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay Industries, Fabrikam",
+          "href": null
+        }
+      ],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-07-20T17:00:00.000Z",
+    "created_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+    "last_edited_time": "2026-09-29T21:15:00.000Z",
+    "last_edited_by": "13a2e21e-1fb3-4795-b606-d357df2de6bb"
+  },
+  {
+    "id": "96d7a0db-3517-4c40-ad31-1829da7fcd2a",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tenant isolation",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tenant isolation",
+          "href": null
+        }
+      ],
+      "Status": "In progress",
+      "Owner": [
+        "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-12-11",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Security"
+      ],
+      "Progress": 0.2,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-08-03T16:20:00.000Z",
+    "created_by": "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93",
+    "last_edited_time": "2026-09-28T19:05:00.000Z",
+    "last_edited_by": "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93"
+  },
+  {
+    "id": "9ba88c4b-d3bf-4f4a-abbe-6441d1c68ddf",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Data retention jobs",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Data retention jobs",
+          "href": null
+        }
+      ],
+      "Status": "In progress",
+      "Owner": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-11-30",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Data"
+      ],
+      "Progress": 0.5,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-07-01T15:10:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-24T22:30:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "bba614cc-387f-49cc-bbd8-9e103fb5f374",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mobile push service",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mobile push service",
+          "href": null
+        }
+      ],
+      "Status": "In progress",
+      "Owner": [
+        "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-12-04",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Developer Experience"
+      ],
+      "Progress": 0.15,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-15T17:40:00.000Z",
+    "created_by": "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93",
+    "last_edited_time": "2026-09-30T18:00:00.000Z",
+    "last_edited_by": "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93"
+  },
+  {
+    "id": "43a513d7-76c7-4736-9cf9-2f3d7f0f3d44",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Observability vendor evaluation",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Observability vendor evaluation",
+          "href": null
+        }
+      ],
+      "Status": "Blocked",
+      "Owner": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-10-30",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Reliability"
+      ],
+      "Progress": 0.4,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-08-20T16:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T16:25:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "fbca1995-06f9-4f37-8452-477cf0f4d738",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Feature flag platform evaluation",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Feature flag platform evaluation",
+          "href": null
+        }
+      ],
+      "Status": "Not started",
+      "Owner": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q4 2026",
+      "Target date": {
+        "start": "2026-11-20",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Developer Experience"
+      ],
+      "Progress": 0.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-21T18:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-09-21T18:10:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "22aeccd0-73ae-4c92-9e77-1823d38fb6c8",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rate limiter v2",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rate limiter v2",
+          "href": null
+        }
+      ],
+      "Status": "Done",
+      "Owner": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q3 2026",
+      "Target date": {
+        "start": "2026-08-28",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Reliability"
+      ],
+      "Progress": 1.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-05-20T17:00:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-08-28T23:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "efe8cac6-9833-4e95-a71a-7b7f1c3862ef",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Billing webhook retries",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Billing webhook retries",
+          "href": null
+        }
+      ],
+      "Status": "Done",
+      "Owner": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q3 2026",
+      "Target date": {
+        "start": "2026-09-18",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Payments"
+      ],
+      "Progress": 1.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-06-10T16:45:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-18T22:05:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "942ff7f4-8843-4d6d-aef8-3b6f6a337b1c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Checkout latency budget",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Checkout latency budget",
+          "href": null
+        }
+      ],
+      "Status": "Done",
+      "Owner": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q3 2026",
+      "Target date": {
+        "start": "2026-09-25",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Payments",
+        "Reliability"
+      ],
+      "Progress": 1.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-04T17:30:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-25T21:50:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "cf9d1d1c-7363-4f1f-8e9b-d90c6dcfd2f9",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cost dashboards",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cost dashboards",
+          "href": null
+        }
+      ],
+      "Status": "Done",
+      "Owner": [
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q3 2026",
+      "Target date": {
+        "start": "2026-08-14",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Data"
+      ],
+      "Progress": 1.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-06-01T16:00:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-08-14T20:20:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "126d88f7-7773-45ff-bc18-71c286d0a27c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Search indexing rebuild",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Search indexing rebuild",
+          "href": null
+        }
+      ],
+      "Status": "Not started",
+      "Owner": [
+        "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q1 2027",
+      "Target date": {
+        "start": "2027-02-26",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Data"
+      ],
+      "Progress": 0.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-28T18:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-28T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "a55c858e-0a96-4105-80b8-34660e8e050f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Schema registry",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Schema registry",
+          "href": null
+        }
+      ],
+      "Status": "Not started",
+      "Owner": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q1 2027",
+      "Target date": {
+        "start": "2027-03-12",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Data",
+        "Developer Experience"
+      ],
+      "Progress": 0.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-28T18:32:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-28T18:32:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "18c9392f-8569-4dd3-b946-f9a171dd9a16",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Developer portal refresh",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Developer portal refresh",
+          "href": null
+        }
+      ],
+      "Status": "Not started",
+      "Owner": [
+        "13a2e21e-1fb3-4795-b606-d357df2de6bb"
+      ],
+      "Priority": "P2",
+      "Quarter": "Q1 2027",
+      "Target date": null,
+      "Tags": [
+        "Developer Experience"
+      ],
+      "Progress": null,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-28T18:35:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-28T18:35:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "f2fa4e7f-6101-4f67-bf3c-0cdf67196d4f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "bedf2fbe-3c66-4f6b-9564-8e96e2905a34"
+    },
+    "properties": {
+      "Name": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Legacy queue retirement",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Legacy queue retirement",
+          "href": null
+        }
+      ],
+      "Status": "Done",
+      "Owner": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d"
+      ],
+      "Priority": "P1",
+      "Quarter": "Q3 2026",
+      "Target date": {
+        "start": "2026-07-31",
+        "end": null,
+        "time_zone": null
+      },
+      "Tags": [
+        "Reliability"
+      ],
+      "Progress": 1.0,
+      "Customer": [],
+      "Design doc": null
+    },
+    "icon": null,
+    "cover": null,
+    "archived": true,
+    "created_time": "2026-03-02T17:00:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-07-15T18:00:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "82dd7ab7-51a3-4ffc-a8d8-57273f54be98",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Payments retry storm",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Payments retry storm",
+          "href": null
+        }
+      ],
+      "Severity": "SEV2",
+      "Status": "Mitigated",
+      "Started": {
+        "start": "2026-09-30T07:12:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Services": [
+        "payments-api",
+        "event-bus"
+      ],
+      "Customer impact": true,
+      "Related project": [
+        "e25bed12-ba0f-44d0-9d8b-00e11504c3c5"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-30T14:20:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:40:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "63d1a49e-34f2-4379-96d2-6bd45103f7ef",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay SSO login failures",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay SSO login failures",
+          "href": null
+        }
+      ],
+      "Severity": "SEV3",
+      "Status": "Investigating",
+      "Started": {
+        "start": "2026-09-29T15:20:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Services": [
+        "auth-gateway"
+      ],
+      "Customer impact": true,
+      "Related project": [
+        "8d7b2c50-4723-49e2-8695-d14d4eac0f22"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-29T22:30:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-01T19:10:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "55f2a708-646f-4a2d-a5c4-e0728397bbfd",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Webhook retries",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Webhook retries",
+          "href": null
+        }
+      ],
+      "Severity": "SEV2",
+      "Status": "Postmortem complete",
+      "Started": {
+        "start": "2026-09-11T10:02:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Services": [
+        "webhooks"
+      ],
+      "Customer impact": true,
+      "Related project": [
+        "efe8cac6-9833-4e95-a71a-7b7f1c3862ef"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-11T17:20:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-16T21:00:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "574431c4-8d65-48db-a147-629c4976be4f",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Checkout latency",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Checkout latency",
+          "href": null
+        }
+      ],
+      "Severity": "SEV2",
+      "Status": "Postmortem complete",
+      "Started": {
+        "start": "2026-09-03T13:45:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Services": [
+        "checkout-web",
+        "payments-api"
+      ],
+      "Customer impact": true,
+      "Related project": [
+        "942ff7f4-8843-4d6d-aef8-3b6f6a337b1c"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-03T21:00:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-09T23:10:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "26a150c3-80dd-4854-a0ef-551126a103da",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cache stampede",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cache stampede",
+          "href": null
+        }
+      ],
+      "Severity": "SEV3",
+      "Status": "Resolved",
+      "Started": {
+        "start": "2026-08-25T09:18:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Services": [
+        "search"
+      ],
+      "Customer impact": false,
+      "Related project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-08-25T16:40:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-08-26T17:00:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "29188c9e-da1a-4f14-be05-aefe25d47532",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Certificate expiry",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Certificate expiry",
+          "href": null
+        }
+      ],
+      "Severity": "SEV1",
+      "Status": "Postmortem complete",
+      "Started": {
+        "start": "2026-08-04T06:55:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d"
+      ],
+      "Services": [
+        "auth-gateway"
+      ],
+      "Customer impact": true,
+      "Related project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-08-04T14:10:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-08-11T20:00:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "15bf7773-7002-4d41-8ac1-088388045866",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Queue backlog",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Queue backlog",
+          "href": null
+        }
+      ],
+      "Severity": "SEV3",
+      "Status": "Resolved",
+      "Started": {
+        "start": "2026-07-21T14:30:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Services": [
+        "event-bus"
+      ],
+      "Customer impact": false,
+      "Related project": [
+        "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-07-21T22:00:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-07-22T17:30:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "f9d60d1e-72cd-4ff2-ad91-0bf66ceca47a",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Deploy pipeline stuck",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Deploy pipeline stuck",
+          "href": null
+        }
+      ],
+      "Severity": "SEV3",
+      "Status": "Resolved",
+      "Started": {
+        "start": "2026-07-07T11:10:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d"
+      ],
+      "Services": [
+        "deploy-pipeline"
+      ],
+      "Customer impact": false,
+      "Related project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-07-07T18:30:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-07-07T23:00:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "2164cc6a-17c2-43f7-b4a4-702f2744448d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e0331173-33c8-4c64-92de-b9f6a5cba246"
+    },
+    "properties": {
+      "Incident": [
+        {
+          "type": "text",
+          "text": {
+            "content": "DNS failover",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "DNS failover",
+          "href": null
+        }
+      ],
+      "Severity": "SEV2",
+      "Status": "Postmortem complete",
+      "Started": {
+        "start": "2026-06-16T16:40:00.000-07:00",
+        "end": null,
+        "time_zone": null
+      },
+      "Incident commander": [
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+      ],
+      "Services": [
+        "auth-gateway",
+        "checkout-web"
+      ],
+      "Customer impact": true,
+      "Related project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-06-16T23:50:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-06-23T18:00:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "e8b2537d-c697-452d-908a-57ac4d3a2b60",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Q3 Roadmap Workshop",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Q3 Roadmap Workshop",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-05-18",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Planning",
+      "Attendees": [
+        "1594848d-9407-4631-9966-5deae9bae543",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "0d9a5444-6280-4a31-b44a-36bf6f570608"
+      ],
+      "Project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-05-18T23:20:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-05-18T23:20:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "e3e498ee-6185-488e-a3c8-c725b55d377b",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay quarterly business review",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay quarterly business review",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-07-16",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Customer",
+      "Attendees": [
+        "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "0d9a5444-6280-4a31-b44a-36bf6f570608"
+      ],
+      "Project": [
+        "8d7b2c50-4723-49e2-8695-d14d4eac0f22"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-07-16T19:05:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-07-16T19:05:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "98000d08-083f-4c2a-bf39-1fd28fb93618",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Incident review: checkout latency",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Incident review: checkout latency",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-09-09",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Incident review",
+      "Attendees": [
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+        "b62b9b8a-635c-426d-90cb-311356a6e97d",
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Project": [
+        "942ff7f4-8843-4d6d-aef8-3b6f6a337b1c"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-09T22:10:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-09T22:10:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "ab987df7-2a00-4097-b972-47420f47bfbe",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sprint planning: Sprint 26.19",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sprint planning: Sprint 26.19",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-09-14",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Planning",
+      "Attendees": [
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+        "b62b9b8a-635c-426d-90cb-311356a6e97d",
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-14T18:30:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-14T18:30:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "2305a670-2f89-4b5d-a443-397b6f973c77",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hiring committee: platform roles",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hiring committee: platform roles",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-09-22",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Review",
+      "Attendees": [
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+        "1594848d-9407-4631-9966-5deae9bae543"
+      ],
+      "Project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-22T23:30:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-22T23:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "d196668b-1a47-4f0d-8de0-ba242de787c8",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sprint planning: Sprint 26.20",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sprint planning: Sprint 26.20",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-09-28",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Planning",
+      "Attendees": [
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+        "b62b9b8a-635c-426d-90cb-311356a6e97d",
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-28T18:20:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-09-28T18:20:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "690835ca-2dc8-4199-ab8f-181583453682",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Alex / Priya 1:1",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alex / Priya 1:1",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-09-29",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "1:1",
+      "Attendees": [
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+      ],
+      "Project": [
+        "8d7b2c50-4723-49e2-8695-d14d4eac0f22"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-29T18:40:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-09-29T18:40:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "1b28bfbc-5eb6-4fd4-9414-4538d363b09d",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Product and engineering leads",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Product and engineering leads",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-09-30",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Leads",
+      "Attendees": [
+        "1594848d-9407-4631-9966-5deae9bae543",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "0d9a5444-6280-4a31-b44a-36bf6f570608",
+        "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+      ],
+      "Project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-30T21:05:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-09-30T21:05:00.000Z",
+    "last_edited_by": "1594848d-9407-4631-9966-5deae9bae543"
+  },
+  {
+    "id": "665780df-2e5c-4f9f-94b2-dbbfbbef7297",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Platform onboarding 3: payments service",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Platform onboarding 3: payments service",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-10-01",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Onboarding",
+      "Attendees": [
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "11bd3b0b-7b56-45b4-a132-3a8cd9ea0a93",
+        "13a2e21e-1fb3-4795-b606-d357df2de6bb",
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Project": []
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-10-01T18:15:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:15:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "ca640172-b805-4769-94b9-283e90b04a9b",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Incident review: payments retry storm",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Incident review: payments retry storm",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-10-05",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Incident review",
+      "Attendees": [
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+      ],
+      "Project": [
+        "e25bed12-ba0f-44d0-9d8b-00e11504c3c5"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-10-02T16:45:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-10-02T16:45:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "9f0f628a-9caf-45b2-97ba-2d68a385488c",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Architecture review: event bus migration",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Architecture review: event bus migration",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-10-06",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Review",
+      "Attendees": [
+        "b62b9b8a-635c-426d-90cb-311356a6e97d",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+        "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+        "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+      ],
+      "Project": [
+        "a1ad8528-557a-4ea8-8ec1-12ce66fb40e5"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-10-01T22:15:00.000Z",
+    "created_by": "b62b9b8a-635c-426d-90cb-311356a6e97d",
+    "last_edited_time": "2026-10-01T22:15:00.000Z",
+    "last_edited_by": "b62b9b8a-635c-426d-90cb-311356a6e97d"
+  },
+  {
+    "id": "1900ddb4-ba46-43da-a288-4ece4581b031",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "database_id",
+      "database_id": "e1c03d39-c4f6-471f-bac6-93c0c4379fe9"
+    },
+    "properties": {
+      "Meeting": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vandelay renewal check-in",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vandelay renewal check-in",
+          "href": null
+        }
+      ],
+      "Date": {
+        "start": "2026-10-07",
+        "end": null,
+        "time_zone": null
+      },
+      "Type": "Customer",
+      "Attendees": [
+        "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+        "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+        "0d9a5444-6280-4a31-b44a-36bf6f570608"
+      ],
+      "Project": [
+        "8d7b2c50-4723-49e2-8695-d14d4eac0f22",
+        "251f6168-10f9-4ab8-972d-218447826192"
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-10-01T17:30:00.000Z",
+    "created_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8",
+    "last_edited_time": "2026-10-01T17:30:00.000Z",
+    "last_edited_by": "ae8d571e-6638-4f9c-8f8a-0fc299c91cc8"
+  },
+  {
+    "id": "a79a8976-409b-4145-9efa-80192c28b160",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On-call Runbook",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On-call Runbook",
+          "href": null
+        }
+      ]
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "📟"
+    },
+    "cover": null,
+    "archived": false,
+    "created_time": "2025-11-10T18:20:00.000Z",
+    "created_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8",
+    "last_edited_time": "2026-09-07T17:00:00.000Z",
+    "last_edited_by": "8814f523-efe6-4ed7-8159-7f2b1e06a3b8"
+  },
+  {
+    "id": "2fdf5f16-4d1c-4103-a2a0-c60a37b02574",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Release Process",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Release Process",
+          "href": null
+        }
+      ]
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "🚢"
+    },
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-01-12T18:00:00.000Z",
+    "created_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec",
+    "last_edited_time": "2026-09-28T19:30:00.000Z",
+    "last_edited_by": "1f1c2d67-a621-4d82-b59b-e9a47ab28aec"
+  },
+  {
+    "id": "f0c83ac1-5f9e-482f-b24c-a38da0406ba0",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Platform Architecture Tour",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Platform Architecture Tour",
+          "href": null
+        }
+      ]
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "🧭"
+    },
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-10T17:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-01T18:30:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "cc7f95a9-ad31-4ce4-af00-6107bb1ea2eb",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "page_id",
+      "page_id": "885aad43-ad3f-4e36-9599-2570ee986bc6"
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Platform Team Charter (2025)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Platform Team Charter (2025)",
+          "href": null
+        }
+      ]
+    },
+    "icon": null,
+    "cover": null,
+    "archived": true,
+    "created_time": "2025-11-03T17:40:00.000Z",
+    "created_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805",
+    "last_edited_time": "2026-05-20T16:00:00.000Z",
+    "last_edited_by": "e3a0cd5c-f75e-46eb-8627-b6f69beac805"
+  },
+  {
+    "id": "02399092-cca6-447d-ac14-25da517ef82e",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Q4 Planning Offsite",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Q4 Planning Offsite",
+          "href": null
+        }
+      ]
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "🏝️"
+    },
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-09-21T16:30:00.000Z",
+    "created_by": "1594848d-9407-4631-9966-5deae9bae543",
+    "last_edited_time": "2026-10-01T20:00:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  },
+  {
+    "id": "d97d1090-c18f-455a-8a04-3fa0311a1d86",
+    "account_id": "acct-alex-carter",
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "properties": {
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Alex's notes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alex's notes",
+          "href": null
+        }
+      ]
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "🗒️"
+    },
+    "cover": null,
+    "archived": false,
+    "created_time": "2026-05-05T16:00:00.000Z",
+    "created_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7",
+    "last_edited_time": "2026-10-02T15:10:00.000Z",
+    "last_edited_by": "62d52268-53c6-4112-b7a5-4fc03c42eed7"
+  }
+]

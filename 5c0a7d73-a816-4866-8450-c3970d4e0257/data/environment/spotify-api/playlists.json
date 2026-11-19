@@ -1,0 +1,263 @@
+[
+  {
+    "id": "SFYib7ozsObZvFbArQqC8u",
+    "name": "Focus Piano",
+    "description": "Gentle piano and chamber pieces for concentrating.",
+    "owner_id": "studio_sessions",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "4a16455b43e8ab188fd0a46b02fc20"
+  },
+  {
+    "id": "1hmg3bo3TwFfACy640iNys",
+    "name": "Morning Jazz Coffee",
+    "description": "Easy jazz for the first hour of the day.",
+    "owner_id": "listening_room",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "0082ce7e5e9fa1703da09bbaf16024"
+  },
+  {
+    "id": "8TmUkxdxt6y5aXrYOM3ZGN",
+    "name": "Indie Folk Roadtrip",
+    "description": "Windows down, folk and indie for long drives.",
+    "owner_id": "front_porch_fm",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "4885ed6f52fbf5b0e3a2d4e4072d79"
+  },
+  {
+    "id": "kvb6tgnW3Dagjsh0nW4zQU",
+    "name": "Marching Band Warmups",
+    "description": "Brass-forward tracks with steady tempos.",
+    "owner_id": "classroom_canon",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "e3d73b37c024bc6c6a68a94667843c"
+  },
+  {
+    "id": "L1zxrKqFBtk1c5qhMqlfwX",
+    "name": "Choir Rehearsal Classics",
+    "description": "Art songs and choral-friendly pieces.",
+    "owner_id": "classroom_canon",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "5fe0fac966fc640d99e7f8ab413790"
+  },
+  {
+    "id": "GinHUdFNZ0oCBTJH61bNIQ",
+    "name": "Study Beats",
+    "description": "Low-key electronic for homework.",
+    "owner_id": "late_night_loops",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "87879505674f95c33d539e433519df"
+  },
+  {
+    "id": "2fHPtsKUa2rTE9dkxS1JzZ",
+    "name": "Sunday Brunch Soul",
+    "description": "Soul and funk for slow weekends.",
+    "owner_id": "listening_room",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "532348f028b80f117adf9927227155"
+  },
+  {
+    "id": "rkNdg9TOJTl5tMuJv8hsFl",
+    "name": "Pacific Northwest Favorites",
+    "description": "Local sounds from Portland to Seattle.",
+    "owner_id": "northwest_notes",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "d07b78e7ed37ca7fe1acc983d80b99"
+  },
+  {
+    "id": "57vZq0hXtjRQPb1hEzL6ht",
+    "name": "Acoustic Evenings",
+    "description": "Guitars and voices after sunset.",
+    "owner_id": "front_porch_fm",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "5486b522b853ba0db37657b36097a5"
+  },
+  {
+    "id": "VzQLErCG1CtKa8yzw2tnmn",
+    "name": "Funk Fundamentals",
+    "description": "Grooves every rhythm section should know.",
+    "owner_id": "the_woodshed",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "7b0831270fd5824c3b7daf6acf7c84"
+  },
+  {
+    "id": "ISqE3LufJNBLoHMEcBtpdV",
+    "name": "Rainy Day Rubato",
+    "description": "Slow, reflective pieces for grey afternoons.",
+    "owner_id": "studio_sessions",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "7e34c7c43569ffe7e1db7978dda926"
+  },
+  {
+    "id": "7Uo5UEouAyHsljs1DsPTlU",
+    "name": "Brass and Bossa",
+    "description": "Latin jazz and brass band standouts.",
+    "owner_id": "the_woodshed",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "da9cd3aadfe3ac8e46c4295c5341f1"
+  },
+  {
+    "id": "iAa2EQKKqhXSfQuThgu6AP",
+    "name": "Kids Singalong",
+    "description": "Songs that get a room full of children singing.",
+    "owner_id": "classroom_canon",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "2fdccf6833bef04eca75b9626718f9"
+  },
+  {
+    "id": "FP0EuOUOoQWzli3JmGhVfp",
+    "name": "Late Night Synths",
+    "description": "Neon-lit synth pop and ambient.",
+    "owner_id": "late_night_loops",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "10aff1bd7c8a4c2b50b961a6b9278d"
+  },
+  {
+    "id": "W56g0kuW99DHJgTdBrgVT6",
+    "name": "Showtime Rehearsal",
+    "description": "Musical theatre for the pit and the stage.",
+    "owner_id": "studio_sessions",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "7c206f3e943cd7711ff8df9288bebe"
+  },
+  {
+    "id": "m4gg7O6aQSVrPZU4XEGhT6",
+    "name": "Blues for Beginners",
+    "description": "A first listen to the blues tradition.",
+    "owner_id": "the_woodshed",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "d4c97b9a76fd67e1ad6ef25f2018b7"
+  },
+  {
+    "id": "acMhYZ4Q1vlFWUyKOj98M8",
+    "name": "Orchestral Excerpts",
+    "description": "Passages to study for auditions.",
+    "owner_id": "classroom_canon",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "9c24df06e0d04ca49a98891169c61e"
+  },
+  {
+    "id": "GUaCWkVkeeqFhZU8HdFHEi",
+    "name": "Bluegrass Breakdown",
+    "description": "Fast fiddle and tight harmonies.",
+    "owner_id": "front_porch_fm",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "d3b892cab3f0aa98aeed5ea779d3b7"
+  },
+  {
+    "id": "JXfLH6yJrw5f4oI5sBCWHb",
+    "name": "World Rhythms",
+    "description": "Rhythmic traditions from around the globe.",
+    "owner_id": "northwest_notes",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "ff1859e1dd7d465bc78db255d5e75b"
+  },
+  {
+    "id": "VPHyPQXaJGQwMmlf6xRp2C",
+    "name": "Concert Band Warm Favorites",
+    "description": "Wind ensemble pieces students enjoy.",
+    "owner_id": "classroom_canon",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "3e1becf18475658cda56bda9aa5090"
+  },
+  {
+    "id": "npA6GrvrD8omuBg2ymblWI",
+    "name": "Concert Band Repertoire 2026",
+    "description": "Pieces under consideration for the winter and spring concerts.",
+    "owner_id": "crourke_pdx",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "00ff8f8f0565d27151d9640f2d6ea5"
+  },
+  {
+    "id": "PQFTlu92qul1qdGDtU7HIY",
+    "name": "Jazz Combo Charts",
+    "description": "Tunes the combo is learning this semester.",
+    "owner_id": "crourke_pdx",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "fc37065ba6b2bcf350b3d3aa54bab7"
+  },
+  {
+    "id": "07Vib4RqLbq0JiXYubef6q",
+    "name": "Classroom Background",
+    "description": "Quiet music for seatwork periods.",
+    "owner_id": "crourke_pdx",
+    "public": "false",
+    "collaborative": "false",
+    "snapshot_id": "a3b6aea79ad9b2eee812dd584920f1"
+  },
+  {
+    "id": "gclIxB4frMPdpcg0CCQHpp",
+    "name": "Fall Concert Ideas",
+    "description": "Shared with the department to collect ideas.",
+    "owner_id": "crourke_pdx",
+    "public": "false",
+    "collaborative": "true",
+    "snapshot_id": "236f198f2026c921c57375d68434a8"
+  },
+  {
+    "id": "tZkzXRCpDHVVmJrfwEdpGy",
+    "name": "Warm-up Grooves",
+    "description": "Short grooves for the first five minutes of rehearsal.",
+    "owner_id": "crourke_pdx",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "ce007f5d1e9c3ad4fdc9aab04a03ef"
+  },
+  {
+    "id": "EZpfgh0vGPrU0MZuaPlQKX",
+    "name": "Songs for Sectionals",
+    "description": "Listening assignments by section.",
+    "owner_id": "crourke_pdx",
+    "public": "false",
+    "collaborative": "false",
+    "snapshot_id": "faeffc2fe2c894e76824c6b64f5c69"
+  },
+  {
+    "id": "gKxmiq5eaFUrO1Gx2ODSac",
+    "name": "Weekend Hiking",
+    "description": "Folk and indie for the Columbia Gorge trails.",
+    "owner_id": "crourke_pdx",
+    "public": "true",
+    "collaborative": "false",
+    "snapshot_id": "03d0a19f2139e46e748d199896cbd5"
+  },
+  {
+    "id": "N1sutMDRWYjM7gRIPPLhs9",
+    "name": "Podcast Queue",
+    "description": "Episodes to catch up on during the commute.",
+    "owner_id": "crourke_pdx",
+    "public": "false",
+    "collaborative": "false",
+    "snapshot_id": "821b1494e0a48552c2f7bf0eb6a947"
+  },
+  {
+    "id": "QmuG3TWn7FvmndjUY94A6S",
+    "name": "Department Concert Picks",
+    "description": "Collaborative list for the music department.",
+    "owner_id": "classroom_canon",
+    "public": "false",
+    "collaborative": "true",
+    "snapshot_id": "f29a557db43eb7c0ff466cbc761c09"
+  }
+]

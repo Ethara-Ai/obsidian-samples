@@ -1,0 +1,5 @@
+[service]
+name = "threads-messages-api"
+port = 8128
+env_var_name = "THREADS_MESSAGES_API_URL"
+healthcheck_path = "/health"

@@ -1,0 +1,74 @@
+[
+ {
+  "conversation_id": "conv-rm-aminata",
+  "wa_id": "221770000175",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-11-22T15:30:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-tami",
+  "wa_id": "14105550186",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-11-27T20:02:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-lena",
+  "wa_id": "14105550318",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-02T03:05:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-brenda",
+  "wa_id": "14105550197",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-03T19:52:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-coach",
+  "wa_id": "14105550274",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-03T22:31:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-oscar",
+  "wa_id": "13015550175",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-04T20:40:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-marcus",
+  "wa_id": "14105550142",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-04T23:20:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-jackie",
+  "wa_id": "14105550164",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-05T21:12:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rm-denise",
+  "wa_id": "14105550153",
+  "started_at": "2026-03-02T17:00:00+00:00",
+  "last_message_at": "2026-12-05T23:41:00+00:00",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AAMkAGcal0000001",
+    "name": "Calendar",
+    "color": "auto",
+    "hex_color": "",
+    "is_default": true,
+    "can_edit": true,
+    "owner_account_id": "acct-alex-carter",
+    "owner_name": "Reggie Clayton",
+    "owner_address": "reggie.clayton@finthesiss.ai"
+  },
+  {
+    "id": "AAMkAGcal0000002",
+    "name": "Local 780 Officers",
+    "color": "lightTeal",
+    "hex_color": "#4bc6b9",
+    "is_default": false,
+    "can_edit": true,
+    "owner_account_id": "acct-alex-carter",
+    "owner_name": "Reggie Clayton",
+    "owner_address": "reggie.clayton@finthesiss.ai"
+  }
+]

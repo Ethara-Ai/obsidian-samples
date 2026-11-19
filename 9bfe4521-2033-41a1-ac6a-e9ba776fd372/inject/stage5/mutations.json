@@ -1,0 +1,104 @@
+{
+  "stage": 5,
+  "stage_name": "leave_send",
+  "description": "Thursday 19:45: Methodist Le Bonheur's scheduling desk emails Reggie, in a new thread, a scan of Dorothy Holloway's appointment card stamped RESCHEDULED: Tue 12/15, 1:40 pm, Suite 410. The body names only the attachment, which lands in the Mail app's attachment store. Unread. Nothing announces it. Thursday 20:15: Calvin Reed asks whether he wants to borrow a spare canopy for the booth, in a WhatsApp message to Reggie (unannounced). Thursday 21:05: Cedric Pope asks him to weld the bracket back on his mailbox post, in a WhatsApp message to Reggie (unannounced).",
+  "applies_between_turns": [
+    "T12",
+    "T13"
+  ],
+  "applied_at_local_time": "2026-12-10T21:05:00-06:00",
+  "mutations": {
+    "filesystem": [
+      {
+        "id": "fs_hc_attachment",
+        "action": "copy",
+        "src": "files/Scan_0638.jpg",
+        "dst": "/workspace/home/home/Library/Mail/V10/F20D778A-CEDF-52DF-894B-0B5471EB84EA/INBOX.mbox/225A10D3-D120-5216-881C-102FA5723F0C/Data/4/1/Attachments/48220/2/Scan_0638.jpg",
+        "description": "The attachment of Methodist Le Bonheur's scheduling desk's mail, in the Mail app's attachment store. Dorothy Holloway's appointment card, rescheduled: Tue 12/15 at 1:40 pm.",
+        "fires_at_turn": "T13"
+      }
+    ],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_hc_mail",
+        "service": "gmail-api",
+        "description": "Methodist Le Bonheur's scheduling desk emails Reggie a picture. Dorothy Holloway's appointment card, rescheduled: Tue 12/15 at 1:40 pm.",
+        "method": "POST",
+        "path": "/gmail/v1/users/me/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "id": "msg-7c90b5b683",
+            "thread_id": "thr-f2be4186",
+            "from_addr": "rheum.scheduling@mlh-memphis.example",
+            "to_addr": "reggie.clayton@finthesiss.ai",
+            "cc_addr": "",
+            "subject": "Scan_0638.jpg",
+            "snippet": "Scan_0638.jpg Methodist Le Bonheur Scheduling",
+            "body": "Scan_0638.jpg\n\nMethodist Le Bonheur Scheduling",
+            "date": "2026-12-10T19:45:00-06:00",
+            "internal_date": 1796953500000,
+            "size_estimate": 192046,
+            "labels": [
+              "INBOX",
+              "UNREAD"
+            ],
+            "is_unread": true,
+            "is_starred": false
+          }
+        },
+        "fires_at_turn": "T13"
+      },
+      {
+        "id": "sil_wa_calvin2",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Calvin Reed.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.75ab77664a412bd4b97b",
+            "conversation_id": "conv-rc-calvin",
+            "direction": "inbound",
+            "from_wa_id": "19015550412",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "I've got a spare canopy if y'all need shade at the booth. Want it?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-11T02:15:00Z"
+          }
+        },
+        "fires_at_turn": "T13"
+      },
+      {
+        "id": "sil_wa_cedric2",
+        "service": "whatsapp-api",
+        "description": "A WhatsApp message lands in Reggie's chat with Cedric Pope.",
+        "method": "POST",
+        "path": "/v17.0/messages",
+        "admin": {
+          "op": "upsert",
+          "table": "messages",
+          "row": {
+            "message_id": "wamid.038260aac8edf8ff903e",
+            "conversation_id": "conv-rc-cedric",
+            "direction": "inbound",
+            "from_wa_id": "19015550418",
+            "to_wa_id": "19015550100",
+            "type": "text",
+            "text": "Mailbox post bracket snapped clean off. Any chance you could weld it back on?",
+            "template_name": "",
+            "status": "delivered",
+            "sent_at": "2026-12-11T03:05:00Z"
+          }
+        },
+        "fires_at_turn": "T13"
+      }
+    ]
+  }
+}

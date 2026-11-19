@@ -1,0 +1,22 @@
+[
+  {
+    "id": "saved-001",
+    "user_id": "100090000000001",
+    "item_type": "listing",
+    "title": "1972 F-100 bench seat frame",
+    "url": "https://www.facebook.com/marketplace/item/3500100000000001",
+    "target_id": "3500100000000001",
+    "collection_name": "F-100 parts",
+    "saved_at": "2026-10-02T21:00:00+0000"
+  },
+  {
+    "id": "saved-002",
+    "user_id": "100090000000001",
+    "item_type": "listing",
+    "title": "Wiring harness for 1970s Ford truck",
+    "url": "https://www.facebook.com/marketplace/item/3500100000000004",
+    "target_id": "3500100000000004",
+    "collection_name": "F-100 parts",
+    "saved_at": "2026-11-09T19:30:00+0000"
+  }
+]

@@ -1,0 +1,5 @@
+[service]
+name = "healthex-api"
+port = 8137
+env_var_name = "HEALTHEX_API_URL"
+healthcheck_path = "/health"

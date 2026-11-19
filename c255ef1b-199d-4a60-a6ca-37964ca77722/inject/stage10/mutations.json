@@ -1,0 +1,34 @@
+{
+  "stage": 10,
+  "stage_name": "dorothy_call_moves",
+  "description": "Friday 12:45: Dorothy moves Sunday's call an hour later in her own calendar entry.",
+  "applies_between_turns": [
+    "T15",
+    "T16"
+  ],
+  "applied_at_local_time": "2026-12-04T12:45:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_cal_dorothy",
+        "service": "google-calendar-api",
+        "description": "Dorothy moves the Sunday call to 17:00.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-1da5d43ada8c3dff",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-1da5d43ada8c3dff",
+          "set": {
+            "start": "2026-12-06T17:00:00+00:00",
+            "end": "2026-12-06T17:30:00+00:00",
+            "description": "Dorothy: can we do five instead? Dad is out until then."
+          }
+        },
+        "fires_at_turn": "T16"
+      }
+    ]
+  }
+}

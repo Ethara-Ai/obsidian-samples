@@ -1,0 +1,26 @@
+[
+ {
+  "id": "1rdgwyShopSpringPlan2027xRClayton:0",
+  "spreadsheet_id": "1rdgwyShopSpringPlan2027xRClayton",
+  "sheet_id": 0,
+  "title": "Plan",
+  "index": 0,
+  "row_count": 1000,
+  "column_count": 26,
+  "frozen_row_count": 1,
+  "tab_color": "#B5651D",
+  "column_formats": {}
+ },
+ {
+  "id": "1claytonFabSideJobs2026xRClayton:0",
+  "spreadsheet_id": "1claytonFabSideJobs2026xRClayton",
+  "sheet_id": 0,
+  "title": "Jobs",
+  "index": 0,
+  "row_count": 1000,
+  "column_count": 26,
+  "frozen_row_count": 1,
+  "tab_color": "#4285F4",
+  "column_formats": {}
+ }
+]

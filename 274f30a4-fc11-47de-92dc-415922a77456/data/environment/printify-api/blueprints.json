@@ -1,0 +1,110 @@
+[
+  {
+    "id": 12,
+    "title": "Unisex Jersey Short Sleeve Tee",
+    "brand": "Fernway Apparel",
+    "model": "FW-3001",
+    "print_provider_ids": [
+      27,
+      41
+    ],
+    "positions": [
+      "front",
+      "back"
+    ],
+    "description": "Unisex Jersey Short Sleeve Tee by Fernway Apparel."
+  },
+  {
+    "id": 77,
+    "title": "Unisex Heavy Blend Hooded Sweatshirt",
+    "brand": "Fernway Apparel",
+    "model": "FW-1850",
+    "print_provider_ids": [
+      41
+    ],
+    "positions": [
+      "front",
+      "back"
+    ],
+    "description": "Unisex Heavy Blend Hooded Sweatshirt by Fernway Apparel."
+  },
+  {
+    "id": 68,
+    "title": "Ceramic Mug 11oz",
+    "brand": "Generic brand",
+    "model": "MUG-11",
+    "print_provider_ids": [
+      63,
+      105
+    ],
+    "positions": [
+      "front"
+    ],
+    "description": "Ceramic Mug 11oz by Generic brand."
+  },
+  {
+    "id": 425,
+    "title": "Ceramic Mug 15oz",
+    "brand": "Generic brand",
+    "model": "MUG-15",
+    "print_provider_ids": [
+      63
+    ],
+    "positions": [
+      "front"
+    ],
+    "description": "Ceramic Mug 15oz by Generic brand."
+  },
+  {
+    "id": 553,
+    "title": "Cotton Tote Bag",
+    "brand": "Liberty Bags",
+    "model": "LB-8502",
+    "print_provider_ids": [
+      27
+    ],
+    "positions": [
+      "front"
+    ],
+    "description": "Cotton Tote Bag by Liberty Bags."
+  },
+  {
+    "id": 282,
+    "title": "Matte Vertical Poster",
+    "brand": "Generic brand",
+    "model": "POSTER-MV",
+    "print_provider_ids": [
+      88
+    ],
+    "positions": [
+      "front"
+    ],
+    "description": "Matte Vertical Poster by Generic brand."
+  },
+  {
+    "id": 400,
+    "title": "Kiss-Cut Stickers",
+    "brand": "Generic brand",
+    "model": "STK-KC",
+    "print_provider_ids": [
+      105
+    ],
+    "positions": [
+      "front"
+    ],
+    "description": "Kiss-Cut Stickers by Generic brand."
+  },
+  {
+    "id": 1098,
+    "title": "Jersey Apron",
+    "brand": "Generic brand",
+    "model": "APR-J",
+    "print_provider_ids": [
+      27
+    ],
+    "positions": [
+      "front"
+    ],
+    "description": "Jersey Apron by Generic brand."
+  }
+]

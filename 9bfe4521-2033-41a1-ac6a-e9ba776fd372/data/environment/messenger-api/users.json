@@ -1,0 +1,26 @@
+[
+  {
+    "id": "100060000000001",
+    "name": "Reggie Clayton",
+    "username": "reggie.clayton.memphis",
+    "is_friend": "false",
+    "last_active": "2026-11-12T22:05:00+0000",
+    "owner_account_id": "acct-tessa-marlowe"
+  },
+  {
+    "id": "100060000000002",
+    "name": "Memphis Classic Truck Parts",
+    "username": "memphisclassictruckparts",
+    "is_friend": "false",
+    "last_active": "2026-11-12T18:20:00+0000",
+    "owner_account_id": ""
+  },
+  {
+    "id": "100060000000003",
+    "name": "Shelby County Tool Swap",
+    "username": "shelbycountytoolswap",
+    "is_friend": "false",
+    "last_active": "2026-11-04T15:10:00+0000",
+    "owner_account_id": ""
+  }
+]

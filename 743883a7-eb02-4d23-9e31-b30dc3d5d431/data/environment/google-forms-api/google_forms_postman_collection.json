@@ -1,0 +1,188 @@
+{
+  "info": {
+    "name": "Google Forms API Mock v1",
+    "description": "Mock Google Forms API v1. Base URL: http://localhost:8117. In docker-compose: http://google-forms-api:8117. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8117"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=gforms-connector-app&client_secret=gfrm_02a9ff2e40510562"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"gforms-connector-app\", \"client_secret\": \"gfrm_02a9ff2e40510562\", \"scope\": \"forms.body.readonly forms.body forms.responses.readonly\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a form",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/forms/1Snliw-QCNZNy5tkr7Ly6rLJLKASQVtaEz0V3G5F4HuT",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a form's responses",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/forms/1Snliw-QCNZNy5tkr7Ly6rLJLKASQVtaEz0V3G5F4HuT/responses?pageSize=3",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list responses submitted since September 15",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/forms/1Snliw-QCNZNy5tkr7Ly6rLJLKASQVtaEz0V3G5F4HuT/responses?filter=timestamp%20%3E%3D%202026-09-15T00:00:00Z",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get one response",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/forms/1Snliw-QCNZNy5tkr7Ly6rLJLKASQVtaEz0V3G5F4HuT/responses/ACYDBNR02zwXE-uU3t3i9-f8GaDYpXrZ-q9_rmE-16EMK3",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a form",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/forms",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"info\": {\"title\": \"Brightwell Lounge Pilot Feedback\", \"documentTitle\": \"Lounge pilot feedback\"}}"
+        }
+      }
+    },
+    {
+      "name": "add a question",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/forms/<formId>:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"includeFormInResponse\": true, \"requests\": [{\"createItem\": {\"location\": {\"index\": 0}, \"item\": {\"title\": \"Which shift do you usually work?\", \"questionItem\": {\"question\": {\"required\": true, \"choiceQuestion\": {\"type\": \"RADIO\", \"options\": [{\"value\": \"Morning\"}, {\"value\": \"Evening\"}, {\"value\": \"Overnight\"}]}}}}}}]}"
+        }
+      }
+    },
+    {
+      "name": "change a question",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/forms/1Snliw-QCNZNy5tkr7Ly6rLJLKASQVtaEz0V3G5F4HuT:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"requests\": [{\"updateItem\": {\"location\": {\"index\": 0}, \"updateMask\": \"title\", \"item\": {\"title\": \"Which Lakefront lobby concept should we develop?\"}}}]}"
+        }
+      }
+    }
+  ]
+}

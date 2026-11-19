@@ -1,0 +1,23 @@
+[
+ {
+  "wa_id": "12025550387",
+  "profile_name": "Claire Pemberton",
+  "phone_number": "+12025550387",
+  "opted_in": "true",
+  "last_seen": "2026-10-25T00:10:00Z"
+ },
+ {
+  "wa_id": "12025550256",
+  "profile_name": "Priya Chandran",
+  "phone_number": "+12025550256",
+  "opted_in": "true",
+  "last_seen": "2026-10-26T11:30:00Z"
+ },
+ {
+  "wa_id": "12025550299",
+  "profile_name": "Daniel Brennan",
+  "phone_number": "+12025550299",
+  "opted_in": "true",
+  "last_seen": "2026-10-25T21:00:00Z"
+ }
+]

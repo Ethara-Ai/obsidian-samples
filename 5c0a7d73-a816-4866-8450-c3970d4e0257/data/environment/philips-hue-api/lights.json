@@ -1,0 +1,397 @@
+[
+  {
+    "id": "ab3654b5-87f6-47f7-82b0-b3c2d11d625e",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/1",
+    "key": "living_room_floor_lamp",
+    "owner": {
+      "rid": "8fd7fa69-0b0b-4cf8-b897-127c005d3def",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Living room floor lamp",
+      "archetype": "floor_shade",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": false,
+    "brightness": 96.5,
+    "mirek": 333,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Living Room"
+  },
+  {
+    "id": "3ba58780-8f4c-45fd-a194-7346e37d787b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/2",
+    "key": "living_room_ceiling_1",
+    "owner": {
+      "rid": "8e69b948-3adc-4689-abb9-3ad60cdb9329",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Living room ceiling 1",
+      "archetype": "ceiling_round",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": false,
+    "brightness": 76.4,
+    "mirek": 366,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Living Room"
+  },
+  {
+    "id": "e0974de2-154b-4a42-a0b5-3d238a2454df",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/3",
+    "key": "living_room_ceiling_2",
+    "owner": {
+      "rid": "bc579609-1d57-4d09-affc-201a50d6c424",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Living room ceiling 2",
+      "archetype": "ceiling_round",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": false,
+    "brightness": 91.1,
+    "mirek": 366,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Living Room"
+  },
+  {
+    "id": "b3d4eced-4a86-4507-9003-d5289ea69f9b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/4",
+    "key": "living_room_tv_strip",
+    "owner": {
+      "rid": "7370ae32-a732-4fec-b55d-fb0c933d0452",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Living room TV strip",
+      "archetype": "hue_lightstrip_tv",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": false,
+    "brightness": 45.7,
+    "mirek": 333,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Living Room"
+  },
+  {
+    "id": "4adde52c-1261-4590-9636-48adf3ad1856",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/5",
+    "key": "kitchen_pendant_1",
+    "owner": {
+      "rid": "de3130af-8c80-49fb-b52f-8a3ad489069e",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Kitchen pendant 1",
+      "archetype": "pendant_round",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": true,
+    "brightness": 75.0,
+    "mirek": 250,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Kitchen"
+  },
+  {
+    "id": "691d957a-2755-4aaa-8749-83a891bc1acd",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/6",
+    "key": "kitchen_pendant_2",
+    "owner": {
+      "rid": "523bc5e0-67c5-458c-a064-6937bd120c4b",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Kitchen pendant 2",
+      "archetype": "pendant_round",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": true,
+    "brightness": 60.0,
+    "mirek": 333,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Kitchen"
+  },
+  {
+    "id": "f02c1321-852e-49ea-a68f-f1a2e236b200",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/7",
+    "key": "kitchen_under_cabinet",
+    "owner": {
+      "rid": "0a55dc94-806f-469f-94d3-cfc44b3b9c14",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Kitchen under cabinet",
+      "archetype": "hue_lightstrip",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": false,
+    "brightness": 81.7,
+    "mirek": 250,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Kitchen"
+  },
+  {
+    "id": "5cc242c6-1b3e-4a63-8f8f-3b5aca2761de",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/8",
+    "key": "dining_chandelier",
+    "owner": {
+      "rid": "d31636fe-3182-4c3f-910f-efb339acf377",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Dining chandelier",
+      "archetype": "chandelier",
+      "function": "functional"
+    },
+    "kind": "white",
+    "on": false,
+    "brightness": 71.8,
+    "mirek": null,
+    "xy": null,
+    "color_mode": "brightness",
+    "room": "Dining Room"
+  },
+  {
+    "id": "b966f72f-2b21-4fd0-a983-c2aae5a914db",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/9",
+    "key": "office_desk_lamp",
+    "owner": {
+      "rid": "de5391fb-57f6-4605-af5e-72327a609323",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Office desk lamp",
+      "archetype": "table_shade",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": true,
+    "brightness": 100.0,
+    "mirek": 333,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Office"
+  },
+  {
+    "id": "0701e838-173d-49f8-8296-d1039432264b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/10",
+    "key": "office_ceiling",
+    "owner": {
+      "rid": "163ebec5-6263-461c-94c6-27709ab84619",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Office ceiling",
+      "archetype": "ceiling_square",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": false,
+    "brightness": 91.5,
+    "mirek": 250,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Office"
+  },
+  {
+    "id": "bf24b824-f410-4873-8616-4f4b4188e5e5",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/11",
+    "key": "bedroom_left_lamp",
+    "owner": {
+      "rid": "7423c848-7896-4014-83cb-cefc2429f02a",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Bedroom left lamp",
+      "archetype": "table_shade",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": false,
+    "brightness": 53.3,
+    "mirek": 333,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Bedroom"
+  },
+  {
+    "id": "c7fa8cda-bad7-409a-80fa-7bf23b03a066",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/12",
+    "key": "bedroom_right_lamp",
+    "owner": {
+      "rid": "033bf885-944d-4a24-b644-90d207ff9eec",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Bedroom right lamp",
+      "archetype": "table_shade",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": false,
+    "brightness": 88.0,
+    "mirek": 250,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Bedroom"
+  },
+  {
+    "id": "683bcd56-c48f-45eb-91b4-98dcc11167b2",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/13",
+    "key": "bedroom_ceiling",
+    "owner": {
+      "rid": "32e99d06-f52f-426c-a2ee-38da04210404",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Bedroom ceiling",
+      "archetype": "ceiling_round",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": false,
+    "brightness": 69.8,
+    "mirek": 250,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Bedroom"
+  },
+  {
+    "id": "3a0dced2-aa10-4499-bc25-57182c45f834",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/14",
+    "key": "hallway_1",
+    "owner": {
+      "rid": "4f7a5149-97af-4b8f-8cca-49809ddaf212",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Hallway 1",
+      "archetype": "recessed_ceiling",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": true,
+    "brightness": 75.0,
+    "mirek": 333,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Hallway"
+  },
+  {
+    "id": "fa4df6ed-25fe-49ca-b2dc-82d8f6fb3e7b",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/15",
+    "key": "hallway_2",
+    "owner": {
+      "rid": "e292a1a0-5e02-4d42-80a7-95c96d32b199",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Hallway 2",
+      "archetype": "recessed_ceiling",
+      "function": "mixed"
+    },
+    "kind": "ambiance",
+    "on": false,
+    "brightness": 60.6,
+    "mirek": 250,
+    "xy": null,
+    "color_mode": "color_temperature",
+    "room": "Hallway"
+  },
+  {
+    "id": "aec751b5-6fd0-4362-8c70-f10f356d1756",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/16",
+    "key": "porch_light",
+    "owner": {
+      "rid": "940db10c-040e-462f-8ab7-027933178dbd",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Porch light",
+      "archetype": "wall_lantern",
+      "function": "mixed"
+    },
+    "kind": "color",
+    "on": false,
+    "brightness": 86.3,
+    "mirek": 250,
+    "xy": {
+      "x": 0.4573,
+      "y": 0.41
+    },
+    "color_mode": "color_temperature",
+    "room": "Front Porch"
+  },
+  {
+    "id": "734912a5-e62f-4ee6-b58b-4dcce7772706",
+    "owner_account_id": "acct-dana-whitfield",
+    "id_v1": "/lights/17",
+    "key": "garage_bulb",
+    "owner": {
+      "rid": "68cbda93-bf7d-4418-9273-4dab531522f3",
+      "rtype": "device"
+    },
+    "metadata": {
+      "name": "Garage bulb",
+      "archetype": "classic_bulb",
+      "function": "functional"
+    },
+    "kind": "white",
+    "on": false,
+    "brightness": 74.7,
+    "mirek": null,
+    "xy": null,
+    "color_mode": "brightness",
+    "room": "Garage"
+  }
+]

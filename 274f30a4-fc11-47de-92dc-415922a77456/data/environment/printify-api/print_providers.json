@@ -1,0 +1,42 @@
+[
+  {
+    "id": 27,
+    "title": "Lakefront Print Co",
+    "location": {
+      "city": "Milwaukee",
+      "country": "US"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Northgate Apparel Printing",
+    "location": {
+      "city": "Columbus",
+      "country": "US"
+    }
+  },
+  {
+    "id": 63,
+    "title": "Riverbend Mugworks",
+    "location": {
+      "city": "Asheville",
+      "country": "US"
+    }
+  },
+  {
+    "id": 88,
+    "title": "Prairie Poster House",
+    "location": {
+      "city": "Omaha",
+      "country": "US"
+    }
+  },
+  {
+    "id": 105,
+    "title": "Copper Kettle Print",
+    "location": {
+      "city": "Albany",
+      "country": "US"
+    }
+  }
+]

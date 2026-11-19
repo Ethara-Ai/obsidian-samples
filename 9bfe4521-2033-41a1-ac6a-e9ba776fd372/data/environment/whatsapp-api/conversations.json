@@ -1,0 +1,34 @@
+[
+ {
+  "conversation_id": "conv-rc-darnell",
+  "wa_id": "19015550176",
+  "started_at": "2025-03-02T17:00:00Z",
+  "last_message_at": "2026-12-05T21:48:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rc-banks",
+  "wa_id": "19015550291",
+  "started_at": "2025-03-02T17:00:00Z",
+  "last_message_at": "2026-12-03T22:25:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rc-calvin",
+  "wa_id": "19015550412",
+  "started_at": "2025-03-02T17:00:00Z",
+  "last_message_at": "2026-11-26T17:40:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ },
+ {
+  "conversation_id": "conv-rc-cedric",
+  "wa_id": "19015550418",
+  "started_at": "2025-03-02T17:00:00Z",
+  "last_message_at": "2026-12-04T01:12:00Z",
+  "origin": "user_initiated",
+  "within_24h_window": "true"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": "conv_3b9278e79ced17d3",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "number": "+19015550215",
+  "last_message_at": "2026-12-04T15:52:00-06:00"
+ },
+ {
+  "id": "conv_f43321d47788cc11",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "number": "+19015550264",
+  "last_message_at": "2026-12-04T12:10:00-06:00"
+ },
+ {
+  "id": "conv_0bc484039839d5df",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "number": "+19015550187",
+  "last_message_at": "2026-12-05T18:31:00-06:00"
+ },
+ {
+  "id": "conv_3b4a161ef605eb53",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "number": "+19015550233",
+  "last_message_at": "2026-12-05T20:10:00-06:00"
+ },
+ {
+  "id": "conv_d7373136ba757fe3",
+  "owner_account_id": "acct-reggie-clayton",
+  "line_id": "line_reggie_iphone",
+  "number": "+19015550153",
+  "last_message_at": "2026-12-06T13:45:00-06:00"
+ }
+]

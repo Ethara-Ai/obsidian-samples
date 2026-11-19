@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "Tailscale API Mock v2",
+    "description": "Mock Tailscale API v2. Base URL: http://localhost:8127. In docker-compose: http://tailscale-api:8127. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8127"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=tailscale-connector-app&client_secret=tscs_5f2c08e9d1a4b736"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"tailscale-connector-app\", \"client_secret\": \"tscs_5f2c08e9d1a4b736\", \"scope\": \"devices:core:read devices:core policy_file:read auth_keys auth_keys:read\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the tailnet's devices",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/tailnet/-/devices",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list the tailnet's devices with every field",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/tailnet/lakeshoredesign.example/devices?fields=all",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a device",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/device/8702887393191520?fields=all",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "authorize a device",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/v2/device/6144106679641269/authorized",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"authorized\": true}"
+        }
+      }
+    },
+    {
+      "name": "remove a device",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/api/v2/device/3094967552797073",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "read the access policy",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/tailnet/-/acl",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create an auth key",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/api/v2/tailnet/-/keys",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"capabilities\": {\"devices\": {\"create\": {\"reusable\": false, \"ephemeral\": false, \"preauthorized\": true, \"tags\": [\"tag:server\"]}}}, \"expirySeconds\": 86400, \"description\": \"enroll backup-02\"}"
+        }
+      }
+    },
+    {
+      "name": "get a key",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/v2/tailnet/-/keys/ktQ1LKuSI2aCNTRL",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

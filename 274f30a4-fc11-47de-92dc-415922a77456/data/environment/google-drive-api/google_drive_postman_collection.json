@@ -1,0 +1,384 @@
+{
+  "info": {
+    "name": "Google Drive API Mock v3",
+    "description": "Mock Google Drive API v3. Base URL: http://localhost:8106. In docker-compose: http://google-drive-api:8106. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8106"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default read scope)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=drive-connector-app&client_secret=gdcs_7c2e41a9d5b83f06"
+        }
+      }
+    },
+    {
+      "name": "token with write and sharing scopes",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"drive-connector-app\", \"client_secret\": \"gdcs_7c2e41a9d5b83f06\", \"scope\": \"drive.readonly drive.file drive.sharing\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list files",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files?pageSize=10&orderBy=modifiedTime%20desc",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "search files by name",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files?q=name%20contains%20'invoice'",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list folder contents",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files?q='1aRZ689Ly8tps6ueNXSI-ZQ6PZwSFvZGD0'%20in%20parents",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "retrieve file",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create folder",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/drive/v3/files",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"name\": \"Q4 Planning\", \"mimeType\": \"application/vnd.google-apps.folder\"}"
+        }
+      }
+    },
+    {
+      "name": "update file",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa?addParents=1rSB70Amcbioy36UmZViO5O27pPrGvK7TR&removeParents=1aRZ689Ly8tps6ueNXSI-ZQ6PZwSFvZGD0",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"starred\": true, \"description\": \"Brief for the three-hotel lobby refresh.\"}"
+        }
+      }
+    },
+    {
+      "name": "upload file",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/upload/drive/v3/files",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"name\": \"agenda.txt\", \"mimeType\": \"text/plain\", \"parents\": [\"1xv8gpPn_6ODLmxq1E6VLsJoBlj4zTRnWl\"], \"description\": \"Meeting agenda\", \"content\": \"Item 1\\nItem 2\\n\"}"
+        }
+      }
+    },
+    {
+      "name": "upload file as raw bytes",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/upload/drive/v3/files?uploadType=media",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "text/plain"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "Site visit at 10:00.\n"
+        }
+      }
+    },
+    {
+      "name": "download file content",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files/19dvEaGOwztUM45BoRPN0rq_nBdnJ4akvO?alt=media",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "replace file content",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/upload/drive/v3/files/19dvEaGOwztUM45BoRPN0rq_nBdnJ4akvO?uploadType=media",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "text/plain"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "Scratch notes, rewritten.\n"
+        }
+      }
+    },
+    {
+      "name": "delete file",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/drive/v3/files/19dvEaGOwztUM45BoRPN0rq_nBdnJ4akvO",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list permissions",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa/permissions",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "share with a colleague",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa/permissions",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"type\": \"user\", \"role\": \"commenter\", \"emailAddress\": \"priya.raman@lakeshoredesign.example\"}"
+        }
+      }
+    },
+    {
+      "name": "remove a permission",
+      "request": {
+        "method": "DELETE",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa/permissions/1947435574809659093",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list comments",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa/comments",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "add a comment",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/drive/v3/files/1nMTHxx2-YAvai5wOVjhSvMAzjbWQzuhLa/comments",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"content\": \"Please confirm the install dates.\", \"quotedFileContent\": {\"mimeType\": \"text/plain\", \"value\": \"milestones\"}}"
+        }
+      }
+    },
+    {
+      "name": "list revisions",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files/17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd/revisions",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "retrieve revision",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/drive/v3/files/17Er-fyawWVMekXr_X-vqPoPMUgbnitdJd/revisions/0B0gOv-DUkIC9LFD5Gihb1LhZwpIT0Qv",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "keep revision forever",
+      "request": {
+        "method": "PATCH",
+        "url": "{{baseUrl}}/drive/v3/files/1GTE1fjcPm0o73iICc76gmBRIlReWcE5_C/revisions/0Btc7iGlkYiWmM8W539s_QJ61pdrq2UO",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"keepForever\": true}"
+        }
+      }
+    }
+  ]
+}

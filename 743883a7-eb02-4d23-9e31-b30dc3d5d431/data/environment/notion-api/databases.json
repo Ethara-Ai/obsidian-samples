@@ -1,0 +1,131 @@
+[
+ {
+  "id": "1bfc17da-1eb8-59af-8635-db201cbe87d7",
+  "account_id": "acct-brittany-morales",
+  "parent": {
+   "type": "workspace",
+   "workspace": true
+  },
+  "title": "Listings",
+  "description": "One record per listing: the fields I enter on Stellar MLS. Open each record for its notes.",
+  "icon": {
+   "type": "emoji",
+   "emoji": "🏡"
+  },
+  "properties": {
+   "Address": {
+    "id": "title",
+    "type": "title",
+    "title": {}
+   },
+   "Status": {
+    "id": "sTa1",
+    "type": "select",
+    "select": {
+     "options": [
+      {
+       "id": "e599",
+       "name": "Prep",
+       "color": "gray"
+      },
+      {
+       "id": "0913",
+       "name": "Coming Soon",
+       "color": "blue"
+      },
+      {
+       "id": "778b",
+       "name": "Active",
+       "color": "green"
+      },
+      {
+       "id": "bbe3",
+       "name": "Pending",
+       "color": "orange"
+      },
+      {
+       "id": "bd5d",
+       "name": "Sold",
+       "color": "red"
+      }
+     ]
+    }
+   },
+   "List Price": {
+    "id": "pRc1",
+    "type": "number",
+    "number": {
+     "format": "dollar"
+    }
+   },
+   "Beds": {
+    "id": "bDs1",
+    "type": "number",
+    "number": {
+     "format": "number"
+    }
+   },
+   "Baths": {
+    "id": "bTh1",
+    "type": "number",
+    "number": {
+     "format": "number"
+    }
+   },
+   "Garage Spaces": {
+    "id": "gRg1",
+    "type": "number",
+    "number": {
+     "format": "number"
+    }
+   },
+   "Heated SqFt": {
+    "id": "sQf1",
+    "type": "number",
+    "number": {
+     "format": "number_with_commas"
+    }
+   },
+   "Year Built": {
+    "id": "yRb1",
+    "type": "number",
+    "number": {
+     "format": "number"
+    }
+   },
+   "Roof Year": {
+    "id": "rFy1",
+    "type": "number",
+    "number": {
+     "format": "number"
+    }
+   },
+   "Impact Windows": {
+    "id": "iMp1",
+    "type": "checkbox",
+    "checkbox": {}
+   },
+   "Open House": {
+    "id": "oPh1",
+    "type": "rich_text",
+    "rich_text": {}
+   },
+   "Public Remarks": {
+    "id": "rMk1",
+    "type": "rich_text",
+    "rich_text": {}
+   },
+   "Seller": {
+    "id": "sLr1",
+    "type": "rich_text",
+    "rich_text": {}
+   }
+  },
+  "is_inline": false,
+  "archived": false,
+  "created_time": "2025-09-12T14:00:00.000Z",
+  "created_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee",
+  "last_edited_time": "2026-10-20T23:40:00.000Z",
+  "last_edited_by": "23dd3501-a17f-5d46-add6-3cb93f0cbfee"
+ }
+]

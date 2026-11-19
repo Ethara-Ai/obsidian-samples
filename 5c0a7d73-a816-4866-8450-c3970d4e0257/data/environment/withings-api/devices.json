@@ -1,0 +1,50 @@
+[
+  {
+    "deviceid": "d9cf7d1a4fd3ff3ab414ce86651f10799eef9e6a",
+    "hash_deviceid": "3dd07e72e96b21a6ff7c99cc74e5d17e41bc9411",
+    "owner_account_id": "acct-dana-whitfield",
+    "type": "Scale",
+    "model": "Body+",
+    "model_id": 5,
+    "battery": "medium",
+    "timezone": "America/Chicago",
+    "first_session_date": 1780150440,
+    "last_session_date": 1791198028
+  },
+  {
+    "deviceid": "31bb53de12e0f7c97efd9669c85187a3c093e3a7",
+    "hash_deviceid": "2e98acca53b8f10b1decbe5bc4ab17e93f45cef0",
+    "owner_account_id": "acct-dana-whitfield",
+    "type": "Blood Pressure Monitor",
+    "model": "BPM Connect",
+    "model_id": 45,
+    "battery": "high",
+    "timezone": "America/Chicago",
+    "first_session_date": 1780452180,
+    "last_session_date": 1790993476
+  },
+  {
+    "deviceid": "3af0528cc16665ce669539a6a917d62365ed01d2",
+    "hash_deviceid": "f13406647aa86f6bd50f5954ba9950de88242569",
+    "owner_account_id": "acct-dana-whitfield",
+    "type": "Activity Tracker",
+    "model": "ScanWatch 2",
+    "model_id": 93,
+    "battery": "low",
+    "timezone": "America/Chicago",
+    "first_session_date": 1781998800,
+    "last_session_date": 1791203160
+  },
+  {
+    "deviceid": "2e0a9d58cf7763744c17f98e551e88a25f2b0523",
+    "hash_deviceid": "35b3a608e39bda684f9bf7dc161bfe91ab9381a0",
+    "owner_account_id": "acct-dana-whitfield",
+    "type": "Sleep Monitor",
+    "model": "Sleep Analyzer",
+    "model_id": 63,
+    "battery": "high",
+    "timezone": "America/Chicago",
+    "first_session_date": 1782014100,
+    "last_session_date": 1791197649
+  }
+]

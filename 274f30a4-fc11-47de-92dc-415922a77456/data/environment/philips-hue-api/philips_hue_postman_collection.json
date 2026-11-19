@@ -1,0 +1,230 @@
+{
+  "info": {
+    "name": "Philips Hue API Mock v2",
+    "description": "Mock Philips Hue API v2. Base URL: http://localhost:8131. In docker-compose: http://philips-hue-api:8131. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8131"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=hue-connector-app&client_secret=huecs_9d04b1e7a63c52f8"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"hue-connector-app\", \"client_secret\": \"huecs_9d04b1e7a63c52f8\", \"scope\": \"hue.read hue.control\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list lights",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clip/v2/resource/light",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a light",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clip/v2/resource/light/aec751b5-6fd0-4362-8c70-f10f356d1756",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "turn a light on and set its brightness and colour temperature",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/clip/v2/resource/light/aec751b5-6fd0-4362-8c70-f10f356d1756",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"on\": {\"on\": true}, \"dimming\": {\"brightness\": 80}, \"color_temperature\": {\"mirek\": 370}}"
+        }
+      }
+    },
+    {
+      "name": "set a light's colour",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/clip/v2/resource/light/b3d4eced-4a86-4507-9003-d5289ea69f9b",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"on\": {\"on\": true}, \"color\": {\"xy\": {\"x\": 0.2142, \"y\": 0.1305}}, \"dynamics\": {\"duration\": 400}}"
+        }
+      }
+    },
+    {
+      "name": "turn a light off",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/clip/v2/resource/light/4adde52c-1261-4590-9636-48adf3ad1856",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"on\": {\"on\": false}}"
+        }
+      }
+    },
+    {
+      "name": "list rooms",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clip/v2/resource/room",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list scenes",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/clip/v2/resource/scene",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "recall a scene",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/clip/v2/resource/scene/07664531-3015-4f7d-a59a-94d733c49245",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"recall\": {\"action\": \"active\"}}"
+        }
+      }
+    },
+    {
+      "name": "play a scene's palette, dimmed",
+      "request": {
+        "method": "PUT",
+        "url": "{{baseUrl}}/clip/v2/resource/scene/f8996042-a2b3-4c02-b17f-b703ff3ed96b",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"recall\": {\"action\": \"dynamic_palette\", \"dimming\": {\"brightness\": 40}}}"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[service]
+name = "duffel-api"
+port = 8105
+env_var_name = "DUFFEL_API_URL"
+healthcheck_path = "/health"

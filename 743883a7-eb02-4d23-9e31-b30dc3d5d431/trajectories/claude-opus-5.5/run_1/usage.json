@@ -1,0 +1,252 @@
+{
+  "input_tokens": 820,
+  "output_tokens": 269311,
+  "cache_read_tokens": 30890539,
+  "cache_write_tokens": 2155615,
+  "total_tokens": 33316285,
+  "request_count": 409,
+  "cost_usd": 22.086072,
+  "auth_provider": "oauth",
+  "sources": {
+    "agent": {
+      "input_tokens": 478,
+      "output_tokens": 68889,
+      "cache_read_tokens": 7950814,
+      "cache_write_tokens": 906804,
+      "total_tokens": 8926985,
+      "audio_seconds": 0.0,
+      "cost_usd": 7.503875,
+      "request_count": 124,
+      "usage_source": "litellm_run_key",
+      "usage_attribution": "run_key",
+      "elapsed_time": 806.56
+    },
+    "preflight": {
+      "input_tokens": 34,
+      "output_tokens": 1,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "total_tokens": 35,
+      "audio_seconds": 0.0,
+      "cost_usd": 0.0,
+      "request_count": 1,
+      "usage_source": "litellm"
+    },
+    "judge": {
+      "input_tokens": 110,
+      "output_tokens": 68188,
+      "cache_read_tokens": 7979224,
+      "cache_write_tokens": 415044,
+      "total_tokens": 8462566,
+      "request_count": 102,
+      "cost_usd": 4.973332,
+      "cost_priced_ok": true,
+      "per_member": {
+        "sonnet": {
+          "model": "claude-sonnet-4-6",
+          "input_tokens": 110,
+          "output_tokens": 68188,
+          "cache_read_tokens": 7979224,
+          "cache_write_tokens": 415044,
+          "total_tokens": 8462566,
+          "request_count": 102,
+          "cost_usd": 4.973332,
+          "ok": true,
+          "cost_priced_ok": true
+        }
+      }
+    },
+    "image": {
+      "requests": 1,
+      "images_requested": 1,
+      "images": 1,
+      "refused": 0,
+      "refused_reasons": {},
+      "models": [
+        "meta/muse-image"
+      ],
+      "cost_usd": 0.01,
+      "cost_source": "provider",
+      "token_usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 998,
+        "total_tokens": 1109,
+        "image_tokens": 998
+      }
+    },
+    "judge_superseded": {
+      "input_tokens": 198,
+      "output_tokens": 132233,
+      "cache_read_tokens": 14960501,
+      "cache_write_tokens": 833767,
+      "total_tokens": 15926699,
+      "request_count": 182,
+      "cost_usd": 9.598865,
+      "cost_priced_ok": true,
+      "attempts": [
+        {
+          "grader": "agentic",
+          "status": "superseded",
+          "source": "usage.json",
+          "input_tokens": 105,
+          "output_tokens": 72391,
+          "cache_read_tokens": 8093932,
+          "cache_write_tokens": 380081,
+          "total_tokens": 8546509,
+          "request_count": 99,
+          "cost_usd": 4.939663,
+          "cost_priced_ok": true,
+          "per_member": {
+            "sonnet": {
+              "model": "claude-sonnet-4-6",
+              "input_tokens": 105,
+              "output_tokens": 72391,
+              "cache_read_tokens": 8093932,
+              "cache_write_tokens": 380081,
+              "total_tokens": 8546509,
+              "request_count": 99,
+              "cost_usd": 4.939663,
+              "ok": true,
+              "cost_priced_ok": true
+            }
+          }
+        },
+        {
+          "grader": "agentic",
+          "status": "superseded",
+          "source": "usage.json",
+          "input_tokens": 93,
+          "output_tokens": 59842,
+          "cache_read_tokens": 6866569,
+          "cache_write_tokens": 453686,
+          "total_tokens": 7380190,
+          "request_count": 83,
+          "cost_usd": 4.659202,
+          "cost_priced_ok": true,
+          "per_member": {
+            "sonnet": {
+              "model": "claude-sonnet-4-6",
+              "input_tokens": 93,
+              "output_tokens": 59842,
+              "cache_read_tokens": 6866569,
+              "cache_write_tokens": 453686,
+              "total_tokens": 7380190,
+              "request_count": 83,
+              "cost_usd": 4.659202,
+              "ok": true,
+              "cost_priced_ok": true
+            }
+          }
+        }
+      ]
+    }
+  },
+  "pricing": {
+    "card_version": "f11499585256",
+    "agent": {
+      "rates_source": "card",
+      "card_id": "claude-opus-5-5",
+      "match": "exact",
+      "rates_per_mtok": [
+        4.0,
+        20.0,
+        0.2,
+        5.0
+      ]
+    },
+    "judge": {
+      "sonnet": {
+        "rates_source": "card",
+        "card_id": "claude-sonnet-4-6",
+        "match": "exact",
+        "rates_per_mtok": [
+          3.0,
+          15.0,
+          0.3,
+          3.75
+        ]
+      }
+    }
+  },
+  "effort_pin": {
+    "effort": "medium",
+    "models": "opus"
+  },
+  "model": "claude-opus-5.5",
+  "audio_seconds": 0.0,
+  "usage_source": "litellm_run_key",
+  "usage_attribution": {
+    "status": "attributed",
+    "messages": 93,
+    "rows_selected": 124,
+    "rows_internal": 25,
+    "rows_post_agent": 0,
+    "rows_zero_token": 0,
+    "rows_other_session": 6,
+    "rows_unmatched": 0
+  },
+  "elapsed_time": 806.56,
+  "internal_calls": {
+    "input_tokens": 244,
+    "output_tokens": 267,
+    "cache_read_tokens": 0,
+    "cache_write_tokens": 29672,
+    "total_tokens": 30183,
+    "audio_seconds": 0.0,
+    "cost_usd": 0.153721,
+    "request_count": 25,
+    "by_purpose": {
+      "embeddings": {
+        "input_tokens": 240,
+        "output_tokens": 0,
+        "cache_read_tokens": 0,
+        "cache_write_tokens": 0,
+        "total_tokens": 240,
+        "audio_seconds": 0.0,
+        "cost_usd": 5e-06,
+        "request_count": 24
+      },
+      "heartbeat": {
+        "input_tokens": 4,
+        "output_tokens": 267,
+        "cache_read_tokens": 0,
+        "cache_write_tokens": 29672,
+        "total_tokens": 29943,
+        "audio_seconds": 0.0,
+        "cost_usd": 0.153716,
+        "request_count": 1
+      }
+    }
+  },
+  "other_session_calls": {
+    "input_tokens": 14,
+    "output_tokens": 1727,
+    "cache_read_tokens": 207212,
+    "cache_write_tokens": 8713,
+    "total_tokens": 217666,
+    "audio_seconds": 0.0,
+    "cost_usd": 0.119603,
+    "request_count": 6,
+    "by_session": {
+      "a05cdcf4-747f-4d08-b5a5-5fc3b9ca4fc9": {
+        "input_tokens": 14,
+        "output_tokens": 1727,
+        "cache_read_tokens": 207212,
+        "cache_write_tokens": 8713,
+        "total_tokens": 217666,
+        "audio_seconds": 0.0,
+        "cost_usd": 0.119603,
+        "request_count": 6,
+        "assistant_messages": 7,
+        "session_file": "a05cdcf4-747f-4d08-b5a5-5fc3b9ca4fc9.jsonl",
+        "session_key": "agent:main:main",
+        "origin": {
+          "label": "heartbeat",
+          "provider": "heartbeat",
+          "from": "heartbeat",
+          "to": "heartbeat"
+        }
+      }
+    }
+  }
+}

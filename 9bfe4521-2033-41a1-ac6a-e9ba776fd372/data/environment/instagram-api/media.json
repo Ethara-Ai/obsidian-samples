@@ -1,0 +1,62 @@
+[
+  {
+    "id": "18050100000000001",
+    "ig_user_id": "17841400000000101",
+    "media_type": "IMAGE",
+    "media_product_type": "FEED",
+    "caption": "Brisket off the pit after fourteen hours. Rest, slice, eat.",
+    "media_url": "https://cdn.mock-instagram.example/m/brisket_01.jpg",
+    "permalink": "https://www.instagram.com/p/SMK001/",
+    "timestamp": "2026-09-13T22:10:00+0000",
+    "like_count": "74",
+    "is_comment_enabled": "true"
+  },
+  {
+    "id": "18050100000000002",
+    "ig_user_id": "17841400000000101",
+    "media_type": "IMAGE",
+    "media_product_type": "FEED",
+    "caption": "Fall contest day. Team Smoke Ring set up and ready.",
+    "media_url": "https://cdn.mock-instagram.example/m/contest_02.jpg",
+    "permalink": "https://www.instagram.com/p/SMK002/",
+    "timestamp": "2026-10-24T14:30:00+0000",
+    "like_count": "58",
+    "is_comment_enabled": "true"
+  },
+  {
+    "id": "18050100000000003",
+    "ig_user_id": "17841400000000101",
+    "media_type": "IMAGE",
+    "media_product_type": "FEED",
+    "caption": "Reverse-flow smoker lit before sunrise.",
+    "media_url": "https://cdn.mock-instagram.example/m/smoker_03.jpg",
+    "permalink": "https://www.instagram.com/p/SMK003/",
+    "timestamp": "2026-11-07T11:05:00+0000",
+    "like_count": "41",
+    "is_comment_enabled": "true"
+  },
+  {
+    "id": "18050200000000001",
+    "ig_user_id": "17841400000000102",
+    "media_type": "IMAGE",
+    "media_product_type": "FEED",
+    "caption": "End of semester: student tool totes, welded and painted.",
+    "media_url": "https://cdn.mock-instagram.example/m/totes_01.jpg",
+    "permalink": "https://www.instagram.com/p/RWY001/",
+    "timestamp": "2026-06-05T16:00:00+0000",
+    "like_count": "37",
+    "is_comment_enabled": "true"
+  },
+  {
+    "id": "18050200000000002",
+    "ig_user_id": "17841400000000102",
+    "media_type": "IMAGE",
+    "media_product_type": "FEED",
+    "caption": "Homecoming float frame built in the shop.",
+    "media_url": "https://cdn.mock-instagram.example/m/float_02.jpg",
+    "permalink": "https://www.instagram.com/p/RWY002/",
+    "timestamp": "2026-10-17T20:15:00+0000",
+    "like_count": "52",
+    "is_comment_enabled": "true"
+  }
+]

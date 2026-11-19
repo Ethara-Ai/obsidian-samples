@@ -1,0 +1,816 @@
+[
+ {
+  "id": "98056c8c-082e-54c2-bf73-fc88eb894f43",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 0,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Measuring and sizing",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Measuring and sizing",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "4a59dcc7-20e9-5c98-bbc3-21fbe020aecd",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 1,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Size every piece from the latest site measurement, as the tape or the laser itself reads, and from the latest photos of the room. A drawing set shows a house as it was surveyed, before any rough-in, so its dimensions are a starting point only.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Size every piece from the latest site measurement, as the tape or the laser itself reads, and from the latest photos of the room. A drawing set shows a house as it was surveyed, before any rough-in, so its dimensions are a starting point only.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "d4b17ede-dac5-54f4-954a-fd01cdc10a0b",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 2,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A sofa keeps at least 18 inches clear at each open end of its wall, for a side table or a way through. Where a sofa meets another piece of furniture, 4 inches between them is enough. Take that piece's size from a tape or its tag, never from an estimate.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A sofa keeps at least 18 inches clear at each open end of its wall, for a side table or a way through. Where a sofa meets another piece of furniture, 4 inches between them is enough. Take that piece's size from a tape or its tag, never from an estimate.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "9959bf6d-efc8-5312-9da5-7f9b5fba2065",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 3,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Order the longest standard length that fits.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Order the longest standard length that fits.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "0c9497f1-b1be-5fb9-88c9-06e333e232c0",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 4,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Upholstery",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Upholstery",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "2484e75a-5b83-548c-bfb6-e88c580feffe",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 5,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Upholstery in a room that children or pets use is held to ACT's high-traffic upholstery guideline for woven fabrics, indoor use. Read the figure on ACT's own guideline pages (contracttextiles.org/performance-guidelines) and hold each fabric's tested result, as its tag gives it, against it. A mill's own \"heavy duty\" or \"family friendly\" wording is not a test result.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Upholstery in a room that children or pets use is held to ACT's high-traffic upholstery guideline for woven fabrics, indoor use. Read the figure on ACT's own guideline pages (contracttextiles.org/performance-guidelines) and hold each fabric's tested result, as its tag gives it, against it. A mill's own \"heavy duty\" or \"family friendly\" wording is not a test result.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "7c1839a0-e90e-59f6-b190-3c8f63393959",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 6,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Call a fabric by the mill's name and number on its tag. Phone photos are not colour-true, so never settle a colour from how a photo looks on screen.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Call a fabric by the mill's name and number on its tag. Phone photos are not colour-true, so never settle a colour from how a photo looks on screen.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "41387940-5bc0-517e-9304-e3f897436864",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 7,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "COM: before a COM order goes in, the mill's cutting for approval (CFA) from the current dye lot has to be in hand, and the mill's own card has to show that one lot covering the full yardage. Never split dye lots on one piece.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "COM: before a COM order goes in, the mill's cutting for approval (CFA) from the current dye lot has to be in hand, and the mill's own card has to show that one lot covering the full yardage. Never split dye lots on one piece.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "f0ee4019-df89-54fb-9f54-507c2cd59c78",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 8,
+  "type": "heading_2",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Prices and approvals",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Prices and approvals",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "17b25179-4350-528c-9165-665df79d5ec6",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 9,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Prices come from the project's order list here in Notion, which Priya keeps current. A quote saved in Drive is a snapshot of the day it was issued.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Prices come from the project's order list here in Notion, which Priya keeps current. A quote saved in Drive is a snapshot of the day it was issued.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "8f4b37bb-1c23-5de6-8ffa-778bfb0963e9",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "6cd8a48f-ee2f-5ce2-91fb-c244a602317c"
+  },
+  "position": 10,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Any line of $400 or more needs the client's written sign-off before Priya orders it, and my approval as well.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Any line of $400 or more needs the client's written sign-off before Priya orders it, and my approval as well.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-09-14T13:20:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-09-14T13:20:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "438e74ce-bd65-51fb-9203-2548178b9e15",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Walkthrough with Claire, October 14.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Walkthrough with Claire, October 14.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-15T12:30:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-15T12:30:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "9994d21a-0fed-567d-b395-8e31ad712e5e",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 1,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Calm and warm, to sit with the new kitchen. It has to live with Biscuit, her Labrador, and the grandchildren every Sunday.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Calm and warm, to sit with the new kitchen. It has to live with Biscuit, her Labrador, and the grandchildren every Sunday.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-15T12:30:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-15T12:30:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "f6cee36e-c32c-583f-b31b-45bb2bcb2541",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 2,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Sofa on the long wall, a Maison Verde Hollis in COM. Emma is taking the pine shelves and the crates.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Sofa on the long wall, a Maison Verde Hollis in COM. Emma is taking the pine shelves and the crates.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-15T12:30:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-15T12:30:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "600d8b59-326d-5787-9d2a-433a0353619e",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 3,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Priya to film the room, laser-measure the long wall and take the Halden swatches to Claire.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Priya to film the room, laser-measure the long wall and take the Halden swatches to Claire.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-15T12:30:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-15T12:30:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "d5cab926-7c25-5745-b6f3-ee4be60493ba",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 4,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Present the concept and the order list to Claire on October 29.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Present the concept and the order list to Claire on October 29.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-15T12:30:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-15T12:30:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "f63a701b-923d-5fe8-bf46-f372db2af528",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "8c4173f3-d3e5-5e9d-8163-c2b7f6c257db"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Slab hold at Cathedral Stone; cabinetry review with the Foxhalls on October 27.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Slab hold at Cathedral Stone; cabinetry review with the Foxhalls on October 27.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-20T14:05:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-20T14:05:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "2f621e87-1a91-51fc-9fe1-e57fc2b85c34",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "0e4e086f-8bb2-51da-82f0-698c946a0152"
+  },
+  "position": 0,
+  "type": "paragraph",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Thanksgiving: twelve at the table. Roast turkey, chestnut dressing, whole roast cauliflower, two pies.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Thanksgiving: twelve at the table. Roast turkey, chestnut dressing, whole roast cauliflower, two pies.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-04T23:10:00.000Z",
+  "created_by": "c91fac35-a236-5331-af3a-4e4cf6364329",
+  "last_edited_time": "2026-10-04T23:10:00.000Z",
+  "last_edited_by": "c91fac35-a236-5331-af3a-4e4cf6364329"
+ },
+ {
+  "id": "696f8cec-cad2-59cd-a0f6-c0ac85877a50",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 5,
+  "type": "heading_3",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Calls with Claire",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Calls with Claire",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-19T19:05:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-19T19:05:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "fe3eaccc-497b-5099-96f1-79e66b4ebd74",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "85648188-6e39-532d-a094-d6f18978eb29"
+  },
+  "position": 6,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Oct 19, Priya: Claire rang: she'd rather see the Halden swatches in the room itself, so I'll take them to Dumbarton on Friday when I film and measure.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Oct 19, Priya: Claire rang: she'd rather see the Halden swatches in the room itself, so I'll take them to Dumbarton on Friday when I film and measure.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-19T19:05:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-19T19:05:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "33a0a066-2560-5252-b19b-89188cedb54b",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "c327a8ab-8d1d-5689-8792-d4a627b1e174"
+  },
+  "position": 0,
+  "type": "heading_3",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Project log",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Project log",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-20T15:50:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-20T15:50:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ },
+ {
+  "id": "35313ee3-ec86-5743-a63e-3f9097b86141",
+  "account_id": "acct-jessica-wright",
+  "parent": {
+   "type": "page_id",
+   "page_id": "c327a8ab-8d1d-5689-8792-d4a627b1e174"
+  },
+  "position": 1,
+  "type": "bulleted_list_item",
+  "payload": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Oct 20, Priya: Daniel says the powder room sconce is still at the repair shop; Harrow and Bay will rehang it when it's back.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Oct 20, Priya: Daniel says the powder room sconce is still at the repair shop; Harrow and Bay will rehang it when it's back.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false,
+  "created_time": "2026-10-20T15:50:00.000Z",
+  "created_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f",
+  "last_edited_time": "2026-10-20T15:50:00.000Z",
+  "last_edited_by": "9c6e6a98-dc03-5d89-b410-1b658ccdf62f"
+ }
+]

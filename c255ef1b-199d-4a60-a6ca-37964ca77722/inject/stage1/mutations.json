@@ -1,0 +1,48 @@
+{
+  "stage": 1,
+  "stage_name": "catchup_notes_land",
+  "description": "Monday 17:10: the notes of Monday's weekly catch-up with the commissioning editor gain two lines: the master now due on a later date and the number of stills she wants. Nothing announces it.",
+  "applies_between_turns": [
+    "T4",
+    "T5"
+  ],
+  "applied_at_local_time": "2026-11-30T17:10:00+00:00",
+  "mutations": {
+    "filesystem": [],
+    "loud": [],
+    "silent": [
+      {
+        "id": "sil_notes_catchup_extension",
+        "service": "google-calendar-api",
+        "description": "The commissioning editor's post-call note on the weekly catch-up: the master moves to 18 December.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-be81f8a748b4b745",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-be81f8a748b4b745",
+          "set": {
+            "description": "Post-call: extension agreed. Master now due Fri 18 Dec."
+          }
+        },
+        "fires_at_turn": "T5"
+      },
+      {
+        "id": "sil_notes_catchup_stills",
+        "service": "google-calendar-api",
+        "description": "The commissioning editor's post-call note on the weekly catch-up: eight stills.",
+        "method": "PATCH",
+        "path": "/calendars/margaret.edwards@Finthesiss.ai/events/evt-be81f8a748b4b745",
+        "admin": {
+          "op": "patch",
+          "table": "events",
+          "pk": "evt-be81f8a748b4b745",
+          "set": {
+            "description": "Post-call: extension agreed. Master now due Fri 18 Dec. Eight production stills wanted."
+          }
+        },
+        "fires_at_turn": "T5"
+      }
+    ]
+  }
+}

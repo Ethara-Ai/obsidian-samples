@@ -1,0 +1,26 @@
+[
+  {
+    "ig_user_id": "17841400000000101",
+    "date": "2026-11-08",
+    "reach": "240",
+    "impressions": "390",
+    "profile_views": "31",
+    "website_clicks": "0"
+  },
+  {
+    "ig_user_id": "17841400000000101",
+    "date": "2026-11-09",
+    "reach": "205",
+    "impressions": "340",
+    "profile_views": "28",
+    "website_clicks": "0"
+  },
+  {
+    "ig_user_id": "17841400000000102",
+    "date": "2026-11-08",
+    "reach": "96",
+    "impressions": "150",
+    "profile_views": "12",
+    "website_clicks": "0"
+  }
+]

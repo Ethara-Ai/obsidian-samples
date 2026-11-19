@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prac-okonkwo",
+    "name": "Celia Okonkwo-Hart",
+    "credential": "MD",
+    "organization_id": "org-lakefront"
+  },
+  {
+    "id": "prac-brandt",
+    "name": "Marcus Brandt",
+    "credential": "PA-C",
+    "organization_id": "org-lakefront"
+  },
+  {
+    "id": "prac-lindell",
+    "name": "Ruth Lindell",
+    "credential": "MD",
+    "organization_id": "org-linden"
+  },
+  {
+    "id": "prac-farrow",
+    "name": "Tobias Farrow",
+    "credential": "MD",
+    "organization_id": "org-sheridan"
+  },
+  {
+    "id": "prac-aguilar",
+    "name": "Inez Aguilar",
+    "credential": "MD",
+    "organization_id": "org-halsted"
+  },
+  {
+    "id": "prac-weiss",
+    "name": "Hollis Weiss",
+    "credential": "DPT",
+    "organization_id": "org-halsted"
+  },
+  {
+    "id": "prac-tan",
+    "name": "Gregory Tan",
+    "credential": "OD",
+    "organization_id": "org-clearview"
+  },
+  {
+    "id": "prac-pharm",
+    "name": "Naomi Pruitt",
+    "credential": "PharmD",
+    "organization_id": "org-ridgeline"
+  }
+]

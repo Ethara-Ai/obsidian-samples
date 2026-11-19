@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pt-00001",
+    "playlist_id": "4fa25828141bcba277eed8",
+    "position": "0",
+    "item_uri": "spotify:track:7ae64cada55f441546fea6",
+    "added_at": "2026-07-11T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00002",
+    "playlist_id": "4fa25828141bcba277eed8",
+    "position": "1",
+    "item_uri": "spotify:track:174d599c7ea2a4587f8428",
+    "added_at": "2026-08-12T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00003",
+    "playlist_id": "4fa25828141bcba277eed8",
+    "position": "2",
+    "item_uri": "spotify:track:e3b9461f292c3746961871",
+    "added_at": "2026-06-13T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00004",
+    "playlist_id": "d9e0873bdc5c2eed8b4cb4",
+    "position": "0",
+    "item_uri": "spotify:track:a77bb68ebc39ad9a43a618",
+    "added_at": "2026-07-14T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00005",
+    "playlist_id": "d9e0873bdc5c2eed8b4cb4",
+    "position": "1",
+    "item_uri": "spotify:track:02cd6e1ca8526705a12a0f",
+    "added_at": "2026-08-15T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00006",
+    "playlist_id": "f36b894d7cc8ca86e3c0fc",
+    "position": "0",
+    "item_uri": "spotify:track:28e91f3f5364839a584e91",
+    "added_at": "2026-06-16T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00007",
+    "playlist_id": "f36b894d7cc8ca86e3c0fc",
+    "position": "1",
+    "item_uri": "spotify:track:cd4e71e83cbd68224cea60",
+    "added_at": "2026-07-17T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00008",
+    "playlist_id": "f36b894d7cc8ca86e3c0fc",
+    "position": "2",
+    "item_uri": "spotify:track:7817b3f36e00430d1a4087",
+    "added_at": "2026-08-18T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00009",
+    "playlist_id": "f36b894d7cc8ca86e3c0fc",
+    "position": "3",
+    "item_uri": "spotify:track:e5074e00f65cb079189da1",
+    "added_at": "2026-06-10T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  },
+  {
+    "id": "pt-00010",
+    "playlist_id": "f36b894d7cc8ca86e3c0fc",
+    "position": "4",
+    "item_uri": "spotify:track:12c502206d369733590ac0",
+    "added_at": "2026-07-11T19:19:00Z",
+    "added_by_id": "reggie_clayton901"
+  }
+]

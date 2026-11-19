@@ -1,0 +1,5 @@
+[service]
+name = "peloton-api"
+port = 8134
+env_var_name = "PELOTON_API_URL"
+healthcheck_path = "/health"

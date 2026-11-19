@@ -1,0 +1,57 @@
+# task_id: brittany_morales_stellar_listing_launch
+# persona: Brittany Morales
+# timezone: America/New_York
+# window: 2026-10-26 to 2026-10-30 (5 days)
+# turns: 17
+# Source: compiled from declarative source by script/compile_declarative_task.py
+
+--- TURN T0 (Day 1, 08:10) ---
+morning! the ellerys' place at 5759 w sea grape ln goes coming soon on stellar wednesday and active friday, open house saturday 2 to 4 like always. joanne's questionnaire answers are in her email, and her floor plan scan, her coming soon graphic and gabi's two photos are in the 5759 w sea grape ln folder in my drive. my own photos from staging day are in my pictures. check what the ellerys told us against the photos and the plan, and get the listing record in my notion tracker right by my listing launch standards. nothing goes to the ellerys or anyone else, everything comes through me
+
+--- TURN T1 (Day 1, 11:05) ---
+make 5759_sea_grape_feature_sheet.pdf for the open house table: one page, gabi's front photo across the top, then beds, baths, garage, heated sq ft, year built, roof year, windows and the list price, four or five highlight bullets, and my contact line at the bottom
+
+--- TURN T2 (Day 1, 14:20) ---
+now the public remarks for stellar. write them into the public remarks field of the listing record and tell me the character count
+
+--- TURN T3 (Day 1, 17:30) ---
+joanne wants her coming soon graphic on my instagram tonight. can it go up as is? if not, make a fixed one from gabi's front photo, coming_soon_5759.png, same idea, and tell me what you changed. i'll look at it before anything posts
+
+--- TURN T4 (Day 1, 19:15) ---
+post your coming soon graphic to my instagram feed now with a caption. put the png in my instagram folder in drive first so the post can pull it from there
+
+--- TURN T5 (Day 1, 20:30) ---
+dana pruitt from my westchase open house asked me if sea grape needs flood insurance. give me one line i can text her back
+
+--- TURN T6 (Day 2, 08:15) ---
+the ellerys sign their seller's disclosure thursday at 10. make 5759_sea_grape_disclosure_checklist.docx so joanne can fix her answers before then: every point where what they told us doesn't match the house, what we found and where we found it, and a photo crop for anything a photo shows
+
+--- TURN T7 (Day 2, 09:40) ---
+diana has buyers who need 4 bedrooms in south tampa under 700k and asked me about sea grape. give me one line i can text her back
+
+--- TURN T8 (Day 2, 11:20) ---
+put saturday's open house on my calendar and invite joanne so she knows when the house has to be ready, and tell me what time they need to be out by
+
+--- TURN T9 (Day 2, 12:20) ---
+post gabi's living room photo of sea grape to my instagram feed now as a sneak peek, with a caption that gives one staging tip from that room. put it in my instagram folder in drive first so the post can pull it from there
+
+--- TURN T10 (Day 2, 16:10) ---
+now the open house card for instagram, open_house_5759.png at 1080x1350. background: generate a photo of royal palms along a quiet south tampa street in late afternoon light, no house in it. set the date and time, the address, the price, beds and baths and my name and number over it, plus whatever the advertising rule needs. then give me the caption i'll post it with tonight
+
+--- TURN T11 (Day 2, 17:40) ---
+post the open house card to my instagram feed now with a caption. put the png in my instagram folder in drive first so the post can pull it from there
+
+--- TURN T12 (Day 2, 19:15) ---
+write me a short text i can send my past clients tonight about sea grape going coming soon tomorrow, with the price and the open house day and time
+
+--- TURN T13 (Day 3, 09:20) ---
+we're coming soon on stellar today! flip the listing record's status to coming soon and give me a short blurb for this week's newsletter with the heated sq ft and the price per heated sq ft
+
+--- TURN T14 (Day 4, 08:05) ---
+the ellerys sign at 10. email me 5759_sea_grape_disclosure_checklist.docx with where it's saved so i can print it at the office on my way
+
+--- TURN T15 (Day 4, 17:05) ---
+make open_house_signin_5759.pdf, the sign-in sheet for the table, with the address, date and time at the top
+
+--- TURN T16 (Day 5, 09:10) ---
+we're active! email me 5759_sea_grape_feature_sheet.pdf, open_house_5759.png and open_house_signin_5759.pdf with where each one is saved, and give me two lines for my friday pipeline update on where 5759 stands

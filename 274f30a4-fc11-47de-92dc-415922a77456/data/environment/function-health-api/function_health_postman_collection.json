@@ -1,0 +1,177 @@
+{
+  "info": {
+    "name": "Function Health API Mock v1",
+    "description": "Mock Function Health API v1. Base URL: http://localhost:8136. In docker-compose: http://function-health-api:8136. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8136"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=function-health-connector-app&client_secret=fhcs_7d29b0e4a61c58f3"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"function-health-connector-app\", \"client_secret\": \"fhcs_7d29b0e4a61c58f3\", \"scope\": \"visits.read results.read recommendations.read\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list lab visits",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/visits",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list completed visits",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/visits?status=completed&limit=20",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a visit's out-of-range results",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/visits/vis_q5v9q78haejz55/results?status=out_of_range",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a visit's heart results",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/visits/vis_q5v9q78haejz55/results?category=Heart&limit=50",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get LDL cholesterol over time",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/biomarkers/ldl-cholesterol/history",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get vitamin D since January",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/biomarkers/vitamin-d/history?start_date=2026-01-01",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list active recommendations",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/recommendations?status=active",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "list a visit's follow-up recommendations",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/recommendations?visit_id=vis_q5v9q78haejz55&category=follow_up",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "org-lakefront",
+    "name": "Lakefront Family Medicine",
+    "source": "urn:healthex:source:lakefront-family-medicine"
+  },
+  {
+    "id": "org-linden",
+    "name": "Linden Dermatology Associates",
+    "source": "urn:healthex:source:linden-dermatology"
+  },
+  {
+    "id": "org-sheridan",
+    "name": "Sheridan Walk-In Clinic",
+    "source": "urn:healthex:source:sheridan-walk-in"
+  },
+  {
+    "id": "org-halsted",
+    "name": "Halsted Orthopedic Group",
+    "source": "urn:healthex:source:halsted-orthopedic"
+  },
+  {
+    "id": "org-clearview",
+    "name": "Clearview Eye Care",
+    "source": "urn:healthex:source:clearview-eye-care"
+  },
+  {
+    "id": "org-ridgeline",
+    "name": "Ridgeline Pharmacy",
+    "source": "urn:healthex:source:ridgeline-pharmacy"
+  }
+]

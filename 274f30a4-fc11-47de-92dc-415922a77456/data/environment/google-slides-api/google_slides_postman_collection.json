@@ -1,0 +1,175 @@
+{
+  "info": {
+    "name": "Google Slides API Mock v1",
+    "description": "Mock Google Slides API v1. Base URL: http://localhost:8118. In docker-compose: http://google-slides-api:8118. Get a token from POST /oauth/token first; each operation checks its own scope.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8118"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "token (default scopes)",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-www-form-urlencoded"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "grant_type=client_credentials&client_id=gslides-connector-app&client_secret=gsld_5bb3ede96b820100"
+        }
+      }
+    },
+    {
+      "name": "token with every granted scope",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/oauth/token",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"grant_type\": \"client_credentials\", \"client_id\": \"gslides-connector-app\", \"client_secret\": \"gsld_5bb3ede96b820100\", \"scope\": \"presentations.readonly presentations\"}"
+        }
+      }
+    },
+    {
+      "name": "tokeninfo",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/oauth/tokeninfo",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a presentation",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/presentations/1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get one slide",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/presentations/1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM/pages/g2acacd5cc61c_0_77",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "get a slide's speaker notes",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/presentations/1LHzfmVr0d7fHB8OFkeAIdDyECSVI331nM/pages/g2acacd5cc61c_0_77:notes",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ]
+      }
+    },
+    {
+      "name": "create a presentation",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/presentations",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\": \"Brightwell Status Deck October\"}"
+        }
+      }
+    },
+    {
+      "name": "add a slide and fill it",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/presentations/<presentationId>:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"requests\": [{\"createSlide\": {\"objectId\": \"install_dates\", \"slideLayoutReference\": {\"predefinedLayout\": \"TITLE_AND_BODY\"}, \"placeholderIdMappings\": [{\"layoutPlaceholder\": {\"type\": \"TITLE\"}, \"objectId\": \"install_dates_title\"}, {\"layoutPlaceholder\": {\"type\": \"BODY\"}, \"objectId\": \"install_dates_body\"}]}}, {\"insertText\": {\"objectId\": \"install_dates_title\", \"text\": \"River North install dates\"}}]}"
+        }
+      }
+    },
+    {
+      "name": "fill the proposal template",
+      "request": {
+        "method": "POST",
+        "url": "{{baseUrl}}/v1/presentations/1jNaqtPEtGd1eCh0DdL9iYxSyJd86Ok69v:batchUpdate",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"requests\": [{\"replaceAllText\": {\"containsText\": {\"text\": \"{{CLIENT_NAME}}\", \"matchCase\": true}, \"replaceText\": \"Lumen Coworking\"}}]}"
+        }
+      }
+    }
+  ]
+}

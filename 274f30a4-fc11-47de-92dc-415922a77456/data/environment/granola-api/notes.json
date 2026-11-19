@@ -1,0 +1,2135 @@
+[
+  {
+    "id": "3eee94c3-e824-419f-b282-f5b478df4d53",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-08-03T09:30:00-05:00",
+    "ended_at": "2026-08-03T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_1dd2a4d93c3e42ae",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Brightwell design development review is Wednesday.\n- Harbor Street proposal goes out today.\n- Calloway & Finch consultation on Tuesday.\n\n### Next steps\n- Hannah Brooks: Update the Studio Capacity Planner for the week of 08-03 (due Aug 5)\n- Leah Novak: Send the weekly vendor follow-up list (due Aug 4)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 19,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 248,
+        "text": "Brightwell design development review is Wednesday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 465,
+        "text": "Harbor Street proposal goes out today."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 616,
+        "text": "Calloway & Finch consultation on Tuesday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 736,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-08-03T09:30:00-05:00",
+    "updated_at": "2026-08-03T10:00:00-05:00"
+  },
+  {
+    "id": "658cec3a-e6e2-4473-aced-a9f0b903a526",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Calloway & Finch - design consultation",
+    "folder": "Prospects",
+    "started_at": "2026-08-04T13:00:00-05:00",
+    "ended_at": "2026-08-04T14:00:00-05:00",
+    "calendar_event": {
+      "title": "Design consultation",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_87d7fc6d1dfa4f1c"
+    ],
+    "summary": "### Overview\nFirst consultation with Marion Calloway about fitting out a full floor for Calloway & Finch LLP by mid 2027.\n\n### Decisions\n- Lakeshore will send a questionnaire and visit the floor on August 18.\n\n### Discussion\n- The firm is moving 46 people to one floor of about 18,000 square feet.\n- Marion wants two client conference rooms near reception and quiet rooms for the litigation team.\n- Budget is over $400,000; the landlord is offering a tenant improvement allowance that is not yet final.\n\n### Next steps\n- Marcus Oyelaran: Send Marion the client questionnaire (due Aug 6)\n- Dana Whitfield: Confirm the August 18 site visit with the building manager (due Aug 11)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 39,
+        "text": "We are consolidating two floors into one, about forty-six people, and we want it done by the middle of next year."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 309,
+        "text": "Mid 2027 is workable if we start design this fall. What matters most to the partners?"
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 601,
+        "text": "Client-facing rooms near reception. Two conference rooms, and quiet space for the litigators."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 976,
+        "text": "Do you have the landlord's work letter yet? The allowance changes how we phase the budget."
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 1365,
+        "text": "Not final. They told us forty dollars a foot, but it isn't signed."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1932,
+        "text": "Then we will plan the budget above four hundred thousand and show what the allowance covers."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 2240,
+        "text": "I will send our questionnaire today, and we can walk the floor on the eighteenth."
+      }
+    ],
+    "created_at": "2026-08-04T13:00:00-05:00",
+    "updated_at": "2026-08-04T14:36:00-05:00"
+  },
+  {
+    "id": "932221ff-0207-4962-800f-6cf666361f96",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Brightwell lobby - design development review",
+    "folder": "Brightwell",
+    "started_at": "2026-08-05T10:00:00-05:00",
+    "ended_at": "2026-08-05T11:00:00-05:00",
+    "calendar_event": {
+      "title": "Brightwell DD review",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8b7fdbeab57347c6",
+      "per_1dd2a4d93c3e42ae",
+      "per_20c8b14b364e45ad",
+      "per_a5f95f58bb2d4840",
+      "per_1f87e78f45e541ed"
+    ],
+    "summary": "### Overview\nDesign development review for the Brightwell River North lobby refresh with Alicia, Raj and Carla.\n\n### Decisions\n- The reception desk moves four feet north to clear the elevator lobby.\n- Carla approved the walnut and brass palette for the lounge.\n\n### Discussion\n- Raj flagged that the new desk location needs two 20-amp circuits and a floor box.\n- Carla wants the brand wall lit evenly at night; Priya will study wall washers.\n- Install is planned for October 19 to 30, with the lobby open on a temporary desk.\n\n### Next steps\n- Jerome Castillo: Revise the reception desk plan and send it to Raj for the power layout (due Aug 12)\n- Priya Raman: Study wall washers for the brand wall and share options with Carla (due Aug 19)\n- Raj Patel: Price the two circuits and the floor box at the new desk location (due Aug 19)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 17,
+        "text": "Before we start, we cannot close the lobby. Guests have to check in the whole time."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 381,
+        "text": "Understood. The plan keeps a temporary desk by the bar while the new one goes in."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 639,
+        "text": "We moved the reception desk four feet north so the elevator lobby stays clear."
+      },
+      {
+        "speaker_id": "per_a5f95f58bb2d4840",
+        "start": 938,
+        "text": "If the desk moves, I need two twenty-amp circuits and a floor box there. That is not in the base scope."
+      },
+      {
+        "speaker_id": "per_1f87e78f45e541ed",
+        "start": 1370,
+        "text": "I like the walnut and brass. My only worry is the brand wall at night, it looks patchy in the photos."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1640,
+        "text": "We can wash it evenly. I will bring two wall washer options."
+      },
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 2096,
+        "text": "And we are still holding October nineteenth to thirtieth for install?"
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 2462,
+        "text": "Yes, the nineteenth through the thirtieth."
+      }
+    ],
+    "created_at": "2026-08-05T10:00:00-05:00",
+    "updated_at": "2026-08-05T11:36:00-05:00"
+  },
+  {
+    "id": "bd18d451-3115-42b6-9fc5-f285f5dbc68e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-08-10T09:30:00-05:00",
+    "ended_at": "2026-08-10T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Brightwell: Jerome revising the desk plan for Raj.\n- Harbor Street walkthrough Wednesday.\n- Midway Credit Union discovery call Thursday.\n\n### Next steps\n- Tomas Lindqvist: Update the Studio Capacity Planner for the week of 08-10 (due Aug 12)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 32,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 189,
+        "text": "Brightwell: Jerome revising the desk plan for Raj."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 444,
+        "text": "Harbor Street walkthrough Wednesday."
+      },
+      {
+        "speaker_id": "per_29dad22015fd463d",
+        "start": 627,
+        "text": "Midway Credit Union discovery call Thursday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 834,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-08-10T09:30:00-05:00",
+    "updated_at": "2026-08-10T10:07:00-05:00"
+  },
+  {
+    "id": "9b239221-357d-4833-8696-3c694e13ae70",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Fennimore PR - partnership intro",
+    "folder": "Studio",
+    "started_at": "2026-08-11T11:00:00-05:00",
+    "ended_at": "2026-08-11T11:30:00-05:00",
+    "calendar_event": {
+      "title": "Partnership intro",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_fc1bc8167f4440d2"
+    ],
+    "summary": "### Overview\nIntro call with Vera Farrow of Fennimore PR about press for the Brightwell lobby reveal.\n\n### Decisions\n- Lakeshore will share before photos and the install schedule under embargo.\n\n### Discussion\n- Vera suggested pitching the reveal to Third Coast Interiors and Chicago Design Weekly in November.\n- Brightwell has to approve any press; Carla Jensen is the contact.\n\n### Next steps\n- Marcus Oyelaran: Send Vera the before photos and the install dates under embargo (due Aug 14)\n- Dana Whitfield: Ask Carla whether Brightwell will approve press for the reveal (due Aug 18)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_fc1bc8167f4440d2",
+        "start": 5,
+        "text": "A lobby reveal in a working hotel is a good story if the timing is right."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 217,
+        "text": "We finish the install on October thirtieth, so photos would be early November."
+      },
+      {
+        "speaker_id": "per_fc1bc8167f4440d2",
+        "start": 423,
+        "text": "Then I would pitch Third Coast and Chicago Design Weekly for November."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 748,
+        "text": "We can send before photos now, under embargo."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1007,
+        "text": "Brightwell has to sign off on anything public. Carla Jensen handles the brand."
+      },
+      {
+        "speaker_id": "per_fc1bc8167f4440d2",
+        "start": 1217,
+        "text": "Perfect, loop her in and I will draft the pitch."
+      }
+    ],
+    "created_at": "2026-08-11T11:00:00-05:00",
+    "updated_at": "2026-08-11T11:47:00-05:00"
+  },
+  {
+    "id": "a8744ad6-1b5f-404f-870e-31205512bb7e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Harbor Street Cafe - proposal walkthrough",
+    "folder": "Harbor Street Cafe",
+    "started_at": "2026-08-12T10:00:00-05:00",
+    "ended_at": "2026-08-12T10:45:00-05:00",
+    "calendar_event": {
+      "title": "Proposal walkthrough",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_0839c9cfc26947ca",
+      "per_6d4019fb0a5b4f96"
+    ],
+    "summary": "### Overview\nWalked Omar Haddad through the proposal for new menu boards and a brighter counter at Harbor Street Cafe.\n\n### Decisions\n- Omar accepted the $21,800 fee and budget plan.\n- Work happens in two closed Mondays.\n\n### Discussion\n- The counter gets a new quartz top, an LED strip under the overhang and three pendants.\n- Menu boards become two 48-inch screens with a printed backup board.\n- Omar asked to keep the reclaimed wood front.\n\n### Next steps\n- Hannah Brooks: Send Omar the signed proposal and the deposit invoice (due Aug 13)\n- Hannah Brooks: Get quartz quotes for the counter top (due Aug 21)\n- Dana Whitfield: Confirm the two Monday closure dates with Omar (due Aug 19)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 35,
+        "text": "The counter is too dark. People can't read the menu after four o'clock."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 397,
+        "text": "We would add a strip light under the overhang and three pendants over the register."
+      },
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 697,
+        "text": "And the menu boards? I change prices every month."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1102,
+        "text": "Two screens, so you can update them yourself, with a printed board as a backup."
+      },
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 1423,
+        "text": "Can we keep the reclaimed wood on the front? Customers like it."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 1641,
+        "text": "Yes, we only replace the top. Quartz, in a warm white."
+      },
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 2057,
+        "text": "Twenty-one eight is fine. Let's do it."
+      }
+    ],
+    "created_at": "2026-08-12T10:00:00-05:00",
+    "updated_at": "2026-08-12T11:19:00-05:00"
+  },
+  {
+    "id": "c57db97f-1d5b-4f25-85b7-cbee823db8b0",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Midway Credit Union - discovery call",
+    "folder": "Prospects",
+    "started_at": "2026-08-13T10:30:00-05:00",
+    "ended_at": "2026-08-13T11:00:00-05:00",
+    "calendar_event": {
+      "title": "Discovery call",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_947bc2d154b04972"
+    ],
+    "summary": "### Overview\nDiscovery call with Patricia Gomez about the Midway Credit Union main branch lobby and member service desks.\n\n### Decisions\n- Lakeshore will propose a design consultation for August 25.\n\n### Discussion\n- The branch lobby dates from 2009 and the service desks block the sight line to the tellers.\n- Budget is $150,000 to $400,000 with completion in Q2 2027.\n- Members need a private space for loan conversations.\n\n### Next steps\n- Marcus Oyelaran: Book the August 25 design consultation with Patricia (due Aug 14)\n- Dana Whitfield: Pull two bank and credit union references for Patricia (due Aug 21)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 28,
+        "text": "Our main branch lobby hasn't changed since 2009, and the desks are in the wrong place."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 328,
+        "text": "In what way?"
+      },
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 499,
+        "text": "You can't see the tellers from the door. And loan conversations happen in the open."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 685,
+        "text": "So privacy for members, and a clear path to the tellers."
+      },
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 839,
+        "text": "Exactly. We have between one-fifty and four hundred thousand, and we want it done in the second quarter."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1107,
+        "text": "Let's do a proper consultation on the twenty-fifth and walk through options."
+      }
+    ],
+    "created_at": "2026-08-13T10:30:00-05:00",
+    "updated_at": "2026-08-13T11:09:00-05:00"
+  },
+  {
+    "id": "7e3b6278-1396-483e-81cf-0c412703e875",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Dana / Priya 1:1",
+    "folder": "Studio",
+    "started_at": "2026-08-14T16:00:00-05:00",
+    "ended_at": "2026-08-14T16:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8b7fdbeab57347c6"
+    ],
+    "summary": "### Overview\nMonthly one-on-one with Priya on Brightwell lighting and her workload.\n\n### Decisions\n- Priya leads the Brightwell lighting package through install.\n\n### Discussion\n- Priya is at 95 percent utilization through September.\n- She would like to mentor Ben on the Harbor Street drawings.\n\n### Next steps\n- Priya Raman: Pair with Ben on the Harbor Street counter drawings (due Aug 28)\n- Dana Whitfield: Ask Leah to move one Brightwell task off Priya's plate (due Aug 18)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 10,
+        "text": "How are you holding up with Brightwell and everything else?"
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 230,
+        "text": "Busy. I'm at about ninety-five percent until the end of September."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 559,
+        "text": "I want you to keep the lighting package through install. What can come off?"
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 776,
+        "text": "The finish schedule updates could go to Hannah."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1028,
+        "text": "I'll talk to Leah. Anything you want to grow into?"
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1201,
+        "text": "I'd like to mentor Ben. Harbor Street is a good small project for that."
+      }
+    ],
+    "created_at": "2026-08-14T16:00:00-05:00",
+    "updated_at": "2026-08-14T17:08:00-05:00"
+  },
+  {
+    "id": "4add3470-c795-4beb-976e-59ac4b3dd02b",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-08-17T09:30:00-05:00",
+    "ended_at": "2026-08-17T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_1dd2a4d93c3e42ae",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Harbor Street signed; quartz quotes this week.\n- Lumen site visit Thursday.\n- Calloway & Finch site visit Tuesday morning.\n\n### Next steps\n- Hannah Brooks: Update the Studio Capacity Planner for the week of 08-17 (due Aug 19)\n- Leah Novak: Send the weekly vendor follow-up list (due Aug 18)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 13,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_29dad22015fd463d",
+        "start": 149,
+        "text": "Harbor Street signed; quartz quotes this week."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 341,
+        "text": "Lumen site visit Thursday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 599,
+        "text": "Calloway & Finch site visit Tuesday morning."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 750,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-08-17T09:30:00-05:00",
+    "updated_at": "2026-08-17T09:53:00-05:00"
+  },
+  {
+    "id": "5261e792-52aa-4df1-be3c-bf45086c0884",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Calloway & Finch - site visit",
+    "folder": "Prospects",
+    "started_at": "2026-08-18T09:00:00-05:00",
+    "ended_at": "2026-08-18T10:00:00-05:00",
+    "calendar_event": {
+      "title": "Site visit",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_1dd2a4d93c3e42ae",
+      "per_87d7fc6d1dfa4f1c"
+    ],
+    "summary": "### Overview\nWalked the 18,000 square foot floor Calloway & Finch is leasing, with Marion Calloway.\n\n### Decisions\n- Reception goes on the east side by the elevators.\n\n### Discussion\n- The floor has a 30-foot column grid and good daylight on the north and east.\n- The existing ceiling is 9 feet; the slab allows 10 feet if ducts are rerouted.\n- A server room is needed; the building requires a dedicated cooling unit.\n\n### Next steps\n- Jerome Castillo: Measure the slab to slab heights and photograph the ceiling (due Aug 21)\n- Dana Whitfield: Send Marion a summary of the site visit with first ideas (due Aug 25)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 9,
+        "text": "This is it. The whole floor will be ours from January."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 404,
+        "text": "The column grid is thirty feet, which is good for offices on the perimeter."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 892,
+        "text": "Reception should go on the east side, by the elevators, with the conference rooms behind it."
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 1333,
+        "text": "What about the ceiling? It feels low."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 1785,
+        "text": "Nine feet now. If we reroute some ducts we could get ten."
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 2167,
+        "text": "We also need a server room."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 2612,
+        "text": "The building will want a dedicated cooling unit for that."
+      }
+    ],
+    "created_at": "2026-08-18T09:00:00-05:00",
+    "updated_at": "2026-08-18T10:41:00-05:00"
+  },
+  {
+    "id": "a5c10d5e-f22a-4b92-8b0e-fde0c992d154",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Lumen Coworking - site visit",
+    "folder": "Prospects",
+    "started_at": "2026-08-20T10:00:00-05:00",
+    "ended_at": "2026-08-20T11:00:00-05:00",
+    "calendar_event": {
+      "title": "Site visit",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_e00e234e5e59489a",
+      "per_3277db7e82834dd9",
+      "per_69299c29f01c4c79"
+    ],
+    "summary": "### Overview\nSite visit on the second floor Lumen Coworking is adding, with founder Tariq Hassan.\n\n### Decisions\n- The cafe goes at the south end near the stair.\n\n### Discussion\n- Tariq wants 120 desks, eight phone booths and a cafe, done by the end of Q1 2027.\n- The floor has no sprinkler heads in the old storage area; the landlord will add them.\n- Lumen wants wayfinding that matches the first floor; Halloway Signage made it.\n\n### Next steps\n- Sofia Marchetti: Draft a test fit with 120 desks and eight phone booths (due Sep 4)\n- Marcus Oyelaran: Get Halloway Signage's quote for the wayfinding package (due Sep 4)\n- Dana Whitfield: Write the Lumen proposal draft (due Sep 25)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_69299c29f01c4c79",
+        "start": 5,
+        "text": "We need a hundred and twenty desks up here, eight phone booths, and a proper cafe."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 523,
+        "text": "The south end by the stair is the best spot for the cafe. It has the most light."
+      },
+      {
+        "speaker_id": "per_69299c29f01c4c79",
+        "start": 942,
+        "text": "And it has to look like downstairs. Halloway did our signs."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 1459,
+        "text": "We will get Halloway to quote the second floor package."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1896,
+        "text": "When do you need to open?"
+      },
+      {
+        "speaker_id": "per_69299c29f01c4c79",
+        "start": 2231,
+        "text": "End of the first quarter. We have members waiting."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 2533,
+        "text": "The old storage room has no sprinklers yet."
+      },
+      {
+        "speaker_id": "per_69299c29f01c4c79",
+        "start": 2784,
+        "text": "The landlord is adding them in October."
+      }
+    ],
+    "created_at": "2026-08-20T10:00:00-05:00",
+    "updated_at": "2026-08-20T11:29:00-05:00"
+  },
+  {
+    "id": "74bed466-2360-48fa-98de-284346259f31",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-08-24T09:30:00-05:00",
+    "ended_at": "2026-08-24T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Brightwell lighting and furniture options on Wednesday.\n- Midway design consultation Tuesday.\n- Bluebird site visit Thursday.\n\n### Next steps\n- Marcus Oyelaran: Update the Studio Capacity Planner for the week of 08-24 (due Aug 26)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 37,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 238,
+        "text": "Brightwell lighting and furniture options on Wednesday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 379,
+        "text": "Midway design consultation Tuesday."
+      },
+      {
+        "speaker_id": "per_76311ccd41e146f6",
+        "start": 518,
+        "text": "Bluebird site visit Thursday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 670,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-08-24T09:30:00-05:00",
+    "updated_at": "2026-08-24T10:05:00-05:00"
+  },
+  {
+    "id": "4bb4c795-087a-41fa-95f0-a7300c234bd2",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Midway Credit Union - design consultation",
+    "folder": "Prospects",
+    "started_at": "2026-08-25T10:00:00-05:00",
+    "ended_at": "2026-08-25T11:00:00-05:00",
+    "calendar_event": {
+      "title": "Design consultation",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_0839c9cfc26947ca",
+      "per_947bc2d154b04972"
+    ],
+    "summary": "### Overview\nDesign consultation with Patricia Gomez on the Midway Credit Union branch lobby.\n\n### Decisions\n- Two private member rooms replace the open loan desks.\n- The site visit is on September 24.\n\n### Discussion\n- Patricia liked an open service bar instead of desks.\n- The board meets November 5 and must approve the budget.\n\n### Next steps\n- Hannah Brooks: Sketch the service bar and two member rooms for Patricia (due Sep 10)\n- Dana Whitfield: Confirm the September 24 site visit time (due Aug 28)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 29,
+        "text": "We looked at your lobby plan. What if the desks became an open service bar?"
+      },
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 314,
+        "text": "So members walk up rather than sit across a desk?"
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 749,
+        "text": "For quick things, yes. Loans move into two private rooms by the windows."
+      },
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 1090,
+        "text": "I like that. The board will want numbers before they approve anything."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1376,
+        "text": "When does the board meet?"
+      },
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 1652,
+        "text": "November fifth."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 2187,
+        "text": "Then we'll visit on the twenty-fourth and have a proposal before that."
+      }
+    ],
+    "created_at": "2026-08-25T10:00:00-05:00",
+    "updated_at": "2026-08-25T11:43:00-05:00"
+  },
+  {
+    "id": "f4cb5bf5-12b9-464e-9fe4-c3f540a6f5a3",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Brightwell lobby - lighting and furniture options",
+    "folder": "Brightwell",
+    "started_at": "2026-08-26T14:00:00-05:00",
+    "ended_at": "2026-08-26T15:00:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8b7fdbeab57347c6",
+      "per_20c8b14b364e45ad",
+      "per_1f87e78f45e541ed",
+      "per_101fe1646fa44503"
+    ],
+    "summary": "### Overview\nReviewed lighting and lounge furniture options for Brightwell with Alicia, Carla and Ivy.\n\n### Decisions\n- Carla chose the larger Halo 24 pendants over the base Halo 18.\n- Ivy will buy the lounge seating directly from Copperleaf.\n\n### Discussion\n- The Halo 24 upgrade needs a change order; Cobblestone quotes it at $18,640.\n- Copperleaf's lead time on the lounge chairs is 10 weeks.\n\n### Next steps\n- Priya Raman: Get Cobblestone's written quote and lead time for the Halo 24 pendants (due Sep 1)\n- Ivy Chen: Issue the Copperleaf purchase order for the lounge seating (due Aug 31)\n- Dana Whitfield: Prepare change order 03 for the pendant upgrade (due Sep 2)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 8,
+        "text": "The base design uses the Halo 18. The Halo 24 is bigger and reads better from the street."
+      },
+      {
+        "speaker_id": "per_1f87e78f45e541ed",
+        "start": 579,
+        "text": "The bigger one. It looks like a hotel, not an office."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 922,
+        "text": "That is an upgrade. Cobblestone has it at eighteen thousand six hundred forty."
+      },
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 1386,
+        "text": "Put it in a change order and I'll review it."
+      },
+      {
+        "speaker_id": "per_101fe1646fa44503",
+        "start": 1722,
+        "text": "I'll buy the lounge chairs from Copperleaf myself. What's the lead time?"
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 2076,
+        "text": "Ten weeks from the purchase order."
+      },
+      {
+        "speaker_id": "per_101fe1646fa44503",
+        "start": 2406,
+        "text": "Then I'll issue it this week."
+      }
+    ],
+    "created_at": "2026-08-26T14:00:00-05:00",
+    "updated_at": "2026-08-26T15:13:00-05:00"
+  },
+  {
+    "id": "3188f016-98bc-4f2a-99f6-cb7f3c5e771b",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Bluebird Hotel Group - site visit",
+    "folder": "Prospects",
+    "started_at": "2026-08-27T10:00:00-05:00",
+    "ended_at": "2026-08-27T11:00:00-05:00",
+    "calendar_event": {
+      "title": "Site visit",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_c96153c09b0d437e"
+    ],
+    "summary": "### Overview\nToured two Bluebird Hotel Group lobbies with Evan Marsh ahead of a 2027 refresh.\n\n### Decisions\n- Lakeshore will prepare a programming summary for both lobbies.\n- A design consultation is booked for October 13.\n\n### Discussion\n- Both lobbies have dated front desks and poor seating near the windows.\n- Evan wants one design language that works at both properties.\n\n### Next steps\n- Marcus Oyelaran: Write the programming summary for both lobbies (due Sep 11)\n- Dana Whitfield: Send Evan the Brightwell before and after images (due Sep 4)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_c96153c09b0d437e",
+        "start": 8,
+        "text": "Both lobbies were done in 2014. The desks feel like bank counters."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 513,
+        "text": "And the window seating is mostly empty."
+      },
+      {
+        "speaker_id": "per_c96153c09b0d437e",
+        "start": 821,
+        "text": "Nobody sits there. It's too bright and too hard."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 1464,
+        "text": "Do you want the two hotels to look the same?"
+      },
+      {
+        "speaker_id": "per_c96153c09b0d437e",
+        "start": 1824,
+        "text": "Related, not the same. One design language, two expressions."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 2437,
+        "text": "We'll put together a programming summary and meet again in October."
+      }
+    ],
+    "created_at": "2026-08-27T10:00:00-05:00",
+    "updated_at": "2026-08-27T11:42:00-05:00"
+  },
+  {
+    "id": "cdc11264-ef1a-4abb-91ee-5fbb4e1851a5",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Copperleaf - Brightwell lounge seating",
+    "folder": "Vendors",
+    "started_at": "2026-08-27T14:00:00-05:00",
+    "ended_at": "2026-08-27T14:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_0002c3f07ef54fc3"
+    ],
+    "summary": "### Overview\nConfirmed lounge seating for Brightwell with Iris Castellanos of Copperleaf Contract Furniture.\n\n### Decisions\n- Twelve lounge chairs in the walnut frame with the rust performance fabric.\n\n### Discussion\n- Lead time is 10 weeks from the purchase order, so the chairs arrive after install starts.\n- Copperleaf will hold the order in their warehouse and deliver on October 28.\n\n### Next steps\n- Hannah Brooks: Send Iris the final fabric and finish codes (due Aug 28)\n- Priya Raman: Tell Quillfield that the chairs arrive October 28 (due Sep 2)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_0002c3f07ef54fc3",
+        "start": 29,
+        "text": "Twelve chairs, walnut frame, and which fabric did you land on?"
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 485,
+        "text": "The rust performance fabric, code RT-212."
+      },
+      {
+        "speaker_id": "per_0002c3f07ef54fc3",
+        "start": 721,
+        "text": "Ten weeks from the PO. If Ivy sends it this week, that's mid November at the latest."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1069,
+        "text": "Can you deliver on the twenty-eighth of October if they're ready early?"
+      },
+      {
+        "speaker_id": "per_0002c3f07ef54fc3",
+        "start": 1379,
+        "text": "We'll hold them in our warehouse and bring them on the twenty-eighth."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1865,
+        "text": "Good. I'll tell Quillfield."
+      }
+    ],
+    "created_at": "2026-08-27T14:00:00-05:00",
+    "updated_at": "2026-08-27T15:04:00-05:00"
+  },
+  {
+    "id": "41b9ea3b-9773-4b79-83ec-c6f57c16d2cc",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-08-31T09:30:00-05:00",
+    "ended_at": "2026-08-31T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Cobblestone pendant quote due; change order 03 this week.\n- Greenline proposal walkthrough Tuesday.\n- Open house planning Thursday.\n\n### Next steps\n- Priya Raman: Update the Studio Capacity Planner for the week of 08-31 (due Sep 2)\n- Leah Novak: Send the weekly vendor follow-up list (due Sep 1)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 29,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 152,
+        "text": "Cobblestone pendant quote due; change order 03 this week."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 361,
+        "text": "Greenline proposal walkthrough Tuesday."
+      },
+      {
+        "speaker_id": "per_76311ccd41e146f6",
+        "start": 521,
+        "text": "Open house planning Thursday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 753,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-08-31T09:30:00-05:00",
+    "updated_at": "2026-08-31T10:09:00-05:00"
+  },
+  {
+    "id": "8723bdbd-0fba-4c89-9964-81ac26acc501",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Greenline Dental - proposal walkthrough",
+    "folder": "Prospects",
+    "started_at": "2026-09-01T10:00:00-05:00",
+    "ended_at": "2026-09-01T10:45:00-05:00",
+    "calendar_event": {
+      "title": "Proposal walkthrough",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_1dd2a4d93c3e42ae",
+      "per_e8e7cb31c7b64fa6"
+    ],
+    "summary": "### Overview\nWalked Nadia Petrov through the proposal for renovating Greenline Dental: reception, eight operatories and a staff lounge.\n\n### Decisions\n- Two phases so the practice stays open.\n- The contract goes out this week.\n\n### Discussion\n- Nadia hoped for November 2026; a two-phase plan finishes the operatories in March 2027.\n- Equipment is reused except two chairs; Nadia will send the equipment list.\n\n### Next steps\n- Nadia Petrov: Send the equipment list with the chairs being replaced (due Sep 8)\n- Dana Whitfield: Send Nadia the professional services agreement (due Sep 4)\n- Jerome Castillo: Draft the two phase schedule (due Sep 11)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_e8e7cb31c7b64fa6",
+        "start": 38,
+        "text": "I was hoping to be done by November."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 431,
+        "text": "If we close the whole practice we could get close, but you'd lose two months of patients."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 769,
+        "text": "With two phases you stay open. Reception and four operatories first, then the rest."
+      },
+      {
+        "speaker_id": "per_e8e7cb31c7b64fa6",
+        "start": 1018,
+        "text": "How long would that take?"
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 1381,
+        "text": "Phase two would finish in March."
+      },
+      {
+        "speaker_id": "per_e8e7cb31c7b64fa6",
+        "start": 1640,
+        "text": "That's better than closing. We'll reuse most of the equipment, except two chairs."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 2041,
+        "text": "Send us the list and we'll send the agreement this week."
+      }
+    ],
+    "created_at": "2026-09-01T10:00:00-05:00",
+    "updated_at": "2026-09-01T11:20:00-05:00"
+  },
+  {
+    "id": "934162c6-6488-4ad6-b488-f9816e9ec648",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Cobblestone Lighting - pendant upgrade",
+    "folder": "Vendors",
+    "started_at": "2026-09-01T13:30:00-05:00",
+    "ended_at": "2026-09-01T14:00:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8b7fdbeab57347c6",
+      "per_09da7a1c3a14483c"
+    ],
+    "summary": "### Overview\nConfirmed price and lead time for the Halo 24 pendants on Brightwell with Lena Valdez.\n\n### Decisions\n- Cobblestone holds the $18,640 price until September 12.\n\n### Discussion\n- Lead time is 6 weeks from approval, so approval by September 4 ships by October 16.\n- The fixtures need a different canopy, which Raj must check against the ceiling.\n\n### Next steps\n- Dana Whitfield: Get change order 03 approved by September 4 (due Sep 4)\n- Priya Raman: Send Raj the canopy detail for the Halo 24 (due Sep 3)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_09da7a1c3a14483c",
+        "start": 33,
+        "text": "Eighteen thousand six hundred forty for the Halo 24s, and I can hold it until the twelfth."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 200,
+        "text": "What's the lead time?"
+      },
+      {
+        "speaker_id": "per_09da7a1c3a14483c",
+        "start": 442,
+        "text": "Six weeks from approval."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 694,
+        "text": "So if we approve by the fourth, they ship by the sixteenth of October."
+      },
+      {
+        "speaker_id": "per_09da7a1c3a14483c",
+        "start": 928,
+        "text": "Right. The canopy is bigger, though. Your engineer should check the ceiling."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1193,
+        "text": "I'll send Raj the detail."
+      }
+    ],
+    "created_at": "2026-09-01T13:30:00-05:00",
+    "updated_at": "2026-09-01T14:25:00-05:00"
+  },
+  {
+    "id": "76cb966c-9dd4-45ca-be68-e58e45016ada",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Brightwell - change order 03 pendant upgrade",
+    "folder": "Brightwell",
+    "started_at": "2026-09-02T15:00:00-05:00",
+    "ended_at": "2026-09-02T15:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_20c8b14b364e45ad",
+      "per_a5f95f58bb2d4840"
+    ],
+    "summary": "### Overview\nReviewed change order 03, the Halo 24 pendant upgrade, with Alicia and Raj.\n\n### Decisions\n- Alicia will sign change order 03 once Dana approves the final pricing.\n- Raj confirmed the ceiling can take the larger canopy.\n\n### Discussion\n- Change order 03 is $18,640 and does not move the October 19 install start.\n- Pendants must ship by October 16.\n\n### Next steps\n- Dana Whitfield: Approve the final pricing on change order 03 and send it to Alicia (due Sep 4)\n- Raj Patel: Confirm the reception desk power with Jerome (due Sep 16)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 33,
+        "text": "Eighteen six forty. Does it change the schedule?"
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 309,
+        "text": "No. If it's approved this week, the pendants ship by October sixteenth."
+      },
+      {
+        "speaker_id": "per_a5f95f58bb2d4840",
+        "start": 492,
+        "text": "I checked the canopy detail. The ceiling can take it."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 669,
+        "text": "I'll finalize the paperwork once Dana signs off on the pricing."
+      },
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 907,
+        "text": "Send it to me and I'll sign."
+      },
+      {
+        "speaker_id": "per_a5f95f58bb2d4840",
+        "start": 1193,
+        "text": "Separate thing, I still owe Jerome the reception desk power."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1434,
+        "text": "Please sort that out with him before the install meeting."
+      }
+    ],
+    "created_at": "2026-09-02T15:00:00-05:00",
+    "updated_at": "2026-09-02T15:41:00-05:00"
+  },
+  {
+    "id": "d3c1cf2c-208b-445a-abde-b964c2af1d6e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Fall open house planning",
+    "folder": "Studio",
+    "started_at": "2026-09-03T14:00:00-05:00",
+    "ended_at": "2026-09-03T14:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8605886c3bb24165",
+      "per_76311ccd41e146f6",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nFirst planning meeting for the studio's fall open house on November 12.\n\n### Decisions\n- The open house is November 12, 5:30 to 8:00 pm, at the studio.\n- Andersonville Florist does the flowers again.\n\n### Discussion\n- Invites go out through Calendly so RSVPs land in one place.\n- Tomas will show the Brightwell renderings on the big screen.\n- Budget is $4,500 including catering.\n\n### Next steps\n- Leah Novak: Book the caterer for November 12 (due Sep 17)\n- Tomas Lindqvist: Design the invite and set up the Calendly event (due Sep 12)\n- Ben Hartigan: Ask Andersonville Florist for a quote (due Sep 10)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 32,
+        "text": "November twelfth, five thirty to eight. Same format as last year."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 450,
+        "text": "Budget is forty-five hundred with catering."
+      },
+      {
+        "speaker_id": "per_76311ccd41e146f6",
+        "start": 754,
+        "text": "I'll do the invite and set up a Calendly event so the RSVPs are in one place."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1225,
+        "text": "And let's put the Brightwell renderings on the big screen."
+      },
+      {
+        "speaker_id": "per_29dad22015fd463d",
+        "start": 1660,
+        "text": "Should I ask Andersonville Florist again?"
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 2088,
+        "text": "Yes, they were great."
+      }
+    ],
+    "created_at": "2026-09-03T14:00:00-05:00",
+    "updated_at": "2026-09-03T15:20:00-05:00"
+  },
+  {
+    "id": "e0764243-80c0-431a-ac81-4677a9e3aeb5",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Q3 estimated tax with Ken Alvarado",
+    "folder": "Studio",
+    "started_at": "2026-09-04T11:00:00-05:00",
+    "ended_at": "2026-09-04T11:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8605886c3bb24165",
+      "per_76b85dc71c9b48a0"
+    ],
+    "summary": "### Overview\nReviewed the studio's third quarter estimated tax with Ken Alvarado.\n\n### Decisions\n- The Q3 estimated payment is $14,200, due September 15.\n\n### Discussion\n- Revenue is ahead of plan because of Brightwell.\n- Ken suggested moving the new plotter purchase into September.\n\n### Next steps\n- Leah Novak: Send Ken the Q3 numbers through August (due Sep 8)\n- Dana Whitfield: Approve the plotter purchase before September 30 (due Sep 30)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_76b85dc71c9b48a0",
+        "start": 24,
+        "text": "With Brightwell, you're ahead of plan. I'd put the Q3 payment at fourteen thousand two hundred."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 222,
+        "text": "It's due on the fifteenth?"
+      },
+      {
+        "speaker_id": "per_76b85dc71c9b48a0",
+        "start": 438,
+        "text": "The fifteenth. Send me the August numbers and I'll confirm."
+      },
+      {
+        "speaker_id": "per_76b85dc71c9b48a0",
+        "start": 649,
+        "text": "If you're buying that plotter, buy it in September."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 829,
+        "text": "We were going to. I'll approve it this month."
+      }
+    ],
+    "created_at": "2026-09-04T11:00:00-05:00",
+    "updated_at": "2026-09-04T11:52:00-05:00"
+  },
+  {
+    "id": "c7472f46-5b7c-4cc2-a1f4-21eb0765520e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-09-08T09:30:00-05:00",
+    "ended_at": "2026-09-08T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Calloway & Finch proposal walkthrough today.\n- Q4 capacity planning with Leah Wednesday.\n- Harbor Street finishes Thursday.\n\n### Next steps\n- Leah Novak: Update the Studio Capacity Planner for the week of 09-08 (due Sep 10)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 16,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 173,
+        "text": "Calloway & Finch proposal walkthrough today."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 316,
+        "text": "Q4 capacity planning with Leah Wednesday."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 497,
+        "text": "Harbor Street finishes Thursday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 743,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-09-08T09:30:00-05:00",
+    "updated_at": "2026-09-08T10:26:00-05:00"
+  },
+  {
+    "id": "b0b75aed-d9f1-45e4-96db-01b4ce1b290a",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Calloway & Finch - proposal walkthrough",
+    "folder": "Prospects",
+    "started_at": "2026-09-08T14:00:00-05:00",
+    "ended_at": "2026-09-08T14:45:00-05:00",
+    "calendar_event": {
+      "title": "Proposal walkthrough",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_87d7fc6d1dfa4f1c"
+    ],
+    "summary": "### Overview\nWalked Marion Calloway through the fee proposal for the Calloway & Finch office fit-out.\n\n### Decisions\n- Marion will take the proposal to the partners on September 21.\n\n### Discussion\n- The fee is $186,000 for design through construction administration.\n- Marion asked for a phased payment schedule.\n\n### Next steps\n- Marcus Oyelaran: Revise the payment schedule into five phases (due Sep 15)\n- Dana Whitfield: Follow up with Marion after the partners meeting (due Sep 23)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 13,
+        "text": "The fee is one eighty-six for design through construction administration."
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 439,
+        "text": "The partners will ask why it's more than the last firm quoted."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 871,
+        "text": "That firm's scope stopped at permit. Ours goes through construction."
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 1103,
+        "text": "Fair. Can the payments be spread out?"
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 1533,
+        "text": "We can split it into five phases."
+      },
+      {
+        "speaker_id": "per_87d7fc6d1dfa4f1c",
+        "start": 1841,
+        "text": "Do that, and I'll take it to the partners on the twenty-first."
+      }
+    ],
+    "created_at": "2026-09-08T14:00:00-05:00",
+    "updated_at": "2026-09-08T14:58:00-05:00"
+  },
+  {
+    "id": "6a125d2a-db1f-4ca0-ba8a-c5196725a9d2",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Q4 capacity planning",
+    "folder": "Studio",
+    "started_at": "2026-09-09T10:00:00-05:00",
+    "ended_at": "2026-09-09T10:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8605886c3bb24165"
+    ],
+    "summary": "### Overview\nPlanned studio capacity for the fourth quarter with Leah.\n\n### Decisions\n- Hire a studio coordinator; interviews in early October.\n- Hannah takes the Brightwell finish schedule from Priya.\n\n### Discussion\n- Utilization is 91 percent across the studio in September.\n- Greenline Dental and possibly Lumen start in Q4, which needs about one more full-time person.\n\n### Next steps\n- Leah Novak: Post the studio coordinator job description (due Sep 16)\n- Leah Novak: Update the Studio Capacity Planner with Greenline (due Sep 12)\n- Dana Whitfield: Approve Hannah's October time off (due Sep 12)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 11,
+        "text": "We're at ninety-one percent this month. That's too high to take on Greenline."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 475,
+        "text": "And Lumen might sign too. What do we need?"
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 749,
+        "text": "About one more full-time person. A coordinator would take admin off the designers."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1080,
+        "text": "Let's hire. Interviews in early October."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 1431,
+        "text": "Hannah also asked for October twelfth to sixteenth off."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1765,
+        "text": "That's fine, approve it."
+      }
+    ],
+    "created_at": "2026-09-09T10:00:00-05:00",
+    "updated_at": "2026-09-09T10:58:00-05:00"
+  },
+  {
+    "id": "848b6106-154c-4320-9487-b6b0d51f6555",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Harbor Street Cafe - finishes and screens",
+    "folder": "Harbor Street Cafe",
+    "started_at": "2026-09-10T10:00:00-05:00",
+    "ended_at": "2026-09-10T10:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_0839c9cfc26947ca",
+      "per_29dad22015fd463d",
+      "per_6d4019fb0a5b4f96"
+    ],
+    "summary": "### Overview\nChose the counter finishes and menu screens for Harbor Street Cafe with Omar.\n\n### Decisions\n- Warm white quartz with an eased edge.\n- Two 48-inch screens, mounted on a walnut rail.\n\n### Discussion\n- The quartz is in stock; fabrication takes 8 days after templating.\n- Install is planned for Mondays September 28 and October 5.\n\n### Next steps\n- Ben Hartigan: Schedule the quartz templating (due Sep 16)\n- Hannah Brooks: Order the two menu screens (due Sep 15)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 26,
+        "text": "This warm white is perfect. Not too bright."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 320,
+        "text": "Good. With an eased edge, so it doesn't chip."
+      },
+      {
+        "speaker_id": "per_29dad22015fd463d",
+        "start": 571,
+        "text": "Fabrication takes eight days after we template."
+      },
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 1001,
+        "text": "And the screens?"
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 1305,
+        "text": "Two forty-eight inch screens on a walnut rail, so they match the front."
+      },
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 1549,
+        "text": "Mondays the twenty-eighth and the fifth work for us."
+      }
+    ],
+    "created_at": "2026-09-10T10:00:00-05:00",
+    "updated_at": "2026-09-10T11:04:00-05:00"
+  },
+  {
+    "id": "6ed00bab-1479-4b19-b623-fc209d5df96f",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Saddlebrook Hospitality - partnership intro",
+    "folder": "Prospects",
+    "started_at": "2026-09-10T15:00:00-05:00",
+    "ended_at": "2026-09-10T15:30:00-05:00",
+    "calendar_event": {
+      "title": "Partnership intro",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_7b91cc3c4b184cc5"
+    ],
+    "summary": "### Overview\nIntro call with Tess Brennan of Saddlebrook Hospitality Partners about two boutique hotels in 2027.\n\n### Decisions\n- Lakeshore will send hospitality portfolio pages.\n\n### Discussion\n- Saddlebrook is buying two small hotels, 60 and 85 rooms.\n- Tess wants a designer who can work inside a hotel that stays open, like Brightwell.\n\n### Next steps\n- Marcus Oyelaran: Send Tess the hospitality portfolio pages and Brightwell references (due Sep 14)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_7b91cc3c4b184cc5",
+        "start": 39,
+        "text": "We're closing on two small hotels, sixty and eighty-five rooms, for 2027."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 284,
+        "text": "Will they stay open during renovation?"
+      },
+      {
+        "speaker_id": "per_7b91cc3c4b184cc5",
+        "start": 728,
+        "text": "They have to. That's why I called. I heard about Brightwell."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 1107,
+        "text": "We'll send hospitality portfolio pages and references this week."
+      }
+    ],
+    "created_at": "2026-09-10T15:00:00-05:00",
+    "updated_at": "2026-09-10T16:11:00-05:00"
+  },
+  {
+    "id": "a9cae174-c391-436b-9d89-13eb5d21d2db",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Dana / Jerome 1:1",
+    "folder": "Studio",
+    "started_at": "2026-09-11T16:00:00-05:00",
+    "ended_at": "2026-09-11T16:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_1dd2a4d93c3e42ae"
+    ],
+    "summary": "### Overview\nOne-on-one with Jerome about Brightwell construction administration and Greenline.\n\n### Decisions\n- Jerome runs construction administration on Brightwell during install.\n\n### Discussion\n- Jerome is worried about the reception desk power, still not confirmed by Raj.\n- Greenline's agreement was signed today; Jerome leads the existing conditions survey.\n\n### Next steps\n- Jerome Castillo: Get the reception desk power confirmed in writing from Raj (due Sep 18)\n- Jerome Castillo: Plan the Greenline existing conditions survey (due Sep 25)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 34,
+        "text": "Raj still hasn't confirmed the desk power. North Branch needs it for the shop drawings."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 362,
+        "text": "Push him this week. Get it in writing."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 572,
+        "text": "Will do. Also, I saw Greenline signed today."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 883,
+        "text": "They did. You'll lead the existing conditions survey."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 1167,
+        "text": "I'll plan it for late September."
+      }
+    ],
+    "created_at": "2026-09-11T16:00:00-05:00",
+    "updated_at": "2026-09-11T16:38:00-05:00"
+  },
+  {
+    "id": "2fda2f25-c4ce-4c99-9d4d-1a37dc77e88e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-09-14T09:30:00-05:00",
+    "ended_at": "2026-09-14T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_1dd2a4d93c3e42ae",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Greenline agreement signed Friday.\n- Linnet panel mockup Tuesday.\n- Coordinator job description this week.\n\n### Next steps\n- Tomas Lindqvist: Update the Studio Capacity Planner for the week of 09-14 (due Sep 16)\n- Leah Novak: Send the weekly vendor follow-up list (due Sep 15)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 18,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 223,
+        "text": "Greenline agreement signed Friday."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 373,
+        "text": "Linnet panel mockup Tuesday."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 623,
+        "text": "Coordinator job description this week."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 837,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-09-14T09:30:00-05:00",
+    "updated_at": "2026-09-14T09:53:00-05:00"
+  },
+  {
+    "id": "0e55c3ee-b3c4-40e7-a8fc-48b914127be0",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Linnet Acoustics - lounge panel mockup",
+    "folder": "Vendors",
+    "started_at": "2026-09-15T11:00:00-05:00",
+    "ended_at": "2026-09-15T11:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_8b7fdbeab57347c6",
+      "per_1dd2a4d93c3e42ae",
+      "per_a7a790a13e9049c6"
+    ],
+    "summary": "### Overview\nReviewed the acoustic panel mockup for the Brightwell lounge with Andre Mabry.\n\n### Decisions\n- Use the 2-inch panels in rust felt behind the lounge seating.\n\n### Discussion\n- The mockup cut reverberation in the lounge from 1.4 to 0.8 seconds.\n- Panels ship October 9 and Quillfield installs them on October 22.\n\n### Next steps\n- Jerome Castillo: Add the panels to the Quillfield install sequence for October 22 (due Sep 22)\n- Priya Raman: Approve the final panel layout (due Sep 17)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_a7a790a13e9049c6",
+        "start": 36,
+        "text": "With the two-inch panels the lounge drops from one point four to point eight seconds."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 569,
+        "text": "That's a big difference. Rust felt, behind the seating."
+      },
+      {
+        "speaker_id": "per_a7a790a13e9049c6",
+        "start": 1082,
+        "text": "They ship on the ninth of October."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 1460,
+        "text": "Quillfield can install them on the twenty-second."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1896,
+        "text": "I'll approve the layout this week."
+      }
+    ],
+    "created_at": "2026-09-15T11:00:00-05:00",
+    "updated_at": "2026-09-15T11:57:00-05:00"
+  },
+  {
+    "id": "d89a3e4f-8abd-440c-9b36-0c14c2fb5f5a",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio coordinator hiring plan",
+    "folder": "Studio",
+    "started_at": "2026-09-16T13:00:00-05:00",
+    "ended_at": "2026-09-16T13:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8605886c3bb24165"
+    ],
+    "summary": "### Overview\nAgreed the job description and interview plan for a studio coordinator.\n\n### Decisions\n- Interviews on October 8 and 9 through Calendly.\n- Salary range $52,000 to $58,000.\n\n### Discussion\n- The coordinator handles invoicing, vendor follow-up and the shared calendar.\n- Leah screens, Dana and Leah interview together.\n\n### Next steps\n- Leah Novak: Publish the job description and the Calendly interview event (due Sep 18)\n- Leah Novak: Screen applicants and book interviews (due Oct 2)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 19,
+        "text": "I'd like interviews on the eighth and ninth of October."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 283,
+        "text": "Fine. What's in the role?"
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 685,
+        "text": "Invoicing, chasing vendors, and the shared calendar. Fifty-two to fifty-eight thousand."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 918,
+        "text": "Good. You screen, and we interview together."
+      }
+    ],
+    "created_at": "2026-09-16T13:00:00-05:00",
+    "updated_at": "2026-09-16T13:36:00-05:00"
+  },
+  {
+    "id": "525a5974-02ae-4ba3-9fb7-b0ec268d6f62",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-09-21T09:30:00-05:00",
+    "ended_at": "2026-09-21T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_1dd2a4d93c3e42ae",
+      "per_76311ccd41e146f6",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- North Branch shop drawings Tuesday.\n- Brightwell install planning Wednesday.\n- Midway site visit Thursday.\n\n### Next steps\n- Jerome Castillo: Update the Studio Capacity Planner for the week of 09-21 (due Sep 23)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 22,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 219,
+        "text": "North Branch shop drawings Tuesday."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 431,
+        "text": "Brightwell install planning Wednesday."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 681,
+        "text": "Midway site visit Thursday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 809,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-09-21T09:30:00-05:00",
+    "updated_at": "2026-09-21T10:28:00-05:00"
+  },
+  {
+    "id": "915bb30b-8e4a-4719-b282-a2a482f344ce",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "North Branch Millwork - reception desk shop drawings",
+    "folder": "Vendors",
+    "started_at": "2026-09-22T10:00:00-05:00",
+    "ended_at": "2026-09-22T10:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_1dd2a4d93c3e42ae",
+      "per_8b7fdbeab57347c6",
+      "per_1f8456ca1902412b"
+    ],
+    "summary": "### Overview\nReviewed the reception desk shop drawings for Brightwell with Walt Becker.\n\n### Decisions\n- Shop drawings approved with two comments.\n- The desk is delivered on October 26.\n\n### Discussion\n- The power and data grommets move to match Raj's floor box.\n- The brass inlay changes from 1/4 inch to 3/8 inch to match the lounge.\n\n### Next steps\n- Walt Becker: Revise the grommet locations and the brass inlay (due Sep 25)\n- Jerome Castillo: Send Walt the final floor box location from Raj (due Sep 23)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_1f8456ca1902412b",
+        "start": 33,
+        "text": "Here's the desk. Grommets are where the old drawings had them."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 587,
+        "text": "Those move. Raj's floor box is eighteen inches to the left now."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 1115,
+        "text": "And the brass inlay should be three eighths, to match the lounge."
+      },
+      {
+        "speaker_id": "per_1f8456ca1902412b",
+        "start": 1669,
+        "text": "Easy. We deliver on October twenty-sixth either way."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 2013,
+        "text": "I'll send you the floor box location today."
+      }
+    ],
+    "created_at": "2026-09-22T10:00:00-05:00",
+    "updated_at": "2026-09-22T11:27:00-05:00"
+  },
+  {
+    "id": "9e0d49d7-e2f7-47a9-95c4-caedcbd3d8e3",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Brightwell lobby - install planning",
+    "folder": "Brightwell",
+    "started_at": "2026-09-23T09:00:00-05:00",
+    "ended_at": "2026-09-23T10:00:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_1dd2a4d93c3e42ae",
+      "per_a5f95f58bb2d4840",
+      "per_aab90131077c473b",
+      "per_28b12fe43a5a44d3"
+    ],
+    "summary": "### Overview\nPlanned the October 19 to 30 install at Brightwell River North with Raj, Frank and Lara Dimitrov of Quillfield.\n\n### Decisions\n- Work runs 10 pm to 6 am in public areas; back of house can work days.\n- The freight elevator is reserved 9 pm to 6 am during install.\n- Punch list walk on October 30 at 2 pm.\n\n### Discussion\n- Frank needs certificates of insurance from every vendor by October 12.\n- The temporary check-in desk goes by the bar on October 18.\n- The reception desk arrives October 26, the lounge chairs October 28.\n\n### Next steps\n- Lara Dimitrov: Send the night shift crew list and the install sequence (due Oct 7)\n- Jerome Castillo: Collect certificates of insurance from every vendor (due Oct 12)\n- Frank Morales: Reserve the freight elevator for October 19 to 30 (due Oct 2)\n- Dana Whitfield: Confirm the October 30 punch list walk with Alicia (due Oct 9)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_aab90131077c473b",
+        "start": 18,
+        "text": "Public areas only overnight, ten to six. I don't want guests walking through dust."
+      },
+      {
+        "speaker_id": "per_28b12fe43a5a44d3",
+        "start": 443,
+        "text": "That's fine. Back of house we can do during the day."
+      },
+      {
+        "speaker_id": "per_aab90131077c473b",
+        "start": 855,
+        "text": "I'll block the freight elevator nine p.m. to six a.m. for the whole install."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 1167,
+        "text": "The desk comes on the twenty-sixth and the chairs on the twenty-eighth."
+      },
+      {
+        "speaker_id": "per_a5f95f58bb2d4840",
+        "start": 1474,
+        "text": "The floor box will be in by the twenty-fourth."
+      },
+      {
+        "speaker_id": "per_aab90131077c473b",
+        "start": 1813,
+        "text": "And I need insurance certificates from every vendor by October twelfth."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 2123,
+        "text": "We'll walk the punch list on the thirtieth at two."
+      },
+      {
+        "speaker_id": "per_28b12fe43a5a44d3",
+        "start": 2504,
+        "text": "I'll send the night crew list and the sequence."
+      }
+    ],
+    "created_at": "2026-09-23T09:00:00-05:00",
+    "updated_at": "2026-09-23T10:16:00-05:00"
+  },
+  {
+    "id": "7bd3ec7a-7862-4103-907d-53f7669c00f2",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Midway Credit Union - site visit",
+    "folder": "Prospects",
+    "started_at": "2026-09-24T09:00:00-05:00",
+    "ended_at": "2026-09-24T10:00:00-05:00",
+    "calendar_event": {
+      "title": "Site visit",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_0839c9cfc26947ca",
+      "per_1dd2a4d93c3e42ae",
+      "per_947bc2d154b04972"
+    ],
+    "summary": "### Overview\nSite visit at the Midway Credit Union main branch with Patricia Gomez.\n\n### Decisions\n- The proposal walkthrough is on October 20.\n\n### Discussion\n- The teller line has a 1990s security glass partition that must stay.\n- Two former offices by the windows can become the member rooms.\n- The lobby ceiling has asbestos-free tiles from a 2009 test.\n\n### Next steps\n- Jerome Castillo: Measure the lobby and the two window offices (due Sep 25)\n- Hannah Brooks: Revise the service bar sketch around the teller glass (due Oct 2)\n- Dana Whitfield: Draft the Midway proposal for October 20 (due Oct 16)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 37,
+        "text": "The teller glass has to stay. Security insists."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 690,
+        "text": "Then the service bar lines up with it, and we soften the rest."
+      },
+      {
+        "speaker_id": "per_1dd2a4d93c3e42ae",
+        "start": 1140,
+        "text": "These two offices by the windows are perfect for member rooms."
+      },
+      {
+        "speaker_id": "per_947bc2d154b04972",
+        "start": 1679,
+        "text": "They're storage now. We can clear them."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 2405,
+        "text": "We'll come back with a proposal on the twentieth."
+      }
+    ],
+    "created_at": "2026-09-24T09:00:00-05:00",
+    "updated_at": "2026-09-24T10:29:00-05:00"
+  },
+  {
+    "id": "c5287ad8-1faa-425e-aefe-3a2368f4bb56",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Open house run of show",
+    "folder": "Studio",
+    "started_at": "2026-09-25T15:00:00-05:00",
+    "ended_at": "2026-09-25T15:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8605886c3bb24165",
+      "per_76311ccd41e146f6",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nPlanned the run of show for the November 12 open house.\n\n### Decisions\n- Dana speaks at 6:30 for ten minutes.\n\n### Discussion\n- 62 people have RSVPd through Calendly so far.\n- Caterer is confirmed; flowers are $380 from Andersonville Florist.\n\n### Next steps\n- Tomas Lindqvist: Prepare the Brightwell slideshow for the big screen (due Nov 6)\n- Ben Hartigan: Order name tags and signage (due Oct 30)\n- Leah Novak: Send a reminder to everyone who has not RSVPd (due Oct 29)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 6,
+        "text": "We have sixty-two RSVPs already."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 345,
+        "text": "Great. I'll speak at six thirty, ten minutes."
+      },
+      {
+        "speaker_id": "per_76311ccd41e146f6",
+        "start": 674,
+        "text": "I'll loop the Brightwell renderings, and the after photos if we have them."
+      },
+      {
+        "speaker_id": "per_29dad22015fd463d",
+        "start": 903,
+        "text": "Flowers are three eighty from Andersonville."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 1095,
+        "text": "I'll send a reminder at the end of October."
+      }
+    ],
+    "created_at": "2026-09-25T15:00:00-05:00",
+    "updated_at": "2026-09-25T15:44:00-05:00"
+  },
+  {
+    "id": "2b252406-684d-4b31-8ab5-fa9d485cee70",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Studio Monday standup",
+    "folder": "Studio",
+    "started_at": "2026-09-28T09:30:00-05:00",
+    "ended_at": "2026-09-28T09:50:00-05:00",
+    "calendar_event": {
+      "title": "Studio standup",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165",
+      "per_8b7fdbeab57347c6",
+      "per_0839c9cfc26947ca",
+      "per_1dd2a4d93c3e42ae",
+      "per_e00e234e5e59489a",
+      "per_29dad22015fd463d"
+    ],
+    "summary": "### Overview\nWeekly studio standup.\n\n### Discussion\n- Harbor Street install today and October 5.\n- Third Coast interview and rate card Tuesday.\n- Brightwell September status Wednesday.\n\n### Next steps\n- Leah Novak: Update the Studio Capacity Planner for the week of 09-28 (due Sep 30)\n- Leah Novak: Send the weekly vendor follow-up list (due Sep 29)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 32,
+        "text": "Morning, everyone. Quick round, then Leah has the week."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 256,
+        "text": "Harbor Street install today and October 5."
+      },
+      {
+        "speaker_id": "per_8b7fdbeab57347c6",
+        "start": 496,
+        "text": "Third Coast interview and rate card Tuesday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 689,
+        "text": "Brightwell September status Wednesday."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 841,
+        "text": "Anyone over capacity this week? Tell me before Wednesday."
+      }
+    ],
+    "created_at": "2026-09-28T09:30:00-05:00",
+    "updated_at": "2026-09-28T10:04:00-05:00"
+  },
+  {
+    "id": "aec3f4d1-c861-41fb-aa30-74d4ef81dff8",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Third Coast Interiors - press interview",
+    "folder": "Studio",
+    "started_at": "2026-09-29T11:00:00-05:00",
+    "ended_at": "2026-09-29T11:45:00-05:00",
+    "calendar_event": {
+      "title": "Press interview",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_0bb4a81fe4c54503"
+    ],
+    "summary": "### Overview\nInterview with Kai Yilmaz of Third Coast Interiors Magazine for a feature on the Brightwell lobby redesign.\n\n### Decisions\n- Photos after the October 30 punch walk; the feature runs in the January issue.\n\n### Discussion\n- Kai asked how the lobby stays open during the install.\n- Brightwell must approve quotes; Carla Jensen is the contact.\n\n### Next steps\n- Dana Whitfield: Send Kai the project facts sheet and Carla's contact (due Oct 2)\n- Dana Whitfield: Book Lakeview Photo for the week of November 2 (due Oct 9)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_0bb4a81fe4c54503",
+        "start": 38,
+        "text": "Tell me how a hotel lobby gets redone without closing."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 426,
+        "text": "Night work, a temporary desk by the bar, and a lot of planning with the hotel's engineers."
+      },
+      {
+        "speaker_id": "per_0bb4a81fe4c54503",
+        "start": 670,
+        "text": "When can we photograph it?"
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 964,
+        "text": "After the punch walk on October thirtieth, so the first week of November."
+      },
+      {
+        "speaker_id": "per_0bb4a81fe4c54503",
+        "start": 1419,
+        "text": "Then it runs in January. Brightwell has to approve quotes?"
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1827,
+        "text": "Yes, Carla Jensen. I'll send her contact."
+      }
+    ],
+    "created_at": "2026-09-29T11:00:00-05:00",
+    "updated_at": "2026-09-29T12:12:00-05:00"
+  },
+  {
+    "id": "877135a1-f5e7-4ecb-bbea-1d6d587eb34e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "2027 rate card working session",
+    "folder": "Studio",
+    "started_at": "2026-09-29T15:00:00-05:00",
+    "ended_at": "2026-09-29T16:00:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_8605886c3bb24165"
+    ],
+    "summary": "### Overview\nWorked through the draft 2027 rate card with Marcus and Leah.\n\n### Decisions\n- Raise hourly rates 6 percent on January 1.\n- Keep fixed fees for hospitality projects.\n\n### Discussion\n- Rates last rose in January 2025.\n- Utilization stays near 90 percent, so demand supports a raise.\n\n### Next steps\n- Marcus Oyelaran: Finish the 2027 rate card draft (due Oct 9)\n- Leah Novak: Model the 2027 revenue at the new rates (due Oct 9)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 17,
+        "text": "We haven't raised rates since January 2025."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 946,
+        "text": "Six percent feels right. Most firms are at five to eight."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1513,
+        "text": "Agreed. Six percent from January first, and we keep fixed fees on hospitality."
+      },
+      {
+        "speaker_id": "per_8605886c3bb24165",
+        "start": 2113,
+        "text": "I'll model next year's revenue at the new rates."
+      }
+    ],
+    "created_at": "2026-09-29T15:00:00-05:00",
+    "updated_at": "2026-09-29T16:43:00-05:00"
+  },
+  {
+    "id": "b643f8e6-d1c6-4405-be03-d26de155956e",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Brightwell - September status",
+    "folder": "Brightwell",
+    "started_at": "2026-09-30T10:00:00-05:00",
+    "ended_at": "2026-09-30T10:45:00-05:00",
+    "calendar_event": {
+      "title": "Brightwell monthly status",
+      "calendar": "dana.whitfield@lakeshoredesign.example"
+    },
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_8b7fdbeab57347c6",
+      "per_20c8b14b364e45ad",
+      "per_1f87e78f45e541ed"
+    ],
+    "summary": "### Overview\nMonthly status for the Brightwell River North lobby refresh with Alicia and Carla.\n\n### Decisions\n- Install holds October 19 to 30.\n- Carla approved the Third Coast Interiors feature.\n\n### Discussion\n- Change order 03 is still waiting on Dana's final pricing approval before it goes to Alicia.\n- All long-lead items are on track: pendants ship October 16, desk arrives October 26, chairs October 28.\n- Alicia wants an October status deck before the install.\n\n### Next steps\n- Dana Whitfield: Send Alicia the October status deck (due Oct 9)\n- Dana Whitfield: Approve change order 03 and send it to Alicia for signature (due Oct 2)\n- Carla Jensen: Send Third Coast the approved brand language (due Oct 7)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 32,
+        "text": "Are we still on for the nineteenth?"
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 414,
+        "text": "Yes. Pendants ship the sixteenth, the desk comes the twenty-sixth, chairs the twenty-eighth."
+      },
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 761,
+        "text": "And change order three? I haven't seen it."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 988,
+        "text": "That's on me. I'll approve the pricing and send it this week."
+      },
+      {
+        "speaker_id": "per_1f87e78f45e541ed",
+        "start": 1312,
+        "text": "I'm happy with the Third Coast feature, as long as the brand language is right."
+      },
+      {
+        "speaker_id": "per_20c8b14b364e45ad",
+        "start": 1557,
+        "text": "Can I get a status deck before the install?"
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1969,
+        "text": "I'll send it next week."
+      }
+    ],
+    "created_at": "2026-09-30T10:00:00-05:00",
+    "updated_at": "2026-09-30T11:19:00-05:00"
+  },
+  {
+    "id": "00bef5d5-3db7-4f38-87a8-6c1a57009f31",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Harbor Street Cafe - install check",
+    "folder": "Harbor Street Cafe",
+    "started_at": "2026-10-01T14:00:00-05:00",
+    "ended_at": "2026-10-01T14:30:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_0839c9cfc26947ca",
+      "per_29dad22015fd463d",
+      "per_6d4019fb0a5b4f96"
+    ],
+    "summary": "### Overview\nChecked the first install Monday at Harbor Street Cafe with Omar.\n\n### Decisions\n- The second install day stays Monday October 5.\n\n### Discussion\n- The quartz top and the strip light are in.\n- One screen arrived with a cracked bezel; the replacement comes October 3.\n\n### Next steps\n- Hannah Brooks: Confirm the replacement screen delivery for October 3 (due Oct 3)\n- Ben Hartigan: Send Omar the care sheet for the quartz (due Oct 2)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 30,
+        "text": "The counter looks great. People noticed this morning."
+      },
+      {
+        "speaker_id": "per_0839c9cfc26947ca",
+        "start": 423,
+        "text": "One screen came with a cracked bezel. The replacement arrives Saturday."
+      },
+      {
+        "speaker_id": "per_6d4019fb0a5b4f96",
+        "start": 750,
+        "text": "So we finish next Monday?"
+      },
+      {
+        "speaker_id": "per_29dad22015fd463d",
+        "start": 1078,
+        "text": "Yes, the fifth. I'll send you the care sheet for the quartz."
+      }
+    ],
+    "created_at": "2026-10-01T14:00:00-05:00",
+    "updated_at": "2026-10-01T15:10:00-05:00"
+  },
+  {
+    "id": "b8edbdeb-0226-4365-a5aa-4ce2dfa8a4b6",
+    "owner_account_id": "acct-dana-whitfield",
+    "title": "Lumen proposal draft review",
+    "folder": "Studio",
+    "started_at": "2026-10-02T11:00:00-05:00",
+    "ended_at": "2026-10-02T11:45:00-05:00",
+    "calendar_event": null,
+    "attendee_ids": [
+      "per_495db021ac8d4a7e",
+      "per_3277db7e82834dd9",
+      "per_e00e234e5e59489a"
+    ],
+    "summary": "### Overview\nInternal review of the Lumen Coworking proposal draft before the October 27 walkthrough.\n\n### Decisions\n- Fee of $142,000 for design through construction administration.\n- Present two test fits: 120 desks, and 104 desks with a larger cafe.\n\n### Discussion\n- Halloway Signage quoted $23,500 for wayfinding; it goes in the budget, not the fee.\n- Tariq's end of Q1 opening needs construction to start by January 11.\n\n### Next steps\n- Dana Whitfield: Compare the fee against the Proposal Template (due Oct 7)\n- Sofia Marchetti: Finish the second test fit with the larger cafe (due Oct 14)\n- Marcus Oyelaran: Send Tariq the agenda for October 27 (due Oct 20)\n",
+    "transcript": [
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 27,
+        "text": "One forty-two for design through CA. Halloway's twenty-three five goes in the budget."
+      },
+      {
+        "speaker_id": "per_e00e234e5e59489a",
+        "start": 506,
+        "text": "I'd show two test fits. One hundred twenty desks, and one hundred four with a bigger cafe."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 944,
+        "text": "Good. Tariq likes options. The schedule is the risk."
+      },
+      {
+        "speaker_id": "per_3277db7e82834dd9",
+        "start": 1512,
+        "text": "Construction has to start by January eleventh for a March opening."
+      },
+      {
+        "speaker_id": "per_495db021ac8d4a7e",
+        "start": 1880,
+        "text": "Let me check the fee against our template before it goes out."
+      }
+    ],
+    "created_at": "2026-10-02T11:00:00-05:00",
+    "updated_at": "2026-10-02T12:27:00-05:00"
+  }
+]

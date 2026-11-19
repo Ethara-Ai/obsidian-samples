@@ -1,0 +1,42 @@
+[
+  {
+    "id": "chicago",
+    "display_name": "Chicago",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "radius_miles": 28,
+    "avg_speed_mph": 19,
+    "timezone": "America/Chicago",
+    "currency_code": "USD"
+  },
+  {
+    "id": "new_york",
+    "display_name": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "radius_miles": 25,
+    "avg_speed_mph": 14,
+    "timezone": "America/New_York",
+    "currency_code": "USD"
+  },
+  {
+    "id": "san_francisco",
+    "display_name": "San Francisco",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "radius_miles": 30,
+    "avg_speed_mph": 18,
+    "timezone": "America/Los_Angeles",
+    "currency_code": "USD"
+  },
+  {
+    "id": "austin",
+    "display_name": "Austin",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "radius_miles": 25,
+    "avg_speed_mph": 24,
+    "timezone": "America/Chicago",
+    "currency_code": "USD"
+  }
+]
